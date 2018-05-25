@@ -2,17 +2,25 @@ import itertools
 import random
 import collections
 
-class Card():
+class Deck():
     suits = { 'Hearts': '♥', 'Spades': '♣', 'Clubs': '♠', 'Diamonds': '♦'}
     ranks = {i: str(i) for i in range(2, 11)}
     ranks.update({11: 'J', 12: 'Q', 13: 'K', 14: 'A'})
+
+    def __init__(self):
+        self.cards = [Card(rank, suit) for rank, suit in itertools.product(self.ranks, self.suits)]
+    
+    def random_hand(self, size):
+        return Hand(random.sample(self.cards, size))
+
+class Card():
     
     def __init__(self, rank, suit):
         self.rank = rank
         self.suit = suit
 
     def __str__(self):
-        return Card.ranks[self.rank] + Card.suits[self.suit]
+        return Deck.ranks[self.rank] + Deck.suits[self.suit]
 
     def __lt__(self, other):
         return self.rank < other.rank
@@ -29,10 +37,9 @@ class Card():
         return max(cards)
 
 class Hand():
-    size = 5
+
     def __init__(self, cards):
-        if len(cards) != Hand.size:
-            raise IndexError(f'Hands must be composed of {Hand.size} Cards')
+        self.size = len(cards)
         
         self.cards = sorted(cards)
         self.counts = collections.Counter(self.cards).items()
@@ -95,13 +102,14 @@ class Hand():
             return busted
 
 
-deck = [Card(rank, suit) for rank, suit in itertools.product(Card.ranks, Card.suits)]
 
 def main():
-    hand = Hand(random.sample(deck, 5))
-    print(len(deck))
+    deck = Deck()
+    hand = deck.random_hand(5)
     print(hand)
-    print(hand.game)
+    print('You have got: ')
+    for g in hand.game:
+        print(list(map(str, g)))
 
 if __name__ == '__main__':
     main()
