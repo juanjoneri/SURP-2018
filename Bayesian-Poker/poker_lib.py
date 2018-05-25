@@ -85,21 +85,23 @@ class Hand():
         pairs = self.groups[2]
         busted = self.groups[1]
         if self.straight_flush:
-            return self.straight_flush
+            return 'Straight Flush' ,self.straight_flush
         if four_of_a_kind:
-            return four_of_a_kind
+            return 'Four of a Kind', four_of_a_kind
         elif three_of_a_kind and pairs:
-            return three_of_a_kind.update(paris)
+            return 'Full House', three_of_a_kind.update(paris)
         elif self.flush:
-            return self.flush
+            return 'Flush', self.flush
         elif self.straight:
-            return self.straight
+            return 'Straight', self.straight
         elif three_of_a_kind:
-            return three_of_a_kind
-        elif pairs:
-            return pairs
+            return 'Three of a Kind', three_of_a_kind
+        elif len(pairs) == 2:
+            return 'Double Pair', pairs
+        elif len(pairs) == 1:
+            return 'Pair', pairs
         else:
-            return busted
+            return 'Busted', busted
 
 
 
@@ -107,8 +109,9 @@ def main():
     deck = Deck()
     hand = deck.random_hand(5)
     print(hand)
-    print('You have got: ')
-    for g in hand.game:
+    name, game = hand.game
+    print(f'You have got a {name}')
+    for g in game:
         print(list(map(str, g)))
 
 if __name__ == '__main__':
