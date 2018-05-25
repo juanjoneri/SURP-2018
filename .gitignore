@@ -1,3 +1,7 @@
 MNIST_data
 .ipynb_checkpoints
 .DS_Store
+Server/
+Speech-Commands/
+Facial-Expressions/
+Recognize-Cards/
