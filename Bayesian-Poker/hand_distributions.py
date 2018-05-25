@@ -19,6 +19,9 @@ class Card():
     def __eq__(self, other):
         return self.rank == other.rank
 
+    def __hash__(self):
+        return hash(self.rank)
+
     @staticmethod
     def highest(cards):
         # returns the highest card by rank in a collection
@@ -31,8 +34,11 @@ class Hand():
             raise IndexError(f'Hands must be composed of {Hand.size} Cards')
         
         self.cards = sorted(cards)
+        self.highest = cards[-1]
         self.ranks = {card.rank for card in self.cards}
         self.suits = {card.suit for card in self.cards}
+        # Two can map to same thing when double pair!
+        self.counts = {count: card for card, count in collections.Counter(self.cards).items()}
 
     def __str__(self):
         return str(list(map(str, self.cards)))
@@ -43,19 +49,39 @@ class Hand():
     @property
     def flush(self):
         if len(self.ranks) == 1:
-            return Card.highest(self.cards)
+            return self.highest
         return None
     
     @property
     def straight(self):
         if list(sorted(self.ranks)) == range(min(self.ranks), max(self.ranks) + 1):
-            return Card.highest(self.cards)
+            return self.highest
+        return None
+
+    @property
+    def straight_flush(self):
+        if self.flush and self.straight:
+            return self.highest
         return None
 
     @property
     def busted(self):
         if len(self.ranks) == Hand.size and not self.flush and not self.straight:
-            return Card.highest(self.cards)
+            return self.highest
+    
+    @property
+    def poker(self):
+        try:
+            return self.counts[4]
+        except KeyError: 
+            return None
+
+    @property
+    def pair(self):
+        try:
+            return self.counts[2]
+        except KeyError: 
+            return None
     
     @property
     def double_pair(self):
@@ -66,10 +92,11 @@ deck = [Card(rank, suit) for rank, suit in itertools.product(Card.ranks, Card.su
 def main():
     hand = Hand(random.sample(deck, 5))
     print(hand)
-    print(Card.highest(hand.cards))
-    print(hand.suits)
-    print(hand.ranks)
-    print(hand.busted)
+    print(hand.pair)
+    # print(Card.highest(hand.cards))
+    # print(hand.suits)
+    # print(hand.ranks)
+    # print(hand.busted)
 
 if __name__ == '__main__':
     main()
