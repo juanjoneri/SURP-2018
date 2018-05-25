@@ -56,31 +56,37 @@ class Hand():
     @property
     def flush(self):
         if len(self.ranks) == 1:
-            return self.cards
+            return [(self.cards)]
         return []
     
     @property
     def straight(self):
         if list(sorted(self.ranks)) == range(min(self.ranks), max(self.ranks) + 1):
-            return self.cards
+            return [(self.cards)]
         return []
 
     @property
     def straight_flush(self):
         if self.flush and self.straight:
-            return self.cards
+            return [(self.cards)]
         return []
 
     @property
-    def best_group(self):
+    def game(self):
         four_of_a_kind = self.groups[4]
         three_of_a_kind = self.groups[3]
         pairs = self.groups[2]
         busted = self.groups[1]
+        if self.straight_flush:
+            return self.straight_flush
         if four_of_a_kind:
             return four_of_a_kind
         elif three_of_a_kind and pairs:
             return three_of_a_kind.update(paris)
+        elif self.flush:
+            return self.flush
+        elif self.straight:
+            return self.straight
         elif three_of_a_kind:
             return three_of_a_kind
         elif pairs:
@@ -95,11 +101,7 @@ def main():
     hand = Hand(random.sample(deck, 5))
     print(len(deck))
     print(hand)
-    print(hand.best_group)
-    # print(Card.highest(hand.cards))
-    # print(hand.suits)
-    # print(hand.ranks)
-    # print(hand.busted)
+    print(hand.game)
 
 if __name__ == '__main__':
     main()
