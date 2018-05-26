@@ -62,7 +62,7 @@ class Hand():
     '''
     @property
     def flush(self):
-        if len(self.ranks) == 1:
+        if len(self.suits) == 1:
             return [(self.cards)]
         return []
     
@@ -89,7 +89,7 @@ class Hand():
         if four_of_a_kind:
             return 'Four of a Kind', four_of_a_kind
         elif three_of_a_kind and pairs:
-            return 'Full House', three_of_a_kind.update(paris)
+            return 'Full House', three_of_a_kind.extend(pairs)
         elif self.flush:
             return 'Flush', self.flush
         elif self.straight:
