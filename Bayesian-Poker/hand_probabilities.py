@@ -1,4 +1,4 @@
-from poker_lib import Deck
+from poker_lib import Deck, Card, Hand
 import collections
 
 deck = Deck()
@@ -17,8 +17,7 @@ def main():
     # print(hand)
     # print(hand.ranks)
     # print(hand.straight)
-    
-    check_probabilities(1000)
+    check_probabilities(200000)
 
     
 
