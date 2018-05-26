@@ -68,7 +68,8 @@ class Hand():
     
     @property
     def straight(self):
-        if list(sorted(self.ranks)) == range(min(self.ranks), max(self.ranks) + 1):
+        if len(self.ranks) == self.size and \
+            list(sorted(self.ranks)) == list(range(min(self.ranks), max(self.ranks) + 1)):
             return [(self.cards)]
         return []
 

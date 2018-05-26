@@ -13,12 +13,12 @@ def check_probabilities(sample_size):
         print(g, f'{100*i/sample_size}%')
 
 def main():
-    hand = deck.random_hand(2)
-    print(hand)
-    print(hand.ranks)
-    print(hand.flush)
+    # hand = deck.random_hand(2)
+    # print(hand)
+    # print(hand.ranks)
+    # print(hand.straight)
     
-    #check_probabilities(1000)
+    check_probabilities(1000)
 
     
 
