@@ -1,0 +1,9 @@
+Pair 42.2666%
+Busted 50.1347%
+Double Pair 4.7405%
+Three of a Kind 2.1379%
+Flush 0.1949%
+Straight 0.3555%
+Four of a Kind 0.0227%
+Full House 0.1459%
+Straight Flush 0.0013%

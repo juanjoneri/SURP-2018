@@ -17,7 +17,7 @@ def main():
     # print(hand)
     # print(hand.ranks)
     # print(hand.straight)
-    check_probabilities(200000)
+    check_probabilities(1000000)
 
     
 
