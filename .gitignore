@@ -6,3 +6,4 @@ Server/
 Speech-Commands/
 Facial-Expressions/
 Recognize-Cards/
+__pycache__/
