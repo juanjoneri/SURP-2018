@@ -9,15 +9,14 @@ def check_probabilities(sample_size):
         hand = deck.random_hand(5)
         games[hand.game[0]] += 1
 
-    for g, i in games.items():
-        print(g, f'{100*i/sample_size}%')
+    cummulative = 0
+    for g, i in sorted(games.items(), key=lambda x: x[1]):
+        probability = 100*i/sample_size
+        cummulative += probability
+        print(f'{g:15} | {probability:5}% | {cummulative:5}%')
 
 def main():
-    # hand = deck.random_hand(2)
-    # print(hand)
-    # print(hand.ranks)
-    # print(hand.straight)
-    check_probabilities(1000000)
+    check_probabilities(10000)
 
     
 
