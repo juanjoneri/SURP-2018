@@ -16,7 +16,10 @@ def detect_speech(path_to_file):
     config = types.RecognitionConfig(\
         encoding=enums.RecognitionConfig.AudioEncoding.ENCODING_UNSPECIFIED,
         sample_rate_hertz=None,
-        language_code='en-US')
+        language_code='en-US',
+        speech_contexts=[speech.types.SpeechContext(\
+            phrases=['poker', 'play'],
+        )])
 
     response = client.recognize(config, audio)
     print(response.results)
