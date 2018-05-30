@@ -18,7 +18,7 @@ def facial_expression():
     <h1>The image at {}</h1>
     <h2>has the following tags:</h2>
     <p>{}</p>
-    '''.format(image_url, labels)
+    '''.format(image_url, list(map(lambda label: (label.description, label.score), labels)))
 
 if __name__ == '__main__':
 	app.run(host='127.0.0.1', port=8080, debug=True)
