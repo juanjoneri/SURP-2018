@@ -40,11 +40,6 @@ def detect_labels_uri(uri):
 
     return labels
 
-#with io.open(path_to_image, 'rb') as image_file:
-#   labels = detect_face(image_file)
-
-#for label in labels:
-#    print(labels)
 
 if __name__ == '__main__':
     labels = detect_labels_uri('https://media.mnn.com/assets/images/2016/10/joy.jpg.653x0_q80_crop-smart.jpg')
