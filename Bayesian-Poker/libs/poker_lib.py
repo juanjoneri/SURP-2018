@@ -72,12 +72,14 @@ class Hand():
     '''
     @property
     def flush(self):
+        ## UPDATE FOR TEXAS
         if len(self.suits) == 1:
             return [(self.cards)]
         return []
     
     @property
     def straight(self):
+        # UPDATE FOR TEXAS
         if len(self.ranks) == self.size and \
             list(sorted(self.ranks)) == list(range(min(self.ranks), max(self.ranks) + 1)):
             return [(self.cards)]
@@ -85,6 +87,7 @@ class Hand():
 
     @property
     def straight_flush(self):
+        # UPDATE FOR TEXAS
         if self.flush and self.straight:
             return [(self.cards)]
         return []
@@ -121,10 +124,10 @@ class Hand():
         hand_game, game_groups, hand_number = self.game
         if hand_game == 'Busted':
             highest_card = Card.highest([card for group in game_groups for card in group])
-            print(highest_card)
+            #todo
         elif hand_game == 'Pair':
             highest_card = game_groups[0][0]
-            print(highest_card)
+            #todo
         return hand_number
 
 def main():
