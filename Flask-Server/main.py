@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def homepage():
-    send_sms_to('Someone is in poker-bot-v1\'s home page')
+    send_sms_to('Someone is in poker-bot-v1\'s home page', 12132745685)
     return app.send_static_file('index.html')
 
 @app.route('/facial-expression')
