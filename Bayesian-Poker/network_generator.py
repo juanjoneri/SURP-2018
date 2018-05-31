@@ -2,6 +2,26 @@ from libs.poker_lib import Deck, Hand
 import random
 
 headers = ['BPP_win', 'BPP_final', 'OPP_final', 'BPP_current', 'OPP_current', 'round', 'board']
+hand_types = {
+    0: 'busted-low',
+    1: 'busted-medium',
+    2: 'busted-queen',
+    3: 'busted-king',
+    4: 'busted-ace',
+    5: 'pair-low',
+    6: 'pair-medium',
+    7: 'pair-queen',
+    8: 'pair-king',
+    9: 'pair-ace',
+    10: 'Double Pair',
+    11: 'Three of a Kind',
+    12: 'Straight',
+    13: 'Flush',
+    14: 'Full House',
+    15: 'Four of a Kind',
+    16: 'Straight Flush'
+}
+
 
 def stringify(list_of_cards):
     return str(list(map(str, list_of_cards)))

@@ -122,12 +122,20 @@ class Hand():
     @property
     def hand_type(self):
         hand_game, game_groups, hand_number = self.game
+        highest_card = None
         if hand_game == 'Busted':
             highest_card = Card.highest([card for group in game_groups for card in group])
-            #todo
         elif hand_game == 'Pair':
             highest_card = game_groups[0][0]
-            #todo
+        if highest_card:
+            if highest_card < Card(10, 'Hearts'):
+                hand_number -= 1
+            if highest_card < Card(12, 'Hearts'):
+                hand_number -= 1
+            if highest_card < Card(13, 'Hearts'):
+                hand_number -= 1
+            if highest_card < Card(14, 'Hearts'):
+                hand_number -= 1
         return hand_number
 
 def main():
