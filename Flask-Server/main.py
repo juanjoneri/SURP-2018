@@ -1,11 +1,13 @@
 import logging
 from flask import Flask, request
 from libs.visionx import detect_labels_uri, detect_joy
+from libs.smsx import send_sms_to
 
 app = Flask(__name__)
 
 @app.route('/')
 def homepage():
+    send_sms_to('Someone is in poker-bot-v1\'s home page')
     return app.send_static_file('index.html')
 
 @app.route('/facial-expression')
