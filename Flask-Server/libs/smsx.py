@@ -1,8 +1,8 @@
 import nexmo
 import json
 
-def send_sms_to(message, number):
-    with open('../../nexmokey.json') as f:
+def send_sms_to(key_file, message, number):
+    with open(key_file) as f:
         credentials = json.load(f)
         client = nexmo.Client(**credentials)
         client.send_message({
@@ -12,7 +12,7 @@ def send_sms_to(message, number):
         })
 
 def main():
-    send_sms_to('Someone is using you website!', 12132745685)
+    send_sms_to('../../nexmokey.json', 'Someone is using you website!', 12132745685)
 
 if __name__ == '__main__':
     main()
