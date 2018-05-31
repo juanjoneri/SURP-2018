@@ -22,14 +22,33 @@ def detect_speech(path_to_file):
         )])
 
     response = client.recognize(config, audio)
-    print(response.results)
+    return {
+        'transcript': response.results[0].alternatives[0].transcript,
+        'confidence': response.results[0].alternatives[0].confidence
+    }
 
-    return
+def detect_speech_uri(uri):
+    client = speech.SpeechClient()
+
+    audio = types.RecognitionAudio(uri=uri)
+    
+    # You may or may not specify the exact encoding and freq of the recording!
+    config = types.RecognitionConfig(\
+        encoding=enums.RecognitionConfig.AudioEncoding.ENCODING_UNSPECIFIED,
+        sample_rate_hertz=None,
+        language_code='en-US',
+        speech_contexts=[speech.types.SpeechContext(\
+            phrases=['poker', 'play'],
+        )])
+
+    response = client.recognize(config, audio)
+    return {
+        'transcript': response.results[0].alternatives[0].transcript,
+        'confidence': response.results[0].alternatives[0].confidence
+    }
 
 def main():
-    for k, v in vars(enums.RecognitionConfig.AudioEncoding).items():
-        pass
-    detect_speech('../../Speech-Commands/Play.flac')
+    print(detect_speech_uri('gs://poker-bot-audio-bucket/Play.wav'))
 
 if __name__ == '__main__':
     main()
