@@ -1,4 +1,5 @@
 # Setting up the App
+
 ## Server
 ```
 cd Flask-Server/
