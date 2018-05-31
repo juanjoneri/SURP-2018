@@ -17,7 +17,7 @@ Dataset Explained: [archive.today](http://archive.li/7ztYP)
 
 | Node Label | Meaning | States |
 | --- | --- | --- |
-| (Round) | Current round in Texas Hold'em | pre-flop (0), flop (1), turn (2), river (2) |
+| (Round) | Current round in Texas Hold'em | pre-flop (0), flop (1), turn (2), river (3) |
 | (OPP Final) | Opponent' final hand type after the river | 25 'buckets'\* |
 | (BPP_win) | Whether or not Bayesian Player will win | T, F |
 | (BPP_final)o | Bayesian Player final hand type | 25 'buckets' |
@@ -30,7 +30,7 @@ Dataset Explained: [archive.today](http://archive.li/7ztYP)
 
 `o` indicates that the variable is observed
 
-\* The current version of BPP recognizes 25 types of hand, subdividing busted hands into busted-low (8 high or lower), busted-medium (9, 10 or J high), busted-queen, busted-king and busted-ace, representing each paired hand separately, and with the 7 other hand types. We name this categories 0 to 24 in increasing order of strength.
+\* We opted for a modest additional refinement, moving from 9 hand types to 17 types, subdividing the busted hands into busted-low (9 high or lower), busted-medium (10 or J high), busted-queen, busted-king and busted-ace; we subdivided pairs likewise. We name this categories 0 to 16 in increasing order of strength.
 
 ## Learning
 

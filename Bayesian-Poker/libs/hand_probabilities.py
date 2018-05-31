@@ -16,7 +16,7 @@ def check_probabilities(sample_size):
         print(f'{g:15} | {probability:5}% | {cummulative:5}%')
 
 def main():
-    check_probabilities(10000)
+    check_probabilities(1000)
 
     
 
