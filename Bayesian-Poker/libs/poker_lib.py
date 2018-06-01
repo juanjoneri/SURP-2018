@@ -72,9 +72,12 @@ class Hand():
     '''
     @property
     def flush(self):
-        ## UPDATE FOR TEXAS
-        if len(self.suits) == 1:
-            return [(self.cards)]
+        if len(self.suits) <= 3:
+            suit_count = defaultdict(int)
+            for card in self.cards:
+                suit_count[card.suit] += 1
+                if suit_count[card_suit] = 5:
+                    return Card.highest(list(filter(lambda c: c.suit == card.suit, self.cards)))
         return []
     
     @property
