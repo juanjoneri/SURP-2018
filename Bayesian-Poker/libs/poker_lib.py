@@ -68,7 +68,7 @@ class Hand():
         return str(list(map(str, self.cards)))
 
     '''
-    Every Hand Type returns the cards that make up the game if it is present and None otherwise
+    Every Hand Type returns the highest card that makes up the game 
     '''
     @property
     def flush(self):

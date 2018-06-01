@@ -61,7 +61,7 @@ class Evaluator(object):
             worst_three[-1] = Card.new_from_int(next_available_rank, random_suit)
             evaluation = self._five(cards + worst_three)
 
-        print(Card.print_pretty_cards(worst_three))
+        #print(Card.print_pretty_cards(worst_three))
         return evaluation
         
     def _five(self, cards):

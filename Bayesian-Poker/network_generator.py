@@ -1,64 +1,94 @@
-from libs.poker_lib import Deck, Hand
-import random
+from libs.deuces import Deck, Card, Evaluator
 
 headers = ['BPP_win', 'BPP_final', 'OPP_final', 'BPP_current', 'OPP_current', 'round', 'board']
-hand_types = {
-    0: 'busted-low',
-    1: 'busted-medium',
-    2: 'busted-queen',
-    3: 'busted-king',
-    4: 'busted-ace',
-    5: 'pair-low',
-    6: 'pair-medium',
-    7: 'pair-queen',
-    8: 'pair-king',
-    9: 'pair-ace',
-    10: 'Double Pair',
-    11: 'Three of a Kind',
-    12: 'Straight',
-    13: 'Flush',
-    14: 'Full House',
-    15: 'Four of a Kind',
-    16: 'Straight Flush'
-}
 
+hand_types = [
+    'busted-low',
+    'busted-medium',
+    'busted-queen',
+    'busted-king',
+    'busted-ace',
+    'pair-low',
+    'pair-medium',
+    'pair-queen',
+    'pair-king',
+    'pair-ace',
+    'doble-pair',
+    'three-of-a-kind',
+    'straight',
+    'flush',
+    'full-house',
+    'four-of-a-kind',
+    'straight-flush'
+]
 
-def stringify(list_of_cards):
-    return str(list(map(str, list_of_cards)))
+score_ranges = {'busted': (7462,), 'pair': (1,)}
+
+def refine_score(score):
+    score_class = evaluator.get_rank_class(score)
+    
+    # high card
+    if score_class == 8:
+        print(score)
+    # pair
+    elif score_class == 9:
+        print(score)
+    
+    return score_class
+
+evaluator = Evaluator()
+
+def get_score(hand, board=[]):
+    return evaluator.get_rank_class(evaluator.evaluate(hand, board))
+
 
 def main():
     deck = Deck()
-    deck.shuffle()
 
-    h1, h2 = deck.deal(2), deck.deal(2)
-    
-    flop = deck.deal(3)
-    turn = flop + deck.deal(1)
-    river = turn + deck.deal(1)
+    BPP = deck.draw(2)
+    OPP = deck.draw(2)
 
-    rounds = tuple(range(4))
-    board_states = Hand([]), Hand(flop), Hand(turn), Hand(river)
+    board = deck.draw(5)
 
-    print('boards states', stringify(board_states))
-    
-    BPP = Hand(h1), Hand(flop + h1), Hand(turn + h1), Hand(river + h1)
-    BPP_games = tuple(map(lambda h: h.hand_type, BPP))
-    
-    OPP = Hand(h2), Hand(flop + h2), Hand(turn + h2), Hand(river + h2)
-    OPP_games = tuple(map(lambda h: h.hand_type, OPP))
+    print('\nBPP')
+    Card.print_pretty_cards(BPP)
 
-    print('\nBayesian Poker Player')
-    print('BPP', stringify(BPP))
-    print('BPP games', BPP_games)
+    print('\nOPP')
+    Card.print_pretty_cards(OPP)
 
-    print('\nOpponent')
-    print('OPP', stringify(OPP))
-    print('OPP games', OPP_games)
+    print('\nBoard')
+    Card.print_pretty_cards(board)
 
-    # TURN INTO STATICMETHOD IN HAND
-    BPP_win = BPP_games[-1] > OPP_games[-1]
-    print('\nResults')
-    print(BPP_win)
+    ## PRE-FLOP
+    print('\npre-flop')
+    BPP_current = get_score(BPP)
+    print(BPP_current)
+    OPP_current = get_score(OPP)
+    print(OPP_current)
+
+    ## FLOP
+    print('\nflop')
+    BPP_current = get_score(BPP, board[:4])
+    print(BPP_current)
+    OPP_current = get_score(OPP, board[:4])
+    print(OPP_current)
+
+    ## TURN
+    print('\nflop')
+    BPP_current = get_score(BPP, board[:5])
+    print(BPP_current)
+    OPP_current = get_score(OPP, board[:5])
+    print(OPP_current)
+
+    ## RIVER
+    print('\nflop')
+    BPP_current = get_score(BPP, board)
+    print(BPP_current)
+    OPP_current = get_score(OPP, board)
+    print(OPP_current)
+
+    BPP_win = evaluator.evaluate(board, BPP) < evaluator.evaluate(board, OPP)
+    print('win' if BPP_win else 'lost')
 
 if __name__ == '__main__':
     main()
