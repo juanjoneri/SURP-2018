@@ -54,7 +54,7 @@ class Evaluator(object):
         for rank in sorted(available_ranks)[:3]:
             worst_three.append(Card.new_from_int(rank, random_suit))
 
-        # check if we generated a straight, if we have swap one card for the next
+        # check if we generated a straight, if we have, swap biggest card for the next smallest
         evaluation = self._five(cards + worst_three)
         if self.get_rank_class(evaluation) == 5:
             next_available_rank = sorted(available_ranks)[3]
