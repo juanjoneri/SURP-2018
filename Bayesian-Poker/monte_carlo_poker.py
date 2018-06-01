@@ -70,6 +70,7 @@ def main():
     OPP = deck.draw(2)
 
     board = deck.draw(5)
+    board_score = get_score(board)
 
     print('\nBPP')
     Card.print_pretty_cards(BPP)
@@ -80,36 +81,22 @@ def main():
     print('\nBoard')
     Card.print_pretty_cards(board)
 
-    ## PRE-FLOP
-    print('\npre-flop')
-    BPP_current = get_score(BPP)
-    print(BPP_current)
-    OPP_current = get_score(OPP)
-    print(OPP_current)
-
-    ## FLOP
-    print('\nflop')
-    BPP_current = get_score(BPP, board[:4])
-    print(BPP_current)
-    OPP_current = get_score(OPP, board[:4])
-    print(OPP_current)
-
-    ## TURN
-    print('\nflop')
-    BPP_current = get_score(BPP, board[:5])
-    print(BPP_current)
-    OPP_current = get_score(OPP, board[:5])
-    print(OPP_current)
-
     ## RIVER
-    print('\nflop')
-    BPP_current = get_score(BPP, board)
-    print(BPP_current)
-    OPP_current = get_score(OPP, board)
-    print(OPP_current)
+    BPP_final = get_score(BPP, board)
+    OPP_final = get_score(OPP, board)
 
-    BPP_win = evaluator.evaluate(board, BPP) < evaluator.evaluate(board, OPP)
-    print('win' if BPP_win else 'lost')
+    BPP_win = 1 if evaluator.evaluate(board, BPP) < evaluator.evaluate(board, OPP) else 0
+
+    #print(*headers, sep=', ')
+    for r in range(4):
+        if r == 0:
+            BPP_current = get_score(BPP)
+            OPP_current = get_score(OPP)
+        else:
+            BPP_current = get_score(BPP, board[:3+r])
+            OPP_current = get_score(OPP, board[:3+r])
+        
+        print(r, board_score, BPP_current, OPP_current, BPP_final, OPP_final, BPP_win, sep=', ')
 
 def game():
     deck = Deck()

@@ -18,19 +18,21 @@ Dataset Explained: [archive.today](http://archive.li/7ztYP)
 | Node Label | Meaning | States |
 | --- | --- | --- |
 | (Round) | Current round in Texas Hold'em | pre-flop (0), flop (1), turn (2), river (3) |
-| (OPP Final) | Opponent' final hand type after the river | 25 'buckets'\* |
-| (BPP_win) | Whether or not Bayesian Player will win | T, F |
-| (BPP_final)o | Bayesian Player final hand type | 25 'buckets' |
-| (BPP_current)o | Bayesian Player current hand type | 25 'buckets' |
-| (OPP_current) | Opponent's current hand type | 25 'buckets' |
+| (OPP Final) | Opponent' final hand type after the river | 17 'buckets'\* |
+| (BPP_win) | Whether or not Bayesian Player will win | Lost (0), Win (1) |
+| (BPP_final)o | Bayesian Player final hand type | 17 'buckets' |
+| (BPP_current)o | Bayesian Player current hand type | 17 'buckets' |
+| (OPP_current) | Opponent's current hand type | 17 'buckets' |
 | (OPP_action) | Opponent's action | fold (f), call (c), raise (r), check (k), bet (b), paysmallblind (B), paybigblind (B), pass (p) |
-| (Board) | State of the board at a particular stage |  |
-| (Pot) | Value of the pot at a particular stage | 0, B, 2B, ..., 10B  |
+| (Board) | State of the board at a particular stage | 17 'buckets' |
+| (Pot) | Value of the pot at a particular stage | 0, B, 2B, ..., 10B** |
 | (BPP_action) | most recient BP action | fold (f), call (c), raise (r), check (k), bet (b), paysmallblind (B), paybigblind (B), pass (p) |
 
 `o` indicates that the variable is observed
 
 \* We opted for a modest additional refinement, moving from 9 hand types to 17 types, subdividing the busted hands into busted-low (9 high or lower), busted-medium (10 or J high), busted-queen, busted-king and busted-ace; we subdivided pairs likewise. We name this categories 0 to 16 in increasing order of strength.
+
+\*\* `B` is the value of the small blind, anything higher than 10B will be clipped.
 
 ## Learning
 
