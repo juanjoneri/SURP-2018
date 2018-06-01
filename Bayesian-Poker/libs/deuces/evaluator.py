@@ -168,18 +168,22 @@ class Evaluator(object):
             assert len(hand) == 2, "Inavlid hand length"
 
         line_length = 10
-        stages = ["FLOP", "TURN", "RIVER"]
+        stages = ["PRE-FLOP", "FLOP", "TURN", "RIVER"]
 
         for i in range(len(stages)):
-            line = ("=" * line_length) + " %s " + ("=" * line_length) 
-            print(line % stages[i])
+            line = ("=" * line_length) + " {} " + ("=" * line_length) 
+            print(line.format(stages[i]))
             
             best_rank = 7463  # rank one worse than worst hand
             winners = []
             for player, hand in enumerate(hands):
 
                 # evaluate current board position
-                rank = self.evaluate(hand, board[:(i + 3)])
+                if i == 0:
+                    rank = self.evaluate(hand)
+                else:
+                    rank = self.evaluate(hand, board[:(i + 2)])
+
                 rank_class = self.get_rank_class(rank)
                 class_string = self.class_to_string(rank_class)
                 percentage = 1.0 - self.get_five_card_rank_percentage(rank)  # higher better here
