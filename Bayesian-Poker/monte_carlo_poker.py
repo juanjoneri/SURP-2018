@@ -60,7 +60,7 @@ hand_values = dict(zip(hand_types, range(1, 18))) # high values mean better game
 def get_score(hand, board=[]):
     value = evaluator.evaluate(hand, board)
     worst_hands = list(filter(lambda v: v >= value, score_ranges))
-    return score_ranges[min(worst_hands)]
+    return hand_values[score_ranges[min(worst_hands)]]
 
 
 def main():
