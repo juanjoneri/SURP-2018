@@ -62,8 +62,7 @@ def get_score(hand, board=[]):
     worst_hands = list(filter(lambda v: v >= value, score_ranges))
     return hand_values[score_ranges[min(worst_hands)]]
 
-
-def main():
+def play_poker():
     deck = Deck()
 
     BPP = deck.draw(2)
@@ -72,22 +71,12 @@ def main():
     board = deck.draw(5)
     board_score = get_score(board)
 
-    print('\nBPP')
-    Card.print_pretty_cards(BPP)
-
-    print('\nOPP')
-    Card.print_pretty_cards(OPP)
-
-    print('\nBoard')
-    Card.print_pretty_cards(board)
-
     ## RIVER
     BPP_final = get_score(BPP, board)
     OPP_final = get_score(OPP, board)
 
     BPP_win = 1 if evaluator.evaluate(board, BPP) < evaluator.evaluate(board, OPP) else 0
 
-    #print(*headers, sep=', ')
     for r in range(4):
         if r == 0:
             BPP_current = get_score(BPP)
@@ -98,21 +87,8 @@ def main():
         
         print(r, board_score, BPP_current, OPP_current, BPP_final, OPP_final, BPP_win, sep=', ')
 
-def game():
-    deck = Deck()
-    board = deck.draw(5)
-    player1_hand = deck.draw(2)
-    player2_hand = deck.draw(2)
-
-    Card.print_pretty_cards(board)
-    Card.print_pretty_cards(player1_hand)
-    Card.print_pretty_cards(player2_hand)
-
-    hands = [player1_hand, player2_hand]
-    evaluator.hand_summary(board, hands)
-
-
 
 if __name__ == '__main__':
-    main()
-    #game()
+    print(*headers, sep=', ')
+    for _ in range(100000):
+        play_poker()
