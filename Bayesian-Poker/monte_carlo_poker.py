@@ -2,6 +2,8 @@ from libs.deuces import Deck, Card, Evaluator
 
 headers = ['BPP_win', 'BPP_final', 'OPP_final', 'BPP_current', 'OPP_current', 'round', 'board']
 
+evaluator = Evaluator()
+
 hand_types = [
     'busted-low',
     'busted-medium',
@@ -22,7 +24,38 @@ hand_types = [
     'straight-flush'
 ]
 
-score_ranges = {'busted': (7462,), 'pair': (1,)}
+# perhaps make deuces handle any size of hand?
+worst_representative = [
+    [Card.new('2h'), Card.new('3h')],
+    [Card.new('2h'), Card.new('9h')],
+    [Card.new('2h'), Card.new('Qh')],
+    [Card.new('2h'), Card.new('Kh')],
+    [Card.new('2h'), Card.new('Ah')],
+    \
+    [Card.new('3d'), Card.new('3h')],
+    [Card.new('9d'), Card.new('9h')],
+    [Card.new('Qd'), Card.new('Qh')],
+    [Card.new('Kd'), Card.new('Kh')],
+    [Card.new('Ad'), Card.new('Ah')],
+    \
+    [Card.new('2d'), Card.new('2h'), Card.new('3d'), Card.new('3h'), Card.new('4h')],
+    \
+    [Card.new('2d'), Card.new('2h'), Card.new('2c'), Card.new('3h'), Card.new('4h')],
+    \
+    [Card.new('Ad'), Card.new('2h'), Card.new('3c'), Card.new('4h'), Card.new('5h')],
+    \
+    [Card.new('2d'), Card.new('3d'), Card.new('4d'), Card.new('5d'), Card.new('7d')],
+    \
+    [Card.new('2d'), Card.new('2h'), Card.new('2c'), Card.new('3h'), Card.new('3h')],
+    \
+    [Card.new('2d'), Card.new('2h'), Card.new('2c'), Card.new('2s'), Card.new('3h')],
+    \
+    [Card.new('Ah'), Card.new('2h'), Card.new('3h'), Card.new('4h'), Card.new('5h')]
+]
+
+score_ranges = dict(zip(map(lambda h: evaluator.evaluate(h), worst_representative) , hand_types))
+
+print(score_ranges)
 
 def refine_score(score):
     score_class = evaluator.get_rank_class(score)
@@ -103,7 +136,10 @@ def game():
     hands = [player1_hand, player2_hand]
     evaluator.hand_summary(board, hands)
 
+
+
 if __name__ == '__main__':
     #main()
-    game()
-    
+    #game()
+    for k, v in score_ranges.items():
+        print(k, v)
