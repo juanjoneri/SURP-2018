@@ -19,12 +19,13 @@ class Evaluator(object):
         self.table = LookupTable()
         
         self.hand_size_map = {
+            2 : self._two,
             5 : self._five,
             6 : self._six,
             7 : self._seven
         }
 
-    def evaluate(self, cards, board):
+    def evaluate(self, cards, board=[]):
         """
         This is the function that the user calls to get a hand rank. 
 
@@ -34,6 +35,35 @@ class Evaluator(object):
         all_cards = cards + board
         return self.hand_size_map[len(all_cards)](all_cards)
 
+    def _two(self, cards):
+        """
+        Performs five_card_eval() on a set of cards that contains the original two cards,
+        plus the worst possible three other cards you could pair them with so that no new
+        games are formed.
+        """
+        used_suits = set([Card.get_suit_int(card) for card in cards])
+        used_ranks = set([Card.get_rank_int(card) for card in cards])
+        
+        available_suits = set(Card.INT_SUITS) - used_suits
+        available_ranks = set(Card.INT_RANKS) - used_ranks
+
+        worst_three = []
+        # because this suit has not been used, we can add 3 cards of that suit
+        # without generating a flush:
+        random_suit = available_suits.pop()
+        for rank in sorted(available_ranks)[:3]:
+            worst_three.append(Card.new_from_int(rank, random_suit))
+
+        # check if we generated a straight, if we have swap one card for the next
+        evaluation = self._five(cards + worst_three)
+        if self.get_rank_class(evaluation) == 5:
+            next_available_rank = sorted(available_ranks)[3]
+            worst_three[-1] = Card.new_from_int(next_available_rank, random_suit)
+            evaluation = self._five(cards + worst_three)
+
+        print(Card.print_pretty_cards(worst_three))
+        return evaluation
+        
     def _five(self, cards):
         """
         Performs an evalution given cards in integer form, mapping them to

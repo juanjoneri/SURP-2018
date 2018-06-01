@@ -28,6 +28,7 @@ class Card ():
     # the basics
     STR_RANKS = list('23456789TJQKA')
     INT_RANKS = list(range(13))
+    INT_SUITS = [1, 2, 4, 8]
     PRIMES = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41]
 
     # converstion from string => int
@@ -38,6 +39,9 @@ class Card ():
         'd' : 4, # diamonds
         'c' : 8, # clubs
     }
+
+    # conversion from int => string
+    INT_RANK_TO_CHAR_RANK = dict(zip(INT_RANKS, STR_RANKS))
     INT_SUIT_TO_CHAR_SUIT = 'xshxdxxxc'
 
     # for pretty printing
@@ -50,6 +54,10 @@ class Card ():
 
      # hearts and diamonds
     PRETTY_REDS = [2, 4]
+
+    @staticmethod
+    def new_from_int(rank, suit):
+        return Card.new(Card.INT_RANK_TO_CHAR_RANK[rank] + Card.INT_SUIT_TO_CHAR_SUIT[suit])
 
     @staticmethod
     def new(string):
