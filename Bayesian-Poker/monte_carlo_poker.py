@@ -52,27 +52,15 @@ worst_representative = [
     \
     [Card.new('Ah'), Card.new('2h'), Card.new('3h'), Card.new('4h'), Card.new('5h')]
 ]
+worst_scores = list(map(lambda h: evaluator.evaluate(h), worst_representative))
 
-score_ranges = dict(zip(map(lambda h: evaluator.evaluate(h), worst_representative) , hand_types))
-
-print(score_ranges)
-
-def refine_score(score):
-    score_class = evaluator.get_rank_class(score)
-    
-    # high card
-    if score_class == 8:
-        print(score)
-    # pair
-    elif score_class == 9:
-        print(score)
-    
-    return score_class
-
-evaluator = Evaluator()
+score_ranges = dict(zip(worst_scores , hand_types))
+hand_values = dict(zip(hand_types, range(1, 18))) # high values mean better games
 
 def get_score(hand, board=[]):
-    return evaluator.get_rank_class(evaluator.evaluate(hand, board))
+    value = evaluator.evaluate(hand, board)
+    worst_hands = list(filter(lambda v: v >= value, score_ranges))
+    return score_ranges[min(worst_hands)]
 
 
 def main():
@@ -139,7 +127,5 @@ def game():
 
 
 if __name__ == '__main__':
-    #main()
+    main()
     #game()
-    for k, v in score_ranges.items():
-        print(k, v)
