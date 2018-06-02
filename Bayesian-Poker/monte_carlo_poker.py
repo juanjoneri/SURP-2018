@@ -77,6 +77,8 @@ def play_poker():
 
     BPP_win = 1 if evaluator.evaluate(board, BPP) < evaluator.evaluate(board, OPP) else 0
 
+    games = []
+
     for r in range(4):
         if r == 0:
             BPP_current = get_score(BPP)
@@ -87,8 +89,12 @@ def play_poker():
         
         print(r, board_score, BPP_current, OPP_current, BPP_final, OPP_final, BPP_win, sep=', ')
 
+    return
 
 if __name__ == '__main__':
+    import multiprocessing as mp
     print(*headers, sep=', ')
-    for _ in range(100000):
+
+    jobs = []
+    for i in range(100000):
         play_poker()
