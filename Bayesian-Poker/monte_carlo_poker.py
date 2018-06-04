@@ -1,7 +1,5 @@
 from libs.deuces import Deck, Card, Evaluator
 
-headers = ['BPP_win', 'BPP_final', 'OPP_final', 'BPP_current', 'OPP_current', 'round', 'board']
-
 evaluator = Evaluator()
 
 hand_types = [
@@ -69,7 +67,6 @@ def play_poker():
     OPP = deck.draw(2)
 
     board = deck.draw(5)
-    board_score = get_score(board)
 
     ## RIVER
     BPP_final = get_score(BPP, board)
@@ -81,9 +78,11 @@ def play_poker():
 
     for r in range(4):
         if r == 0:
+            board_score = 1
             BPP_current = get_score(BPP)
             OPP_current = get_score(OPP)
         else:
+            board_score = get_score(board[:3+r])
             BPP_current = get_score(BPP, board[:3+r])
             OPP_current = get_score(OPP, board[:3+r])
         
@@ -93,8 +92,11 @@ def play_poker():
 
 if __name__ == '__main__':
     import multiprocessing as mp
+
+    headers = ['Round', 'Board', 'BPP_current', 'OPP_current', 'BPP_final', 'OPP_final', 'BPP_win']
+
     print(*headers, sep=', ')
 
     jobs = []
-    for i in range(100000):
+    for i in range(100):
         play_poker()

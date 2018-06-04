@@ -19,7 +19,9 @@ class Evaluator(object):
         self.table = LookupTable()
         
         self.hand_size_map = {
-            2 : self._two,
+            2 : self._two_three_or_four,
+            3 : self._two_three_or_four,
+            4 : self._two_three_or_four,
             5 : self._five,
             6 : self._six,
             7 : self._seven
@@ -35,11 +37,11 @@ class Evaluator(object):
         all_cards = cards + board
         return self.hand_size_map[len(all_cards)](all_cards)
 
-    def _two(self, cards):
+    def _two_three_or_four(self, cards):
         """
-        Performs five_card_eval() on a set of cards that contains the original two cards,
-        plus the worst possible three other cards you could pair them with so that no new
-        games are formed.
+        Performs five_card_eval() on a set of cards that contains less than 5 cards,
+        plus the worst possible other cards you could pair them with so that 
+        we get a hand of 5 but no new games are formed.
         """
         used_suits = set([Card.get_suit_int(card) for card in cards])
         used_ranks = set([Card.get_rank_int(card) for card in cards])
@@ -47,21 +49,24 @@ class Evaluator(object):
         available_suits = set(Card.INT_SUITS) - used_suits
         available_ranks = set(Card.INT_RANKS) - used_ranks
 
-        worst_three = []
+        worst_complement = []
         # because this suit has not been used, we can add 3 cards of that suit
         # without generating a flush:
-        random_suit = available_suits.pop()
-        for rank in sorted(available_ranks)[:3]:
-            worst_three.append(Card.new_from_int(rank, random_suit))
+        if any(available_suits):
+            random_suit = available_suits.pop()
+        else:
+            # 4 cards already in hand with dif suits, any suit will do
+            random_suit = used_suits.pop()
+        for rank in sorted(available_ranks)[:5-len(cards)]:
+            worst_complement.append(Card.new_from_int(rank, random_suit))
 
         # check if we generated a straight, if we have, swap biggest card for the next smallest
-        evaluation = self._five(cards + worst_three)
+        evaluation = self._five(cards + worst_complement)
         if self.get_rank_class(evaluation) == 5:
-            next_available_rank = sorted(available_ranks)[3]
-            worst_three[-1] = Card.new_from_int(next_available_rank, random_suit)
-            evaluation = self._five(cards + worst_three)
-
-        #print(Card.print_pretty_cards(worst_three))
+            next_available_rank = sorted(available_ranks)[5-len(cards)]
+            worst_complement[-1] = Card.new_from_int(next_available_rank, random_suit)
+            evaluation = self._five(cards + worst_complement)
+        
         return evaluation
         
     def _five(self, cards):
