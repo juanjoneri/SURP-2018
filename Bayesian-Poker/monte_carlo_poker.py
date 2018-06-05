@@ -98,5 +98,5 @@ if __name__ == '__main__':
     print(*headers, sep=', ')
 
     jobs = []
-    for _  in range(1000000)
+    for _  in range(12):
         play_poker()
