@@ -53,7 +53,7 @@ worst_representative = [
 worst_scores = list(map(lambda h: evaluator.evaluate(h), worst_representative))
 
 score_ranges = dict(zip(worst_scores , hand_types))
-hand_values = dict(zip(hand_types, range(1, 18))) # high values mean better games
+hand_values = dict(zip(hand_types, range(17))) # high values mean better games
 
 def get_score(hand, board=[]):
     value = evaluator.evaluate(hand, board)
@@ -98,5 +98,5 @@ if __name__ == '__main__':
     print(*headers, sep=', ')
 
     jobs = []
-    for i in range(100):
+    for i in range(500000):
         play_poker()
