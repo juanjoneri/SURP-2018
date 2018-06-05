@@ -43,8 +43,8 @@ class Evaluator(object):
         plus the worst possible other cards you could pair them with so that 
         we get a hand of 5 but no new games are formed.
         """
-        used_suits = set([Card.get_suit_int(card) for card in cards])
-        used_ranks = set([Card.get_rank_int(card) for card in cards])
+        used_suits = {Card.get_suit_int(card) for card in cards}
+        used_ranks = {Card.get_rank_int(card) for card in cards}
         
         available_suits = set(Card.INT_SUITS) - used_suits
         available_ranks = set(Card.INT_RANKS) - used_ranks

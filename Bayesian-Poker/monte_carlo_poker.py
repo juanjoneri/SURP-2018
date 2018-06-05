@@ -78,9 +78,9 @@ def play_poker():
 
     for r in range(4):
         if r == 0:
-            board_score = 1
-            BPP_current = get_score(BPP)
-            OPP_current = get_score(OPP)
+            board_score = 0
+            a = BPP_current = get_score(BPP)
+            b = OPP_current = get_score(OPP)
         else:
             board_score = get_score(board[:3+r])
             BPP_current = get_score(BPP, board[:3+r])
@@ -88,7 +88,7 @@ def play_poker():
         
         print(r, board_score, BPP_current, OPP_current, BPP_final, OPP_final, BPP_win, sep=', ')
 
-    return
+    return a, b
 
 if __name__ == '__main__':
     import multiprocessing as mp
@@ -98,5 +98,5 @@ if __name__ == '__main__':
     print(*headers, sep=', ')
 
     jobs = []
-    for i in range(500000):
+    for _  in range(1000000)
         play_poker()
