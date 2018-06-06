@@ -53,7 +53,7 @@ worst_representative = [
 worst_scores = list(map(lambda h: evaluator.evaluate(h), worst_representative))
 
 score_ranges = dict(zip(worst_scores , hand_types))
-hand_values = dict(zip(hand_types, range(17))) # high values mean better games
+hand_values = dict(zip(hand_types, range(1, 18))) # high values mean better games
 
 def get_score(hand, board=[]):
     value = evaluator.evaluate(hand, board)
@@ -72,15 +72,16 @@ def play_poker():
     BPP_final = get_score(BPP, board)
     OPP_final = get_score(OPP, board)
 
+    ## lower values of evaluation are better.
     BPP_win = 1 if evaluator.evaluate(board, BPP) < evaluator.evaluate(board, OPP) else 0
 
     games = []
 
     for r in range(4):
         if r == 0:
-            board_score = 0
-            a = BPP_current = get_score(BPP)
-            b = OPP_current = get_score(OPP)
+            board_score = 1 ## assuming 1 is the worst score you can get
+            BPP_current = get_score(BPP)
+            OPP_current = get_score(OPP)
         else:
             board_score = get_score(board[:3+r])
             BPP_current = get_score(BPP, board[:3+r])
@@ -88,15 +89,14 @@ def play_poker():
         
         print(r, board_score, BPP_current, OPP_current, BPP_final, OPP_final, BPP_win, sep=', ')
 
-    return a, b
+    return
 
 if __name__ == '__main__':
     import multiprocessing as mp
 
     headers = ['Round', 'Board', 'BPP_current', 'OPP_current', 'BPP_final', 'OPP_final', 'BPP_win']
-
     print(*headers, sep=', ')
 
     jobs = []
-    for _  in range(12):
+    for _  in range(100000):
         play_poker()
