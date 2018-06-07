@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+<style>
+
+</style>
+
+<script>
+
+function browseFile(input) {
+    if (input.files && input.files[0]) {
+        var reader = new FileReader();
+
+        reader.onload = function (e) {
+            $('#reaction')
+                .attr('src', e.target.result)
+                .height(350);
+        };
+
+        reader.readAsDataURL(input.files[0]);
+    }
+}
+
+</script>
+
+</head>
+
+<body>
+
+  <input type='file' onchange="browseFile(this);"/>
+  <img id="reaction" src="#"/>
+
+</body>
+</html>

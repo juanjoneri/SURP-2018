@@ -42,5 +42,5 @@ def detect_labels_uri(uri):
 
 
 if __name__ == '__main__':
-    labels = detect_joy('gs://poker-bot-src-bucket/faces/unger.jpg')
+    labels = detect_joy('gs://poker-bot-src-bucket/faces/anger.jpg')
     print(labels)
