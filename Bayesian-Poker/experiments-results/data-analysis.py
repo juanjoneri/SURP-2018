@@ -8,27 +8,33 @@ def order_key(col):
         return 0
 
 
-def import_xls(path, sheets, missing_data='￯﾿ﾽ', epsilon=0.00005):
+def import_xls(path, sheets, missing_data='￯﾿ﾽ', epsilon=0.00005, save=False):
     # improt poker data as exported by tetrad
     xls = pd.ExcelFile(path)
     dataframes = []
+
     for name, parents, values in sheets:
         df = pd.read_excel(xls, name)
         df = df.replace(missing_data, epsilon)
         pome_df = pd.DataFrame(columns=[*parents, name, 'P'])
+
         for _, row in df.iterrows():
+
             for value in values:
                 p_value = row[value]
                 parent_values = row[parents]
                 new_row = {'P': p_value, name: value}
                 new_row.update(parent_values)
                 pome_df = pome_df.append(new_row, ignore_index=True)
+
         dataframes.append(pome_df)
+        if save:
+            pome_df.to_csv('Pome/' + name + '.csv', index=False)
 
     return dataframes
 
 if __name__ == '__main__':
-    path = './experiments-results/2M-split/results-clean.xlsx'
+    path = './2M-split/results-clean.xlsx'
     #   (Name, *Parents, *Values)
     sheets = [
         ('Round', [], list(range(4))),
