@@ -26,7 +26,7 @@ def detect_joy(uri):
         'sorrow': response.face_annotations[0].sorrow_likelihood
     }
     return confidence
-    
+
 
 def detect_labels_uri(uri):
     """Detects labels in the file located in Google Cloud Storage or on the
@@ -42,6 +42,5 @@ def detect_labels_uri(uri):
 
 
 if __name__ == '__main__':
-    labels = detect_labels_uri('https://media.mnn.com/assets/images/2016/10/joy.jpg.653x0_q80_crop-smart.jpg')
-    for label in labels:
-        print(label.description)
+    labels = detect_joy('gs://poker-bot-src-bucket/faces/unger.jpg')
+    print(labels)

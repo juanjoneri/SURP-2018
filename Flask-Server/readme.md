@@ -11,6 +11,7 @@ http://127.0.0.1:5000/
 
 ## Deploy
 
+> No quotation marks go around the path
 ```
 export GOOGLE_APPLICATION_CREDENTIALS=<path>
 sudo gcloud init

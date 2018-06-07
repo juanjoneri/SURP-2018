@@ -11,7 +11,7 @@ def detect_speech(path_to_file):
     with io.open(path_to_file, 'rb') as audio_file:
         content = audio_file.read()
         audio = types.RecognitionAudio(content=content)
-    
+
     # You may or may not specify the exact encoding and freq of the recording!
     config = types.RecognitionConfig(\
         encoding=enums.RecognitionConfig.AudioEncoding.ENCODING_UNSPECIFIED,
@@ -31,7 +31,7 @@ def detect_speech_uri(uri):
     client = speech.SpeechClient()
 
     audio = types.RecognitionAudio(uri=uri)
-    
+
     # You may or may not specify the exact encoding and freq of the recording!
     config = types.RecognitionConfig(\
         encoding=enums.RecognitionConfig.AudioEncoding.ENCODING_UNSPECIFIED,
@@ -48,7 +48,7 @@ def detect_speech_uri(uri):
     }
 
 def main():
-    print(detect_speech_uri('gs://poker-bot-audio-bucket/Play.wav'))
+    print(detect_speech_uri('gs://poker-bot-src-bucket/audio/Play.wav'))
 
 if __name__ == '__main__':
     main()
