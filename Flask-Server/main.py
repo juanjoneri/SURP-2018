@@ -1,14 +1,11 @@
 import logging
 from flask import Flask, request, jsonify
 from libs.visionx import detect_labels_uri, detect_joy
-from libs.smsx import send_sms_to
 
 app = Flask(__name__)
 
 @app.route('/')
 def homepage():
-    visitor_ip = request.remote_addr
-    send_sms_to('../nexmokey.json', 'Someone from {} is in poker-bot-v1s home page'.format(visitor_ip), 12132745685)
     return app.send_static_file('index.html')
 
 @app.route('/facial-expression')
