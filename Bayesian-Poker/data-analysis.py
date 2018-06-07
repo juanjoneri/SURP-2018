@@ -8,27 +8,39 @@ def order_key(col):
         return 0
 
 
-def import_xls(path, sheets, missing_data='￯﾿ﾽ'):
+def import_xls(path, sheets, missing_data='￯﾿ﾽ', epsilon=0.00005):
     # improt poker data as exported by tetrad
     xls = pd.ExcelFile(path)
     dataframes = []
-    for sheet in sheets:
-        df = pd.read_excel(xls, sheet)
-        df = df.replace(missing_data, 0)
-        df = df.reindex_axis(sorted(df.columns, key=order_key), axis=1)
-        dataframes.append(df)
+    for name, parents, values in sheets:
+        df = pd.read_excel(xls, name)
+        df = df.replace(missing_data, epsilon)
+        pome_df = pd.DataFrame(columns=[*parents, name, 'P'])
+        for _, row in df.iterrows():
+            for value in values:
+                p_value = row[value]
+                parent_values = row[parents]
+                new_row = {'P': p_value, name: value}
+                new_row.update(parent_values)
+                pome_df = pome_df.append(new_row, ignore_index=True)
+        dataframes.append(pome_df)
 
     return dataframes
 
 if __name__ == '__main__':
     path = './experiments-results/2M-split/results-clean.xlsx'
-    sheets = ['Round', 'Board', 'BPP_current', 'OPP_current', \
-              'BPP_final', 'OPP_final', 'BPP_win']
+    #   (Name, *Parents, *Values)
+    sheets = [
+        ('Round', [], list(range(4))),
+        ('Board', ['Round', 'OPP_current'], list(range(1, 18))),
+        ('BPP_current', ['Round', 'BPP_final'], list(range(1, 18))),
+        ('OPP_current', ['Round', 'OPP_final'], list(range(1, 18))),
+        ('BPP_final', [], list(range(1, 18))),
+        ('OPP_final', ['BPP_final'], list(range(1, 18))),
+        ('BPP_win', ['BPP_final', 'OPP_final'], [0, 1]),
+        ]
 
     dfs = import_xls(path, sheets)
 
-    OPP_final = dfs[-2]
-    print(OPP_final[1][OPP_final['BPP_final'] == 10])
-
-    OPP_current = dfs[3]
-    print(OPP_current)
+    for df in dfs:
+        print(df.head())
