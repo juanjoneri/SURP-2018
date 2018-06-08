@@ -1,7 +1,7 @@
 
 
 
-function browseFile(input, output) {
+const showFile = function(input, output) {
   console.log(output)
     if (input.files && input.files[0]) {
         var reader = new FileReader();
