@@ -1,0 +1,102 @@
+.placeholder {
+  border-style: dashed;
+  border-color: white;
+  width: 25%;
+  margin-left:-12.5%;
+  height: 30%;
+  border-radius: 8px;
+  padding: 6px;
+  border-width: thin;
+}
+
+.center {
+  position:absolute;
+  right:50%;
+  left:50%;
+}
+
+.center-v {
+  position:absolute;
+  top:50%;
+  down:50%;
+}
+
+.bottom {
+  position:absolute;
+  bottom:24px;
+}
+
+.top {
+  position:absolute;
+  top:24px;
+}
+
+.top2 {
+  position:absolute;
+  top:30%;
+}
+
+.right {
+  position:absolute;
+  right:5%;
+}
+
+.right2 {
+  position:absolute;
+  right:30%;
+}
+
+.left {
+  position:absolute;
+  left:24px;
+}
+
+.left2 {
+  position:absolute;
+  left:24px;
+  top: 80px
+}
+
+.small {
+  width:160px;
+  height:80;
+  border-radius: 8px;
+}
+
+.table {
+  width: 80%;
+  height: 90%;
+  margin-left:-40%;
+  bottom:-35%;
+  background-image: radial-gradient(50% 60%, #0A893A 50%, #03461B 100%);
+  border: 24px solid rgba(61,60,60);
+  border-radius: 400px;
+}
+
+
+.tablero {
+  background: #F1F0F0A7;
+  border-radius: 15px 15px 15px 15px;
+  padding: 6px;
+  width: fit-content;
+  font-size: 80px;
+  margin-left:-86px;
+}
+
+.dialog-down {
+  /* Rectangle 2 Copy: */
+  background: #F1F0F0;
+  border-radius: 15px 15px 15px 0;
+  padding: 6px;
+}
+
+.dialog-up {
+  /* Rectangle 2 Copy: */
+  background: #F1F0F0;
+  border-radius: 0px 15px 15px 15px;
+  padding: 6px;
+}
+
+body {
+    background-color: #222222;
+}
