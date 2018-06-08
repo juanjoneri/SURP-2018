@@ -29,12 +29,15 @@
 
       <div class="btn btn-secondary small top left2">
         <label for="audio-files">Upload Action</label>
-        <input id="audio-files" style="visibility:hidden;" type="file" onchange="browseFile(this, 'cards');">
+        <input id="audio-files" style="visibility:hidden;" type="file"  onchange="browseFile(this, 'cards');">
       </div>
 
       <div class="btn btn-secondary small bottom left">
-        <label for="card-files">Upload Cards</label>
-        <input id="card-files" style="visibility:hidden;" type="file" onchange="browseFile(this, 'cards');">
+        <form method=post enctype=multipart/form-data>
+          <label for="card-files">Upload Cards</label>
+          <input id="card-files" style="visibility:hidden;" type="file" name=file onchange="browseFile(this, 'cards');">
+          <input type=submit value=Upload>  
+        </form>
       </div>
 
 <script src="static/script.js"></script>
