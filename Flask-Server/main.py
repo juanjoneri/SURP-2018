@@ -10,7 +10,7 @@ ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'flac', 'wav'])
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-DATA_FILES = ['cards_image', 'reaction_image', 'action_sound']
+DATA_FILES = ['cards_image', 'reaction_image', 'action_audio']
 
 uploaded_data = dict()
 
