@@ -13,7 +13,7 @@
 
 <div class="table center bottom"></div>
 
-  <img id="reaction" class="placeholder top center" src="#"/>
+  <img id="reaction" class="placeholder top center" src="static/{{reaction_image}}"/>
   <div class="dialog-up top2 right2">Raise $20</div>
 
   <img id="cards" class="placeholder bottom center" src="static/{{cards_image}}"/>
@@ -23,8 +23,11 @@
   <div class="tablero center center-v">🂠🂠🂠</div>
 
       <div class="btn btn-secondary small top left">
-        <label for="reaction-files">Upload Reaction</label>
-        <input id="reaction-files" style="visibility:hidden;" type="file" onchange="browseFile(this, 'reaction');">
+        <form method=post id="reaction-target" enctype=multipart/form-data>
+          <label for="reaction-files">Upload Reaction</label>
+          <input id="reaction-files" style="visibility:hidden;" type="file" name=reaction_image onchange="$('#reaction-target').submit();">
+          <input type=submit style="visibility:hidden;">  
+        </form>
       </div>
 
       <div class="btn btn-secondary small top left2">
@@ -36,7 +39,7 @@
         <form method=post id="target" enctype=multipart/form-data>
           <label for="card-files">Upload Cards</label>
           <input id="card-files" style="visibility:hidden;" type="file" name=cards_image onchange="$('#target').submit();">
-          <input type=submit value=Upload style="visibility:hidden;">  
+          <input type=submit style="visibility:hidden;">  
         </form>
       </div>
 

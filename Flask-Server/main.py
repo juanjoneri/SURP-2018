@@ -12,9 +12,10 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 DATA_FILES = ['cards_image', 'reaction_image', 'action_sound']
 
+uploaded_data = dict()
+
 @app.route('/', methods=['GET', 'POST'])
 def homepage():
-    uploaded_data = dict()
     if request.method == 'POST':
         for data_file in DATA_FILES:
             if data_file not in request.files:
