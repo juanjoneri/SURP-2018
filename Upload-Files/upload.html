@@ -9,8 +9,12 @@
 
 .placeholder {
   border-style: dashed;
-  width: 300px;
+  border-color: white;
+  width: 400px;
   height: 300px;
+  border-radius: 8px;
+  padding: 6px;
+  border-width: thin;
 }
 
 .center {
@@ -36,7 +40,6 @@
   position:absolute;
   right:95%;
   left:5%;
-  margin-left:-50px;
 }
 
 .top {
@@ -45,8 +48,12 @@
 }
 
 .small {
-  width:200px;
-  height:100;
+  width:160px;
+  height:80;
+}
+
+body {
+    background-color: #222222;
 }
 
 </style>
@@ -62,7 +69,6 @@ function browseFile(input, output) {
             $(`#${output}`)
                 .attr('src', e.target.result)
                 .width(350)
-                .removeClass( "placeholder" );
         };
 
         reader.readAsDataURL(input.files[0]);
@@ -83,13 +89,13 @@ function browseFile(input, output) {
   <img id="cards" class="placeholder bottom center" src="#"/>
 
 
-      <div class="btn btn-primary small top left">
-        <label for="reaction-files">Select Reaction</label>
+      <div class="btn btn-secondary small top left">
+        <label for="reaction-files">Upload Reaction</label>
         <input id="reaction-files" style="visibility:hidden;" type="file" onchange="browseFile(this, 'reaction');">
       </div>
 
-      <div class="btn btn-primary small bottom right">
-        <label for="card-files">Select Cards</label>
+      <div class="btn btn-secondary small bottom left">
+        <label for="card-files">Upload Cards</label>
         <input id="card-files" style="visibility:hidden;" type="file" onchange="browseFile(this, 'cards');">
       </div>
 
