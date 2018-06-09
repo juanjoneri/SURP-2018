@@ -18,3 +18,12 @@ sudo gcloud init
 sudo gcloud app deploy
 ```
 https://poker-bot-v1.appspot.com/
+
+## Others
+
+Set public bucket by default when user uploads
+
+```
+sudo gsutil defacl set public-read gs://poker-bot-src-bucket
+```
+

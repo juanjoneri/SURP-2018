@@ -1,8 +1,10 @@
 import logging
-from flask import Flask, request, jsonify, redirect, url_for, render_template
-from libs.visionx import detect_labels_uri, detect_joy
-from werkzeug.utils import secure_filename
 import os
+from flask import Flask, request, jsonify, redirect, url_for, render_template
+
+from libs.visionx import detect_labels_uri, detect_joy
+from libs.storagex import upload_file
+from werkzeug.utils import secure_filename
 
 UPLOAD_FOLDER = 'static/'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'flac', 'wav'])
@@ -20,12 +22,15 @@ def homepage():
         for data_file in DATA_FILES:
             if data_file not in request.files:
                 continue
-            
+
             file = request.files[data_file]
-            filename = file.name
+            folder = 'cards'
+            file_uri = upload_file(file.read(), '{}/{}'.format(folder, file.filename), file.content_type)
+            print(file_uri)
+
             if file.filename == '':
                 continue
-            
+
             extension = file.filename.rsplit('.', 1)[1].lower()
             if extension in ALLOWED_EXTENSIONS:
                 filename = secure_filename(file.filename)
