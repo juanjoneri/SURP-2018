@@ -24,9 +24,6 @@ def homepage():
                 continue
 
             file = request.files[data_file]
-            folder = 'cards'
-            file_uri = upload_file(file.read(), '{}/{}'.format(folder, file.filename), file.content_type)
-            print(file_uri)
 
             if file.filename == '':
                 continue
@@ -34,9 +31,9 @@ def homepage():
             extension = file.filename.rsplit('.', 1)[1].lower()
             if extension in ALLOWED_EXTENSIONS:
                 filename = secure_filename(file.filename)
-                uploaded_data[data_file] = filename
-                path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-                file.save(path)
+                folder = data_file
+                file_uri = upload_file(file.read(), '{}/{}'.format(folder, file.filename), file.content_type)
+                uploaded_data[data_file] = file_uri
 
     return render_template('index.html', **uploaded_data)
 
