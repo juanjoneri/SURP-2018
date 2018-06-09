@@ -1,4 +1,5 @@
 import logging
+import operator
 import os
 from flask import Flask, request, jsonify, redirect, url_for, render_template
 
@@ -34,6 +35,9 @@ def homepage():
                 folder = data_file
                 file_uri = upload_file(file.read(), '{}/{}'.format(folder, file.filename), file.content_type)
                 uploaded_data[data_file] = file_uri
+                if data_file == 'reaction_image':
+                    reaction = detect_joy(file_uri)
+                    uploaded_data['reaction'] = max(reaction.items(), key=operator.itemgetter(1))[0]
 
     return render_template('index.html', **uploaded_data)
 

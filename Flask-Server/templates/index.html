@@ -17,7 +17,7 @@
   <div class="dialog-up top2 right2">Raise $20</div>
 
   <img id="cards" class="placeholder bottom center" src="{{cards_image}}"/>
-  <div class="dialog-down bottom right">The opponent seems 90% confident</div>
+  <div class="dialog-down bottom right">The opponent shows {{reaction }}</div>
 
 
   <div class="tablero center center-v">🂠🂠🂠</div>
@@ -25,24 +25,24 @@
       <div class="btn btn-secondary small top left">
         <form method=post id="reaction-target" enctype=multipart/form-data>
           <label for="reaction-files">☺︎ Upload Reaction</label>
-          <input id="reaction-files" style="visibility:hidden;" type="file" name=reaction_image onchange="$('#reaction-target').submit();">
-          <input type=submit style="visibility:hidden;">
+          <input id="reaction-files" type="file" name=reaction_image onchange="$('#reaction-target').submit();">
+          <input type=submit>
         </form>
       </div>
 
       <div class="btn btn-secondary small top left2">
         <form method=post id="action-target" enctype=multipart/form-data>
           <label for="action-files">✍︎ Upload Action</label>
-          <input id="action-files" style="visibility:hidden;" type="file" name=action_audio onchange="$('#action-target').submit();">
-          <input type=submit style="visibility:hidden;">
+          <input id="action-files" type="file" name=action_audio onchange="$('#action-target').submit();">
+          <input type=submit>
         </form>
       </div>
 
       <div class="btn btn-secondary small bottom left">
         <form method=post id="cards-target" enctype=multipart/form-data>
           <label for="card-files">♧ Upload Cards</label>
-          <input id="card-files" style="visibility:hidden;" type="file" name=cards_image onchange="$('#cards-target').submit();">
-          <input type=submit style="visibility:hidden;">
+          <input id="card-files" type="file" name=cards_image onchange="$('#cards-target').submit();">
+          <input type=submit>
         </form>
       </div>
 
