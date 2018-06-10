@@ -4,14 +4,12 @@ import os
 from flask import Flask, request, jsonify, redirect, url_for, render_template
 
 from libs.visionx import detect_labels_uri, detect_joy
-from libs.storagex import upload_file_name
+from libs.storagex import upload_file_name, upload_file
 from libs.imagex import save_small
 from werkzeug.utils import secure_filename
 
 UPLOAD_FOLDER = 'static/'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'flac', 'wav'])
-IMG_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
-
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
@@ -22,7 +20,9 @@ uploaded_data = dict()
 @app.route('/', methods=['GET', 'POST'])
 def homepage():
     if request.method == 'POST':
+        # ITERATE OVER ALL DATA WE ASK FROM THE USER
         for data_file in DATA_FILES:
+
             if data_file not in request.files:
                 continue
 
@@ -31,26 +31,37 @@ def homepage():
             filename = file.filename
             extension = filename.rsplit('.', 1).pop().lower()
 
-            if filename == '':
-                continue
-
-            if extension in IMG_EXTENSIONS:
-                # STORE A SMALL VERSION OF THE PICTURE MOMENTARILY
-                temp_dst = os.path.join(
-                    app.config['UPLOAD_FOLDER'], 'temp-'+file.filename)
-                save_small(file, 100, 400, temp_dst)
-
             if extension in ALLOWED_EXTENSIONS:
-                folder = data_file
-                file_uri = upload_file_name(temp_dst, '{}/{}'.format(folder, filename), file.content_type)
-                uploaded_data[data_file] = file_uri
-                if data_file == 'reaction_image':
-                    reaction = detect_joy(file_uri)
-                    uploaded_data['reaction'] = max(reaction.items(), key=operator.itemgetter(1))[0]
 
-            # REMOVE TEMP SMALL IMAGE FORM STORAGE
-            file.close()
-            os.remove(temp_dst)
+                folder = data_file # foler name in bucket
+
+                if data_file in ['reaction_image', 'cards_image']:
+                    # STORE A SMALL VERSION OF THE PICTURE MOMENTARILY
+                    temp_dst = os.path.join(
+                        app.config['UPLOAD_FOLDER'], 'temp-'+file.filename)
+                    save_small(file, 300, 200, temp_dst)
+
+                    # UPLOAD COMPRESSED IMAGE TO BUCKET
+                    file_uri = upload_file_name(
+                        temp_dst, '{}/{}'.format(folder, filename), file.content_type)
+
+                    # REMOVE COMPRESSED IMG FROM SERVER
+                    os.remove(temp_dst)
+
+                    # GET THE ANALYSIS OF THE REACTION FROM GC-AI
+                    if data_file == 'reaction_image':
+                        reaction = detect_joy(file_uri)
+                        uploaded_data['reaction'] = max(
+                            reaction.items(), key=operator.itemgetter(1))[0]
+
+                elif data_file in ['action_audio']:
+                    # UPLOAD AUDIO TO BUCKET
+                    file_uri = upload_file(
+                        file.read(), '{}/{}'.format(folder, filename), file.content_type)
+
+
+                # SAVE TO TEMPLATE METADATA
+                uploaded_data[data_file] = file_uri
 
     return render_template('index.html', **uploaded_data)
 
