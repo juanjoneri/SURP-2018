@@ -4,11 +4,13 @@ import os
 from flask import Flask, request, jsonify, redirect, url_for, render_template
 
 from libs.visionx import detect_labels_uri, detect_joy
-from libs.storagex import upload_file
+from libs.storagex import upload_file_name
+from libs.imagex import save_small
 from werkzeug.utils import secure_filename
 
 UPLOAD_FOLDER = 'static/'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'flac', 'wav'])
+IMG_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
@@ -24,20 +26,31 @@ def homepage():
             if data_file not in request.files:
                 continue
 
+            # RETREIVE METADATA OF FILE TO BE UPLOADED
             file = request.files[data_file]
+            filename = file.filename
+            extension = filename.rsplit('.', 1).pop().lower()
 
-            if file.filename == '':
+            if filename == '':
                 continue
 
-            extension = file.filename.rsplit('.', 1)[1].lower()
+            if extension in IMG_EXTENSIONS:
+                # STORE A SMALL VERSION OF THE PICTURE MOMENTARILY
+                temp_dst = os.path.join(
+                    app.config['UPLOAD_FOLDER'], 'temp-'+file.filename)
+                save_small(file, 100, 400, temp_dst)
+
             if extension in ALLOWED_EXTENSIONS:
-                filename = secure_filename(file.filename)
                 folder = data_file
-                file_uri = upload_file(file.read(), '{}/{}'.format(folder, file.filename), file.content_type)
+                file_uri = upload_file_name(temp_dst, '{}/{}'.format(folder, filename), file.content_type)
                 uploaded_data[data_file] = file_uri
                 if data_file == 'reaction_image':
                     reaction = detect_joy(file_uri)
                     uploaded_data['reaction'] = max(reaction.items(), key=operator.itemgetter(1))[0]
+
+            # REMOVE TEMP SMALL IMAGE FORM STORAGE
+            file.close()
+            os.remove(temp_dst)
 
     return render_template('index.html', **uploaded_data)
 
