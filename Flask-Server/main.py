@@ -51,8 +51,11 @@ def homepage():
                     # GET THE ANALYSIS OF THE REACTION FROM GC-AI
                     if data_file == 'reaction_image':
                         reaction = detect_joy(file_uri)
-                        uploaded_data['reaction'] = max(
-                            reaction.items(), key=operator.itemgetter(1))[0]
+                        if reaction:
+                            uploaded_data['reaction'] = max(
+                                reaction.items(), key=operator.itemgetter(1))[0]
+                        else:
+                            uploaded_data['reaction'] = 'no sign of being human...'
 
                 elif data_file in ['action_audio']:
                     # UPLOAD AUDIO TO BUCKET

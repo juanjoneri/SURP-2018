@@ -19,13 +19,17 @@ def detect_joy(uri):
     image = types.Image()
     image.source.image_uri = uri
     response = client.face_detection(image=image)
-    confidence = {
-        'joy': response.face_annotations[0].joy_likelihood,
-        'anger': response.face_annotations[0].anger_likelihood,
-        'surprise': response.face_annotations[0].surprise_likelihood,
-        'sorrow': response.face_annotations[0].sorrow_likelihood
-    }
-    return confidence
+    try:
+        confidence = {
+            'joy': response.face_annotations[0].joy_likelihood,
+            'anger': response.face_annotations[0].anger_likelihood,
+            'surprise': response.face_annotations[0].surprise_likelihood,
+            'sorrow': response.face_annotations[0].sorrow_likelihood
+        }
+        return confidence
+    except IndexError:
+        return None
+
 
 
 def detect_labels_uri(uri):
