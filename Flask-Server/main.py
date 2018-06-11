@@ -40,7 +40,7 @@ def homepage():
                     # STORE A SMALL VERSION OF THE PICTURE MOMENTARILY
                     temp_dst = os.path.join(
                         app.config['UPLOAD_FOLDER'], 'temp-'+file.filename)
-                    save_small(file, 300, 200, temp_dst)
+                    save_small(file, 256, 256, temp_dst)
 
                     # UPLOAD COMPRESSED IMAGE TO BUCKET
                     file_uri = upload_file_name(

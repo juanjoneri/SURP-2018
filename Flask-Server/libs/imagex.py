@@ -4,7 +4,7 @@ import io
 
 def save_small(file, width, height, temp_dst):
     img = Image.open(io.BytesIO(file.read()))
-    img = img.resize((width, height), Image.ANTIALIAS)
+    img.thumbnail((width, height))
     img.save(temp_dst, optimize=True,quality=95)
 
 if __name__ == '__main__':
