@@ -4,3 +4,4 @@ google-cloud-vision==0.29.0
 google-cloud-speech==0.34.0
 google-cloud-datastore==1.4.0
 google-cloud-storage==1.7.0
+Pillow==5.1.0

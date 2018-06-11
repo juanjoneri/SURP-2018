@@ -33,7 +33,7 @@
       <div class="btn btn-secondary small top left2">
         <form method=post id="action-target" enctype=multipart/form-data>
           <label for="action-files">✍︎ Upload Action</label>
-          <input id="action-files" type="file" accept="audio/*;capture=microphone" name=action_audio onchange="$('#action-target').submit();">
+          <input id="action-files" type="file" accept="audio/*;capture=microphone" capture name=action_audio onchange="$('#action-target').submit();">
           <input type=submit>
         </form>
       </div>
