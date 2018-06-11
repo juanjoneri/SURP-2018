@@ -6,6 +6,7 @@ from flask import Flask, request, jsonify, redirect, url_for, render_template
 from libs.visionx import detect_labels_uri, detect_joy
 from libs.storagex import upload_file_name, upload_file
 from libs.imagex import save_small
+from libs.speechx import detect_speech_uri
 from werkzeug.utils import secure_filename
 
 UPLOAD_FOLDER = 'static/'
@@ -61,6 +62,9 @@ def homepage():
                     # UPLOAD AUDIO TO BUCKET
                     file_uri = upload_file(
                         file.read(), '{}/{}'.format(folder, filename), file.content_type)
+
+                    reaction = detect_speech_uri('gs://poker-bot-src-bucket/action_audio/{}'.format(filename))
+                    uploaded_data['action'] = reaction['transcript']
 
 
                 # SAVE TO TEMPLATE METADATA

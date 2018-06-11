@@ -14,7 +14,7 @@
 <div class="table center bottom"></div>
 
   <img id="reaction" class="placeholder top center" src="{{reaction_image}}"/>
-  <div class="dialog-up top2 right2">Raise $20</div>
+  <div class="dialog-up top2 right2">{{action}}</div>
 
   <img id="cards" class="placeholder bottom center" src="{{cards_image}}"/>
   <div class="dialog-down bottom right">The opponent shows {{reaction }}</div>
@@ -25,7 +25,7 @@
       <div class="btn btn-secondary small top left">
         <form method=post id="reaction-target" enctype=multipart/form-data>
           <label for="reaction-files">☺︎ Upload Reaction</label>
-          <input id="reaction-files" type="file" name=reaction_image onchange="$('#reaction-target').submit();">
+          <input id="reaction-files" type="file" accept="image/*;capture=camera" name=reaction_image onchange="$('#reaction-target').submit();">
           <input type=submit>
         </form>
       </div>
@@ -33,7 +33,7 @@
       <div class="btn btn-secondary small top left2">
         <form method=post id="action-target" enctype=multipart/form-data>
           <label for="action-files">✍︎ Upload Action</label>
-          <input id="action-files" type="file" name=action_audio onchange="$('#action-target').submit();">
+          <input id="action-files" type="file" accept="audio/*;capture=microphone" name=action_audio onchange="$('#action-target').submit();">
           <input type=submit>
         </form>
       </div>
@@ -41,7 +41,7 @@
       <div class="btn btn-secondary small bottom left">
         <form method=post id="cards-target" enctype=multipart/form-data>
           <label for="card-files">♧ Upload Cards</label>
-          <input id="card-files" type="file" name=cards_image onchange="$('#cards-target').submit();">
+          <input id="card-files" type="file" accept="image/*;capture=camera" name=cards_image onchange="$('#cards-target').submit();">
           <input type=submit>
         </form>
       </div>

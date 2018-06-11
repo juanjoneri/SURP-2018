@@ -2,8 +2,7 @@ import io
 import os
 
 from google.cloud import speech
-from google.cloud.speech import enums
-from google.cloud.speech import types
+from google.cloud.speech import enums, types
 
 def detect_speech(path_to_file):
     client = speech.SpeechClient()
