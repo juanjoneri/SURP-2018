@@ -9,7 +9,20 @@
 
 <body>
 
-<script src="static/script.js"></script>
+<script>
+ $(document).ready(function(){
+   console.log('ready')
+
+   $('#reaction').click(() => {
+     $('#reaction-files').click();
+   });
+
+   $('#cards').click(() => {
+     $('#card-files').click();
+   });
+
+ });
+</script>
 
 <div class="table center bottom"></div>
 
@@ -22,7 +35,7 @@
 
   <div class="tablero center center-v">🂠🂠🂠</div>
 
-      <div class="btn btn-secondary small top left">
+      <div class="hidden">
         <form method=post id="reaction-target" enctype=multipart/form-data>
           <label for="reaction-files">☺︎ Upload Reaction</label>
           <input id="reaction-files" type="file" accept="image/*;capture=camera" name=reaction_image onchange="$('#reaction-target').submit();">
@@ -38,7 +51,7 @@
         </form>
       </div>
 
-      <div class="btn btn-secondary small bottom left">
+      <div class="hidden">
         <form method=post id="cards-target" enctype=multipart/form-data>
           <label for="card-files">♧ Upload Cards</label>
           <input id="card-files" type="file" accept="image/*;capture=camera" name=cards_image onchange="$('#cards-target').submit();">
