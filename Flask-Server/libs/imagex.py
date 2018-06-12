@@ -9,4 +9,4 @@ def save_small(file, width, height, temp_dst):
 
 if __name__ == '__main__':
     with open('test.png', 'rb') as f:
-        resize_img(f, 300,200, 'png')
+        save_small(f, 300,200, 'png')

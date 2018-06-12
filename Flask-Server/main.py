@@ -16,7 +16,11 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 DATA_FILES = ['cards_image', 'reaction_image', 'action_audio']
 
-uploaded_data = dict()
+uploaded_data = {
+    'cards_image': 'static/Card-Placeholder.png',
+    'reaction_image': 'static/Reaction-Placeholder.png',
+    'action': 'Upload a recording of what OPP Said!',
+    'reaction': 'Take a picture of my opponent!'}
 
 @app.route('/', methods=['GET', 'POST'])
 def homepage():
@@ -53,10 +57,10 @@ def homepage():
                     if data_file == 'reaction_image':
                         reaction = detect_joy(file_uri)
                         if reaction:
-                            uploaded_data['reaction'] = max(
-                                reaction.items(), key=operator.itemgetter(1))[0]
+                            uploaded_data['reaction'] = 'I see {} in my opponent\'s face...'.format(max(
+                                reaction.items(), key=operator.itemgetter(1))[0])
                         else:
-                            uploaded_data['reaction'] = 'no sign of being human...'
+                            uploaded_data['reaction'] = 'I can\'t see my opponent\'s face!'
 
                 elif data_file in ['action_audio']:
                     # UPLOAD AUDIO TO BUCKET
