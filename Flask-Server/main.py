@@ -13,7 +13,6 @@ UPLOAD_FOLDER = 'static/'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'flac', 'wav'])
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-
 DATA_FILES = ['cards_image', 'reaction_image', 'action_audio']
 
 uploaded_data = {
@@ -94,4 +93,4 @@ def facial_expression():
     '''.format(image_url, joy_list)
 
 if __name__ == '__main__':
-	app.run(host='0.0.0.0', port=8080, debug=True)
+	app.run(host='127.0.0.1', port=8080, debug=True)
