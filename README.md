@@ -5,6 +5,8 @@ Paper: [Using Bayesian Decision Networks to Play Texas Hold'em Poker](https://ww
 Dataset: [Michael Maurer's IRC Poker Database](http://poker.cs.ualberta.ca/irc_poker_database.html)
 Dataset Explained: [archive.today](http://archive.li/7ztYP)
 
+![main](./slide-main.png)
+
 ## The Network
 
 | Node Shape  | Node Type |

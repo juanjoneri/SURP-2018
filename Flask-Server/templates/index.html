@@ -78,7 +78,6 @@ body {
 
 /*Floating action button*/
 .fav {
-    box-shadow: 0.2em 0.2em 0.2em rgba(0, 0, 0, .5);
     width: 4.5em;
     height: 4.5em;
     border-radius: 100%;
@@ -89,13 +88,6 @@ body {
     bottom: 1em;
     right: 1em;
 }
-
-.fav:hover{
-    box-shadow: 0.3em 0.3em 0.3em rgba(0, 0, 0, .5);
-    width: 4.6em;
-    height: 4.6em;
-}
-/*Floating action button*/
 
 .tablero {
   position: absolute;
@@ -151,7 +143,6 @@ body {
 
       <div class="hidden">
         <form method=post id="reaction-target" enctype=multipart/form-data>
-          <label for="reaction-files">☺︎ Upload Reaction</label>
           <input id="reaction-files" type="file" accept="image/*;capture=camera" name=reaction_image onchange="$('#reaction-target').submit();">
           <input type=submit>
         </form>
@@ -159,7 +150,6 @@ body {
 
       <div class="hidden">
         <form method=post id="action-target" enctype=multipart/form-data>
-          <label for="action-files">✍︎ Upload Action</label>
           <input id="action-files" type="file" accept="audio/*;capture=microphone" capture name=action_audio onchange="$('#action-target').submit();">
           <input type=submit>
         </form>
@@ -167,7 +157,6 @@ body {
 
       <div class="hidden">
         <form method=post id="cards-target" enctype=multipart/form-data>
-          <label for="card-files">♧ Upload Cards</label>
           <input id="card-files" type="file" accept="image/*;capture=camera" name=cards_image onchange="$('#cards-target').submit();">
           <input type=submit>
         </form>
