@@ -8,3 +8,4 @@ __pycache__/
 apikey.json
 Originals/
 env/
+Dataset/
