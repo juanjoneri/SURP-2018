@@ -1,5 +1,7 @@
+
 body {
   font-size: 2em;
+  background-color: black;
 }
 
 .dialog-down {
@@ -30,7 +32,8 @@ body {
 .placeholder {
   border-style: dashed;
   border-color: white;
-  height: 30%;
+  height: 32%;
+  width: 60%;
   margin-left:-30%;
   border-radius: 12px;
   padding: 6px;
@@ -66,7 +69,6 @@ body {
 
 /*Floating action button*/
 .fav {
-    box-shadow: 0.2em 0.2em 0.2em rgba(0, 0, 0, .5);
     width: 4.5em;
     height: 4.5em;
     border-radius: 100%;
@@ -78,13 +80,6 @@ body {
     right: 1em;
 }
 
-.fav:hover{
-    box-shadow: 0.3em 0.3em 0.3em rgba(0, 0, 0, .5);
-    width: 4.6em;
-    height: 4.6em;
-}
-/*Floating action button*/
-
 .tablero {
   position: absolute;
   background: white;
@@ -95,4 +90,8 @@ body {
   margin-top:-1em;
   text-align: center;
 
+}
+
+.hidden {
+  visibility: hidden;
 }
