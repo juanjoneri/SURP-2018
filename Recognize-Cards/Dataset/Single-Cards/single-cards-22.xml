@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Single-Cards</folder>
+	<filename>single-cards-22.jpg</filename>
+	<path>/Users/juanjoneri/Projects/SURP-repos/SURP-2018/Recognize-Cards/Dataset/Single-Cards/single-cards-22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>161</ymin>
+			<xmax>503</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

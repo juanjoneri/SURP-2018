@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Single-Cards</folder>
+	<filename>single-cards-79.jpg</filename>
+	<path>/Users/juanjoneri/Projects/SURP-repos/SURP-2018/Recognize-Cards/Dataset/Single-Cards/single-cards-79.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>260</ymin>
+			<xmax>354</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>
