@@ -8,3 +8,4 @@ Recognize-Cards/
 __pycache__/
 apikey.json
 Originals/
+env/
