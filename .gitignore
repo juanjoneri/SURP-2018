@@ -4,7 +4,6 @@ MNIST_data
 .vscode/
 Server/
 Speech-Commands/
-Recognize-Cards/
 __pycache__/
 apikey.json
 Originals/
