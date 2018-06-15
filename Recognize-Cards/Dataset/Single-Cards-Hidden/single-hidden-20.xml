@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Single-Cards-Hidden</folder>
+	<filename>single-hidden-20.jpg</filename>
+	<path>/Users/juanjoneri/Projects/SURP-repos/SURP-2018/Recognize-Cards/Dataset/Single-Cards-Hidden/single-hidden-20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hearts</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>328</ymin>
+			<xmax>489</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Single-Cards-Hidden</folder>
+	<filename>single-hidden-46.jpg</filename>
+	<path>/Users/juanjoneri/Projects/SURP-repos/SURP-2018/Recognize-Cards/Dataset/Single-Cards-Hidden/single-hidden-46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spades</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>144</ymin>
+			<xmax>549</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

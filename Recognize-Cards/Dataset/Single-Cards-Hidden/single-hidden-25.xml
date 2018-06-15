@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Single-Cards-Hidden</folder>
+	<filename>single-hidden-25.jpg</filename>
+	<path>/Users/juanjoneri/Projects/SURP-repos/SURP-2018/Recognize-Cards/Dataset/Single-Cards-Hidden/single-hidden-25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>312</ymin>
+			<xmax>439</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+</annotation>
