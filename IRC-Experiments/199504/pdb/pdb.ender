@@ -1,0 +1,246 @@
+ender     797283049 12  5 f   -     -     -         1000    0    0 
+ender     797283097 10  2 f   -     -     -         1000    0    0 
+ender     797283227 10  2 Bk  cc    kf    -         1000   30    0 
+ender     797283286 10  1 Bc  kc    kf    -          970   50    0 
+ender     797283394  9  9 c   c     c     c          920   70    0 7d Qh
+ender     797283457  7  6 c   k     f     -          850   10    0 
+ender     797283531  5  4 cc  kc    kc    kc         840   70    0 Kd Ks
+ender     797283587  5  3 f   -     -     -          770    0    0 
+ender     797283633  6  2 Bk  k     k     b          770   30   60 
+ender     797283683  6  1 Bc  b     b     -          800   40  100 
+ender     797283722  7  7 f   -     -     -          860    0    0 
+ender     797283738  7  6 r   c     c     f          860   50    0 
+ender     797283776  7  5 c   k     k     b          810   30   75 5s Ks
+ender     797283838  7  4 f   -     -     -          855    0    0 
+ender     797283868  6  3 f   -     -     -          855    0    0 
+ender     797283892  6  2 Bc  k     kf    -          855   20    0 
+ender     797283940  6  1 Bc  kc    kc    bc         835   80    0 4s 5s
+ender     797283989  7  7 c   k     f     -          755   20    0 
+ender     797284024  8  7 c   k     k     k          735   10    0 Jh 7c
+ender     797284091  8  6 cc  cc    k     kc         725   70    0 6h Kd
+ender     797284212  9  6 f   -     -     -          655    0    0 
+ender     797284273  9  5 cc  kc    k     b          655   50  165 Qh 4s
+ender     797284340  9  4 f   -     -     -          770    0    0 
+ender     797284393  9  3 f   -     -     -          770    0    0 
+ender     797284479  9  2 Bc  kc    kc    k          770   50    0 7d 5d
+ender     797284597 11  1 Bf  -     -     -          720    5    0 
+ender     797284672 11 11 c   k     f     -          715   10    0 
+ender     797284747 11  9 c   rr    k     c          705   70    0 Ks 9s
+ender     797284870 11  8 f   -     -     -          635    0    0 
+ender     797284906 12  7 c   k     c     k          635   30   75 6h Jh
+ender     797284969 12  6 f   -     -     -          680    0    0 
+ender     797285008 12  5 c   kc    kf    -          680   20    0 
+ender     797285156 11  3 f   -     -     -          660    0    0 
+ender     797285221  9  2 Bc  f     -     -          660   20    0 
+ender     797285309  8  1 Bc  k     kf    -          640   10    0 
+ender     797285348  8  8 f   -     -     -          630    0    0 
+ender     797285404  7  7 c   f     -     -          630   10    0 
+ender     797285468  6  5 c   b     -     -          620   20   35 
+ender     797285501  6  4 r   kc    kc    k          635   50    0 Kh 2d
+ender     797285545  6  3 cc  k     kf    -          585   20    0 
+ender     797285710  6  2 Bk  kc    bc    b          565   80  185 3h Kc
+ender     797285790  6  1 Bc  kf    -     -          670   10    0 
+ender     797285872  6  6 f   -     -     -          660    0    0 
+ender     797285912  6  5 cc  f     -     -          660   20    0 
+ender     797285949  6  4 f   -     -     -          640    0    0 
+ender     797285993  6  3 f   -     -     -          640    0    0 
+ender     797286027  5  2 B   -     -     -          640   10   15 
+ender     797286045  6  1 Bc  b     -     -          645   20   30 
+ender     797286080  5  5 c   f     -     -          655   10    0 
+ender     797286123  6  5 c   b     -     -          645   20   35 
+ender     797286168  6  4 r   k     c     c          660   60    0 Jc As
+ender     797286216  6  3 c   k     b     -          600   30   60 
+ender     797286263  6  2 Bf  -     -     -          630   10    0 
+ender     797286303  6  1 Bc  bc    b     b          620   80    0 Js 5h
+ender     797286363  6  6 c   k     k     k          540   10    0 4h 3h
+ender     797286419  6  5 c   b     k     k          530   20   22 Kd 5s
+ender     797286456  6  4 c   k     k     b          532   30   45 
+ender     797286492  7  4 f   -     -     -          547    0    0 
+ender     797286508  7  3 c   kf    -     -          547   10    0 
+ender     797286573  7  2 B   -     -     -          537   10   15 
+ender     797286583  7  1 Bc  kf    -     -          542   10    0 
+ender     797286626  7  7 c   k     k     f          532   10    0 
+ender     797286689  7  6 f   -     -     -          522    0    0 
+ender     797286738  7  5 c   k     k     f          522   10    0 
+ender     797286779  7  4 c   k     kf    -          512   10    0 
+ender     797286835  6  2 Bk  k     k     kf         502   10    0 
+ender     797286907  5  1 Bf  -     -     -          492    5    0 
+ender     797286956  6  6 f   -     -     -          487    0    0 
+ender     797287005  7  6 c   r     rc    k          487   90    0 5s Kc
+ender     797287101  9  7 f   -     -     -          397    0    0 
+ender     797287150 10  7 c   c     f     -          397   20    0 
+ender     797287204 11  6 f   -     -     -          377    0    0 
+ender     797287297 12  5 cc  b     b     b          377   70  205 
+ender     797287377 12  4 cc  rr    kc    k          512   80  310 
+ender     797287500  9  3 cc  kf    -     -          742   20    0 
+ender     797287639 11  2 Bc  k     kf    -          722   20    0 
+ender     797287719 10  1 Bc  kc    kc    kc         702   60    0 Kc Td
+ender     797287865 12 12 f   -     -     -          642    0    0 
+ender     797287956 12 11 c   f     -     -          642   10    0 
+ender     797288113 11  9 f   -     -     -          632    0    0 
+ender     797288203 10  8 c   rr    br    k          632  120    0 4s Qc
+ender     797288295 10  7 rr  brrrc brc   c          512  220    0 7s 7h
+ender     797288391  9  6 c   f     -     -          292   20    0 
+ender     797288430  9  5 c   f     -     -          272   20    0 
+ender     797288500 10  4 c   k     k     b          252   30   55 
+ender     797288606 11  2 cc  b     k     k          277   30   90 9c 8s
+ender     797288782  8  1 Bc  kf    -     -          337   30    0 
+ender     797288848 10  1 Bf  -     -     -          307    5    0 
+ender     797289014 12 12 f   -     -     -          302    0    0 
+ender     797289086  8  7 c   k     k     k          302   10   35 5s 7s
+ender     797289136  8  6 cc  cc    kc    kc         327   80    0 9c 8h
+ender     797289212  9  6 cc  f     -     -          247   20    0 
+ender     797289294  9  5 cc  f     -     -          227   20    0 
+ender     797289337  9  4 f   -     -     -          207    0    0 
+ender     797289417  9  3 f   -     -     -          207    0    0 
+ender     797289441  9  2 Bc  kf    -     -          207   20    0 
+ender     797289514 10  1 Bf  -     -     -          187    5    0 
+ender     797289564 10 10 c   r     c     k          182   60  235 9s 7h
+ender     797289636 10  9 f   -     -     -          357    0    0 
+ender     797289747 11  9 c   b     b     k          357   40   78 7d Ts
+ender     797289872 11  8 c   c     c     f          395   50    0 
+ender     797289953 12  7 f   -     -     -          345    0    0 
+ender     797290066 12  6 c   br    kr    k          345   80    0 Qh 4d
+ender     797290125 12  5 c   k     b     b          265   50  125 
+ender     797290241 11  4 cc  brr   b     brrrrrrA    340  340    0 Ad 2s
+ender     797708007 12  5 f   -     -     -         1000    0    0 
+ender     797708068 12  4 f   -     -     -         1000    0    0 
+ender     797708117 12  3 cc  kc    kc    kcf       1000   80    0 
+ender     797708255 12  2 Bc  kf    -     -          920   20    0 
+ender     797708347 12  1 Bc  kc    b     k          900   50  170 Kd Th
+ender     797708431 11 11 c   f     -     -         1020   10    0 
+ender     797708549 12 11 f   -     -     -         1010    0    0 
+ender     797708644 12 10 c   f     -     -         1010   20    0 
+ender     797708793 11  8 f   -     -     -          990    0    0 
+ender     797708851 11  6 cc  c     kc    k          990   60  380 7d Td
+ender     797709011 12  6 c   k     k     k         1310   10    0 Qs 8h
+ender     797709171 12  5 ccc kc    kf    -         1300   50    0 
+ender     797709322 12  4 cc  f     -     -         1250   20    0 
+ender     797709519 11  3 f   -     -     -         1230    0    0 
+ender     797709668 11  2 Bc  kc    kcc   kc        1230   90    0 2d 9d
+ender     797709774 11  1 Bf  -     -     -         1140    5    0 
+ender     797709855 11 11 f   -     -     -         1135    0    0 
+ender     797709992 11 10 KQ  -     -     -         1135    0    0 
+ender     797710403  9  9 cc  f     -     -         1135   20    0 
+ender     797710548  8  8 c   r     bc    c         1115  100    0 5d Th
+ender     797710649  8  7 f   -     -     -         1015    0    0 
+ender     797710756  8  6 f   -     -     -         1015    0    0 
+ender     797710800  9  5 rc  kc    bc    k         1015   80    0 Ac Qh
+ender     797710909  8  4 c   f     -     -          935   10    0 
+ender     797711009  7  3 cc  c     c     k          925   50  125 5h 6c
+ender     797711092  7  2 Bc  c     r     b         1000   90  190 5c 4c
+ender     797711206  8  1 Bc  kc    kc    kc        1100   80    0 8d Kh
+ender     797711286  7  7 c   f     -     -         1020   20    0 
+ender     797711353  6  5 c   f     -     -         1000   10    0 
+ender     797711420  6  5 c   b     -     -          990   20   40 
+ender     797711469  6  4 c   b     -     -         1010   20   40 
+ender     797711536  6  4 cc  f     -     -         1030   20    0 
+ender     797711578  5  2 Bk  b     -     -         1010   20   35 
+ender     797711603  5  1 Bc  b     bc    b         1025   90    0 8s Tc
+ender     797711663  5  5 f   -     -     -          935    0    0 
+ender     797711705  6  5 f   -     -     -          935    0    0 
+ender     797711748  6  4 c   kc    k     f          935   20    0 
+ender     797711836  5  2 B   -     -     -          915   10   15 
+ender     797711850  5  1 Br  b     -     -          920   40   80 
+ender     797711889  6  6 f   -     -     -          960    0    0 
+ender     797711944  6  4 f   -     -     -          960    0    0 
+ender     797711972  6  3 f   -     -     -          960    0    0 
+ender     797711991  6  2 Bk  b     -     -          960   20   40 
+ender     797712031  8  1 Br  br    b     -          980   80  180 
+ender     797712115  8  8 c   k     k     k         1080   10    0 Qc 9s
+ender     797712190  7  6 cc  brc   kc    kc        1070  100  225 As 9s
+ender     797712316  9  6 f   -     -     -         1195    0    0 
+ender     797712401 10  6 c   r     k     c         1195   50    0 Jd 8s
+ender     797712530 11  7 f   -     -     -         1145    0    0 
+ender     797712617 10  6 c   f     -     -         1145   20    0 
+ender     797712650 10  5 cc  f     -     -         1125   20    0 
+ender     797712763 10  4 cc  f     -     -         1105   20    0 
+ender     797712908  9  3 f   -     -     -         1085    0    0 
+ender     797712973 10  2 Bk  kc    kf    -         1085   20    0 
+ender     797713129 12  1 Bc  kc    b     b         1065   60  120 
+ender     797713229 11 11 c   c     f     -         1125   30    0 
+ender     797713289 11 10 c   k     f     -         1095   10    0 
+ender     797713410 12  9 c   r     bc    br        1085  140  395 5h 7c
+ender     797713627 11  8 c   k     cf    -         1340   30    0 
+ender     797713809 12  7 f   -     -     -         1310    0    0 
+ender     797713866 12  6 f   -     -     -         1310    0    0 
+ender     797714023  9  3 cc  bc    kc    kc        1310   80    0 Kh Qs
+ender     797714121  9  3 f   -     -     -         1230    0    0 
+ender     797714195 10  3 f   -     -     -         1230    0    0 
+ender     797714300 10  2 Bc  kf    -     -         1230   20    0 
+ender     797714360 10  1 Bc  kf    -     -         1210   10    0 
+ender     797714451 10 10 cc  b     c     c         1200   70  190 Ac Qd
+ender     797714545 12 11 f   -     -     -         1320    0    0 
+ender     797714709  9  8 c   c     c     c         1320   70    0 Ah Th
+ender     797714829  8  6 f   -     -     -         1250    0    0 
+ender     797714938  8  5 c   f     -     -         1250   20    0 
+ender     797715009  8  4 cc  kf    -     -         1230   20    0 
+ender     797715055  9  4 c   kf    -     -         1210   10    0 
+ender     797715173  9  3 f   -     -     -         1200    0    0 
+ender     797715281  9  2 Bc  kf    -     -         1200   30    0 
+ender     797715426 10  1 Bf  -     -     -         1170    5    0 
+ender     797715524 10 10 f   -     -     -         1165    0    0 
+ender     797715601 11 10 f   -     -     -         1165    0    0 
+ender     797715757 11  9 c   f     -     -         1165   20    0 
+ender     797715849 10  7 f   -     -     -         1145    0    0 
+ender     797715967 10  6 f   -     -     -         1145    0    0 
+ender     797716069 10  5 cc  kf    -     -         1145   30    0 
+ender     797716252 12  4 cc  kf    -     -         1115   20    0 
+ender     797716527 11  4 cc  brc   kcc   kc        1095  160  705 6d 7c
+ender     797716769  9  2 Bc  f     -     -         1640   40    0 
+ender     797716917 10  1 Bcc kcc   kcc   kc        1600  130    0 7s 6s
+ender     797717092  9  9 rr  c     c     c         1470   90  310 Tc Td
+ender     797717304  7  6 cc  cc    kc    kc        1690   90    0 3s 3h
+ender     797717458  8  6 cc  f     -     -         1600   30    0 
+ender     797717631  8  5 cc  kf    -     -         1570   20    0 
+ender     797717741  8  3 f   -     -     -         1550    0    0 
+ender     797717814  8  2 Bc  kc    f     -         1550   30    0 
+ender     797717949  9  1 Bc  k     b     b         1520   50  110 9c 9h
+ender     797718029  8  3 Q   -     -     -         1580    0    0 
+ender     798307257  5  2 Bk  b     k     kc        1580   40    0 Kd Jh
+ender     798307428  5  1 Bc  k     kf    -         1540   10    0 
+ender     798307502  5  5 f   -     -     -         1530    0    0 
+ender     798307547  5  4 cc  kf    -     -         1530   30    0 
+ender     798307635  6  3 c   c     f     -         1500   20    0 
+ender     798307717  7  2 Bk  kc    bc    kc        1480   90    0 Ts Qs
+ender     798307823  8  1 Bc  kf    -     -         1390   10    0 
+ender     798307885  8  8 f   -     -     -         1380    0    0 
+ender     798307934  8  7 c   c     f     -         1380   20    0 
+ender     798307998  7  5 f   -     -     -         1360    0    0 
+ender     798308038  7  4 f   -     -     -         1360    0    0 
+ender     798308069  7  3 c   f     -     -         1360   10    0 
+ender     798308104  6  2 Bk  br    k     brc       1350  120    0 As 7h
+ender     798308163  6  1 Bc  k     k     k         1230   10   30 6c 9h
+ender     798308220  7  7 f   -     -     -         1250    0    0 
+ender     798308244  7  6 cc  kc    k     k         1250   30    0 9h Qc
+ender     798308322  8  6 c   f     -     -         1220   10    0 
+ender     798308365  8  5 c   kc    kc    k         1210   40  100 8s As
+ender     798308453  9  4 c   r     b     b         1270   70  200 Ks 6c
+ender     798308556 10  3 cc  kf    -     -         1400   20    0 
+ender     798308611 10  2 Bc  kf    -     -         1380   20    0 
+ender     798308675 11  1 Bf  -     -     -         1360    5    0 
+ender     798308795 10 10 f   -     -     -         1355    0    0 
+ender     798308829 11 10 c   f     -     -         1355   10    0 
+ender     798308882 11  9 c   k     f     -         1345   10    0 
+ender     798308954 11  8 c   f     -     -         1335   20    0 
+ender     798309005 11  7 f   -     -     -         1315    0    0 
+ender     798309100 12  7 f   -     -     -         1315    0    0 
+ender     798309190 12  6 c   b     k     b         1315   50  165 8h 9d
+ender     798309260 12  5 cc  bc    cc    cc        1430  120    0 Qh 5s
+ender     798309385 11  3 f   -     -     -         1310    0    0 
+ender     798309469 11  3 c   b     kc    kc        1310   60    0 Ac 7d
+ender     798309593 11  2 Bc  kc    kc    kc        1250   70    0 Jc 8d
+ender     798309679 10  1 Bf  -     -     -         1180    5    0 
+ender     798309721 10 10 c   k     f     -         1175   10    0 
+ender     798309805  9  8 f   -     -     -         1165    0    0 
+ender     798309840  8  7 c   k     k     k         1165   10    0 Ts Jd
+ender     798309917  8  6 c   k     k     k         1155   10   30 Ah Kh
+ender     798309968  9  6 c   cf    -     -         1175   20    0 
+ender     798310076  9  5 cc  cc    f     -         1155   40    0 
+ender     798310175  9  4 cc  k     k     k         1115   20   28 Kc Qh
+ender     798310226  8  3 c   kc    b     kc        1123   60    0 Jd Ah
+ender     798310377  9  3 c   k     cc    kc        1063   70    0 8s 6c
+ender     798310484  9  2 Bk  kf    -     -          993   10    0 
+ender     798310552  9  1 Bc  k     kf    -          983   10    0 
+ender     798310681  8  8 f   -     -     -          973    0    0 
+ender     798310749  7  6 f   Q     -     -          973    0    0 

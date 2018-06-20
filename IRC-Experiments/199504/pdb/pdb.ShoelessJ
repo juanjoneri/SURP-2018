@@ -1,0 +1,347 @@
+ShoelessJ 798472105  2  1 Bc  k     k     kc        1000   30   60 Js Ks
+ShoelessJ 798472176  2  2 B   -     -     -         1030   10   15 
+ShoelessJ 798472188  2  1 Bc  k     k     kf        1035   10    0 
+ShoelessJ 798472208  2  2 B   -     -     -         1025   10   15 
+ShoelessJ 798472216  2  1 Bf  -     -     -         1030    5    0 
+ShoelessJ 798472224  2  2 B   -     -     -         1025   10   15 
+ShoelessJ 798472228  2  1 Br  -     -     -         1030   20   30 
+ShoelessJ 798472239  2  2 Bk  f     -     -         1040   10    0 
+ShoelessJ 798472270  2  1 Br  -     -     -         1030   20   30 
+ShoelessJ 798472277  2  2 B   -     -     -         1040   10   15 
+ShoelessJ 798472281  2  1 Bcc kc    krc   bc        1045  130  260 Ac 4d
+ShoelessJ 798472329  2  2 B   -     -     -         1175   10   15 
+ShoelessJ 798472339  2  1 Br  k     kc    kf        1180   40    0 
+ShoelessJ 798472377  2  2 Bc  r     b     c         1140   80    0 6d Ac
+ShoelessJ 798472418  2  1 Bf  -     -     -         1060    5    0 
+ShoelessJ 798472427  2  2 B   -     -     -         1055   10   15 
+ShoelessJ 798472432  2  1 Brr k     k     kc        1060   60  120 Kd Ac
+ShoelessJ 798472479  2  2 Br  c     c     c         1120   80  160 9d As
+ShoelessJ 798472509  3  1 Bc  k     kf    -         1200   10    0 
+ShoelessJ 798472561  3  3 f   -     -     -         1190    0    0 
+ShoelessJ 798472586  3  2 Bf  -     -     -         1190   10    0 
+ShoelessJ 798472593  3  1 Bf  -     -     -         1180    5    0 
+ShoelessJ 798472613  3  3 r   b     b     k         1175   50  105 Th Td
+ShoelessJ 798472649  3  2 Bk  k     k     k         1230   10   20 5h Qd
+ShoelessJ 798472688  3  1 Br  -     -     -         1240   20   30 
+ShoelessJ 798472704  3  3 r   b     b     -         1250   50   85 
+ShoelessJ 798472736  3  2 Bk  r     bf    -         1285   50    0 
+ShoelessJ 798472765  3  1 Brc bc    br    b         1235  130  350 4d 3d
+ShoelessJ 798472827  3  3 r   -     -     -         1455   20   35 
+ShoelessJ 798472841  3  2 Bc  b     kr    b         1470   90  230 3d 3s
+ShoelessJ 798472895  3  1 Br  k     k     k         1610   20   50 As 9c
+ShoelessJ 798472965  3  3 f   -     -     -         1640    0    0 
+ShoelessJ 798473008  3  2 B   -     -     -         1640   10   15 
+ShoelessJ 798473013  3  1 Brc k     k     kf        1645   30    0 
+ShoelessJ 798473050  3  3 r   b     r     c         1615   90    0 Js Tc
+ShoelessJ 798473092  3  2 B   -     -     -         1525   10   15 
+ShoelessJ 798473098  3  1 Br  b     kr    b         1530  100    0 Ac Jh
+ShoelessJ 798473139  3  3 r   b     -     -         1430   30   55 
+ShoelessJ 798473164  3  2 Bc  rc    c     k         1455   70  160 6d 4d
+ShoelessJ 798473223  3  1 Bf  -     -     -         1545    5    0 
+ShoelessJ 798473236  3  3 rc  c     b     b         1540   80  150 
+ShoelessJ 798473294  3  2 Bk  k     k     k         1610   10    0 Qc 3h
+ShoelessJ 798473329  3  1 Br  k     kf    -         1600   20    0 
+ShoelessJ 798473366  3  3 rc  c     c     c         1580   80  170 8c Jd
+ShoelessJ 798473401  3  2 Bk  k     b     -         1670   30   40 
+ShoelessJ 798473442  3  1 Brc k     b     kc        1680   70    0 3c 3d
+ShoelessJ 798473483  3  3 r   b     b     b         1610   70  145 Jc Th
+ShoelessJ 798473513  3  2 Br  b     br    k         1685   90    0 Qs Ks
+ShoelessJ 798473556  4  1 Bf  -     -     -         1595    5    0 
+ShoelessJ 798473585  4  4 f   -     -     -         1590    0    0 
+ShoelessJ 798473596  4  3 Q   -     -     -         1590    0    0 
+ShoelessJ 798474296  2  1 Bcc kf    -     -         1590   20    0 
+ShoelessJ 798474309  2  2 Bf  -     -     -         1570   10    0 
+ShoelessJ 798474320  2  1 Br  -     -     -         1560   20   30 
+ShoelessJ 798474329  2  2 Bc  c     c     c         1570   70    0 2s Qs
+ShoelessJ 798474365  2  1 Brr b     bc    kc        1500  110    0 7h 7d
+ShoelessJ 798474404  2  2 Bc  f     -     -         1390   20    0 
+ShoelessJ 798474429  3  1 Bcc k     kf    -         1370   20    0 
+ShoelessJ 798474474  3  3 c   Q     -     -         1350   10    0 
+ShoelessJ 798478478  8  3 cc  r     kc    k         1340   60    0 5h 8s
+ShoelessJ 798478613  7  2 Bk  k     b     b         1280   50  130 Ts 3d
+ShoelessJ 798478668  7  1 Bc  b     k     k         1360   20   70 Jd 6d
+ShoelessJ 798478718  6  6 cc  f     -     -         1410   20    0 
+ShoelessJ 798478791  6  5 c   k     b     -         1390   30   45 
+ShoelessJ 798478822  6  4 r   c     c     k         1405   50    0 Kh Jc
+ShoelessJ 798478881  6  3 f   -     -     -         1355    0    0 
+ShoelessJ 798478922  6  2 Bk  kf    -     -         1355   10    0 
+ShoelessJ 798478988  6  1 Bf  -     -     -         1345    5    0 
+ShoelessJ 798479048  6  6 c   r     k     c         1340   50    0 2s 8c
+ShoelessJ 798479091  5  4 f   -     -     -         1290    0    0 
+ShoelessJ 798479109  4  3 r   k     k     k         1290   20   45 Td 8s
+ShoelessJ 798479133  4  2 Bf  -     -     -         1315   10    0 
+ShoelessJ 798479141  4  1 Bc  bc    k     kf        1305   30    0 
+ShoelessJ 798479184  4  4 f   -     -     -         1275    0    0 
+ShoelessJ 798479211  6  3 f   -     -     -         1275    0    0 
+ShoelessJ 798479238  6  2 Bf  -     -     -         1275   10    0 
+ShoelessJ 798479251  6  1 Bf  -     -     -         1265    5    0 
+ShoelessJ 798479306  6  6 c   c     c     k         1260   50   67 Ac 2c
+ShoelessJ 798479363  6  5 f   -     -     -         1277    0    0 
+ShoelessJ 798479520  7  4 Q   -     -     -         1277    0    0 
+ShoelessJ 798822633  5  5 f   -     -     -         1277    0    0 
+ShoelessJ 798822646  5  4 f   -     -     -         1277    0    0 
+ShoelessJ 798822836  6  3 rc  bc    kc    b         1277   90  260 
+ShoelessJ 798822913  5  2 Bc  kf    -     -         1447   20    0 
+ShoelessJ 798822946  5  1 Bf  -     -     -         1427    5    0 
+ShoelessJ 798822965  5  5 f   -     -     -         1422    0    0 
+ShoelessJ 798822986  5  4 c   k     kf    -         1422   10    0 
+ShoelessJ 798823038  5  3 cc  r     k     f         1412   40    0 
+ShoelessJ 798823120  6  2 Bk  kf    -     -         1372   10    0 
+ShoelessJ 798823141  5  1 Bf  -     -     -         1362    5    0 
+ShoelessJ 798823177  5  5 c   r     -     -         1357   30   55 
+ShoelessJ 798823204  5  4 f   -     -     -         1382    0    0 
+ShoelessJ 798823246  5  3 c   kf    -     -         1382   10    0 
+ShoelessJ 798823304  7  2 Bk  k     f     -         1372   10    0 
+ShoelessJ 798823373  8  1 Bf  -     -     -         1362    5    0 
+ShoelessJ 798823484  7  7 Q   -     -     -         1357    0    0 
+ShoelessJ 798969356  8  4 f   -     -     -         1357    0    0 
+ShoelessJ 798969474  9  3 f   -     -     -         1357    0    0 
+ShoelessJ 798969648  9  2 Br  bc    kc    kc        1357  100    0 Ad 3d
+ShoelessJ 798969802  9  1 Bf  -     -     -         1257    5    0 
+ShoelessJ 798969918  7  7 c   f     -     -         1252   10    0 
+ShoelessJ 798969973  6  5 f   -     -     -         1242    0    0 
+ShoelessJ 798970020  6  5 f   -     -     -         1242    0    0 
+ShoelessJ 798970056  6  4 f   -     -     -         1242    0    0 
+ShoelessJ 798970142  6  3 f   -     -     -         1242    0    0 
+ShoelessJ 798970170  6  2 Bf  -     -     -         1242   10    0 
+ShoelessJ 798970220  6  1 Bf  -     -     Q         1232    5    0 
+ShoelessJ 798970550  6  4 f   -     -     -         1227    0    0 
+ShoelessJ 798970609  6  3 f   -     -     -         1227    0    0 
+ShoelessJ 798970640  6  2 Bf  -     -     -         1227   10    0 
+ShoelessJ 798970692  6  1 Bc  b     -     -         1217   20   70 
+ShoelessJ 798970746  6  6 f   -     -     -         1267    0    0 
+ShoelessJ 798970855  6  5 c   f     -     -         1267   10    0 
+ShoelessJ 798970932  6  4 c   cc    k     kc        1257   50    0 9c Qd
+ShoelessJ 798971020  6  3 f   -     -     -         1207    0    0 
+ShoelessJ 798971116  6  2 Bf  -     -     -         1207   10    0 
+ShoelessJ 798971207  6  1 Bf  -     -     -         1197    5    0 
+ShoelessJ 798971269  6  6 f   -     -     -         1192    0    0 
+ShoelessJ 798971303  6  5 f   -     -     -         1192    0    0 
+ShoelessJ 798971363  6  4 c   k     f     -         1192   10    0 
+ShoelessJ 798971407  5  3 f   -     -     -         1182    0    0 
+ShoelessJ 798971441  5  2 Bk  bc    b     b         1182   70  140 
+ShoelessJ 798971499  5  1 Bf  -     -     -         1252    5    0 
+ShoelessJ 798971532  5  5 c   c     c     f         1247   50    0 
+ShoelessJ 798971564  5  4 f   -     -     -         1197    0    0 
+ShoelessJ 798971618  5  3 f   -     -     -         1197    0    0 
+ShoelessJ 798971668  5  2 Bc  b     c     b         1197   70  120 
+ShoelessJ 798971723  5  1 BQ  -     -     -         1247    5    0 
+ShoelessJ 798981636  3  3 c   k     k     k         1242   10    0 8h 9c
+ShoelessJ 798981660  3  2 Bk  b     -     -         1232   20   30 
+ShoelessJ 798981678  3  1 Bc  k     k     k         1242   10   20 9d Kc
+ShoelessJ 798981719  2  2 B   -     -     -         1252   10   15 
+ShoelessJ 798981732  2  1 BrQ -     -     -         1257   20   30 
+ShoelessJ 798981809  2  1 Bf  -     -     -         1267    5    0 
+ShoelessJ 798981812  2  2 B   -     -     -         1262   10   15 
+ShoelessJ 798981868  2  1 Bf  -     -     -         1267    5    0 
+ShoelessJ 798981875  2  2 B   -     -     -         1262   10   15 
+ShoelessJ 798981882  2  1 Bc  b     k     b         1267   40   60 
+ShoelessJ 798981971  2  2 Br  rc    c     c         1287   90  180 Kh Qh
+ShoelessJ 798982016  2  1 Bf  -     -     -         1377    5    0 
+ShoelessJ 798982026  2  2 B   -     -     -         1372   10   15 
+ShoelessJ 798982035  2  1 Bf  -     -     -         1377    5    0 
+ShoelessJ 798982043  2  2 Bk  k     k     k         1372   10   20 4c 9s
+ShoelessJ 798982096  2  1 Bf  -     -     -         1382    5    0 
+ShoelessJ 798982105  2  2 Bk  f     -     -         1377   10    0 
+ShoelessJ 798982127  2  1 Bc  k     k     k         1367   10   10 3h 9s
+ShoelessJ 798982166  2  2 Bf  -     -     -         1367   10    0 
+ShoelessJ 798982182  2  1 Br  -     -     -         1357   20   30 
+ShoelessJ 798982192  2  2 B   -     -     -         1367   10   15 
+ShoelessJ 798982199  2  1 Br  -     -     -         1372   20   30 
+ShoelessJ 798982210  2  2 Bc  c     r     -         1382   70  120 
+ShoelessJ 798982234  2  1 Bf  -     -     -         1432    5    0 
+ShoelessJ 798982239  2  2 Bk  f     -     -         1427   10    0 
+ShoelessJ 798982253  2  1 Bcc bc    k     k         1417   40   80 8d 9c
+ShoelessJ 798982295  2  2 Br  b     -     -         1457   30   50 
+ShoelessJ 798982318  2  1 Bf  -     -     -         1477    5    0 
+ShoelessJ 798982322  2  2 B   -     -     -         1472   10   15 
+ShoelessJ 798982328  2  1 Bc  k     k     kc        1477   30   60 5s Js
+ShoelessJ 798982366  2  2 B   -     -     -         1507   10   15 
+ShoelessJ 798982380  2  1 Bc  k     k     k         1512   10    0 Th 7h
+ShoelessJ 798982416  2  2 Bk  f     -     -         1502   10    0 
+ShoelessJ 798982451  2  1 Bf  -     -     -         1492    5    0 
+ShoelessJ 798982458  2  2 Bk  b     b     k         1487   40   40 Qd 5d
+ShoelessJ 798982519  2  1 Bc  k     b     k         1487   30    0 2c 4c
+ShoelessJ 798982554  2  2 B   -     -     -         1457   10   15 
+ShoelessJ 798982561  2  1 Bf  -     -     -         1462    5    0 
+ShoelessJ 798982565  2  2 B   -     -     -         1457   10   15 
+ShoelessJ 798982570  2  1 Br  k     kf    -         1462   20    0 
+ShoelessJ 798982607  2  2 B   -     -     -         1442   10   15 
+ShoelessJ 798982613  2  1 Br  -     -     -         1447   20   30 
+ShoelessJ 798982620  2  2 Bc  k     k     k         1457   20   40 4c 4h
+ShoelessJ 798982648  2  1 Bc  b     b     -         1477   40   60 
+ShoelessJ 798982668  2  2 Bk  k     b     -         1497   30   40 
+ShoelessJ 798982694  2  1 Bf  -     -     -         1507    5    0 
+ShoelessJ 798982700  2  2 Br  bc    c     c         1502   80  160 6c Ac
+ShoelessJ 798982736  2  1 Br  b     b     -         1582   50   80 
+ShoelessJ 798982785  2  2 B   -     -     -         1612   10   15 
+ShoelessJ 798982790  2  1 Bf  -     -     -         1617    5    0 
+ShoelessJ 798982797  2  2 Bk  k     k     k         1612   10   20 9d Kd
+ShoelessJ 798982826  2  1 Bf  -     -     -         1622    5    0 
+ShoelessJ 798982830  2  2 B   -     -     -         1617   10   15 
+ShoelessJ 798982835  2  1 Bf  -     -     -         1622    5    0 
+ShoelessJ 798982861  2  2 Bk  k     k     k         1617   10    0 8c 3d
+ShoelessJ 798982895  2  1 Br  -     -     -         1607   20   30 
+ShoelessJ 798982918  2  2 Bc  f     -     -         1617   20    0 
+ShoelessJ 798982935  2  1 Brc kr    b     b         1597   90  180 As 9s
+ShoelessJ 798982993  2  2 Bc  k     f     -         1687   20    0 
+ShoelessJ 798983035  2  1 Br  b     -     -         1667   30   50 
+ShoelessJ 798983057  2  2 Br  k     b     k         1687   40    0 2d Kd
+ShoelessJ 798983098  2  1 Bf  -     -     -         1647    5    0 
+ShoelessJ 798983104  2  2 Bk  b     b     bc        1642   80    0 6s 8s
+ShoelessJ 798983150  2  1 Bf  -     -     -         1562    5    0 
+ShoelessJ 798983157  2  2 Bf  -     -     -         1557   10    0 
+ShoelessJ 798983168  2  1 Bf  -     -     -         1547    5    0 
+ShoelessJ 798983176  2  2 B   -     -     -         1542   10   15 
+ShoelessJ 798983180  2  1 Bc  b     k     kr        1547   60  100 
+ShoelessJ 798983233  2  2 B   -     -     -         1587   10   15 
+ShoelessJ 798983290  2  1 Brc bc    k     k         1592   50    0 Kc Tc
+ShoelessJ 798983335  2  2 Bk  k     k     k         1542   10    0 2c 8c
+ShoelessJ 798983376  2  1 Bc  k     kf    -         1532   10    0 
+ShoelessJ 798983431  2  2 B   -     -     -         1522   10   15 
+ShoelessJ 798983438  2  1 Bf  -     -     -         1527    5    0 
+ShoelessJ 798983439  2  2 BQ  -     -     -         1522   10    0 
+ShoelessJ 799054591  2  1 Bc  b     bc    kc        1512   80  160 Kh 5h
+ShoelessJ 799054624  2  2 B   -     -     -         1592   10   15 
+ShoelessJ 799054630  2  1 Bc  k     kf    -         1597   10    0 
+ShoelessJ 799054654  2  2 Bf  -     -     -         1587   10    0 
+ShoelessJ 799054658  3  1 Bf  -     -     -         1577    5    0 
+ShoelessJ 799054668  3  3 r   -     -     -         1572   20   35 
+ShoelessJ 799054679  3  2 Brc rc    c     c         1587  110    0 Jd Qs
+ShoelessJ 799054719  3  1 Bf  -     -     -         1477    5    0 
+ShoelessJ 799054758  3  3 f   -     -     -         1472    0    0 
+ShoelessJ 799054802  3  2 B   -     -     -         1472   10   15 
+ShoelessJ 799054821  3  1 Bc  kf    -     -         1477   20    0 
+ShoelessJ 799054845  3  3 f   -     -     -         1457    0    0 
+ShoelessJ 799054888  3  2 Brc kc    kc    kc        1457   80    0 Qh Ts
+ShoelessJ 799054937  3  1 Bf  -     -     -         1377    5    0 
+ShoelessJ 799054949  3  3 f   -     -     -         1372    0    0 
+ShoelessJ 799054962  2  2 Br  bc    b     k         1372   70    0 As 7c
+ShoelessJ 799055010  2  1 Bf  -     -     -         1302    5    0 
+ShoelessJ 799055017  2  2 Br  c     c     k         1297   60  120 Ac Kh
+ShoelessJ 799055046  2  1 Brr b     b     b         1357   90  180 4h 2d
+ShoelessJ 799055076  2  2 Br  c     rf    -         1447   70    0 
+ShoelessJ 799055107  2  1 Br  k     k     kc        1377   40   80 Qc Tc
+ShoelessJ 799055145  2  2 Bc  c     f     -         1417   30    0 
+ShoelessJ 799055165  2  1 Brc kc    kf    -         1387   40    0 
+ShoelessJ 799055206  2  2 Bk  rc    r     k         1347   80  160 5d 9s
+ShoelessJ 799055234  2  1 Bcc b     -     -         1427   30   50 
+ShoelessJ 799055252  2  2 Br  r     b     -         1447   70  120 
+ShoelessJ 799055280  2  1 Bc  kf    -     -         1497   10    0 
+ShoelessJ 799055298  2  2 Bk  rc    c     c         1487   80    0 7h 5s
+ShoelessJ 799055334  2  1 Bf  -     -     -         1407    5    0 
+ShoelessJ 799055341  2  2 B   -     -     -         1402   10   15 
+ShoelessJ 799055348  2  1 Bcc kf    -     -         1407   20    0 
+ShoelessJ 799055368  2  2 Bk  f     -     -         1387   10    0 
+ShoelessJ 799055382  2  1 Bcc brc   kc    kc        1377  100    0 5c 6d
+ShoelessJ 799055412  2  2 Br  rrc   c     c         1277  120    0 Tc Qs
+ShoelessJ 799055443  2  1 Brr b     b     -         1157   70  120 
+ShoelessJ 799055466  2  2 Br  c     f     -         1207   40    0 
+ShoelessJ 799055488  2  1 Brrc bc    krc   kc        1167  150    0 Tc Qc
+ShoelessJ 799055526  2  2 Bc  f     -     -         1017   20    0 
+ShoelessJ 799055543  2  1 Bcc bc    kf    -          997   40    0 
+ShoelessJ 799055560  2  2 Bf  -     -     -          957   10    0 
+ShoelessJ 799055568  2  1 Brc kc    kc    kf         947   60    0 
+ShoelessJ 799055596  2  2 Bc  f     -     -          887   20    0 
+ShoelessJ 799055614  2  1 Br  k     k     k          867   20    0 4h Jc
+ShoelessJ 799055636  2  2 Bc  c     f     -          847   30    0 
+ShoelessJ 799055652  2  1 Br  k     b     b          817   60  120 Th 8c
+ShoelessJ 799055680  2  2 Bc  f     -     -          877   20    0 
+ShoelessJ 799055697  2  1 Brr kc    kc    kc         857   90   90 Jh Ad
+ShoelessJ 799055738  2  2 Br  k     k     k          857   30   60 Ah 5d
+ShoelessJ 799055767  2  1 Br  kf    -     -          887   20    0 
+ShoelessJ 799055784  2  2 Brc c     c     r          867  110  220 Qs 4s
+ShoelessJ 799055811  2  1 Br  -     -     -          977   20   30 
+ShoelessJ 799055824  2  2 Brc f     -     -          987   40    0 
+ShoelessJ 799055842  2  1 Bf  -     -     -          947    5    0 
+ShoelessJ 799055845  2  2 Br  c     r     b          942  100  200 4s 3s
+ShoelessJ 799055889  2  1 Bc  k     kf    -         1042   10    0 
+ShoelessJ 799055925  2  2 Bc  f     -     -         1032   20    0 
+ShoelessJ 799055935  2  1 Bf  -     -     -         1012    5    0 
+ShoelessJ 799055936  2  2 Br  r     r     k         1007   90  180 Jd Qh
+ShoelessJ 799055968  2  1 Bf  -     -     -         1097    5    0 
+ShoelessJ 799055972  2  2 B   -     -     -         1092   10   15 
+ShoelessJ 799055984  3  1 Bcc kf    -     -         1097   20    0 
+ShoelessJ 799056005  3  3 rc  r     -     -         1077   50   95 
+ShoelessJ 799056035  3  2 Bf  -     -     -         1122   10    0 
+ShoelessJ 799056075  3  1 Bc  b     -     -         1112   20   30 
+ShoelessJ 799056103  3  3 f   -     -     -         1122    0    0 
+ShoelessJ 799056115  3  2 Br  b     b     k         1122   60  120 7s 8s
+ShoelessJ 799056149  3  1 Bf  -     -     -         1182    5    0 
+ShoelessJ 799056172  3  3 c   r     k     k         1177   30   70 3h Qh
+ShoelessJ 799056210  3  2 Bf  -     -     -         1217   10    0 
+ShoelessJ 799056274  3  1 Bf  -     -     -         1207    5    0 
+ShoelessJ 799056276  3  3 rc  rc    c     c         1202  100  205 Tc 4d
+ShoelessJ 799056278  3  2 Bf  -     -     -         1307   10    0 
+ShoelessJ 799056281  3  1 Bf  -     -     -         1297    5    0 
+ShoelessJ 799056295  3  3 r   -     -     -         1292   20   35 
+ShoelessJ 799056304  3  2 Bc  f     -     -         1307   20    0 
+ShoelessJ 799056317  3  1 Br  -     -     -         1287   20   30 
+ShoelessJ 799056329  3  3 rr  r     b     b         1297  100  185 
+ShoelessJ 799056372  3  2 Br  b     -     -         1382   30   50 
+ShoelessJ 799056397  3  1 Br  -     -     -         1402   20   30 
+ShoelessJ 799056419  3  3 c   k     f     -         1412   10    0 
+ShoelessJ 799056443  3  2 Bc  rc    c     k         1402   70    0 2s 6c
+ShoelessJ 799056481  3  1 Bf  -     -     -         1332    5    0 
+ShoelessJ 799056530  3  3 r   c     r     c         1327   90  185 9d Ah
+ShoelessJ 799056564  3  2 Bc  f     -     -         1422   20    0 
+ShoelessJ 799056585  3  1 Bc  k     kf    -         1402   20    0 
+ShoelessJ 799056629  3  3 r   k     k     k         1382   20   45 9s 8d
+ShoelessJ 799056661  3  2 B   -     -     -         1407   10   15 
+ShoelessJ 799056680  3  1 Brc b     b     b         1412   90  230 Ac 7s
+ShoelessJ 799056731  3  3 f   -     -     -         1552    0    0 
+ShoelessJ 799056762  3  2 B   -     -     -         1552   10   15 
+ShoelessJ 799056771  3  1 Bf  -     -     -         1557    5    0 
+ShoelessJ 799056781  3  3 r   f     -     -         1552   20    0 
+ShoelessJ 799056813  3  2 Bc  f     -     -         1532   20    0 
+ShoelessJ 799056826  3  1 Bf  -     -     -         1512    5    0 
+ShoelessJ 799056834  3  3 f   -     -     -         1507    0    0 
+ShoelessJ 799056855  3  2 Bc  rc    f     -         1507   50    0 
+ShoelessJ 799056876  3  1 Bf  -     -     -         1457    5    0 
+ShoelessJ 799056934  3  3 cc  b     -     -         1452   30   70 
+ShoelessJ 799056970  3  2 Bc  r     c     c         1492   80  160 7h Ac
+ShoelessJ 799057002  3  1 Bf  -     -     -         1572    5    0 
+ShoelessJ 799057014  3  3 cc  c     rr    b         1567  140  400 7d 2h
+ShoelessJ 799057089  3  2 Bf  -     -     -         1827   10    0 
+ShoelessJ 799057102  3  1 Bcc kf    -     -         1817   20    0 
+ShoelessJ 799057124  3  3 cc  f     -     -         1797   20    0 
+ShoelessJ 799057144  3  2 Bf  -     -     -         1777   10    0 
+ShoelessJ 799057153  3  1 Bc  b     b     kf        1767   50    0 
+ShoelessJ 799057184  3  3 r   k     f     -         1717   20    0 
+ShoelessJ 799057208  3  2 Bc  b     -     -         1697   40  100 
+ShoelessJ 799057245  3  1 Bf  -     -     -         1757    5    0 
+ShoelessJ 799057252  3  3 r   rc    r     b         1752  110  240 6s 6c
+ShoelessJ 799057298  3  2 Bk  r     bc    k         1882   70  140 8d 3c
+ShoelessJ 799057343  3  1 Br  b     kf    -         1952   30    0 
+ShoelessJ 799057472  3  3 f   -     -     -         1922    0    0 
+ShoelessJ 799057500  3  2 Bk  k     k     k         1922   10    0 9h 2s
+ShoelessJ 799057560  3  1 Br  k     kc    b         1912   70  150 
+ShoelessJ 799057609  3  3 r   r     rc    c         1992  120    0 9c Ts
+ShoelessJ 799057638  3  2 Bf  -     -     -         1872   10    0 
+ShoelessJ 799057649  3  1 Bf  -     -     -         1862    5    0 
+ShoelessJ 799057659  3  3 f   -     -     -         1857    0    0 
+ShoelessJ 799057664  3  2 Bk  r     b     kc        1857   70    0 7s 8h
+ShoelessJ 799057712  3  1 Bf  -     -     -         1787    5    0 
+ShoelessJ 799057726  3  3 cc  f     -     -         1782   20    0 
+ShoelessJ 799057752  3  2 Bc  kf    -     -         1762   20    0 
+ShoelessJ 799057776  3  1 Br  -     -     -         1742   20   30 
+ShoelessJ 799057786  3  3 r   r     r     -         1752   80  145 
+ShoelessJ 799057815  3  2 B   -     -     -         1817   10   15 
+ShoelessJ 799057828  3  1 Br  b     b     b         1822   80  170 Tc Ts
+ShoelessJ 799057859  3  3 f   -     -     -         1912    0    0 
+ShoelessJ 799057916  3  2 Bf  -     -     -         1912   10    0 
+ShoelessJ 799057967  3  1 Bc  br    kr    b         1902  110  240 8h Td
+ShoelessJ 799058013  3  3 ccc r     r     k         2032  100    0 6s Ah
+ShoelessJ 799058085  4  3 cc  f     -     -         1932   20    0 
+ShoelessJ 799058136  4  2 Br  b     b     b         1912   80  180 Ah Kc
+ShoelessJ 799058168  4  1 BQ  -     -     -         2012    5    0 
+ShoelessJ 799059635  5  2 Bf  -     -     -         2007   10    0 
+ShoelessJ 799059764  5  1 Bc  bc    krr   b         1997  130  250 
+ShoelessJ 799059848  5  5 f   -     -     -         2117    0    0 
+ShoelessJ 799059996  5  4 c   r     b     b         2117   70  210 9c Qc
+ShoelessJ 799060129  5  3 f   -     -     -         2257    0    0 
+ShoelessJ 799060187  5  2 Bk  kf    -     -         2257   10    0 
+ShoelessJ 799060247  5  1 Bf  -     -     -         2247    5    0 
+ShoelessJ 799060298  5  5 f   -     -     -         2242    0    0 
+ShoelessJ 799060323  4  4 cc  f     -     -         2242   20    0 
+ShoelessJ 799060375  5  3 f   Q     -     -         2222    0    0 

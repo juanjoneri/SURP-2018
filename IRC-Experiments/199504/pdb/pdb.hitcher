@@ -1,0 +1,108 @@
+hitcher   797215011 11  3 Q   -     -     -         1000    0    0 
+hitcher   797221872  8  5 f   -     -     -         1000    0    0 
+hitcher   797222157  8  3 f   -     -     -         1000    0    0 
+hitcher   797222269 10  3 f   -     -     -         1000    0    0 
+hitcher   797222337 11  2 Bf  -     -     -         1000   10    0 
+hitcher   797222481 12  1 Bf  -     -     -          990    5    0 
+hitcher   797222565 12 12 f   -     -     -          985    0    0 
+hitcher   797222666 12 11 rc  c     r     c          985  110    0 Qs As
+hitcher   797222832 12 10 f   -     -     -          875    0    0 
+hitcher   797222965 12  9 cc  fQ    -     -          875   20    0 
+hitcher   797303400 10  8 c   k     k     b          855   30   90 8s Qs
+hitcher   797303469  9  7 f   -     -     -          915    0    0 
+hitcher   797303578 11  7 f   -     -     -          915    0    0 
+hitcher   797303634 11  6 c   kf    -     -          915   10    0 
+hitcher   797303684 11  5 f   -     -     -          905    0    0 
+hitcher   797303720 10  3 f   -     -     -          905    0    0 
+hitcher   797303791 10  2 Bk  kc    k     kf         905   20    0 
+hitcher   797303876 10  1 Bc  k     kf    -          885   10    0 
+hitcher   797303925 10 10 f   -     -     -          875    0    0 
+hitcher   797304002 10  9 f   -     -     -          875    0    0 
+hitcher   797304136 10  8 f   -     -     -          875    0    0 
+hitcher   797304217 10  7 f   -     -     -          875    0    0 
+hitcher   797304312 10  6 f   -     -     -          875    0    0 
+hitcher   797304387  9  4 f   -     -     -          875    0    0 
+hitcher   797304475  9  5 rr  rr    rr    rrrrrrrrrrrrr    875  675 1575 Jc Jh
+hitcher   797304696  8  2 f   -     -     -         1775    0    0 
+hitcher   797304783  9  2 Bcc bc    bc    bcc       1775  180    0 Qd Td
+hitcher   797304914 10  1 Bf  -     -     -         1595    5    0 
+hitcher   797305036 10 10 f   -     -     -         1590    0    0 
+hitcher   797305095 10  9 f   -     -     -         1590    0    0 
+hitcher   797305269  9  7 rc  kc    kf    -         1590   40    0 
+hitcher   797305401 10  6 f   -     -     -         1550    0    0 
+hitcher   797305491  9  4 f   -     -     -         1550    0    0 
+hitcher   797305549 10  3 c   k     f     -         1550   10    0 
+hitcher   797305650  6  2 Bk  bc    kf    -         1540   30    0 
+hitcher   797305694  8  1 Brc br    br    br        1510  240    0 Ad As
+hitcher   797305780  8  8 f   -     -     -         1270    0    0 
+hitcher   797305842  5  5 f   -     -     -         1270    0    0 
+hitcher   797305924  8  5 cc  kc    kc    kf        1270   50    0 
+hitcher   797306046  8  4 f   -     -     -         1220    0    0 
+hitcher   797306152  8  3 f   -     -     -         1220    0    0 
+hitcher   797306263  7  2 Bf  -     -     -         1220   10    0 
+hitcher   797306313  7  1 Bf  -     -     -         1210    5    0 
+hitcher   797306488  5  5 c   k     f     -         1205   10    0 
+hitcher   797306557  5  4 f   -     -     -         1195    0    0 
+hitcher   797306586  5  3 r   -     -     -         1195   20   35 
+hitcher   797306597  5  2 Bc  bf    -     -         1210   30    0 
+hitcher   797306652  5  1 Bf  -     -     -         1180    5    0 
+hitcher   797306694  5  5 f   -     -     -         1175    0    0 
+hitcher   797306714  5  4 f   -     -     -         1175    0    0 
+hitcher   797306765  6  3 f   -     -     -         1175    0    0 
+hitcher   797306840  6  2 Bf  -     -     -         1175   10    0 
+hitcher   797306886  6  1 Br  b     k     k         1165   30    0 Kc Qh
+hitcher   797306917  6  6 f   -     -     -         1135    0    0 
+hitcher   797306958  6  5 f   -     -     -         1135    0    0 
+hitcher   797307071  6  4 cc  kf    -     -         1135   20    0 
+hitcher   797307148  5  2 Bf  -     -     -         1115   10    0 
+hitcher   797307159  5  1 Bf  -     -     -         1105    5    0 
+hitcher   797307202  5  5 f   -     -     -         1100    0    0 
+hitcher   797307239  5  4 f   -     -     -         1100    0    0 
+hitcher   797307266  5  3 r   b     b     brr       1100  150    0 6d Ah
+hitcher   797307329  5  2 Bk  b     brc   rc         950  160    0 Td Ks
+hitcher   797307396  7  1 Bc  k     kf    -          790   20    0 
+hitcher   797307508  7  7 f   -     -     -          770    0    0 
+hitcher   797307549  7  6 f   -     -     -          770    0    0 
+hitcher   797307627  7  5 cc  f     -     -          770   20    0 
+hitcher   797307706  7  5 c   f     -     -          750   10    0 
+hitcher   797307750  7  4 c   k     f     -          740   10    0 
+hitcher   797307806  8  3 f   -     -     -          730    0    0 
+hitcher   797307951  6  1 B   -     -     -          730   10   10 
+hitcher   797307976  6  1 Bf  -     -     -          730    5    0 
+hitcher   797307993  6  6 c   f     -     -          725   10    0 
+hitcher   797308045  6  5 fQ  -     -     -          715    0    0 
+hitcher   797385894  7  2 Bf  -     -     -          715   10    0 
+hitcher   797385933  7  1 Bc  k     k     k          705   10   40 Js 6d
+hitcher   797385998  8  8 c   k     k     k          735   10   50 Jd Ah
+hitcher   797386064  8  7 f   -     -     -          775    0    0 
+hitcher   797386115  8  6 c   b     b     b          775   60  160 
+hitcher   797386183  8  5 c   b     -     -          875   20   50 
+hitcher   797386226  8  4 f   -     -     -          905    0    0 
+hitcher   797386278  8  3 f   -     -     -          905    0    0 
+hitcher   797386326  8  2 Bk  k     b     b          905   50    0 6s 4h
+hitcher   797386373  8  1 Bc  kc    kc    k          855   40  150 Ts Ks
+hitcher   797386441  8  8 f   -     -     -          965    0    0 
+hitcher   797386515  9  7 f   -     -     -          965    0    0 
+hitcher   797386586 11  6 f   -     -     -          965    0    0 
+hitcher   797386670 11  5 r   b     bc    f          965   70    0 
+hitcher   797386762 11  4 f   -     -     -          895    0    0 
+hitcher   797386850 11  3 f   -     -     -          895    0    0 
+hitcher   797386951 11  2 Bf  -     -     -          895   10    0 
+hitcher   797387031 11  1 Bc  kf    -     -          885   10    0 
+hitcher   797387120 11 11 r   b     b     bc         875   90    0 Kh As
+hitcher   797387253 10  9 f   -     -     -          785    0    0 
+hitcher   797387330 10  8 c   cf    -     -          785   20    0 
+hitcher   797387425 10  7 KQ  -     -     -          765    0    0 
+hitcher   797393204  3  2 BQ  -     -     -          765   10    0 
+hitcher   797393404  5  2 Bf  -     -     -          755   10    0 
+hitcher   797393443  6  1 Br  br    b     b          745  110  260 
+hitcher   797393486  6  6 f   -     -     -          895    0    0 
+hitcher   797393539  6  5 f   -     -     -          895    0    0 
+hitcher   797393567  7  4 f   -     -     -          895    0    0 
+hitcher   797393635  7  3 f   -     -     -          895    0    0 
+hitcher   797393723  6  2 Bk  b     -     -          895   20   45 
+hitcher   797393744  7  1 Bc  kf    -     -          920   10    0 
+hitcher   797393797  7  7 f   -     -     -          910    0    0 
+hitcher   797393824  7  6 f   -     -     -          910    0    0 
+hitcher   797393881  7  5 f   -     -     -          910    0    0 
+hitcher   797393932  7  3 Q   -     -     -          910    0    0 

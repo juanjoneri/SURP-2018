@@ -1,0 +1,81 @@
+sallen    797781397  3  3 f   -     -     -         1000    0    0 
+sallen    797781403  2  2 Br  k     f     -         1000   20    0 
+sallen    797781431  2  1 Bf  -     -     -          980    5    0 
+sallen    797781434  2  2 B   -     -     -          975   10   15 
+sallen    797781439  2  1 Bc  bc    k     k          980   30    0 7h Jc
+sallen    797781479  2  2 Bc  k     r     bc         950  100    0 9s 8c
+sallen    797781523  2  1 Bf  -     -     -          850    5    0 
+sallen    797781528  2  2 Bf  -     -     -          845   10    0 
+sallen    797781533  2  1 Bc  k     b     -          835   30   40 
+sallen    797781552  2  2 Bk  b     -     -          845   20   30 
+sallen    797781571  2  1 Bc  br    b     b          855   80  160 As 9s
+sallen    797781608  2  2 B   -     -     -          935   10   15 
+sallen    797781619  2  1 Br  k     k     k          940   20   40 Kh Tc
+sallen    797781639  2  2 B   -     -     -          960   10   15 
+sallen    797781642  2  1 Bc  b     -     -          965   20   30 
+sallen    797781659  2  2 B   -     -     -          975   10   15 
+sallen    797781663  2  1 Bf  -     -     -          980    5    0 
+sallen    797781665  2  2 Bc  c     c     k          975   50    0 7d Ah
+sallen    797781688  2  1 Bc  b     k     b          925   40   80 2d 5d
+sallen    797781709  2  2 Bk  rr    b     b          965   90  180 8c 4c
+sallen    797781745  2  1 Bcc kf    -     -         1055   20    0 
+sallen    797781757  2  2 B   -     -     -         1035   10   15 
+sallen    797781761  2  1 Brc bc    kr    -         1040   90  160 
+sallen    797781792  2  2 Br  b     -     -         1110   30   50 
+sallen    797781813  2  1 Bcc kf    -     -         1130   20    0 
+sallen    797781824  2  2 B   -     -     -         1110   10   15 
+sallen    797781829  2  1 Bc  kc    k     b         1115   40    0 Ks 5d
+sallen    797781856  2  2 Bc  r     b     k         1075   60  120 3c As
+sallen    797781881  2  1 Bc  k     k     b         1135   30   40 
+sallen    797781901  2  2 Bc  f     -     -         1145   20    0 
+sallen    797781917  2  1 Bc  b     b     -         1125   40   60 
+sallen    797782018  2  2 B   -     -     -         1145   10   15 
+sallen    797782022  2  1 Bc  b     -     -         1150   20   30 
+sallen    797782039  2  2 B   -     -     -         1160   10   15 
+sallen    797782044  2  1 Bc  b     b     -         1165   40   60 
+sallen    797782071  2  2 B   -     -     -         1185   10   15 
+sallen    797782081  2  1 Bc  kc    kf    -         1190   20    0 
+sallen    797782114  2  2 B   -     -     -         1170   10   15 
+sallen    797782118  2  1 Bc  k     k     b         1175   30   40 
+sallen    797782151  2  2 Br  c     c     c         1185   70    0 2d 2s
+sallen    797782180  2  1 Br  -     -     -         1115   20   30 
+sallen    797782189  2  2 B   -     -     -         1125   10   15 
+sallen    797782198  2  1 Bc  k     k     bc        1130   50    0 Kd 2h
+sallen    797782234  2  2 Bc  f     -     -         1080   20    0 
+sallen    797782244  2  1 Br  b     -     -         1060   30   50 
+sallen    797782259  2  2 Bc  c     c     rr        1080  130    0 5s 4s
+sallen    797782283  2  1 Bc  kf    -     -          950   10    0 
+sallen    797782301  2  2 Bc  c     b     k          940   50  100 5d 2d
+sallen    797782323  2  1 Bf  -     -     -          990    5    0 
+sallen    797782329  2  2 B   -     -     -          985   10   15 
+sallen    797782332  2  1 Bcc b     k     b          990   50   80 
+sallen    797782355  2  2 Bc  c     c     c         1020   70  140 9s Ks
+sallen    797782372  2  1 Bcc b     k     b         1090   50  100 9d Ad
+sallen    797782405  3  2 Bf  -     -     -         1140   10    0 
+sallen    797782413  3  1 Bf  -     -     -         1130    5    0 
+sallen    797782420  3  3 c   c     k     r         1125   60    0 6d Jd
+sallen    797782446  3  2 B   -     -     -         1065   10   15 
+sallen    797782458  3  1 Bc  k     bcf   -         1070   60    0 
+sallen    797782493  3  3 c   r     k     b         1010   50   90 
+sallen    797782536  3  2 Bf  -     -     -         1050   10    0 
+sallen    797782546  3  1 Bcc b     k     k         1040   30   60 4d Kd
+sallen    797782583  3  3 c   k     c     b         1070   50  110 6d Ks
+sallen    797782622  3  2 Bf  -     -     -         1130   10    0 
+sallen    797782633  3  1 Bc  kc    kc    b         1120   70  190 Jc 5s
+sallen    797782678  3  3 c   c     c     r         1240   80  170 Td Qs
+sallen    797782713  3  2 Bk  c     k     b         1330   40   60 
+sallen    797782739  3  1 Bc  bc    kf    -         1350   30    0 
+sallen    797782761  3  3 c   b     -     -         1320   20   40 
+sallen    797782783  3  2 Bc  f     -     -         1340   20    0 
+sallen    797782803  3  1 Bcc k     kc    kc        1320   60    0 8s 9c
+sallen    797782836  3  3 f   -     -     -         1260    0    0 
+sallen    797782860  3  2 B   -     -     -         1260   10   15 
+sallen    797782870  3  1 Bc  kc    kccc  k         1265  120    0 2h 5h
+sallen    797782930  3  3 cc  f     -     -         1145   20    0 
+sallen    797782978  3  2 Bk  kc    b     b         1125   60  105 
+sallen    797783015  2  1 Bc  kf    -     -         1170   10    0 
+sallen    797783038  2  2 B   -     -     -         1160   10   15 
+sallen    797783046  2  1 Bf  -     -     -         1165    5    0 
+sallen    797783052  2  2 B   -     -     -         1160   10   15 
+sallen    797783063  2  1 Br  b     k     b         1165   50   80 
+sallen    797783100  2  2 BQ  -     -     -         1195   10    0 

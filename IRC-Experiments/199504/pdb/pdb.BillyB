@@ -1,0 +1,226 @@
+BillyB    797291497 10  4 c   cc    f     -         1000   30    0 
+BillyB    797291582 11  3 c   f     -     -          970   10    0 
+BillyB    797291666 10  2 Bk  kf    -     -          960   10    0 
+BillyB    797291740 10  1 Bf  -     -     -          950    5    0 
+BillyB    797291788 10 10 c   f     -     -          945   10    0 
+BillyB    797291936  9  8 c   c     c     c          935   60    0 Kc 8h
+BillyB    797292018  9  8 c   k     b     k          875   30  100 Jc 5c
+BillyB    797292118  9  7 c   kf    -     -          945   10    0 
+BillyB    797292161  9  6 f   -     -     -          935    0    0 
+BillyB    797292207  9  5 Q   -     -     -          935    0    0 
+BillyB    797445301  4  2 Bc  bc    kf    -          935   40    0 
+BillyB    797445362  3  1 Bf  -     -     -          895    5    0 
+BillyB    797445371  3  3 c   c     f     -          890   20    0 
+BillyB    797445407  3  2 Bc  k     k     k          870   20   30 Kc 4h
+BillyB    797445460  3  1 Bf  -     -     -          880    5    0 
+BillyB    797445471  3  3 f   -     -     -          875    0    0 
+BillyB    797445500  3  2 B   -     -     -          875   10   15 
+BillyB    797445505  3  1 Bc  kf    -     -          880   10    0 
+BillyB    797445592  3  3 c   b     b     b          870   60  110 
+BillyB    797445635  3  2 B   -     -     -          920   10   15 
+BillyB    797445639  3  1 Bf  -     -     -          925    5    0 
+BillyB    797445649  3  3 c   b     -     -          920   20   35 
+BillyB    797445671  3  2 Bk  k     b     -          935   30   40 
+BillyB    797445695  3  1 Bf  -     -     -          945    5    0 
+BillyB    797445704  3  3 f   -     -     -          940    0    0 
+BillyB    797445737  3  2 BQ  -     -     -          940   10    0 
+BillyB    797562491  6  3 f   -     -     -          930    0    0 
+BillyB    797562519  6  3 cc  bc    kc    bc         930  100    0 Kh 7h
+BillyB    797562592  6  1 Bc  kf    -     -          830   20    0 
+BillyB    797562676  5  1 Bc  b     kf    -          810   20    0 
+BillyB    797562730  6  6 c   c     c     c          790   60    0 3s Ad
+BillyB    797562787  7  6 f   -     -     -          730    0    0 
+BillyB    797562841  7  5 c   f     -     -          730   10    0 
+BillyB    797562916  8  5 f   -     -     -          720    0    0 
+BillyB    797562990  8  4 f   -     -     -          720    0    0 
+BillyB    797563067  8  3 Q   -     -     -          720    0    0 
+BillyB    797720024  5  3 c   k     k     kf         720   10    0 
+BillyB    797720065  5  2 Bf  -     -     -          710   10    0 
+BillyB    797720083  5  1 Bc  kf    -     -          700   20    0 
+BillyB    797720130  5  5 c   c     c     f          680   50    0 
+BillyB    797720173  5  4 c   c     f     -          630   20    0 
+BillyB    797720208  5  3 c   f     -     -          610   10    0 
+BillyB    797720231  5  2 Bk  bc    bc    kr         600  110  220 
+BillyB    797720301  5  1 Bc  k     bc    kc         710   70    0 Ah 3h
+BillyB    797720349  5  5 f   -     -     -          640    0    0 
+BillyB    797720376  5  4 f   -     -     -          640    0    0 
+BillyB    797720421  5  3 KQ  -     -     -          640    0    0 
+BillyB    797725848  8  2 Bk  b     b     b          640   60    0 Ah Js
+BillyB    797725894  9  1 Bcc kc    kf    -          580   40    0 
+BillyB    797725976  9  9 f   -     -     -          540    0    0 
+BillyB    797726024  8  7 c   k     b     b          540   50  125 4h Qs
+BillyB    797726099  8  5 c   kf    -     -          615   10    0 
+BillyB    797726178  8  5 cc  c     f     -          605   30    0 
+BillyB    797726251  8  4 f   -     -     -          575    0    0 
+BillyB    797726303  8  3 c   kc    b     b          575   60  245 4h Qd
+BillyB    797726413  8  2 Bc  kf    -     -          760   30    0 
+BillyB    797726505  8  1 Bc  kf    -     -          730   10    0 
+BillyB    797726533  7  7 cc  c     c     b          720   70  190 
+BillyB    797726602  7  6 c   f     -     -          840   10    0 
+BillyB    797726633  7  5 f   -     -     -          830    0    0 
+BillyB    797726679  7  4 c   b     -     -          830   20   55 
+BillyB    797726718  7  3 f   -     -     -          865    0    0 
+BillyB    797726767  7  2 Bk  kf    -     -          865   10    0 
+BillyB    797726801  7  1 Bc  kc    kKQ   -          855   20    0 
+BillyB    797812207  7  3 c   f     -     -          835   10    0 
+BillyB    797812287  8  3 c   b     k     b          825   40   85 
+BillyB    797812349  7  2 Bc  kf    -     -          870   20    0 
+BillyB    797812399  9  1 Bc  kf    -     -          850   10    0 
+BillyB    797812563  8  8 c   f     -     -          840   10    0 
+BillyB    797812628  8  7 f   -     -     -          830    0    0 
+BillyB    797812682  8  6 f   -     -     -          830    0    0 
+BillyB    797812786  8  5 f   -     -     -          830    0    0 
+BillyB    797812882  7  3 c   c     f     -          830   20    0 
+BillyB    797812930  7  2 Bk  kc    f     -          810   30    0 
+BillyB    797813011  7  1 Bc  b     -     -          780   20   50 
+BillyB    797813041  6  6 c   k     k     f          810   10    0 
+BillyB    797813122  7  5 c   b     k     r          800   60  150 6d 4d
+BillyB    797813292  6  3 f   -     -     -          890    0    0 
+BillyB    797813370  5  2 Bk  k     b     -          890   30   40 
+BillyB    797813424  6  1 Bc  k     kf    -          900   10    0 
+BillyB    797813552  7  7 cf  -     -     -          890   10    0 
+BillyB    797813629  5  4 cc  b     k     k          880   30  120 Ah 8d
+BillyB    797813709  5  3 cc  c     f     -          970   30    0 
+BillyB    797813782  5  2 Bf  -     -     -          940   10    0 
+BillyB    797813821  5  1 Bc  kc    kc    kc         930   70    0 7h 6h
+BillyB    797813901  5  5 c   b     b     -          860   40   65 
+BillyB    797813950  5  4 c   b     b     c          885   60    0 Qs Kh
+BillyB    797813992  5  3 f   -     -     -          825    0    0 
+BillyB    797814029  5  2 Bk  k     kf    -          825   10    0 
+BillyB    797814064  5  1 Bc  kc    kf    -          815   20    0 
+BillyB    797814140  4  4 f   -     -     -          795    0    0 
+BillyB    797814151  4  4 c   k     f     -          795   10    0 
+BillyB    797814181  5  3 f   -     -     -          785    0    0 
+BillyB    797814200  5  2 Bk  b     b     b          785   60  140 5c Js
+BillyB    797814231  5  1 Bc  kf    -     -          865   10    0 
+BillyB    797814288  5  5 f   -     -     -          855    0    0 
+BillyB    797814311  5  4 cc  c     f     -          855   30    0 
+BillyB    797814342  5  3 c   c     r     b          825   80  230 2s 7s
+BillyB    797814395  5  2 Bc  cf    -     -          975   30    0 
+BillyB    797814546  5  1 Bc  kc    kf    -          945   20    0 
+BillyB    797814614  4  4 KQ  -     -     -          925    0    0 
+BillyB    797868340  3  2 Bc  bc    bc    kf         925   80    0 
+BillyB    797868397  3  1 Bf  -     -     -          845    5    0 
+BillyB    797868404  3  3 f   -     -     -          840    0    0 
+BillyB    797868413  3  2 Bk  br    b     -          840   60  105 
+BillyB    797868457  3  1 Bf  -     -     -          885    5    0 
+BillyB    797868464  3  3 f   -     -     -          880    0    0 
+BillyB    797868485  3  2 BKQ -     -     -          880   10    0 
+BillyB    797899343  9  4 Q   -     -     -          870    0    0 
+BillyB    798055881  4  2 Bc  c     b     b          870   70  210 9s Td
+BillyB    798055914  4  1 Bc  k     b     -         1010   30   50 
+BillyB    798055957  5  4 f   -     -     -         1030    0    0 
+BillyB    798055984  5  3 f   -     -     -         1030    0    0 
+BillyB    798056033  5  2 Bk  kc    kf    -         1030   20    0 
+BillyB    798056073  5  1 Bc  kc    k     kf        1010   20    0 
+BillyB    798056114  5  5 f   -     -     -          990    0    0 
+BillyB    798056138  5  4 f   -     -     -          990    0    0 
+BillyB    798056150  5  3 f   -     -     -          990    0    0 
+BillyB    798056191  5  2 BQ  -     -     -          990   10    0 
+BillyB    798156418  6  2 Bc  kc    kf    -          980   30    0 
+BillyB    798156478  7  1 Bc  bc    kf    -          950   40    0 
+BillyB    798156573  7  7 c   k     c     k          910   30   65 Jc Qc
+BillyB    798156640  8  7 c   k     c     bc         945   70  155 Jh Kh
+BillyB    798156721  7  5 f   -     -     -         1030    0    0 
+BillyB    798156794  8  4 f   -     -     -         1030    0    0 
+BillyB    798156846  8  3 c   k     f     -         1030   10    0 
+BillyB    798156927  9  2 Bk  b     -     -         1020   20   30 
+BillyB    798156993  9  1 Bf  -     -     -         1030    5    0 
+BillyB    798157102 10 10 c   b     b     b         1025   70  245 
+BillyB    798157242 10  9 f   -     -     -         1200    0    0 
+BillyB    798157367  9  8 f   -     -     -         1200    0    0 
+BillyB    798157506  6  4 f   -     -     -         1200    0    0 
+BillyB    798157545  8  4 f   -     -     -         1200    0    0 
+BillyB    798157609  8  3 f   -     -     -         1200    0    0 
+BillyB    798157688  9  2 Bk  b     b     b         1200   60  125 
+BillyB    798157762  8  1 Bc  bc    kr    k         1265   70    0 7h 7d
+BillyB    798157851  7  7 cc  cc    c     bc        1195  110    0 Qd Th
+BillyB    798158048  9  7 c   k     c     rc        1085  110  126 5s 6d
+BillyB    798158192 11  7 f   -     -     -         1101    0    0 
+BillyB    798158420 10  6 cc  f     -     -         1101   20    0 
+BillyB    798158680 12  6 f   -     -     -         1081    0    0 
+BillyB    798158814 12  5 c   f     -     -         1081   10    0 
+BillyB    798158952 11  3 c   c     f     -         1071   20    0 
+BillyB    798159022 11  2 Bcc bc    b     k         1051   80  315 8h Jh
+BillyB    798159159 12  1 Bc  kc    k     kc        1286   40    0 3s Qc
+BillyB    798159324 12 12 c   b     -     -         1246   20   60 
+BillyB    798159420 12 11 f   -     -     -         1286    0    0 
+BillyB    798159507  9  8 cc  f     -     -         1286   40    0 
+BillyB    798159617  9  7 cc  rc    ccc   cf        1246  170    0 
+BillyB    798159778  8  5 c   f     -     -         1076   10    0 
+BillyB    798159847  6  4 f   -     -     KQ        1066    0    0 
+BillyB    798940326  9  9 f   -     -     -         1066    0    0 
+BillyB    798940424  5  4 c   c     c     c         1066   70    0 4s Ad
+BillyB    798940464  5  3 c   k     k     b          996   30   60 
+BillyB    798940567  5  2 Bc  f     -     -         1026   20    0 
+BillyB    798940622  5  1 Bc  b     bc    b         1006   80  180 Qs Kh
+BillyB    798940685  5  5 r   b     b     b         1106   80    0 Ah Qs
+BillyB    798940749  6  4 c   c     f     -         1026   20    0 
+BillyB    798940820  7  3 c   b     brc   r         1006  140    0 9d 9h
+BillyB    798940894  7  2 Bc  kc    k     kf         866   30    0 
+BillyB    798941029  8  1 Bf  -     -     -          836    5    0 
+BillyB    798941104  8  8 c   c     c     f          831   50    0 
+BillyB    798941188 10  9 c   c     f     -          781   20    0 
+BillyB    798941262 10  8 f   -     -     -          761    0    0 
+BillyB    798941311 10  7 c   b     c     f          761   60    0 
+BillyB    798941400 10  7 f   -     -     -          701    0    0 
+BillyB    798941461 10  6 c   c     bc    k          701   70    0 5d 6d
+BillyB    798941545  9  4 f   -     -     -          631    0    0 
+BillyB    798941639  8  3 KQ  -     -     -          631    0    0 
+BillyB    799024128 11  8 f   -     -     -          631    0    0 
+BillyB    799024194 11  7 c   k     b     b          631   60  150 
+BillyB    799024265 11  6 f   -     -     -          721    0    0 
+BillyB    799024314 11  5 c   k     cf    -          721   50    0 
+BillyB    799024441 11  4 Q   -     -     -          671    0    0 
+BillyB    799102949 10  2 Bc  f     -     -          671   30    0 
+BillyB    799103102 10  1 Bc  k     k     kf         641   20    0 
+BillyB    799103204 11 11 c   r     -     -          621   30   80 
+BillyB    799103285 10  9 c   b     b     -          671   40   75 
+BillyB    799103400 10  8 f   -     -     -          706    0    0 
+BillyB    799103465  9  6 f   -     -     -          706    0    0 
+BillyB    799103596  8  5 cc  rr    b     bc         706  120    0 Ah 6d
+BillyB    799103699  5  3 f   -     -     -          586    0    0 
+BillyB    799103784  6  2 Bc  c     k     b          586   50  100 
+BillyB    799103858  6  1 Bc  k     k     br         636  110  170 Th Ac
+BillyB    799103932  6  6 c   c     c     k          696   50    0 2h 2d
+BillyB    799104096  3  3 c   c     c     rc         646  100    0 2d Kh
+BillyB    799104171  2  2 Bk  c     f     -          546   20    0 
+BillyB    799104204  3  1 Bf  -     -     -          526    5    0 
+BillyB    799104208  4  4 f   -     -     -          521    0    0 
+BillyB    799104254  4  3 KQ  -     -     -          521    0    0 
+BillyB    799283825  6  4 c   kf    -     -          521   10    0 
+BillyB    799283874  7  3 cc  c     c     k          511   50  125 Tc Kd
+BillyB    799283914  6  2 Bf  -     -     -          586   10    0 
+BillyB    799283942  6  1 Bc  k     k     k          576   10    0 2c Qs
+BillyB    799283982  6  6 f   -     -     -          566    0    0 
+BillyB    799283992  6  5 f   -     -     -          566    0    0 
+BillyB    799284002  6  4 c   r     b     -          566   50   95 
+BillyB    799284031  6  3 f   -     -     -          611    0    0 
+BillyB    799284067  6  2 Bc  kc    cf    -          611   50    0 
+BillyB    799284132  6  1 Bc  bc    b     b          561   80    0 Ad Td
+BillyB    799284209  6  6 c   b     -     -          481   20   45 
+BillyB    799284241  6  5 f   -     -     -          506    0    0 
+BillyB    799284264  6  4 c   k     f     -          506   10    0 
+BillyB    799284302  6  3 f   -     -     -          496    0    0 
+BillyB    799284343  6  2 Bc  kr    k     b          496   70  165 
+BillyB    799284410  6  1 Bc  k     k     k          591   20    0 7s Kh
+BillyB    799284454  6  6 f   -     -     -          571    0    0 
+BillyB    799284480  6  5 f   -     -     -          571    0    0 
+BillyB    799284522  6  4 c   b     -     -          571   20   35 
+BillyB    799284549  6  3 c   b     b     -          586   40   90 
+BillyB    799284597  6  2 Bc  kc    k     kc         636   50    0 5c Jc
+BillyB    799284683  6  1 Bf  -     -     -          586    5    0 
+BillyB    799284721  6  6 c   c     f     -          581   20    0 
+BillyB    799284759  6  5 f   -     -     -          561    0    0 
+BillyB    799284812  6  4 cc  f     -     -          561   20    0 
+BillyB    799284861  6  3 f   -     -     -          541    0    0 
+BillyB    799284919  6  2 Bk  b     -     -          541   20   40 
+BillyB    799284959  6  1 Bc  bc    kc    k          561   60    0 Qh Ah
+BillyB    799285035  5  5 f   -     -     -          501    0    0 
+BillyB    799285064  5  4 c   b     -     -          501   20   40 
+BillyB    799285141  3  2 c   b     k     b          521   40    0 9d Ad
+BillyB    799285175  3  2 Bf  -     -     -          481   10    0 
+BillyB    799285192  3  1 Bf  -     -     -          471    5    0 
+BillyB    799285198  3  3 f   -     -     -          466    0    0 
+BillyB    799285220  3  2 B   -     -     -          466   10   15 
+BillyB    799285230  3  1 BQ  -     -     -          471    5    0 

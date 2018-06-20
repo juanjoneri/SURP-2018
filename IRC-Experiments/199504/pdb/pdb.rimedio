@@ -1,0 +1,784 @@
+rimedio   797829948  5  2 Bc  b     -     -         1000   30   70 
+rimedio   797830016  4  1 Bc  kc    k     kf        1040   20    0 
+rimedio   797830119  4  4 c   c     k     f         1020   20    0 
+rimedio   797830176  5  3 cc  b     kc    kf        1000   50    0 
+rimedio   797830262  7  2 Bk  kc    kf    -          950   20    0 
+rimedio   797830385  7  1 Br  brr   b     b          930  110    0 Jh Js
+rimedio   797830516  7  7 c   c     k     k          820   20    0 Kh Td
+rimedio   797830566  7  6 c   kf    -     -          800   10    0 
+rimedio   797830647  7  5 c   r     k     f          790   30    0 
+rimedio   797830728  7  4 rc  c     rr    k          760  130    0 8c 7s
+rimedio   797830859  8  3 rrrc bc    br    b          630  170    0 4d Ad
+rimedio   797830997  8  2 Bc  b     -     -          460   30   75 
+rimedio   797831050  8  1 Bc  kc    kc    kf         505   50    0 
+rimedio   797831119  9  9 c   f     -     -          455   10    0 
+rimedio   797831208 10  9 c   r     b     r          445  110  365 7s 5s
+rimedio   797831328 12 10 c   b     k     c          700   50    0 Qc Ac
+rimedio   797831413  8  5 cc  cc    KQ    Q          650   50    0 
+rimedio   797833917  7  3 c   c     k     kf         600   20    0 
+rimedio   797834082 11  4 r   br    k     kf         580   60    0 
+rimedio   797834207 11  3 rr  b     b     b          520   90  230 
+rimedio   797834313 11  2 Bc  br    b     b          660   90    0 8c Kd
+rimedio   797834427 10  1 Brc kcc   f     -          570   70    0 
+rimedio   797834518 10 10 c   c     r     c          500  100    0 2h Qd
+rimedio   797834602 10  9 cQ  -     -     -          400   30    0 
+rimedio   797895494 11  7 Q   -     -     -          370    0    0 
+rimedio   797896809 10  4 c   b     b     b          370   60  140 
+rimedio   797896874 10  3 ccc r     b     b          450  100  400 5h 7d
+rimedio   797897007  8  1 Bk  k     k     kc         750   30    0 3d 6s
+rimedio   797897081  9  1 Bc  b     -     -          720   20   70 
+rimedio   797897148  9  9 c   rr    c     c          770   90    0 Js 4c
+rimedio   797897259  9  8 cc  c     f     -          680   30    0 
+rimedio   797897335  8  7 c   c     k     k          650   30   75 6h Js
+rimedio   797897386  8  6 r   kc    cc    f          695   80    0 
+rimedio   797897487  9  3 Q   -     -     -          615    0    0 
+rimedio   797898584  7  7 c   c     c     k          615   50    0 7c 2s
+rimedio   797898691  5  5 rc  k     r     b          565   90  220 Jc Kd
+rimedio   797898782  8  5 Q   -     -     -          695    0    0 
+rimedio   797898906  8  4 r   rr    b     b          695  100  340 
+rimedio   797899140 10  3 cc  Q     -     -          935   20    0 
+rimedio   797911988 11  8 r   br    b     b          915   90  195 
+rimedio   797912060 11  7 cc  cc    c     c         1020   90    0 Th 6d
+rimedio   797912142 11  7 c   kc    kc    k          930   40    0 6d 8s
+rimedio   797912262 10  5 c   c     f     -          890   30    0 
+rimedio   797912324 11  4 r   b     b     -          860   50   95 
+rimedio   797912415 12  3 rr  brrr  bc    bc         905  190    0 4s Qh
+rimedio   797912525 10  1 Bc  b     b     -          715   50  140 
+rimedio   797912587 10  1 Bc  kc    kc    k          805   50  130 9d 2c
+rimedio   797912666 10 10 c   c     f     -          885   30    0 
+rimedio   797912729 10  9 rc  b     bc    c          855  120    0 3d Ad
+rimedio   797912869 10  8 c   c     c     b          735   80  290 7s 3c
+rimedio   797912949 10  8 c   c     c     f          945   40    0 
+rimedio   797913106 11  7 c   k     k     b          905   40    0 3s 9h
+rimedio   797913179 11  6 c   c     k     f          865   20    0 
+rimedio   797913251 11  6 r   b     bc    c          845  100    0 Qc Kh
+rimedio   797913297 10  4 c   bc    f     -          745   30    0 
+rimedio   797913433  7  3 cc  kc    kc    f          715   50    0 
+rimedio   797913532  8  2 Bk  c     rr    rc         665  180    0 Jd 6h
+rimedio   797913617  7  1 Bcc kc    kf    -          485   60    0 
+rimedio   797913710  8  8 c   k     f     -          425   10    0 
+rimedio   797913764  8  7 c   r     -     -          415   30   65 
+rimedio   797913815  9  6 cc  kf    -     -          450   30    0 
+rimedio   797913935 10  5 r   b     c     c          420   70  190 Ac Ah
+rimedio   797914008 10  4 c   b     cf    -          540   40    0 
+rimedio   797914131 10  3 r   b     kQ    -          500   30    0 
+rimedio   797965755 10  6 rc  br    rr    c          470  170  575 Qc Qh
+rimedio   797965935 10  5 cc  kf    -     -          875   30    0 
+rimedio   797966023 11  4 c   kcc   f     -          845   50    0 
+rimedio   797966212 10  3 c   kc    KQ    -          795   20    0 
+rimedio   797966637  9  7 c   rc    c     f          775   70    0 
+rimedio   797966782  9  6 cc  c     f     -          705   30    0 
+rimedio   797966902  9  5 c   cc    kc    f          675   50    0 
+rimedio   797967047  7  3 c   k     kf    -          625   10    0 
+rimedio   797967127  7  3 KQ  -     -     -          615    0    0 
+rimedio   797967403  8  3 cc  r     b     b          615   80  210 Ts Ah
+rimedio   797967484  7  2 Bk  k     k     kf         745   10    0 
+rimedio   797967582  7  1 Bc  kf    -     -          735   10    0 
+rimedio   797967646  6  6 r   k     c     k          725   70    0 Qs Jc
+rimedio   797967738  6  5 c   k     k     kQ         655   20    0 Ac 5s
+rimedio   797991466  5  4 c   f     -     -          625   10    0 
+rimedio   797991512  5  3 f   -     -     -          615    0    0 
+rimedio   797991552  5  2 Bk  k     f     -          615   10    0 
+rimedio   797991583  5  1 Bc  k     kf    -          605   10    0 
+rimedio   797991625  5  5 c   f     -     -          595   10    0 
+rimedio   797991690  7  4 cc  f     -     -          585   30    0 
+rimedio   797991777  7  3 cc  kc    kf    -          555   30    0 
+rimedio   797991841  7  2 Bc  kc    kf    -          525   30    0 
+rimedio   797991890  6  1 Bc  k     kc    kf         495   40    0 
+rimedio   797991947  6  6 c   c     k     f          455   20    0 
+rimedio   797992018  6  5 c   cc    c     k          435   60  205 6d 3h
+rimedio   797992082  7  4 c   c     f     -          580   20    0 
+rimedio   797992120  7  3 c   kc    kf    -          560   20    0 
+rimedio   797992163  7  2 Bk  k     kf    -          540   10    0 
+rimedio   797992212  7  1 Bc  kf    -     -          530   30    0 
+rimedio   797992305  6  6 c   b     b     -          500   50  120 
+rimedio   797992375  6  5 c   k     k     k          570   10    0 9s 6s
+rimedio   797992419  6  4 cc  f     -     -          560   20    0 
+rimedio   797992461  7  3 rc  br    b     br         540  140  410 6s 7s
+rimedio   797992577  8  2 Bk  kf    -     -          810   10    0 
+rimedio   797992644  7  1 Br  kc    kcc   kf         800   90    0 
+rimedio   797992760  8  8 rr  b     b     bc         710  110  225 7d 7c
+rimedio   797992818  8  7 r   k     kc    f          825   50    0 
+rimedio   797992914  8  6 c   c     c     k          775   50  115 9c Qh
+rimedio   797992963  8  5 cc  kf    -     -          840   20    0 
+rimedio   797993051  7  4 c   cc    c     cc         820  120    0 Qs 7h
+rimedio   797993134  6  3 rr  b     k     bc         700   90  133 6s 5s
+rimedio   797993200  7  2 Bc  kc    kc    kc         743   80  260 3c 5s
+rimedio   797993308  7  1 Bc  k     kf    -          923   30    0 
+rimedio   797993396  7  7 r   b     brr   c          893  150    0 Jh Td
+rimedio   797993490  7  6 c   b     brc   c          743  120    0 Ad Ac
+rimedio   797993574  7  5 c   b     k     b          623   50    0 5s Ks
+rimedio   797993643  7  4 c   c     f     -          573   30    0 
+rimedio   797993693  7  3 f   -     -     -          543    0    0 
+rimedio   797993753  7  2 Bk  k     f     -          543   10    0 
+rimedio   797993811  7  1 Bc  kc    kf    -          533   40    0 
+rimedio   797993882  7  7 c   k     c     f          493   50    0 
+rimedio   797993986  7  6 c   r     b     b          443   70  180 As 4d
+rimedio   797994081  7  5 cc  kf    -     -          553   20    0 
+rimedio   797994134  7  4 cc  f     -     -          533   30    0 
+rimedio   797994201  7  3 c   k     k     k          503   10    0 Ks Ah
+rimedio   797994280  9  2 Bk  c     c     kf         493   40    0 
+rimedio   797994377  8  1 Bc  k     k     k          453   10   50 4d 2d
+rimedio   797994464  8  8 cc  c     c     b          493   90  245 Jc Jh
+rimedio   797994527  8  7 c   c     c     c          648   70  155 Kd Ac
+rimedio   797994592  8  6 cc  f     -     -          733   20    0 
+rimedio   797994666  9  6 c   c     c     b          713   60   90 Qc 3c
+rimedio   797994785  9  5 c   kc    kf    -          743   20    0 
+rimedio   797994891  6  2 Bk  k     f     -          723   10    0 
+rimedio   797994975  6  1 Bc  k     b     b          713   60  210 8s 2h
+rimedio   797995077  6  6 rc  rc    f     -          863   70    0 
+rimedio   797995170  8  7 cc  k     k     k          793   30    0 Qs Kd
+rimedio   797995288  8  3 Q   -     -     -          763    0    0 
+rimedio   797995587  8  7 c   rc    cc    f          763  120    0 
+rimedio   797995705  9  6 cc  c     f     -          643   30    0 
+rimedio   797995781  8  4 cc  k     rrr   k          613  150  420 4s As
+rimedio   797995891  9  4 c   rc    c     f          883   70    0 
+rimedio   797995987  9  3 Q   -     -     -          813    0    0 
+rimedio   797996115 10  9 cc  f     -     -          813   40    0 
+rimedio   797996195 10  8 r   r     c     k          773   60  225 Ks Kd
+rimedio   797996300 11  7 c   c     f     -          938   20    0 
+rimedio   797996379 11  6 cc  k     f     -          918   30    0 
+rimedio   797996505 11  6 c   b     k     f          888   20    0 
+rimedio   797996589 11  5 c   cc    rc    c          868  150    0 8c 9s
+rimedio   797996714 12  4 c   cc    kf    -          718   40    0 
+rimedio   797996827 11  3 cc  f     -     -          678   20    0 
+rimedio   797996941  9  2 Bcc kf    -     -          658   40    0 
+rimedio   797997065 10  1 Bf  -     -     -          618    5    0 
+rimedio   797997147 10 10 cc  f     -     -          613   40    0 
+rimedio   797997272  8  7 cc  f     -     -          573   20    0 
+rimedio   797997365  8  6 c   k     k     f          553   10    0 
+rimedio   797997441 10  5 c   cc    f     -          543   40    0 
+rimedio   797997541 10  4 c   kf    -     -          503   10    0 
+rimedio   797997679 10  3 Q   -     -     -          493    0    0 
+rimedio   798068872 10  8 cc  cc    cc    f          493  140    0 
+rimedio   798069035 10  7 ccc c     kf    -          353   50    0 
+rimedio   798069167 10  6 c   c     k     k          303   20    0 4c 6c
+rimedio   798069300 10  5 r   b     -     -          283   30   90 
+rimedio   798069384  9  4 c   k     k     k          343   10   55 Jh 6s
+rimedio   798069467  9  3 cc  kc    kc    k          388   90    0 5d 8c
+rimedio   798069620  9  2 Bk  kc    kf    -          298   20    0 
+rimedio   798069761  9  1 Bcc kcc   kc    kf         278  100    0 
+rimedio   798070024 10  9 f   -     -     -          178    0    0 
+rimedio   798070124  9  6 f   -     -     -          178    0    0 
+rimedio   798070303  7  4 cc  kc    k     kf         178   30    0 
+rimedio   798070380  7  3 cc  kc    k     k          148   30    0 6s Ah
+rimedio   798070462  7  2 Bc  k     k     f          118   20    0 
+rimedio   798070502  7  1 Bc  kf    -     -           98   10    0 
+rimedio   798070557  7  7 c   b     f     -           88   20    0 
+rimedio   798070647  7  6 f   -     -     -           68    0    0 
+rimedio   798070665  7  5 KQ  -     -     -           68    0    0 
+rimedio   798070777  8  2 Bc  k     k     kf          68   20    0 
+rimedio   798070859  9  1 Bc  kc    kcA   -           48   48    0 3d Ad
+rimedio   798071002  9  8 c   c     f     -         1000   20    0 
+rimedio   798071041  9  7 c   c     k     f          980   30    0 
+rimedio   798071129 11  6 c   c     f     -          950   20    0 
+rimedio   798071209 11  5 ccc kf    Q     -          930   40    0 
+rimedio   798073762 10  8 c   f     -     -          890   10    0 
+rimedio   798073805 10  7 c   k     b     b          880   50    0 9h 9s
+rimedio   798073870 10  6 c   k     kf    -          830   20    0 
+rimedio   798073948 10  5 cc  kc    kf    -          810   30    0 
+rimedio   798074039 11  5 c   k     c     kf         780   30    0 
+rimedio   798074127 11  4 cc  k     k     c          750   40    0 9d 9c
+rimedio   798074223 11  3 cc  f     -     -          710   20    0 
+rimedio   798074307 11  2 BQ  -     -     -          690   10    0 
+rimedio   798074569 11  4 cc  kc    kc    b          680   70  265 Ad 3d
+rimedio   798074673 11  3 c   k     f     Q          875   10    0 
+rimedio   798076155 10  5 KQ  -     -     Q          865    0    0 
+rimedio   798155875  8  5 cc  kc    kc    kf         865   50    0 
+rimedio   798156001  7  3 c   f     -     -          815   10    0 
+rimedio   798156066  7  2 Bc  c     Q     -          805   30    0 
+rimedio   798157242 10  7 r   b     c     k          775   60    0 8c 9c
+rimedio   798157367  9  6 cc  c     Q     -          715   30    0 
+rimedio   798157688  9  8 c   c     c     f          685   40    0 
+rimedio   798157762  8  6 c   cc    kc    k          645   70  220 Kc 2c
+rimedio   798157851  7  4 cc  cc    kc    kr         795  110  360 6h 5s
+rimedio   798158048  9  3 c   f     -     -         1045   10    0 
+rimedio   798158192 11  2 Brc br    kcf   -         1035  100    0 
+rimedio   798158420 10  1 Bcc kc    kc    kf         935   60    0 
+rimedio   798158680 12 12 c   c     c     k          875   50    0 9c Ah
+rimedio   798158814 12 11 c   cc    rc    r          825  160  760 7h 4s
+rimedio   798158952 11  9 c   f     -     -         1425   10    0 
+rimedio   798159022 11  8 rr  r     c     k         1415   80    0 5d 5h
+rimedio   798159159 12  8 c   c     k     f         1335   20    0 
+rimedio   798159324 12  6 c   f     -     -         1315   10    0 
+rimedio   798159420 12  6 KQ  -     -     -         1305    0    0 
+rimedio   798159617  9  6 rc  rc    brc   brr       1305  250  820 Ts 9s
+rimedio   798159778  8  4 c   c     r     b         1875   80  190 
+rimedio   798159847  6  3 c   k     c     k         1985   30   70 6d 9s
+rimedio   798159891  5  2 B   -     -     -         2025   10   15 
+rimedio   798159905  5  1 Bc  k     kQ    -         2030   10    0 
+rimedio   798171588  8  6 c   kf    -     -         2020   10    0 
+rimedio   798171688  8  5 cc  c     f     -         2010   40    0 
+rimedio   798171773  8  4 ccc kf    -     -         1970   40    0 
+rimedio   798171896  8  3 rc  rc    k     c         1930   90  175 Td Jd
+rimedio   798172027  8  2 Bc  kf    -     -         2015   20    0 
+rimedio   798172127  8  1 Brc kc    kf    -         1995   60    0 
+rimedio   798172260  9  8 r   cc    c     k         1935   80    0 Th Tc
+rimedio   798172378  9  7 c   c     c     kf        1855   50    0 
+rimedio   798172522 10  8 c   k     k     rc        1805   80    0 2c 8s
+rimedio   798172630  9  6 c   Q     -     -         1725   20    0 
+rimedio   798174013 12  6 KQ  -     -     -         1705    0    0 
+rimedio   798247386  8  3 c   kc    b     b         1705   60  220 7s 9d
+rimedio   798247540  8  2 Bk  KQ    -     -         1865   10    0 
+rimedio   798247673  9  4 cc  b     kc    kf        1855   50    0 
+rimedio   798247778  9  3 c   b     b     b         1805   60  135 2s 5s
+rimedio   798247882  8  2 Bc  f     -     -         1880   20    0 
+rimedio   798247982 10  1 Bc  kc    f     -         1860   30    0 
+rimedio   798248172  8  8 c   c     c     f         1830   40    0 
+rimedio   798248224  9  8 c   k     k     k         1790   10    0 Kc 6s
+rimedio   798248287  9  7 c   c     f     -         1780   30    0 
+rimedio   798248439  9  6 c   f     -     -         1750   10    0 
+rimedio   798248542 10  5 cc  k     c     k         1740   40    0 Js 9d
+rimedio   798248645 10  4 f   -     -     -         1700    0    0 
+rimedio   798248733 10  3 cc  c     c     k         1700   50  220 Jc 2d
+rimedio   798248808 10  2 Bk  c     f     -         1870   20    0 
+rimedio   798248855  8  1 Bc  k     kc    kf        1850   30    0 
+rimedio   798248933  9  9 f   -     -     -         1820    0    0 
+rimedio   798248995 10  9 f   -     -     -         1820    0    0 
+rimedio   798249067 11  8 f   -     -     -         1820    0    0 
+rimedio   798249154 12  8 r   b     b     bf        1820   70    0 
+rimedio   798249323 10  5 f   -     -     -         1750    0    0 
+rimedio   798249409 10  4 ccc kf    -     -         1750   40    0 
+rimedio   798249544 10  2 Bk  b     k     k         1710   20    0 As 3h
+rimedio   798249759  8  1 Bc  b     b     b         1690   60  150 8c 3c
+rimedio   798249831  8  8 f   -     -     -         1780    0    0 
+rimedio   798249891 10  9 f   -     -     -         1780    0    0 
+rimedio   798249961 10  8 c   c     c     r         1780   80  190 7d 9c
+rimedio   798250036 10  7 c   c     k     f         1890   20    0 
+rimedio   798250135 10  6 cc  kc    kf    -         1870   30    0 
+rimedio   798250233 10  4 r   kc    kf    -         1840   30    0 
+rimedio   798250304 10  3 cc  cf    -     -         1810   30    0 
+rimedio   798250409  9  2 Bf  -     -     -         1780   10    0 
+rimedio   798250438  9  1 Bcc kf    -     -         1770   20    0 
+rimedio   798250599  9  9 r   b     -     -         1750   40  135 
+rimedio   798250694 10  9 c   c     c     b         1845   60  170 8c 9h
+rimedio   798250793 11  9 c   f     -     -         1955   10    0 
+rimedio   798250867 11  8 f   -     -     -         1945    0    0 
+rimedio   798250912 11  7 c   c     k     f         1945   20    0 
+rimedio   798251032 11  6 cc  c     k     f         1925   30    0 
+rimedio   798251138 12  6 cf  -     -     -         1895   10    0 
+rimedio   798251353 11  5 cc  k     kc    k         1885   40    0 Ah Qs
+rimedio   798251440 12  4 cc  f     -     -         1845   20    0 
+rimedio   798251546 12  3 c   kc    cc    kf        1825   60    0 
+rimedio   798335760  8  6 f   -     -     -         1695    0    0 
+rimedio   798335845  6  4 f   -     -     -         1695    0    0 
+rimedio   798335916  8  3 c   b     b     b         1695   60  140 Qc 8c
+rimedio   798336003  8  2 Bc  kf    -     -         1775   20    0 
+rimedio   798336053  8  1 Bc  k     kf    -         1755   10    0 
+rimedio   798336145  8  8 cc  c     f     -         1745   30    0 
+rimedio   798336234  7  6 c   kc    kf    -         1715   20    0 
+rimedio   798336334  8  6 f   -     -     -         1695    0    0 
+rimedio   798336410  9  6 c   f     -     -         1695   20    0 
+rimedio   798336545  9  5 f   -     -     -         1675    0    0 
+rimedio   798336623 11  6 f   -     -     -         1675    0    0 
+rimedio   798336700 11  5 c   k     f     -         1675   10    0 
+rimedio   798336886 10  4 f   -     -     -         1665    0    0 
+rimedio   798336932  9  3 f   -     -     -         1665    0    0 
+rimedio   798336986 10  2 Bk  kf    -     -         1665   10    0 
+rimedio   798337109 11  1 Bc  kc    kf    -         1655   40    0 
+rimedio   798337252 12 12 cc  f     -     -         1615   30    0 
+rimedio   798337353 12 11 c   c     f     -         1585   30    0 
+rimedio   798337492 12 10 KQ  -     -     -         1555    0    0 
+rimedio   798337700 10  7 cc  k     f     -         1555   20    0 
+rimedio   798337784  8  5 c   kc    kf    -         1535   20    0 
+rimedio   798337965  8  4 f   -     -     -         1515    0    0 
+rimedio   798338039 10  4 f   -     -     -         1515    0    0 
+rimedio   798338115 10  3 f   -     -     -         1515    0    0 
+rimedio   798338233 10  2 Bk  kf    -     -         1515   10    0 
+rimedio   798338344  9  1 Bc  k     k     k         1505   10    0 Jc As
+rimedio   798338407  9  9 f   -     -     -         1495    0    0 
+rimedio   798338450  8  7 f   -     -     -         1495    0    0 
+rimedio   798338575  8  5 f   -     -     -         1495    0    0 
+rimedio   798338592  8  5 f   -     -     -         1495    0    0 
+rimedio   798338651  8  4 c   k     kc    kc        1495   50  130 Kh As
+rimedio   798338741  8  3 f   -     -     -         1575    0    0 
+rimedio   798338787  8  2 Bk  kf    -     -         1575   10    0 
+rimedio   798338837  8  1 Br  kc    kf    -         1565   40    0 
+rimedio   798338944  8  8 f   -     -     -         1525    0    0 
+rimedio   798338991  7  6 f   -     -     -         1525    0    0 
+rimedio   798339054  7  5 c   f     -     -         1525   20    0 
+rimedio   798339091  7  4 c   k     c     k         1505   30   75 2d 7d
+rimedio   798339160  7  3 f   -     -     -         1550    0    0 
+rimedio   798339228  7  2 Bc  kf    -     -         1550   30    0 
+rimedio   798339324  7  1 Bf  -     -     -         1520    5    0 
+rimedio   798339458  7  7 c   c     c     f         1515   40    0 
+rimedio   798339543  8  7 f   -     -     -         1475    0    0 
+rimedio   798339631  8  6 f   -     -     -         1475    0    0 
+rimedio   798339667  8  5 f   -     -     -         1475    0    0 
+rimedio   798339788  8  4 f   -     -     -         1475    0    0 
+rimedio   798339857  8  3 c   kc    kc    kf        1475   40    0 
+rimedio   798339937  8  2 Bc  k     k     kf        1435   20    0 
+rimedio   798340006  8  1 Bc  kc    kc    kf        1415   50    0 
+rimedio   798340116  9  9 c   f     -     -         1365   10    0 
+rimedio   798340199  8  8 c   c     c     f         1355   50    0 
+rimedio   798340257  8  7 cr  b     bc    br        1305  140  325 9h 9c
+rimedio   798340370  8  6 c   k     f     -         1490   20    0 
+rimedio   798340423  7  4 c   k     k     f         1470   10    0 
+rimedio   798340473  7  4 r   kc    f     -         1460   30    0 
+rimedio   798340535  7  3 f   -     -     -         1430    0    0 
+rimedio   798340573  7  2 Bk  kc    k     k         1430   20   33 Qs Ah
+rimedio   798340626  7  1 Bf  -     -     -         1443    5    0 
+rimedio   798340674  7  7 c   k     b     -         1438   30   50 
+rimedio   798340751  7  6 f   -     -     -         1458    0    0 
+rimedio   798340822  6  4 f   -     -     -         1458    0    0 
+rimedio   798340868  6  3 f   -     -     -         1458    0    0 
+rimedio   798340897  6  2 Bc  kc    k     k         1458   40  115 Qh 4d
+rimedio   798340962  6  1 Bc  k     k     k         1533   10   30 8s 4s
+rimedio   798340999  6  6 f   -     -     -         1553    0    0 
+rimedio   798341074  6  5 c   b     b     b         1553   60  115 
+rimedio   798341126  6  4 cc  kc    kc    kf        1608   50    0 
+rimedio   798341218  8  4 cc  c     f     -         1558   30    0 
+rimedio   798341293  8  3 f   -     -     -         1528    0    0 
+rimedio   798341372  9  2 Bc  kf    -     -         1528   30    0 
+rimedio   798341455  9  1 Brc bc    bc    kc        1498  110  230 8h 5h
+rimedio   798341535  8  8 f   -     -     -         1618    0    0 
+rimedio   798341600  8  7 f   -     -     -         1618    0    0 
+rimedio   798341661  8  6 c   k     b     c         1618   50    0 Kh 5h
+rimedio   798341734  7  4 f   -     -     -         1568    0    0 
+rimedio   798341804  9  3 cf  -     -     -         1568   10    0 
+rimedio   798341879  9  2 Bk  kc    kf    -         1558   30    0 
+rimedio   798341996  9  1 Bc  k     kf    -         1528   10    0 
+rimedio   798342083 10 10 c   f     -     -         1518   10    0 
+rimedio   798342154 10  9 f   -     -     -         1508    0    0 
+rimedio   798342512  7  6 f   -     -     -         1508    0    0 
+rimedio   798342575  9  6 c   f     -     -         1508   20    0 
+rimedio   798342641 11  5 c   r     b     b         1488   70  150 
+rimedio   798342711 11  4 c   kc    kf    -         1568   20    0 
+rimedio   798342825 12  3 c   kc    kf    -         1548   30    0 
+rimedio   798342935 12  2 Bk  k     kf    -         1518   10    0 
+rimedio   798343080 12  1 Bc  KQ    -     -         1508   20    0 
+rimedio   798343383 12  8 f   -     -     -         1488    0    0 
+rimedio   798343457 10  5 f   -     -     -         1488    0    0 
+rimedio   798343536 10  4 c   c     f     -         1488   40    0 
+rimedio   798343599 10  3 cc  f     -     -         1448   20    0 
+rimedio   798343662 10  2 Bc  kc    kc    b         1428   90  370 Tc Jc
+rimedio   798343788  9  1 Bf  -     -     -         1708    5    0 
+rimedio   798343818  8  8 c   f     -     -         1703   20    0 
+rimedio   798343878  8  7 r   b     b     b         1683   70    0 Qd Qc
+rimedio   798343959  8  6 c   cf    -     -         1613   20    0 
+rimedio   798344026  8  5 f   -     -     -         1593    0    0 
+rimedio   798344118  8  4 KQ  -     -     -         1593    0    0 
+rimedio   798344258  9  3 c   f     -     -         1593   10    0 
+rimedio   798344320  9  2 Bk  kc    kc    k         1583   40  175 2d 7c
+rimedio   798344395  9  1 Br  kc    kc    k         1718   50    0 4d 4c
+rimedio   798344461  9  9 f   -     -     -         1668    0    0 
+rimedio   798344514  9  8 f   -     -     -         1668    0    0 
+rimedio   798344574  9  7 c   k     c     f         1668   30    0 
+rimedio   798344650 10  7 f   -     -     -         1638    0    0 
+rimedio   798344729 11  7 f   -     -     -         1638    0    0 
+rimedio   798344814 11  6 cc  kc    k     k         1638   30    0 3h 9h
+rimedio   798344927 11  5 f   -     -     -         1608    0    0 
+rimedio   798345062  9  4 c   k     kf    -         1608   10    0 
+rimedio   798345148  9  3 c   f     -     -         1598   10    0 
+rimedio   798345329  8  2 Bk  kc    kf    -         1588   20    0 
+rimedio   798345396  9  1 Bc  kc    kf    -         1568   30    0 
+rimedio   798345436  9  6 Q   -     -     -         1538    0    0 
+rimedio   798350122 12  3 ccc kf    -     -         1538   40    0 
+rimedio   798350313 11  1 Bcc bc    kc    kc        1498  110  520 4s Ts
+rimedio   798350498 12  1 Brc kc    k     kf        1908   40    0 
+rimedio   798350658 11  5 Q   -     -     -         1868    0    0 
+rimedio   798418969 10  7 c   k     kf    -         1868   10    0 
+rimedio   798419093 11  6 c   f     -     -         1858   20    0 
+rimedio   798419206 11  5 f   -     -     -         1838    0    0 
+rimedio   798419271 10  3 f   -     -     -         1838    0    0 
+rimedio   798419359 10  2 Bk  k     kf    -         1838   10    0 
+rimedio   798419514 10  1 Brc kc    k     kf        1828   40    0 
+rimedio   798419634  9  9 c   k     f     -         1788   10    0 
+rimedio   798419712  9  8 c   cc    kf    -         1778   30    0 
+rimedio   798419806 10  8 f   -     -     -         1748    0    0 
+rimedio   798419841 10  7 c   c     k     k         1748   20    0 Qc Jd
+rimedio   798419921  9  6 f   -     -     -         1728    0    0 
+rimedio   798420035  8  4 f   -     -     -         1728    0    0 
+rimedio   798420126  7  2 Bk  kf    -     -         1728   10    0 
+rimedio   798420190  7  1 Bc  k     kr    k         1718   50  120 Qs 3h
+rimedio   798420267  7  7 f   -     -     -         1788    0    0 
+rimedio   798420356  8  7 f   -     -     -         1788    0    0 
+rimedio   798420591  7  6 KQ  -     -     -         1788    0    0 
+rimedio   798420974  9  7 c   c     c     f         1788   40    0 
+rimedio   798421094  8  5 c   k     f     -         1748   10    0 
+rimedio   798421213  7  5 c   k     kf    -         1738   10    0 
+rimedio   798421296  9  4 f   -     -     -         1728    0    0 
+rimedio   798421354  9  3 f   -     -     -         1728    0    0 
+rimedio   798421421  9  2 Bf  -     -     -         1728   10    0 
+rimedio   798421473  9  1 Bc  kc    kc    k         1718   50    0 Tc Qd
+rimedio   798421631  9  9 c   c     f     -         1668   30    0 
+rimedio   798421717  9  8 c   k     f     -         1638   10    0 
+rimedio   798421777  8  6 c   c     kf    -         1628   20    0 
+rimedio   798421857  7  4 cc  kc    kc    kc        1608   70  200 Ac Ad
+rimedio   798421929  7  3 f   -     -     -         1738    0    0 
+rimedio   798422015  7  2 BKQ -     -     -         1738   10    0 
+rimedio   798503773  7  7 c   c     c     k         1728   50    0 Jd Th
+rimedio   798503838  7  6 f   -     -     -         1678    0    0 
+rimedio   798503873  7  5 f   -     -     -         1678    0    0 
+rimedio   798503914  7  4 f   -     -     -         1678    0    0 
+rimedio   798503956  8  3 cc  kc    kc    kf        1678   50    0 
+rimedio   798504076  9  2 Bc  k     k     k         1628   20   80 Ad Ac
+rimedio   798504176 10  1 Bc  kf    -     -         1688   20    0 
+rimedio   798504265 10 10 c   c     f     -         1668   30    0 
+rimedio   798504403 10  9 c   c     b     b         1638  100  355 Qc 7c
+rimedio   798504548 10  8 c   c     c     b         1893   70  155 Kd Td
+rimedio   798504646  7  4 c   f     -     -         1978   20    0 
+rimedio   798504698  7  3 f   -     -     -         1958    0    0 
+rimedio   798504721  7  2 Bcc kc    kc    kf        1958   60    0 
+rimedio   798504828  7  1 Bc  kc    kc    kc        1898   70    0 7c 7s
+rimedio   798504909  8  8 f   -     -     -         1828    0    0 
+rimedio   798504940  8  7 c   kc    kf    -         1828   30    0 
+rimedio   798505005  8  6 c   f     -     -         1798   10    0 
+rimedio   798505084  9  6 c   f     -     -         1788   10    0 
+rimedio   798505167  9  5 f   -     -     -         1778    0    0 
+rimedio   798505210 10  5 f   -     -     -         1778    0    0 
+rimedio   798505229 10  4 c   b     b     b         1778   60  135 
+rimedio   798505297 10  3 f   -     -     -         1853    0    0 
+rimedio   798505355 10  2 Bc  kcc   kc    kr        1853  140  500 Ts 6h
+rimedio   798505489 10  1 Bc  kc    kf    -         2213   30    0 
+rimedio   798505571 10 10 cc  cc    c     f         2183  100    0 
+rimedio   798505822  8  7 c   f     -     -         2083   10    0 
+rimedio   798505920  8  6 f   -     -     -         2073    0    0 
+rimedio   798505997  9  6 f   -     -     -         2073    0    0 
+rimedio   798506052  8  4 c   cc    f     -         2073   30    0 
+rimedio   798506145  9  3 c   kc    b     b         2043   60  135 
+rimedio   798506242  9  2 Bc  kc    kf    -         2118   30    0 
+rimedio   798506325  9  1 Bc  k     b     -         2088   40  140 
+rimedio   798506410  8  8 c   f     -     -         2188   10    0 
+rimedio   798506471  8  7 f   -     -     -         2178    0    0 
+rimedio   798506597 10  8 c   c     c     c         2178   70  215 As Jd
+rimedio   798506742 10  7 c   c     f     -         2323   20    0 
+rimedio   798506839 11  7 f   -     -     -         2303    0    0 
+rimedio   798506886 12  7 f   -     -     -         2303    0    0 
+rimedio   798506961 12  6 c   c     c     f         2303   50    0 
+rimedio   798507110 10  4 c   c     f     -         2253   20    0 
+rimedio   798507231 11  4 f   -     -     -         2233    0    0 
+rimedio   798507363 11  3 c   kc    kc    k         2233   40    0 7d Jd
+rimedio   798507476 11  2 Bk  bc    kcc   k         2193   90  145 6c 5s
+rimedio   798507611 11  1 Bc  kc    kc    kf        2248   50    0 
+rimedio   798507724 10 10 f   -     -     -         2198    0    0 
+rimedio   798507801  9  8 c   k     k     k         2198   10    0 5s 6d
+rimedio   798507885  9  7 f   -     -     -         2188    0    0 
+rimedio   798507986  9  5 cc  kc    kc    kf        2188   50    0 
+rimedio   798508159 10  5 c   c     f     -         2138   20    0 
+rimedio   798508284 10  4 c   f     -     -         2118   10    0 
+rimedio   798508383 10  4 f   -     -     -         2108    0    0 
+rimedio   798508480 10  2 Bk  kc    kc    k         2108   50    0 7d 8s
+rimedio   798508564 10  1 Bc  kc    kf    -         2058   20    0 
+rimedio   798508720  9  9 c   c     k     k         2038   30  150 Ah 9d
+rimedio   798508870  8  6 c   k     f     -         2158   10    0 
+rimedio   798509068  8  5 c   c     f     -         2148   30    0 
+rimedio   798509119  8  4 f   -     -     -         2118    0    0 
+rimedio   798509205  8  3 cc  kc    kf    -         2118   30    0 
+rimedio   798509345  8  2 Bc  kc    kc    k         2088   60    0 6d 2c
+rimedio   798509454  9  1 Bc  kf    -     -         2028   20    0 
+rimedio   798509526 10 10 c   c     f     -         2008   20    0 
+rimedio   798509626 10  9 f   -     -     -         1988    0    0 
+rimedio   798509754 10  8 cc  c     f     -         1988   30    0 
+rimedio   798509918 11  8 f   -     -     -         1958    0    0 
+rimedio   798510035 11  7 cc  kc    kf    -         1958   50    0 
+rimedio   798510350 10  6 cc  cc    kf    -         1908   70    0 
+rimedio   798510549 10  4 Q   -     -     -         1838    0    0 
+rimedio   798512025  9  6 rc  r     b     r         1838  130  355 5c 5s
+rimedio   798512104  8  4 c   c     c     c         2063   60  150 2s 6s
+rimedio   798512202  8  3 cc  kc    k     k         2153   30  100 7h Ad
+rimedio   798512288 10  2 B   -     -     -         2223   10   15 
+rimedio   798512414  8  1 BQ  -     -     -         2228    5    0 
+rimedio   798587319  8  2 Bc  kf    -     -         2223   20    0 
+rimedio   798587366  8  1 Bc  k     kf    -         2203   10    0 
+rimedio   798587479  8  8 cc  k     k     b         2193   60    0 Th 6h
+rimedio   798587599  8  7 c   c     r     rc        2133  120    0 6d 4d
+rimedio   798587722  8  6 c   b     b     b         2013   60  125 
+rimedio   798587821  9  5 f   -     -     -         2078    0    0 
+rimedio   798587976  9  4 f   -     -     -         2078    0    0 
+rimedio   798588074  9  3 f   -     -     -         2078    0    0 
+rimedio   798588155  9  2 Bc  kc    kc    k         2078   50  175 Ac 8d
+rimedio   798588326  9  1 Bc  k     kf    -         2203   20    0 
+rimedio   798588491  6  6 f   -     -     -         2183    0    0 
+rimedio   798588512  5  4 c   f     -     -         2183   10    0 
+rimedio   798588546  5  3 cc  f     -     -         2173   20    0 
+rimedio   798588613  5  2 Bc  f     -     -         2153   20    0 
+rimedio   798588639  5  1 Bc  kc    k     k         2133   20    0 9s Td
+rimedio   798588686  7  7 f   -     -     -         2113    0    0 
+rimedio   798588737  7  6 c   f     -     -         2113   20    0 
+rimedio   798588798  6  5 cc  cc    kc    kc        2093   80    0 Qs Ad
+rimedio   798588878  6  4 cc  kf    -     -         2013   20    0 
+rimedio   798588975  6  3 c   kf    -     -         1993   10    0 
+rimedio   798589031  6  2 Bc  kc    kc    kf        1983   60    0 
+rimedio   798589147  4  1 Bc  k     kc    kfQ       1923   30    0 
+rimedio   798592176  7  4 f   -     -     -         1893    0    0 
+rimedio   798592190  7  3 f   -     -     -         1893    0    0 
+rimedio   798592272  6  2 Bc  kc    kf    -         1893   30    0 
+rimedio   798592340  5  1 Bc  kc    kf    -         1863   50    0 
+rimedio   798592457  6  6 ccc c     c     f         1813  100    0 
+rimedio   798592568  6  5 f   -     -     -         1713    0    0 
+rimedio   798592597  6  4 cc  cc    k     c         1713   70    0 Ah 3c
+rimedio   798592677  6  3 f   -     -     -         1643    0    0 
+rimedio   798592736  5  2 Bc  kc    kc    kf        1643   50    0 
+rimedio   798592797  5  1 Bcc kc    kc    k         1593   80  250 9c Qs
+rimedio   798592885  6  6 c   c     c     r         1763   90  240 Js Qd
+rimedio   798592999  7  6 cc  c     f     -         1913   40    0 
+rimedio   798593069  8  5 f   -     -     -         1873    0    0 
+rimedio   798593110  8  4 cc  c     c     c         1873   70    0 Kd Ac
+rimedio   798593182  9  3 f   -     -     -         1803    0    0 
+rimedio   798593255  9  2 Bc  k     kc    kc        1803   60    0 Qc 9s
+rimedio   798593327  9  1 Bc  kc    kc    k         1743   50  110 
+rimedio   798593394  9  9 c   c     f     -         1803   20    0 
+rimedio   798593526  9  8 c   c     f     -         1783   50    0 
+rimedio   798593601  9  7 f   -     -     -         1733    0    0 
+rimedio   798593688  8  5 cc  kf    -     -         1733   20    0 
+rimedio   798593774  9  5 c   c     f     -         1713   20    0 
+rimedio   798593865  9  4 rf  -     -     -         1693   20    0 
+rimedio   798593937  8  2 cc  kf    -     -         1673   20    0 
+rimedio   798594049  8  2 Bc  kc    kf    -         1653   30    0 
+rimedio   798594104  8  1 Br  bc    br    b         1623  130  330 
+rimedio   798594209  8  8 c   k     f     -         1823   10    0 
+rimedio   798594288  8  7 c   r     b     b         1813   70  170 Qc Ah
+rimedio   798594344  8  6 c   k     f     -         1913   10    0 
+rimedio   798594400  8  5 c   k     k     k         1903   10    0 6c 4s
+rimedio   798594498 11  4 f   -     -     -         1893    0    0 
+rimedio   798594534 10  2 Bk  kc    k     k         1893   20    0 9d Ah
+rimedio   798594615 10  1 Bc  kf    -     -         1873   10    0 
+rimedio   798594714 10 10 f   -     -     -         1863    0    0 
+rimedio   798594768 11 10 c   k     bc    k         1863   50  110 Qh Th
+rimedio   798594855 11  9 r   k     k     f         1923   20    0 
+rimedio   798594926 10  8 cc  f     -     -         1903   40    0 
+rimedio   798595049 12  8 f   -     -     -         1863    0    0 
+rimedio   798595151 10  6 cc  f     -     -         1863   20    0 
+rimedio   798595264  9  5 f   -     -     -         1843    0    0 
+rimedio   798595362  8  3 f   -     -     -         1843    0    0 
+rimedio   798595497 10  3 f   -     -     -         1843    0    0 
+rimedio   798595546  9  2 Bf  -     -     -         1843   10    0 
+rimedio   798595648  8  1 BKQ -     -     -         1833    5    0 
+rimedio   798597386  9  7 f   -     -     -         1828    0    0 
+rimedio   798597472  9  6 r   k     c     f         1828   40    0 
+rimedio   798597565 10  5 c   kc    k     f         1788   30    0 
+rimedio   798597665 12  4 c   c     kc    f         1758   40    0 
+rimedio   798597792 11  4 rr  kc    kc    kc        1718   90    0 Td Ts
+rimedio   798597913 10  2 Bf  Q     -     -         1628   10    0 
+rimedio   798672329  6  3 f   -     -     -         1618    0    0 
+rimedio   798672409  6  2 Bf  -     -     -         1618   10    0 
+rimedio   798672484  6  1 Bc  kf    -     -         1608   20    0 
+rimedio   798672554  6  6 f   -     -     -         1588    0    0 
+rimedio   798672605  6  5 c   k     f     -         1588   10    0 
+rimedio   798672676  6  4 f   -     -     -         1578    0    0 
+rimedio   798672736  6  3 c   kf    -     -         1578   10    0 
+rimedio   798672836  6  2 Bk  kf    -     -         1568   10    0 
+rimedio   798672949  6  1 Bc  k     k     b         1558   30   70 7s 3s
+rimedio   798673007  6  6 c   c     f     -         1598   40    0 
+rimedio   798673096  5  4 f   -     -     -         1558    0    0 
+rimedio   798673145  5  3 f   -     -     -         1558    0    0 
+rimedio   798673261  6  2 Bc  c     cf    -         1558   50    0 
+rimedio   798673369  6  1 Bc  kc    kc    kc        1508   70  150 Kh 3c
+rimedio   798673451  6  6 c   cf    -     -         1588   30    0 
+rimedio   798673528  7  6 c   c     f     -         1558   20    0 
+rimedio   798673681  6  4 f   -     -     -         1538    0    0 
+rimedio   798673753  6  3 c   b     b     -         1538   40   90 
+rimedio   798673875  6  2 Bc  cc    k     k         1588   40    0 Qd 6d
+rimedio   798674063  6  1 Bc  k     k     kf        1548   10    0 
+rimedio   798674193  6  3 Q   -     -     -         1538    0    0 
+rimedio   798674598  4  4 c   c     f     -         1538   20    0 
+rimedio   798674651  4  3 r   b     bc    r         1518  110  245 5d Td
+rimedio   798674730  4  2 Bk  k     f     -         1653   10    0 
+rimedio   798674869  8  1 Br  kc    k     kc        1643   60  170 Jd Ad
+rimedio   798675122  7  7 c   k     k     f         1753   10    0 
+rimedio   798675199  7  3 Q   -     -     -         1743    0    0 
+rimedio   798676360  7  5 r   c     f     -         1743   50    0 
+rimedio   798676432  7  3 cc  kf    -     -         1693   20    0 
+rimedio   798676566 10  3 ccc kc    k     k         1673   50    0 2h 3s
+rimedio   798676797  8  1 Bc  kc    kf    -         1623   30    0 
+rimedio   798676896  7  1 Bc  bc    kc    kc        1593   70    0 Jd Kc
+rimedio   798677089  6  6 f   -     -     -         1523    0    0 
+rimedio   798677154  6  5 c   k     c     f         1523   60    0 
+rimedio   798677261  5  4 c   k     kf    -         1463   10    0 
+rimedio   798677352  4  2 Bf  -     -     -         1453   10    0 
+rimedio   798677381  4  1 Bf  -     -     -         1443    5    0 
+rimedio   798677439  4  4 c   r     r     b         1438   90  200 7c 6s
+rimedio   798677510  4  3 c   k     k     k         1548   10   25 Ah 5s
+rimedio   798677583  5  2 Bc  f     -     -         1563   20    0 
+rimedio   798677680  5  1 Bc  k     k     kf        1543   10    0 
+rimedio   798677801  4  4 c   r     c     f         1533   50    0 
+rimedio   798677875  3  2 Bk  f     -     -         1483   10    0 
+rimedio   798677914  3  1 BQ  -     -     -         1473    5    0 
+rimedio   798679536  6  4 c   c     f     -         1468   20    0 
+rimedio   798679638  6  3 c   kc    kf    -         1448   20    0 
+rimedio   798679747  6  2 Bc  kc    kc    kf        1428   70    0 
+rimedio   798679864  7  1 Bc  k     kf    -         1358   10    0 
+rimedio   798679944  6  6 f   -     -     -         1348    0    0 
+rimedio   798680009  6  5 c   kc    f     -         1348   20    0 
+rimedio   798680060  6  4 f   -     -     -         1328    0    0 
+rimedio   798680102  6  3 f   -     -     -         1328    0    0 
+rimedio   798680163  6  2 Bc  k     kf    -         1328   20    0 
+rimedio   798680223  5  1 Bc  kc    kf    -         1308   30    0 
+rimedio   798680284  5  5 f   -     -     -         1278    0    0 
+rimedio   798680326  5  4 cc  f     -     -         1278   20    0 
+rimedio   798680396  5  3 f   -     -     -         1258    0    0 
+rimedio   798680460  5  2 Bc  kc    k     k         1258   30    0 8c Kd
+rimedio   798680537  5  1 Bf  -     -     -         1228    5    0 
+rimedio   798680592  5  5 cc  k     f     -         1223   20    0 
+rimedio   798680687  5  4 c   f     -     -         1203   10    0 
+rimedio   798680742  5  3 c   k     kf    -         1193   10    0 
+rimedio   798680834  6  2 Bk  k     k     b         1183   30    0 5d Js
+rimedio   798680897  6  1 Bc  kf    -     -         1153   10    0 
+rimedio   798680996  6  6 cc  c     f     -         1143   30    0 
+rimedio   798681058  6  5 f   -     -     -         1113    0    0 
+rimedio   798681143  6  4 c   c     f     -         1113   20    0 
+rimedio   798681245  6  3 c   kc    kf    -         1093   20    0 
+rimedio   798681338  6  2 Br  kc    k     kf        1073   30    0 
+rimedio   798681469  6  1 Bc  kc    kc    k         1043   40    0 Ah Td
+rimedio   798681561  6  6 cc  f     -     -         1003   20    0 
+rimedio   798681644  6  5 rc  c     c     c          983   90    0 Qc Jc
+rimedio   798681736  6  3 Q   -     -     -          893    0    0 
+rimedio   798685032 11  9 c   f     -     -          893   20    0 
+rimedio   798685155 10  6 c   c     f     -          873   30    0 
+rimedio   798685231 10  5 f   -     -     -          843    0    0 
+rimedio   798685309  9  4 cc  b     bc    k          843   70    0 Ts 7s
+rimedio   798685417  9  3 cc  kf    -     -          773   20    0 
+rimedio   798685549  9  2 Bk  k     k     kf         753   10    0 
+rimedio   798685625  8  1 Bcc kc    kf    -          743   40    0 
+rimedio   798685729  8  8 c   c     f     -          703   30    0 
+rimedio   798685777  8  7 cc  f     -     -          673   20    0 
+rimedio   798685855  9  7 rc  c     k     f          653   50    0 
+rimedio   798685924  9  6 c   c     f     -          603   20    0 
+rimedio   798686008  9  5 f   -     -     -          583    0    0 
+rimedio   798686090  9  4 cc  kc    kc    kc         583   70  270 Kh Qs
+rimedio   798686214  9  3 cc  f     -     -          783   20    0 
+rimedio   798686292  9  2 Bk  f     -     -          763   10    0 
+rimedio   798686363  9  1 Bc  k     k     k          753   10   40 6d 4c
+rimedio   798686448  9  9 c   f     -     -          783   10    0 
+rimedio   798686499  9  8 f   -     -     -          773    0    0 
+rimedio   798686614  9  7 f   -     -     -          773    0    0 
+rimedio   798686699  9  6 f   -     -     -          773    0    0 
+rimedio   798686785  9  5 f   -     -     -          773    0    0 
+rimedio   798686842  9  4 cc  f     -     -          773   20    0 
+rimedio   798686973  9  3 fQ  -     -     -          753    0    0 
+rimedio   798687561  8  5 c   k     kf    -          753   10    0 
+rimedio   798687688  8  4 f   -     -     -          743    0    0 
+rimedio   798687801  9  3 f   -     -     -          743    0    0 
+rimedio   798687923  8  2 Bk  kf    -     -          743   10    0 
+rimedio   798688021  9  1 Bc  kf    -     -          733   10    0 
+rimedio   798688110  9  9 f   -     -     -          723    0    0 
+rimedio   798688235 11 10 f   -     -     -          723    0    0 
+rimedio   798688368 11  9 c   c     f     -          723   20    0 
+rimedio   798688488 11  8 c   c     c     cf         703   70    0 
+rimedio   798688625 11  7 f   -     -     -          633    0    0 
+rimedio   798688689 12  7 c   f     -     -          633   10    0 
+rimedio   798688899  8  5 ccc c     f     -          623   50    0 
+rimedio   798689028  9  5 f   -     -     -          573    0    0 
+rimedio   798689125 10  4 cc  k     k     f          573   20    0 
+rimedio   798689198 10  3 f   -     -     -          553    0    0 
+rimedio   798689281 11  2 Bc  cf    -     -          553   30    0 
+rimedio   798689338 11  1 Bc  kf    -     -          523   10    0 
+rimedio   798689452 11 11 c   k     f     -          513   10    0 
+rimedio   798689571 10  9 cc  f     -     -          503   20    0 
+rimedio   798689687 10  9 c   f     -     -          483   10    0 
+rimedio   798689794  9  7 f   -     -     -          473    0    0 
+rimedio   798689863  9  6 f   -     -     -          473    0    0 
+rimedio   798689922  9  5 f   -     -     -          473    0    0 
+rimedio   798689971  9  4 c   c     c     k          473   40   72 Kh 7c
+rimedio   798690044 10  3 c   cc    k     kf         505   30    0 
+rimedio   798690197 10  2 Bc  kc    f     -          475   40    0 
+rimedio   798690347  9  1 Bc  k     k     kf         435   10    0 
+rimedio   798690457  8  8 rc  k     c     k          425   60    0 6d Ad
+rimedio   798690579  7  6 c   r     b     b          365   70    0 6c 8s
+rimedio   798690654  7  5 f   -     -     -          295    0    0 
+rimedio   798690733  7  4 c   f     -     -          295   10    0 
+rimedio   798690783  8  3 rc  k     cc    k          285   80    0 Qd 8d
+rimedio   798690896  8  2 Bk  k     kf    -          205   10    0 
+rimedio   798690976  8  1 Bc  kc    b     b          195   70  250 8d Qs
+rimedio   798691070  8  8 f   -     -     -          375    0    0 
+rimedio   798691151  8  7 f   -     -     -          375    0    0 
+rimedio   798691236  7  5 c   k     k     f          375   10    0 
+rimedio   798691348  7  4 r   c     c     f          365   50    0 
+rimedio   798691419  7  3 f   -     -     -          315    0    0 
+rimedio   798691470  5  1 Bk  b     -     -          315   20   30 
+rimedio   798691498  5  1 Bc  kc    kf    -          325   30    0 
+rimedio   798691561  5  5 c   b     b     rf         295  100    0 
+rimedio   798691645  5  4 c   c     KQ    -          195   20    0 
+rimedio   798763084  8  2 Bf  -     -     -          175   10    0 
+rimedio   798763116  8  1 Bc  k     kf    -          165   10    0 
+rimedio   798763246  9  9 f   -     -     -          155    0    0 
+rimedio   798763346 10  9 f   -     -     -          155    0    0 
+rimedio   798763442  9  7 c   br    b     b          155   80  110 3d Jd
+rimedio   798763545 10  7 c   f     -     -          185   20    0 
+rimedio   798763660 10  6 c   kc    kf    -          165   20    0 
+rimedio   798763819  9  4 cc  b     b     -          145   50  160 
+rimedio   798763936  9  4 f   -     -     -          255    0    0 
+rimedio   798764017  9  3 c   k     f     -          255   10    0 
+rimedio   798764111  9  2 Bc  kc    kf    -          245   30    0 
+rimedio   798764302 11  1 Bf  -     -     -          215    5    0 
+rimedio   798764424 11 11 c   k     c     f          210   30    0 
+rimedio   798764561 11 10 cc  brc   br    brA        180  180    0 Ac Td
+rimedio   798850768 11  6 c   k     k     kf        1000   10    0 
+rimedio   798850845 10  4 cc  k     f     -          990   20    0 
+rimedio   798850938 10  4 cc  kf    -     -          970   20    0 
+rimedio   798851125  9  3 f   -     -     -          950    0    0 
+rimedio   798851190 11  2 Bk  k     kf    -          950   10    0 
+rimedio   798851282 11  1 Bc  kc    kf    -          940   60    0 
+rimedio   798851465 12 12 f   -     -     -          880    0    0 
+rimedio   798851554 12 11 c   f     -     -          880   10    0 
+rimedio   798851670 12 10 c   kcc   f     -          870   50    0 
+rimedio   798851800 12  9 cc  cc    k     c          820   90  520 2h 6h
+rimedio   798851956 12 10 c   f     -     -         1250   30    0 
+rimedio   798852145  7  5 c   rc    cr    c         1220  130    0 5d 6s
+rimedio   798852268  6  2 Bc  kf    -     -         1090   30    0 
+rimedio   798852328  7  1 Bc  kf    -     -         1060   20    0 
+rimedio   798852446  6  6 c   c     c     c         1040   70    0 8c Jd
+rimedio   798852486  6  6 f   -     -     -          970    0    0 
+rimedio   798852517  6  5 cc  f     -     -          970   40    0 
+rimedio   798852670  5  4 f   -     -     -          930    0    0 
+rimedio   798852729  5  3 cc  c     cc    c          930  140    0 Ac 2d
+rimedio   798852893  5  2 Bc  f     -     -          790   20    0 
+rimedio   798852944  5  1 Bc  kc    k     kc         770   50  150 Qs Tc
+rimedio   798853030  5  5 c   c     f     -          870   30    0 
+rimedio   798853085  4  3 c   k     k     rr         840   90    0 6c Kd
+rimedio   798853138  5  2 Bk  kf    -     -          750   10    0 
+rimedio   798853191  5  1 Bc  kf    -     -          740   20    0 
+rimedio   798853245  5  5 c   k     k     k          720   10   25 8h Kc
+rimedio   798853293  4  4 c   k     b     -          735   30   50 
+rimedio   798853347  6  4 c   c     c     b          755   60  220 Th 6c
+rimedio   798853485  7  4 cc  rr    c     rc         915  160    0 5c Qc
+rimedio   798853590  7  3 cc  kf    -     -          755   20    0 
+rimedio   798853714  8  3 c   b     k     -          735   20   55 
+rimedio   798853782  8  2 Bk  f     -     -          770   10    0 
+rimedio   798853890  8  1 Bcc kc    kc    k          760   50  150 5s 2d
+rimedio   798853973  8  8 c   f     Q     -          860   10    0 
+rimedio   798864738  4  4 c   k     f     -          850   10    0 
+rimedio   798864770  4  3 c   k     k     f          840   10    0 
+rimedio   798864804  4  2 Bc  f     -     -          830   20    0 
+rimedio   798864846  4  1 Bc  kc    kc    k          810   50  120 2h Ks
+rimedio   798864882  5  4 c   kf    -     -          880   10    0 
+rimedio   798864939  5  3 c   k     f     -          870   10    0 
+rimedio   798865008  5  2 Br  br    b     b          860   90  185 Tc 5c
+rimedio   798865069  6  1 Bc  k     kf    -          955   10    0 
+rimedio   798865118  6  6 f   -     -     -          945    0    0 
+rimedio   798865135  6  5 c   k     k     k          945   10   30 Ac Th
+rimedio   798865187  7  5 c   b     b     c          965   60    0 Jd Ks
+rimedio   798865248  7  4 c   kf    -     -          905   10    0 
+rimedio   798865288  7  3 c   b     -     -          895   20   55 
+rimedio   798865335  5  2 Bk  f     -     -          930   10    0 
+rimedio   798865367  5  1 Bf  -     -     -          920    5    0 
+rimedio   798865423  4  4 c   c     k     f          915   20    0 
+rimedio   798865462  4  3 c   f     -     -          895   10    0 
+rimedio   798865498  4  2 Bc  f     -     -          885   20    0 
+rimedio   798865523  4  1 Br  bc    b     k          865   60  150 Js Jc
+rimedio   798865568  5  4 c   f     -     -          955   10    0 
+rimedio   798865608  5  3 c   kc    k     k          945   20    0 6d Kh
+rimedio   798865671  5  2 Br  bc    kc    kf         925  100    0 
+rimedio   798865774  5  1 Bc  kf    -     -          825   10    0 
+rimedio   798865853  5  5 c   b     b     rc         815  100  110 3s 5c
+rimedio   798865911  5  4 c   c     k     r          825   60  145 9c 7h
+rimedio   798865983  5  3 f   -     -     -          910    0    0 
+rimedio   798866040  5  2 Br  k     k     kc         910   40   85 2h Td
+rimedio   798866088  5  1 Bc  k     kc    kf         955   30    0 
+rimedio   798866144  5  5 cc  c     b     b          925   70  190 6c 8d
+rimedio   798866217  5  4 c   f     -     -         1045   10    0 
+rimedio   798866245  5  3 cc  f     -     -         1035   20    0 
+rimedio   798866297  5  2 Br  k     kc    kc        1015   60    0 3s 3h
+rimedio   798866354  6  1 Bc  kc    k     k          955   40    0 Qs Qh
+rimedio   798866493  5  5 cc  c     f     -          915   30    0 
+rimedio   798866568  6  5 cc  f     -     -          885   20    0 
+rimedio   798866659  6  4 f   -     -     -          865    0    0 
+rimedio   798866679  6  3 cc  kf    -     -          865   20    0 
+rimedio   798866739  6  2 Br  c     f     -          845   30    0 
+rimedio   798866804  5  1 Bc  b     b     -          815   40   80 
+rimedio   798866854  5  5 c   cc    ccc   rc         855  210    0 4h Qh
+rimedio   798866976  5  4 ccc cc    c     c          645  135    0 9d Ks
+rimedio   798867091  4  3 c   c     k     b          510   40   90 3d 6d
+rimedio   798867138  5  2 Bc  c     f     -          560   30    0 
+rimedio   798867195  6  1 Bc  kKQ   -     -          530   20    0 

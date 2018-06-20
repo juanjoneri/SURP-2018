@@ -1,0 +1,167 @@
+TheHydra  797613360  3  2 r   -     -     -         1000   20   30 
+TheHydra  797613379  3  2 Bc  c     r     -         1010   70  120 
+TheHydra  797613410  3  1 Bf  -     -     -         1060    5    0 
+TheHydra  797613416  3  3 f   -     -     -         1055    0    0 
+TheHydra  797613462  3  2 B   -     -     -         1055   10   15 
+TheHydra  797613470  3  1 Bc  bc    kc    kc        1060   80    0 8d As
+TheHydra  797613494  3  3 r   r     br    b          980  120  122 Ts 8s
+TheHydra  797613545  3  2 B   -     -     -          982   10   15 
+TheHydra  797613553  3  1 Br  -     -     -          987   20   30 
+TheHydra  797613560  3  3 f   -     -     -          997    0    0 
+TheHydra  797613563  3  2 Bc  c     r     bf         997   90    0 
+TheHydra  797613593  3  1 Bc  k     b     -          907   30   50 
+TheHydra  797613610  3  3 c   k     b     -          927   30   50 
+TheHydra  797613633  3  2 Br  c     c     c          947   80  160 Jc Jd
+TheHydra  797613655  4  1 Bc  kr    b     k         1027   50   55 8h Td
+TheHydra  797613686  4  4 f   -     -     -         1032    0    0 
+TheHydra  797613708  4  3 r   k     bf    -         1032   40    0 
+TheHydra  797613764  4  2 Bk  b     b     -          992   40   70 
+TheHydra  797613808  4  1 Bc  kf    -     -         1022   10    0 
+TheHydra  797613838  4  4 f   -     -     -         1012    0    0 
+TheHydra  797613861  4  3 f   -     -     -         1012    0    0 
+TheHydra  797613901  4  2 Bf  -     -     -         1012   10    0 
+TheHydra  797613938  4  1 Bc  kf    -     -         1002   10    0 
+TheHydra  797613982  4  4 rc  b     brrc  c          992  180    0 Kh Jh
+TheHydra  797614020  4  3 f   -     -     -          812    0    0 
+TheHydra  797614049  4  2 Bk  kf    -     -          812   10    0 
+TheHydra  797614070  4  1 Bf  -     -     -          802    5    0 
+TheHydra  797614085  4  4 rc  r     b     b          797   90  215 Ks Jh
+TheHydra  797614123  4  3 r   k     bf    -          922   40    0 
+TheHydra  797614160  4  2 Bc  bc    kc    kf         882   60    0 
+TheHydra  797614205  4  1 Bc  kcc   kf    -          822   40    0 
+TheHydra  797614239  4  4 f   -     -     -          782    0    0 
+TheHydra  797614279  3  3 r   r     r     b          782  100    0 Qh 9s
+TheHydra  797614308  3  2 Br  r     cQ    -          682   80    0 
+TheHydra  798219255  3  3 f   -     -     -          602    0    0 
+TheHydra  798219287  3  2 Bk  kf    -     -          602   10    0 
+TheHydra  798219407  3  1 BQ  -     -     -          592    5    0 
+TheHydra  798219467  4  4 r   -     -     -          587   20   35 
+TheHydra  798219507  4  3 f   -     -     -          602    0    0 
+TheHydra  798219532  5  2 Bk  k     kf    -          602   10    0 
+TheHydra  798219593  5  1 Bc  bc    bf    -          592   50    0 
+TheHydra  798219641  6  6 r   r     b     b          542   80  220 Kh 2h
+TheHydra  798219728  7  6 f   -     -     -          682    0    0 
+TheHydra  798219774  7  5 f   -     -     -          682    0    0 
+TheHydra  798219834  6  4 f   -     -     -          682    0    0 
+TheHydra  798219896  6  3 f   -     -     -          682    0    0 
+TheHydra  798219932  6  2 Bc  b     b     b          682   70   83 Kd Tc
+TheHydra  798220021  5  1 Bc  b     -     -          695   20   30 
+TheHydra  798220046  5  5 r   -     -     -          705   20   35 
+TheHydra  798220060  5  4 c   b     b     k          720   40    0 6h 9h
+TheHydra  798220140  5  3 rc  b     bf    -          680   70    0 
+TheHydra  798220245  7  2 Br  b     kf    -          610   40    0 
+TheHydra  798220330  7  1 Bcc br    b     b          570   90  230 
+TheHydra  798220453  7  7 f   -     -     -          710    0    0 
+TheHydra  798220508  7  6 f   -     -     -          710    0    0 
+TheHydra  798220561  7  6 f   -     -     -          710    0    0 
+TheHydra  798220630  6  4 r   -     -     -          710   20   35 
+TheHydra  798220649  6  3 f   -     -     -          725    0    0 
+TheHydra  798220718  6  2 Bf  -     -     -          725   10    0 
+TheHydra  798220729  6  1 Brc kf    -     -          715   40    0 
+TheHydra  798220797  8  8 c   b     b     r          675   90    0 8d Jh
+TheHydra  798220868  8  7 c   kf    -     -          585   10    0 
+TheHydra  798220911  8  6 f   -     -     -          575    0    0 
+TheHydra  798220939  9  6 rc  rc    r     b          575  120  280 Tc Td
+TheHydra  798221017  9  5 c   f     -     -          735   10    0 
+TheHydra  798221097 10  4 f   -     -     -          725    0    0 
+TheHydra  798221212  9  3 f   -     -     -          725    0    0 
+TheHydra  798221306 11  2 Bk  kf    -     -          725   10    0 
+TheHydra  798221386 11  1 Bf  -     -     -          715    5    0 
+TheHydra  798221470 11 11 f   -     -     -          710    0    0 
+TheHydra  798221588 11 10 f   -     -     -          710    0    0 
+TheHydra  798221663 12 10 f   -     -     -          710    0    0 
+TheHydra  798221741 12  9 f   -     -     -          710    0    0 
+TheHydra  798221832 12  8 f   -     -     -          710    0    0 
+TheHydra  798221921 11  6 f   -     -     -          710    0    0 
+TheHydra  798221979 12  5 f   -     -     -          710    0    0 
+TheHydra  798222057 10  5 f   -     -     -          710    0    0 
+TheHydra  798222108 10  3 f   -     -     -          710    0    0 
+TheHydra  798222153 10  2 Bf  -     -     -          710   10    0 
+TheHydra  798222201 10  1 Bc  k     bf    -          700   30    0 
+TheHydra  798222279 10 10 f   -     -     -          670    0    0 
+TheHydra  798222334 10  9 r   b     -     -          670   30   65 
+TheHydra  798222386 11  9 f   -     -     -          705    0    0 
+TheHydra  798222445 11  8 f   -     -     -          705    0    0 
+TheHydra  798222506 11  7 cc  brc   b     bc         705  120    0 4c 4s
+TheHydra  798222613 10  5 c   r     f     -          585   40    0 
+TheHydra  798222696 11  5 f   -     Q     -          545    0    0 
+TheHydra  798395925  8  4 f   -     -     -          545    0    0 
+TheHydra  798395948  7  2 Bk  k     kf    -          545   10    0 
+TheHydra  798396057  6  1 Bf  -     -     -          535    5    0 
+TheHydra  798396097  6  6 f   -     -     -          530    0    0 
+TheHydra  798396173  6  5 f   -     -     -          530    0    0 
+TheHydra  798396235  6  4 f   -     -     -          530    0    0 
+TheHydra  798396295  7  4 c   rc    b     k          530   70    0 Qh 6h
+TheHydra  798396377  7  3 f   -     -     -          460    0    0 
+TheHydra  798396458  6  1 Bc  kf    -     -          460   20    0 
+TheHydra  798396503  6  1 Bf  -     -     -          440    5    0 
+TheHydra  798396537  6  6 c   r     k     f          435   30    0 
+TheHydra  798396595  6  5 f   -     -     -          405    0    0 
+TheHydra  798396652  7  5 f   -     -     -          405    0    0 
+TheHydra  798396674  8  5 f   -     -     -          405    0    0 
+TheHydra  798396741  9  4 f   -     -     -          405    0    0 
+TheHydra  798396784  9  3 f   -     -     -          405    0    0 
+TheHydra  798396817  9  2 Bk  k     b     k          405   30   95 4d 5h
+TheHydra  798396924  9  1 Bf  -     -     -          470    5    0 
+TheHydra  798397089  8  8 f   -     -     -          465    0    0 
+TheHydra  798397169  8  7 f   -     -     -          465    0    0 
+TheHydra  798397231  8  6 r   b     b     b          465   90  235 Ac Ks
+TheHydra  798397293  8  5 c   r     b     c          610   70    0 Qd Jh
+TheHydra  798397360  6  2 c   b     -     -          540   20   30 
+TheHydra  798397389  6  2 Bc  kf    -     -          550   20    0 
+TheHydra  798397468  5  1 Bf  -     -     -          530    5    0 
+TheHydra  798397513  5  5 f   -     -     -          525    0    0 
+TheHydra  798397570  5  4 f   -     -     -          525    0    0 
+TheHydra  798397639  5  3 r   k     f     -          525   20    0 
+TheHydra  798397710  5  2 Bc  kf    -     -          505   20    0 
+TheHydra  798397779  5  1 Bc  kc    b     kf         485   40    0 
+TheHydra  798397859  6  6 f   -     -     -          445    0    0 
+TheHydra  798397901  6  5 r   b     b     c          445   70   77 Qs Ks
+TheHydra  798397958  6  4 f   -     -     -          452    0    0 
+TheHydra  798398033  6  3 c   f     -     -          452   10    0 
+TheHydra  798398110  5  2 Br  b     b     b          442   80    0 Kh Th
+TheHydra  798398230  7  1 Bc  kc    k     kc         362   40  100 Jh 6h
+TheHydra  798398300  7  7 c   bc    b     -          422   60  135 
+TheHydra  798398354  7  6 f   -     -     -          497    0    0 
+TheHydra  798398419  7  5 f   -     -     -          497    0    0 
+TheHydra  798398446  6  3 r   b     b     kf         497   50    0 
+TheHydra  798398507  6  2 Bk  kf    -     -          447   10    0 
+TheHydra  798398616  7  1 Bf  -     -     -          437    5    0 
+TheHydra  798398682  8  8 c   r     b     f          432   60    0 
+TheHydra  798398777  8  6 f   -     -     -          372    0    0 
+TheHydra  798398829  8  5 c   k     rc    k          372   70    0 Qd 9h
+TheHydra  798398916  8  4 c   bc    r     -          302   70  190 
+TheHydra  798399007  8  3 c   b     b     b          422   60  170 6c 4c
+TheHydra  798399094  8  2 Bc  kc    b     b          532   70    0 Qc 8c
+TheHydra  798399196  8  1 Bc  kf    -     -          462   10    0 
+TheHydra  798399299  9  9 c   r     r     rf         452  130    0 
+TheHydra  798399499 10  9 f   -     -     -          322    0    0 
+TheHydra  798399632 10  3 Q   -     -     -          322    0    0 
+TheHydra  798485966  5  3 f   -     -     -          322    0    0 
+TheHydra  798485996  5  2 Bk  b     b     b          322   60  105 
+TheHydra  798486039  5  1 Bc  bc    kr    b          367  100  210 9h 8s
+TheHydra  798486080  5  5 f   -     -     -          477    0    0 
+TheHydra  798486123  5  4 f   -     -     -          477    0    0 
+TheHydra  798486155  6  4 f   -     -     -          477    0    0 
+TheHydra  798486189  5  3 f   -     -     -          477    0    0 
+TheHydra  798486218  4  2 Bc  kf    -     -          477   20    0 
+TheHydra  798486251  4  1 Bcc kr    br    b          457  120    0 Kd 2s
+TheHydra  798486288  4  4 f   -     -     -          337    0    0 
+TheHydra  798486329  5  3 r   b     -     -          337   30   65 
+TheHydra  798486348  5  2 Br  bc    kr    k          372  100    0 Ac Ks
+TheHydra  798486444  6  1 Bf  -     -     -          272    5    0 
+TheHydra  798486498  6  6 r   b     -     -          267   30   80 
+TheHydra  798486545  6  5 c   c     k     c          317   40  110 9d 6d
+TheHydra  798486607  7  5 f   -     -     -          387    0    0 
+TheHydra  798486650  7  4 r   b     b     b          387   70    0 Qd Kh
+TheHydra  798486685  7  4 c   k     b     -          317   30   45 
+TheHydra  798486707  7  2 Bc  kf    -     -          332   20    0 
+TheHydra  798486733  7  1 Bc  kr    b     b          312   80  170 7s Ks
+TheHydra  798486769  6  6 rc  cr    b     b          402  110  270 
+TheHydra  798486829  6  5 f   -     -     -          562    0    0 
+TheHydra  798486884  6  3 f   -     -     -          562    0    0 
+TheHydra  798486909  7  2 Bk  k     b     -          562   30   45 
+TheHydra  798486965  7  1 Bf  -     -     -          577    5    0 
+TheHydra  798487068  7  7 r   b     b     k          572   50    0 As 4c
+TheHydra  798487170  8  7 c   b     b     k          522   40   90 4h 6h
+TheHydra  798487276  6  4 fQQQQ -     -     -          572    0    0 

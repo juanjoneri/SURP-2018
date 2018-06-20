@@ -1,0 +1,178 @@
+StMroller 797215834 11  5 r   rc    c     c         1000   90  280 Qd Kd
+StMroller 797215898 12  4 f   -     -     -         1190    0    0 
+StMroller 797215962 12  3 f   -     -     -         1190    0    0 
+StMroller 797216060 11  2 Bf  -     -     -         1190   10    0 
+StMroller 797216151 12  1 Bc  kf    -     -         1180   20    0 
+StMroller 797216234 11 11 f   -     -     -         1160    0    0 
+StMroller 797216326 12 12 f   -     -     -         1160    0    0 
+StMroller 797216383 11 10 f   -     -     -         1160    0    0 
+StMroller 797216439 11  9 f   -     -     -         1160    0    0 
+StMroller 797216476 11  8 f   -     -     -         1160    0    0 
+StMroller 797216521 10  6 r   b     Q     -         1160   30    0 
+StMroller 797216741  9  4 r   b     -     -         1130   30   75 
+StMroller 797216771  9  3 cc  b     b     b         1175   70  180 
+StMroller 797216828  8  2 Bf  -     -     -         1285   10    0 
+StMroller 797216845  8  1 Bf  -     -     -         1275    5    0 
+StMroller 797216875  7  7 r   c     r     b         1270   90    0 8d 7d
+StMroller 797216919  7  6 f   -     -     -         1180    0    0 
+StMroller 797216963  7  5 r   k     f     -         1180   30    0 
+StMroller 797217001  7  4 f   -     -     -         1150    0    0 
+StMroller 797217090  7  3 c   c     c     r         1150   80    0 Ac Kh
+StMroller 797217160  8  2 Bf  -     -     -         1070   10    0 
+StMroller 797217232  8  1 Bc  kf    -     -         1060   10    0 
+StMroller 797217326  7  7 c   k     f     -         1050   10    0 
+StMroller 797217385  7  6 cc  b     k     f         1040   40    0 
+StMroller 797217495  6  4 cc  r     b     b         1000   80    0 Th 9s
+StMroller 797217608  6  3 c   b     b     k          920   40   90 9d Jc
+StMroller 797217683  6  2 B   -     -     -          970   10   15 
+StMroller 797217692  6  1 Bf  -     -     -          975    5    0 
+StMroller 797217749  7  7 c   f     -     -          970   10    0 
+StMroller 797217832  7  6 f   -     -     -          960    0    0 
+StMroller 797217963  7  5 f   -     -     -          960    0    0 
+StMroller 797218033  7  4 f   -     -     -          960    0    0 
+StMroller 797218072  7  3 f   -     -     -          960    0    0 
+StMroller 797218170  6  2 Bk  b     b     br         960  100    0 4s 3d
+StMroller 797218271  6  1 Bf  -     -     -          860    5    0 
+StMroller 797218323  6  6 r   r     k     f          855   40    0 
+StMroller 797218410  6  5 f   -     -     -          815    0    0 
+StMroller 797218487  6  4 r   b     b     k          815   50  130 5d 5h
+StMroller 797218554  6  3 r   b     b     br         895  110  245 Th Ts
+StMroller 797218637  7  2 Bk  kf    -     -         1030   10    0 
+StMroller 797218675  7  1 Bf  -     -     -         1020    5    0 
+StMroller 797218693  7  7 c   r     c     f         1015   50    0 
+StMroller 797218779  8  6 f   -     -     -          965    0    0 
+StMroller 797218856  8  5 f   -     -     -          965    0    0 
+StMroller 797218927 10  4 f   -     -     -          965    0    0 
+StMroller 797218969 10  3 f   -     -     -          965    0    0 
+StMroller 797219021  9  1 Br  br    b     b          965   90    0 5h 2h
+StMroller 797219087 10  1 Br  b     b     b          875   90  290 9c Qc
+StMroller 797219200  9  9 r   b     -     -         1075   30   60 
+StMroller 797219254 10 10 cr  k     k     f         1105   30    0 
+StMroller 797219356 10  9 f   -     -     -         1075    0    0 
+StMroller 797219511  9  8 c   b     b     b         1075   60   87 Jc Kd
+StMroller 797219619 10  4 Q   -     -     -         1102    0    0 
+StMroller 797880952 12 10 f   -     -     -         1102    0    0 
+StMroller 797881156 12  9 cc  rr    b     b         1102  110    0 Ts Qh
+StMroller 797881317 12  8 rc  kc    br    b          992  140  435 
+StMroller 797881471 11  7 f   -     -     -         1287    0    0 
+StMroller 797881577 12  6 f   -     -     -         1287    0    0 
+StMroller 797881692 12  5 f   -     -     -         1287    0    0 
+StMroller 797881782 12  4 c   f     -     -         1287   10    0 
+StMroller 797881861 12  3 Q   -     -     -         1277    0    0 
+StMroller 797904148 11  3 cc  f     -     -         1277   30    0 
+StMroller 797904218  8  1 Bc  bc    kc    k         1247   70    0 7s Ks
+StMroller 797904291  5  1 Bf  -     -     -         1177    5    0 
+StMroller 797904307  4  4 r   r     b     b         1172   90  190 
+StMroller 797904362  4  4 c   k     c     b         1272   50  105 Qs 6s
+StMroller 797904397  5  4 r   -     -     -         1327   20   35 
+StMroller 797904409  5  3 f   -     -     -         1342    0    0 
+StMroller 797904455  5  2 BQ  -     -     -         1342   10    0 
+StMroller 797904556  6  6 f   -     -     -         1332    0    0 
+StMroller 797904588  7  6 f   -     -     -         1332    0    0 
+StMroller 797904619  7  5 c   f     -     -         1332   10    0 
+StMroller 797904648  7  4 cr  k     kf    -         1322   30    0 
+StMroller 797904711  7  3 f   -     -     -         1292    0    0 
+StMroller 797904759  7  2 Bk  k     b     -         1292   30   45 
+StMroller 797904801  7  1 Bf  -     -     -         1307    5    0 
+StMroller 797904869  7  7 c   f     -     -         1302   20    0 
+StMroller 797904900  7  7 c   b     -     -         1282   20   55 
+StMroller 797904972  6  5 f   -     -     -         1317    0    0 
+StMroller 797905044  6  4 r   brc   b     b         1317  100  360 Kd Jd
+StMroller 797905133  6  3 f   -     -     -         1577    0    0 
+StMroller 797905184  6  2 Bc  kf    -     -         1577   20    0 
+StMroller 797905224  6  1 Bf  -     -     -         1557    5    0 
+StMroller 797905243  6  6 c   f     -     -         1552   10    0 
+StMroller 797905276  6  5 f   -     -     -         1542    0    0 
+StMroller 797905322  6  4 f   -     -     -         1542    0    0 
+StMroller 797905393  6  3 rc  b     br    b         1542  120  295 4d Ad
+StMroller 797905446  6  2 Bc  bc    kc    kf        1717   60    0 
+StMroller 797905537  6  1 Bf  -     -     -         1657    5    0 
+StMroller 797905571  6  6 r   f     -     -         1652   20    0 
+StMroller 797905608  6  5 KQ  -     -     -         1632    0    0 
+StMroller 797907810 11  2 Bk  kf    -     -         1632   10    0 
+StMroller 797907930 12  1 Bc  kcc   kc    kc        1622  110  390 Ad Jc
+StMroller 797908050 12 12 f   -     -     -         1902    0    0 
+StMroller 797908219 12 11 f   -     -     -         1902    0    0 
+StMroller 797908299 11  9 f   -     -     -         1902    0    0 
+StMroller 797908404 11  9 f   -     -     -         1902    0    0 
+StMroller 797908477 10  7 f   -     -     -         1902    0    0 
+StMroller 797908554  9  6 crc bf    -     -         1902   50    0 
+StMroller 797908699 10  6 f   -     -     -         1852    0    0 
+StMroller 797908861 10  5 f   -     -     -         1852    0    0 
+StMroller 797908963 10  4 rrc c     rrrrrrrrr r         1852  460  930 4d Ad
+StMroller 797909061 11  3 r   b     brc   b         2322  130  415 Ah Ac
+StMroller 797909147 11  2 Br  b     -     -         2607   30   90 
+StMroller 797909189 12  1 Bc  kcc   b     bf        2667   90    0 
+StMroller 797909282 12 12 rc  rr    b     f         2577  100    0 
+StMroller 797909399 10  9 rc  c     b     b         2477   90  335 Ks Ac
+StMroller 797909492 12 10 c   b     bc    c         2722   80    0 Kc Jh
+StMroller 797909552 12  9 f   -     -     -         2642    0    0 
+StMroller 797909631 12  8 cc  k     f     -         2642   40    0 
+StMroller 797909686 12  8 Q   -     -     -         2602    0    0 
+StMroller 799034800  4  2 Br  kf    -     -         2327   20    0 
+StMroller 799034824  4  1 Bf  -     -     -         2307    5    0 
+StMroller 799034830  4  4 c   f     -     -         2302   10    0 
+StMroller 799034852  4  3 f   -     -     -         2292    0    0 
+StMroller 799034861  4  2 Bc  kf    -     -         2292   20    0 
+StMroller 799034912  4  1 Br  b     b     bf        2272   70    0 
+StMroller 799034954  4  4 f   -     -     -         2202    0    0 
+StMroller 799034995  4  3 r   kf    -     -         2202   20    0 
+StMroller 799035022  4  2 Bk  kc    k     br        2182   80  150 
+StMroller 799035090  4  1 Bf  -     -     -         2252    5    0 
+StMroller 799035126  4  4 f   -     -     -         2247    0    0 
+StMroller 799035174  4  3 f   -     -     -         2247    0    0 
+StMroller 799035187  4  2 Bf  -     -     -         2247   10    0 
+StMroller 799035248  5  1 Bf  -     -     -         2237    5    0 
+StMroller 799035265  5  5 r   k     b     c         2232   60  145 Ah 4h
+StMroller 799035329  6  4 c   b     b     b         2317   60  130 
+StMroller 799035417  7  3 f   -     -     -         2387    0    0 
+StMroller 799035446  7  2 Bf  -     -     -         2387   10    0 
+StMroller 799035518  7  1 Bf  -     -     -         2377    5    0 
+StMroller 799035575  7  7 r   b     b     -         2372   50  110 
+StMroller 799035638  7  6 r   b     b     bf        2432   70    0 
+StMroller 799035690  6  4 r   k     f     -         2362   20    0 
+StMroller 799035731  6  3 c   kf    -     -         2342   10    0 
+StMroller 799035759  6  2 Br  b     b     b         2332   80  170 
+StMroller 799035797  6  1 Bc  kc    kf    -         2422   20    0 
+StMroller 799035838  6  6 c   c     rf    -         2402   60    0 
+StMroller 799035873  6  5 f   -     -     -         2342    0    0 
+StMroller 799035906  6  4 c   kc    kc    c         2342   60   95 Qh Jc
+StMroller 799035964  6  3 rr  k     k     f         2377   40    0 
+StMroller 799036011  6  2 Bf  -     -     -         2337   10    0 
+StMroller 799036033  6  1 Bf  -     -     -         2327    5    0 
+StMroller 799036078  6  6 c   b     b     b         2322   60  110 
+StMroller 799036141  6  5 c   c     c     k         2372   40    0 8c 9s
+StMroller 799036178  6  4 c   k     f     -         2332   10    0 
+StMroller 799036232  6  3 f   -     -     -         2322    0    0 
+StMroller 799036253  6  2 Bk  kc    kf    -         2322   20    0 
+StMroller 799036291  6  1 Bf  -     -     -         2302    5    0 
+StMroller 799036310  6  6 r   b     f     -         2297   30    0 
+StMroller 799036352  6  5 f   -     -     -         2267    0    0 
+StMroller 799036389  6  4 r   b     brf   -         2267   90    0 
+StMroller 799036433  6  3 r   b     b     -         2177   50  105 
+StMroller 799036459  6  2 Bk  kf    -     -         2232   10    0 
+StMroller 799036481  6  1 Bf  -     -     -         2222    5    0 
+StMroller 799036512  6  6 r   k     k     f         2217   20    0 
+StMroller 799036552  6  5 f   -     -     -         2197    0    0 
+StMroller 799036583  6  4 c   b     b     f         2197   40    0 
+StMroller 799036629  6  3 rr  b     b     b         2157   90  195 8c 7h
+StMroller 799036664  6  2 Bf  -     -     -         2262   10    0 
+StMroller 799036697  6  1 Br  -     -     -         2252   20   30 
+StMroller 799036707  6  6 r   r     b     b         2262   80    0 As Ts
+StMroller 799036760  6  5 f   -     -     -         2182    0    0 
+StMroller 799036818  6  4 r   c     r     k         2182   70  230 9h Td
+StMroller 799036872  6  3 r   f     -     -         2342   20    0 
+StMroller 799036929  6  2 Bk  f     -     -         2322   10    0 
+StMroller 799036971  6  1 Bc  b     -     -         2312   20   30 
+StMroller 799036999  6  6 r   f     -     -         2322   20    0 
+StMroller 799037036  5  5 r   b     b     -         2302   50   95 
+StMroller 799037074  5  4 c   k     brr   rrc       2347  210  217 8h 7s
+StMroller 799037161  5  3 r   c     c     c         2354   70    0 Jc Jd
+StMroller 799037229  5  2 Bf  -     -     -         2284   10    0 
+StMroller 799037246  5  1 Br  b     -     -         2274   40   80 
+StMroller 799037277  5  5 f   -     -     -         2314    0    0 
+StMroller 799037306  5  4 f   -     -     -         2314    0    0 
+StMroller 799037350  5  3 crc r     r     c         2314  120    0 8c 6c
+StMroller 799037428  5  2 Bc  f     -     -         2194   20    0 
+StMroller 799037468  5  1 Br  kr    b     b         2174   90    0 3d 3h
+StMroller 799037518  6  6 fQ  -     -     -         2084    0    0 

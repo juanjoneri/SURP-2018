@@ -1,0 +1,165 @@
+ohjack    797561056  7  4 c   b     bc    kc        1000   80    0 2c Ad
+ohjack    797561128  6  3 f   -     -     -          920    0    0 
+ohjack    797561174  6  2 Bk  kf    -     -          920   10    0 
+ohjack    797561228  6  1 Bc  kf    -     -          910   20    0 
+ohjack    797561329  6  6 r   k     b     -          890   40  110 
+ohjack    797561403  7  5 f   -     -     -          960    0    0 
+ohjack    797561434  7  4 f   -     -     -          960    0    0 
+ohjack    797561470  7  3 c   b     k     b          960   40  125 Kd 9h
+ohjack    797561531  8  2 Bk  k     b     b         1045   50  145 7s 6c
+ohjack    797561602  8  1 Bf  -     -     -         1140    5    0 
+ohjack    797561658  6  6 r   b     k     b         1135   50  110 
+ohjack    797561731 10  9 c   c     c     c         1195   70    0 Ks Td
+ohjack    797561818  8  6 c   k     k     f         1125   10    0 
+ohjack    797561894  9  7 f   -     -     -         1115    0    0 
+ohjack    797561991  9  6 cc  f     -     -         1115   20    0 
+ohjack    797562130 10  5 f   -     -     -         1095    0    0 
+ohjack    797562186  9  3 fQ  -     -     -         1095    0    0 
+ohjack    797563615 10  2 Bk  f     -     -         1095   10    0 
+ohjack    797563693 10  1 Bf  -     -     -         1085    5    0 
+ohjack    797563829  9  9 f   -     -     -         1080    0    0 
+ohjack    797563930 10  9 cc  c     c     c         1080   70    0 Kh 7h
+ohjack    797563999 10  8 f   -     -     -         1010    0    0 
+ohjack    797564075 11  7 f   -     -     -         1010    0    0 
+ohjack    797564139 12  7 c   f     -     -         1010   10    0 
+ohjack    797564220 12  6 f   -     -     QQ        1000    0    0 
+ohjack    797564656  8  8 c   c     c     c         1000   60  190 Ah 5c
+ohjack    797564744  9  7 f   -     -     -         1130    0    0 
+ohjack    797564859  9  6 f   -     -     -         1130    0    0 
+ohjack    797564999  8  5 c   f     -     -         1130   10    0 
+ohjack    797565074  9  4 f   -     -     -         1120    0    0 
+ohjack    797565164 10  3 cc  cc    k     c         1120   60    0 Jd Kh
+ohjack    797565316  9  2 Bf  Q     -     -         1060   10    0 
+ohjack    797565749 11  8 f   -     -     -         1050    0    0 
+ohjack    797565809 10  6 f   -     -     -         1050    0    0 
+ohjack    797565842 10  5 cc  kfQ   -     -         1050   20    0 
+ohjack    797568753  8  8 c   bf    -     -         1030   30    0 
+ohjack    797568787  9  7 f   -     -     -         1000    0    0 
+ohjack    797568846  9  6 r   c     r     r         1000  110  415 Qc Qh
+ohjack    797568934  9  5 f   -     -     -         1305    0    0 
+ohjack    797568982 10  4 cc  kc    kc    kf        1305   70    0 
+ohjack    797569099 10  3 f   -     -     -         1235    0    0 
+ohjack    797569170 10  2 Bk  k     kf    -         1235   10    0 
+ohjack    797569224 10  1 Bc  b     brc   brrc      1225  230    0 Qd Qc
+ohjack    797569288 10 10 f   -     -     -          995    0    0 
+ohjack    797569361  9  9 f   -     -     -          995    0    0 
+ohjack    797569410  9  8 f   -     -     -          995    0    0 
+ohjack    797569505  9  7 f   Q     -     -          995    0    0 
+ohjack    797636802 10  8 f   -     Q     -          995    0    0 
+ohjack    797637652  9  6 KQ  -     -     -          995    0    0 
+ohjack    797638009  9  3 c   k     c     b          995   50  145 Jh 3s
+ohjack    797638086  9  2 Bc  kf    -     -         1090   20    0 
+ohjack    797638143 10  1 Bf  -     -     -         1070    5    0 
+ohjack    797638241 10 10 c   cf    -     -         1065   20    0 
+ohjack    797638329 11 10 f   -     -     -         1045    0    0 
+ohjack    797638435 12 10 f   -     -     -         1045    0    0 
+ohjack    797638557 11  8 f   -     -     -         1045    0    0 
+ohjack    797638627 10  6 f   -     -     -         1045    0    0 
+ohjack    797638707  9  6 f   -     -     -         1045    0    0 
+ohjack    797638810  8  4 f   -     -     -         1045    0    0 
+ohjack    797638882 10  4 c   f     -     -         1045   10    0 
+ohjack    797639023  9  3 f   -     -     -         1035    0    0 
+ohjack    797639126  9  2 Bf  -     -     -         1035   10    0 
+ohjack    797639215  8  1 Bf  -     -     -         1025    5    0 
+ohjack    797639268  8  8 f   -     -     -         1020    0    0 
+ohjack    797639338  8  7 r   c     k     f         1020   30    0 
+ohjack    797639439  8  6 f   -     -     -          990    0    0 
+ohjack    797639488  8  5 f   -     -     -          990    0    0 
+ohjack    797639591  8  4 f   -     -     -          990    0    0 
+ohjack    797639681  6  2 Bk  f     -     -          990   10    0 
+ohjack    797639736  5  1 Bf  -     -     -          980    5    0 
+ohjack    797639831  5  5 f   -     -     -          975    0    0 
+ohjack    797639878  5  4 r   c     f     -          975   30    0 
+ohjack    797639998  7  4 cc  f     -     -          945   20    0 
+ohjack    797640094  6  2 Bk  kf    -     -          925   10    0 
+ohjack    797640198  7  1 Bf  -     -     -          915    5    0 
+ohjack    797640405  6  6 fQ  -     -     -          910    0    0 
+ohjack    797641715  8  3 c   kf    -     -          910   10    0 
+ohjack    797641805  8  2 Bk  k     k     k          900   10    0 3c Ad
+ohjack    797641858  6  1 Bc  kf    -     -          890   20    0 
+ohjack    797641891  6  6 r   b     f     -          870   30    0 
+ohjack    797641973  6  5 f   -     -     -          840    0    0 
+ohjack    797642047  6  4 f   -     -     -          840    0    0 
+ohjack    797642122  6  3 c   b     b     k          840   40  115 8h Jh
+ohjack    797642201  6  2 B   -     -     -          915   10   15 
+ohjack    797642217  5  1 Bf  -     -     -          920    5    0 
+ohjack    797642227  5  5 f   -     -     -          915    0    0 
+ohjack    797642268  5  4 cc  c     f     -          915   40    0 
+ohjack    797642328  6  3 rc  c     c     c          875   80    0 Ac Td
+ohjack    797642368  6  2 Bf  -     -     -          795   10    0 
+ohjack    797642441  6  1 Bf  -     -     -          785    5    0 
+ohjack    797642501  7  7 c   k     b     -          780   30   55 
+ohjack    797642560  7  5 Q   -     -     -          805    0    0 
+ohjack    797648227 11  6 cc  kc    kc    kf         805   70    0 
+ohjack    797648311 10  4 f   -     -     -          735    0    0 
+ohjack    797648410  9  2 cc  kc    b     -          735   50   90 
+ohjack    797648447  9  2 Bk  k     kf    -          775   10    0 
+ohjack    797648514 10  1 Bf  -     -     -          765    5    0 
+ohjack    797648622 11 11 f   -     -     -          760    0    0 
+ohjack    797648688 11 10 f   -     -     -          760    0    0 
+ohjack    797648845 11  9 f   -     -     -          760    0    0 
+ohjack    797648946 11  8 rc  rc    cc    kc         760  130    0 Jh Jc
+ohjack    797649060 11  7 fQ  -     -     -          630    0    0 
+ohjack    797649456  9  7 rr  bc    b     b          630  100  305 Js Ac
+ohjack    797649551 11  8 f   -     -     -          835    0    0 
+ohjack    797649641 11  6 c   kc    kf    -          835   20    0 
+ohjack    797649732 11  5 f   -     -     -          815    0    0 
+ohjack    797649799 12  4 f   -     -     -          815    0    0 
+ohjack    797649866 12  3 f   -     -     -          815    0    0 
+ohjack    797649925 12  2 Bk  kf    -     -          815   10    0 
+ohjack    797650023 11  1 Bf  -     -     -          805    5    0 
+ohjack    797650088 11 11 f   -     -     -          800    0    0 
+ohjack    797650212  9  8 f   -     -     -          800    0    0 
+ohjack    797650287  5  4 r   c     c     b          800   70  220 Ah 5h
+ohjack    797650352  4  2 Bf  -     -     -          950   10    0 
+ohjack    797650402  4  1 Bf  -     -     -          940    5    0 
+ohjack    797650420  4  4 f   -     -     -          935    0    0 
+ohjack    797650478  4  3 f   -     -     -          935    0    0 
+ohjack    797650523  4  2 Bf  -     -     Q          935   10    0 
+ohjack    797811948  7  7 fQ  -     -     -          925    0    0 
+ohjack    797812287  8  2 Bk  kf    -     -          925   10    0 
+ohjack    797812349  7  1 Br  kr    br    b          915  120  280 
+ohjack    797812399  9  9 f   -     -     -         1075    0    0 
+ohjack    797812563  8  7 f   -     -     -         1075    0    0 
+ohjack    797812628  8  6 f   -     -     -         1075    0    0 
+ohjack    797812682  8  5 r   c     c     c         1075   70    0 Qs Kd
+ohjack    797812786  8  4 r   KQ    -     -         1005   20    0 
+ohjack    797813122  7  7 f   -     -     -          985    0    0 
+ohjack    797813292  6  5 f   -     -     -          985    0    0 
+ohjack    797813370  5  4 f   -     -     -          985    0    0 
+ohjack    797813424  6  3 f   -     -     -          985    0    0 
+ohjack    797813552  7  2 Br  -     -     -          985   20   35 
+ohjack    797813629  5  1 Br  kc    k     k         1000   30    0 Jc Qc
+ohjack    797813709  5  5 cc  c     c     r          970   90  200 
+ohjack    797813782  5  4 c   k     kc    br        1080   90  195 2d Ah
+ohjack    797813821  5  3 f   -     -     -         1185    0    0 
+ohjack    797813901  5  2 Bk  kc    kf    -         1185   20    0 
+ohjack    797813950  5  1 Bf  -     -     -         1165    5    0 
+ohjack    797813992  5  5 r   b     -     -         1160   30   60 
+ohjack    797814029  5  4 f   -     -     -         1190    0    0 
+ohjack    797814064  5  3 c   b     b     -         1190   40   80 
+ohjack    797814140  4  1 B   -     -     -         1230   10   10 
+ohjack    797814151  4  1 Bc  k     b     -         1230   30   50 
+ohjack    797814181  5  4 f   -     -     -         1250    0    0 
+ohjack    797814200  5  3 c   f     -     -         1250   10    0 
+ohjack    797814231  5  2 Bk  kc    b     k         1240   40    0 Kd 3c
+ohjack    797814288  5  1 Bf  -     -     -         1200    5    0 
+ohjack    797814311  5  5 f   -     -     -         1195    0    0 
+ohjack    797814342  5  4 f   -     -     -         1195    0    0 
+ohjack    797814395  5  3 r   r     b     b         1195   80  190 Kc Ad
+ohjack    797814546  5  2 Bk  kf    Q     -         1305   10    0 
+ohjack    797815699  6  5 f   -     -     -         1295    0    0 
+ohjack    797815774  7  4 c   k     f     -         1295   10    0 
+ohjack    797815872  9  3 f   -     -     -         1285    0    0 
+ohjack    797815970  9  2 Bk  k     rc    f         1285   70    0 
+ohjack    797816026  9  1 Bf  -     -     -         1215    5    0 
+ohjack    797816069  9  9 f   -     -     -         1210    0    0 
+ohjack    797816111  8  7 f   -     -     -         1210    0    0 
+ohjack    797816169  8  7 f   -     -     -         1210    0    0 
+ohjack    797816265  8  6 f   -     -     -         1210    0    0 
+ohjack    797816327  8  5 c   b     bc    c         1210   80    0 Ad 9d
+ohjack    797816399  7  3 f   -     -     -         1130    0    0 
+ohjack    797816464  7  3 f   -     -     -         1130    0    0 
+ohjack    797816569  6  2 Br  rc    kccc  bc        1130  190    0 Qs Qh
+ohjack    797816682  7  1 Bf  -     -     -          940    5    0 
+ohjack    797816716  6  6 f   -     Q     -          935    0    0 

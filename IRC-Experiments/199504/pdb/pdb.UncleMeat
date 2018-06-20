@@ -1,0 +1,583 @@
+UncleMeat 797366656  4  2 Bk  kf    -     -         1000   10    0 
+UncleMeat 797366670  4  1 Bc  kf    -     -          990   10    0 
+UncleMeat 797366705  4  4 f   -     -     -          980    0    0 
+UncleMeat 797366732  4  3 f   -     -     -          980    0    0 
+UncleMeat 797366740  4  2 Bk  k     kf    -          980   10    0 
+UncleMeat 797366785  4  1 Bf  -     -     -          970    5    0 
+UncleMeat 797366803  4  4 r   b     b     k          965   50  105 Ts Th
+UncleMeat 797366842  4  3 f   -     -     -         1020    0    0 
+UncleMeat 797366858  4  2 Bk  bc    kf    -         1020   30    0 
+UncleMeat 797366886  4  1 Bcc b     b     br         990  110  290 4h 3h
+UncleMeat 797366940  4  4 f   -     -     -         1170    0    0 
+UncleMeat 797366993  4  3 f   -     -     -         1170    0    0 
+UncleMeat 797367003  4  2 Bf  -     -     -         1170   10    0 
+UncleMeat 797367019  4  1 Bf  -     -     -         1160    5    0 
+UncleMeat 797367028  4  4 f   -     -     -         1155    0    0 
+UncleMeat 797367067  4  3 rc  r     k     k         1155   50    0 Kd Td
+UncleMeat 797367106  5  2 B   -     -     -         1105   10   15 
+UncleMeat 797367124  5  1 Bc  b     -     -         1110   20   30 
+UncleMeat 797367158  6  6 f   -     -     -         1120    0    0 
+UncleMeat 797367219  5  4 c   c     f     -         1120   20    0 
+UncleMeat 797367253  5  3 c   b     b     b         1100   60  140 Qd Td
+UncleMeat 797367300  6  3 f   -     Q     -         1180    0    0 
+UncleMeat 797474432 10  5 f   -     -     -         1180    0    0 
+UncleMeat 797474512  9  4 f   -     -     -         1180    0    0 
+UncleMeat 797474540  9  3 f   -     -     -         1180    0    0 
+UncleMeat 797474570  9  2 Bc  kc    kc    f         1180   50    0 
+UncleMeat 797474658 12  1 Bf  -     -     -         1130    5    0 
+UncleMeat 797474746 12 12 r   b     b     -         1125   50  165 
+UncleMeat 797474823 11 10 f   -     -     -         1240    0    0 
+UncleMeat 797474950 12 10 f   -     -     -         1240    0    0 
+UncleMeat 797475055 12  9 f   -     -     -         1240    0    0 
+UncleMeat 797475138 12  8 f   -     -     -         1240    0    0 
+UncleMeat 797475243 12  7 f   -     -     -         1240    0    0 
+UncleMeat 797475429 11  6 f   -     -     -         1240    0    0 
+UncleMeat 797475464  8  4 f   -     -     -         1240    0    0 
+UncleMeat 797475519  5  2 Bc  b     b     b         1240   70    0 8c Tc
+UncleMeat 797475587  3  1 Bc  b     -     -         1170   20   40 
+UncleMeat 797475619  3  3 f   -     -     -         1190    0    0 
+UncleMeat 797475630  2  2 Bk  c     Q     -         1190   20    0 
+UncleMeat 797564075 11 11 f   -     -     -         1170    0    0 
+UncleMeat 797564139 12 11 c   f     -     -         1170   10    0 
+UncleMeat 797564220 12 10 c   f     -     -         1160   10    0 
+UncleMeat 797564344 10  8 Q   -     -     -         1150    0    0 
+UncleMeat 797568982 10  8 rc  cf    -     -         1150   40    0 
+UncleMeat 797569099 10  7 f   -     -     -         1110    0    0 
+UncleMeat 797569170 10  6 f   -     -     -         1110    0    0 
+UncleMeat 797569224 10  5 f   -     -     -         1110    0    0 
+UncleMeat 797569288 10  4 c   f     -     -         1110   10    0 
+UncleMeat 797569361  9  2 f   -     -     -         1100    0    0 
+UncleMeat 797569410  9  2 Br  b     b     b         1100   70  145 Ah 7h
+UncleMeat 797569505  9  1 Bc  kc    f     -         1175   20    0 
+UncleMeat 797569580  8  8 r   b     -     -         1155   30   60 
+UncleMeat 797569604  9  8 f   -     -     -         1185    0    0 
+UncleMeat 797569643  9  7 c   bc    kc    f         1185   50    0 
+UncleMeat 797569811  8  5 f   -     -     -         1135    0    0 
+UncleMeat 797569849  8  4 f   -     -     -         1135    0    0 
+UncleMeat 797569894  8  4 f   -     -     -         1135    0    0 
+UncleMeat 797569946 10  4 f   -     -     -         1135    0    0 
+UncleMeat 797570025 12  3 rc  kf    -     -         1135   30    0 
+UncleMeat 797570091 12  2 Bk  f     -     -         1105   10    0 
+UncleMeat 797570158 11  1 Br  b     b     -         1095   50  110 
+UncleMeat 797570206 10 10 f   -     -     -         1155    0    0 
+UncleMeat 797570263  9  8 c   b     b     b         1155   60  135 
+UncleMeat 797570373 10  8 f   -     -     -         1230    0    0 
+UncleMeat 797570444 10  7 f   -     -     -         1230    0    0 
+UncleMeat 797570512 11  7 Q   -     -     -         1230    0    0 
+UncleMeat 797655634  9  6 f   -     -     -         1230    0    0 
+UncleMeat 797655709  8  5 r   b     b     f         1230   60    0 
+UncleMeat 797655783  9  4 f   -     -     -         1170    0    0 
+UncleMeat 797655890  9  3 f   -     -     -         1170    0    0 
+UncleMeat 797655943  9  2 Bk  kr    b     -         1170   50  120 
+UncleMeat 797656017  8  1 Bf  -     -     -         1240    5    0 
+UncleMeat 797656156 10  8 f   -     -     -         1235    0    0 
+UncleMeat 797656229 11  8 c   bc    bc    b         1235  100    0 Ad 3d
+UncleMeat 797656310 12  7 f   -     -     -         1135    0    0 
+UncleMeat 797656416 10  7 f   -     -     -         1135    0    0 
+UncleMeat 797656522  9  5 f   -     -     -         1135    0    0 
+UncleMeat 797656612 10  4 f   -     -     -         1135    0    0 
+UncleMeat 797656715  8  3 cc  f     -     -         1135   20    0 
+UncleMeat 797656792  8  2 Bc  bc    kf    -         1115   40    0 
+UncleMeat 797656881  7  1 Bf  Q     -     -         1075    5    0 
+UncleMeat 797740943  9  8 f   -     -     -         1070    0    0 
+UncleMeat 797740984  9  7 c   c     c     c         1070   60    0 8d 5c
+UncleMeat 797741045  9  6 r   b     brc   k         1010  120    0 9d 9h
+UncleMeat 798012253  8  8 r   c     c     b         1080   70  255 Ts Tc
+UncleMeat 798012367  8  7 c   r     b     b         1265   70  190 
+UncleMeat 798012446  8  6 f   -     -     -         1385    0    0 
+UncleMeat 798012556  7  5 f   -     -     -         1385    0    0 
+UncleMeat 798012669  7  4 c   f     -     -         1385   10    0 
+UncleMeat 798012728  7  3 r   kc    rr    b         1375  130  132 7c 9c
+UncleMeat 798012837  7  2 Bk  b     b     b         1377   60  130 Kd Jc
+UncleMeat 798038120  4  4 KQ  -     -     -         1477    0    0 
+UncleMeat 798058997  4  4 f   -     -     -         1477    0    0 
+UncleMeat 798059017  4  3 f   -     -     -         1477    0    0 
+UncleMeat 798059036  4  2 Bk  f     -     -         1477   10    0 
+UncleMeat 798059062  3  1 Bf  -     -     -         1467    5    0 
+UncleMeat 798059091  3  3 r   b     bc    f         1462   70    0 
+UncleMeat 798059129  3  2 Bf  -     -     -         1392   10    0 
+UncleMeat 798059142  3  1 Br  b     -     -         1382   30   60 
+UncleMeat 798059158  3  3 f   -     -     -         1412    0    0 
+UncleMeat 798059178  3  2 Bk  k     k     b         1412   30   40 
+UncleMeat 798059204  3  1 Bf  -     -     -         1422    5    0 
+UncleMeat 798059242  3  3 f   -     -     -         1417    0    0 
+UncleMeat 798059266  3  2 Bk  f     -     -         1417   10    0 
+UncleMeat 798059305  3  1 Br  -     -     -         1407   20   30 
+UncleMeat 798059315  4  3 cc  f     -     -         1417   20    0 
+UncleMeat 798059355  4  2 Bk  kc    kf    -         1397   20    0 
+UncleMeat 798059422  5  1 Bc  bc    k     kf        1377   30    0 
+UncleMeat 798059464  5  5 rc  f     -     -         1347   40    0 
+UncleMeat 798059523  5  4 f   -     -     -         1307    0    0 
+UncleMeat 798059558  5  3 c   f     -     -         1307   10    0 
+UncleMeat 798059594  5  2 Bf  -     -     -         1297   10    0 
+UncleMeat 798059645  5  1 Bf  -     -     -         1287    5    0 
+UncleMeat 798059664  5  5 f   -     -     -         1282    0    0 
+UncleMeat 798059693  5  4 f   -     -     -         1282    0    0 
+UncleMeat 798059755  5  3 f   -     -     -         1282    0    0 
+UncleMeat 798059802  5  2 Bk  kc    k     r         1282   60  170 2c 3s
+UncleMeat 798059871  6  1 Bc  kf    -     -         1392   10    0 
+UncleMeat 798059915  6  6 f   -     -     -         1382    0    0 
+UncleMeat 798059974  6  6 f   -     -     -         1382    0    0 
+UncleMeat 798059999  6  5 f   -     -     -         1382    0    0 
+UncleMeat 798060011  6  4 f   -     -     -         1382    0    0 
+UncleMeat 798060024  6  3 f   -     -     -         1382    0    0 
+UncleMeat 798060034  6  2 Bc  kc    kf    -         1382   30    0 
+UncleMeat 798060104  6  1 Bf  -     -     -         1352    5    0 
+UncleMeat 798060115  6  6 c   c     f     -         1347   20    0 
+UncleMeat 798060146  6  5 f   -     -     -         1327    0    0 
+UncleMeat 798060192  6  4 f   -     -     -         1327    0    0 
+UncleMeat 798060248  6  3 f   -     -     -         1327    0    0 
+UncleMeat 798060268  6  2 Bc  k     b     b         1327   60    0 Jd 2s
+UncleMeat 798060309  6  1 Bc  b     b     b         1267   70  200 Qs Ks
+UncleMeat 798060351  6  6 f   -     -     -         1397    0    0 
+UncleMeat 798060407  6  5 f   -     -     -         1397    0    0 
+UncleMeat 798060476  6  4 cc  k     f     -         1397   20    0 
+UncleMeat 798060517  6  3 f   -     -     -         1377    0    0 
+UncleMeat 798060563  6  2 Bf  -     -     -         1377   10    0 
+UncleMeat 798060612  6  1 Bc  bc    kc    kc        1367   80  220 5s As
+UncleMeat 798060657  7  6 f   -     -     -         1507    0    0 
+UncleMeat 798060692  6  5 f   -     -     -         1507    0    0 
+UncleMeat 798060745  6  4 f   -     -     -         1507    0    0 
+UncleMeat 798060809  6  2 Bk  kc    k     kc        1507   40   95 3d 9h
+UncleMeat 798060891  7  1 Bc  kf    -     -         1562   20    0 
+UncleMeat 798060999  8  8 f   -     -     -         1542    0    0 
+UncleMeat 798061061  8  7 f   -     -     -         1542    0    0 
+UncleMeat 798061125  8  6 f   -     -     -         1542    0    0 
+UncleMeat 798061179  8  5 f   -     -     -         1542    0    0 
+UncleMeat 798061245  8  4 c   c     rr    r         1542  140  445 Qd 9d
+UncleMeat 798061344  8  3 f   -     -     -         1847    0    0 
+UncleMeat 798061430  8  2 Bf  -     -     -         1847   10    0 
+UncleMeat 798061531  8  1 Bf  -     -     -         1837    5    0 
+UncleMeat 798061641  8  8 f   -     -     -         1832    0    0 
+UncleMeat 798061729  7  6 f   -     -     -         1832    0    0 
+UncleMeat 798061837  6  4 f   -     -     -         1832    0    0 
+UncleMeat 798061892  8  4 cc  kc    k     b         1832   50  115 9d Td
+UncleMeat 798061954  8  3 f   -     -     -         1897    0    0 
+UncleMeat 798062111  9  2 Bk  -     -     -         1897   10   20 
+UncleMeat 798062144  9  1 Bf  -     -     -         1907    5    0 
+UncleMeat 798062312  8  8 f   -     -     -         1902    0    0 
+UncleMeat 798062379  8  7 f   -     -     -         1902    0    0 
+UncleMeat 798062431  8  6 f   -     -     -         1902    0    0 
+UncleMeat 798062486  9  6 c   c     f     -         1902   20    0 
+UncleMeat 798062575  8  4 f   -     -     -         1882    0    0 
+UncleMeat 798062652  9  4 c   b     b     b         1882   60    0 Qh Th
+UncleMeat 798062717  9  3 cc  c     f     -         1822   30    0 
+UncleMeat 798062822  9  3 f   -     -     -         1792    0    0 
+UncleMeat 798062921  9  2 Bc  krr   b     b         1792  100  280 
+UncleMeat 798063069  9  1 Bc  kf    -     -         1972   10    0 
+UncleMeat 798063154  8  8 f   -     -     -         1962    0    0 
+UncleMeat 798063232  8  7 f   -     -     -         1962    0    0 
+UncleMeat 798063317  7  5 r   b     -     -         1962   30   55 
+UncleMeat 798063350  7  4 f   -     -     -         1987    0    0 
+UncleMeat 798063389  7  4 f   -     -     -         1987    0    0 
+UncleMeat 798063454  7  3 r   r     b     b         1987   80  210 Ah As
+UncleMeat 798063510  7  2 Bc  k     f     -         2117   20    0 
+UncleMeat 798063560  7  1 Bc  kf    -     -         2097   10    0 
+UncleMeat 798063604  8  7 f   -     -     -         2087    0    0 
+UncleMeat 798063652  8  6 f   -     -     -         2087    0    0 
+UncleMeat 798063707  9  5 f   -     -     -         2087    0    0 
+UncleMeat 798063805  8  4 f   -     -     -         2087    0    0 
+UncleMeat 798063869  8  3 f   -     -     -         2087    0    0 
+UncleMeat 798063942  8  2 Bc  kf    -     -         2087   20    0 
+UncleMeat 798064016  8  1 Bf  -     -     -         2067    5    0 
+UncleMeat 798064082  8  8 r   b     b     bc        2062   90    0 Ac Qc
+UncleMeat 798064231  7  6 rr  rc    rc    rrr       1972  260  665 Kh Kd
+UncleMeat 798064353  7  6 f   -     -     -         2377    0    0 
+UncleMeat 798064435  6  5 cc  c     f     -         2377   30    0 
+UncleMeat 798064495  6  4 f   -     -     -         2347    0    0 
+UncleMeat 798064531  6  3 f   -     -     -         2347    0    0 
+UncleMeat 798064551  6  2 B   -     -     -         2347   10   15 
+UncleMeat 798064562  6  1 Bf  -     -     -         2352    5    0 
+UncleMeat 798064578  6  6 c   c     k     k         2347   20    0 5h 6h
+UncleMeat 798064611  6  5 f   -     -     -         2327    0    0 
+UncleMeat 798064642  6  4 rc  b     b     -         2327   60  140 
+UncleMeat 798064744  5  3 f   -     -     -         2407    0    0 
+UncleMeat 798064791  5  2 Bf  -     -     -         2407   10    0 
+UncleMeat 798064886  6  1 Bf  -     -     -         2397    5    0 
+UncleMeat 798064899  6  6 f   -     -     -         2392    0    0 
+UncleMeat 798064982  8  5 f   -     -     -         2392    0    0 
+UncleMeat 798065019  8  4 c   k     k     k         2392   10    0 Qd Td
+UncleMeat 798065072  8  3 f   -     -     -         2382    0    0 
+UncleMeat 798065128  8  2 Bk  b     -     -         2382   20   35 
+UncleMeat 798065159  8  1 Bc  bc    kc    kc        2397   80    0 Ad Tc
+UncleMeat 798065228  8  8 r   c     f     -         2317   50    0 
+UncleMeat 798065283  8  7 f   -     -     -         2267    0    0 
+UncleMeat 798065341  8  6 f   -     -     -         2267    0    0 
+UncleMeat 798065411  8  5 f   -     -     -         2267    0    0 
+UncleMeat 798065470  8  4 f   -     -     -         2267    0    0 
+UncleMeat 798065560  8  3 rr  r     b     b         2267  100    0 Td Ts
+UncleMeat 798065688  8  2 Bf  -     -     -         2167   10    0 
+UncleMeat 798065809  8  1 Brc b     b     k         2157   60  300 Ad Kd
+UncleMeat 798065906  9  8 r   r     c     k         2397   80  285 Ad Ac
+UncleMeat 798066012  8  6 f   -     -     -         2602    0    0 
+UncleMeat 798066088  8  5 f   -     -     -         2602    0    0 
+UncleMeat 798066199  6  3 f   -     -     -         2602    0    0 
+UncleMeat 798066249  6  2 Bf  -     -     -         2602   10    0 
+UncleMeat 798066384  7  1 Br  b     b     b         2592   70  160 
+UncleMeat 798066455  6  6 cc  r     -     -         2682   40   90 
+UncleMeat 798066530  6  5 f   -     -     -         2732    0    0 
+UncleMeat 798066599  6  4 f   -     -     -         2732    0    0 
+UncleMeat 798066609  6  3 cc  kc    f     -         2732   30    0 
+UncleMeat 798066665  6  2 Bk  k     b     b         2702   50   95 
+UncleMeat 798066742  6  1 Bc  br    b     b         2747   80  170 As Jh
+UncleMeat 798066839  7  7 c   c     f     -         2837   30    0 
+UncleMeat 798066869  8  7 f   -     -     -         2807    0    0 
+UncleMeat 798066911  8  4 Q   -     -     -         2807    0    0 
+UncleMeat 798067054  8  4 f   -     -     -         2807    0    0 
+UncleMeat 798067124  8  3 rc  kf    -     -         2807   30    0 
+UncleMeat 798067177  8  2 Bk  b     b     b         2777   60  110 
+UncleMeat 798067227  7  1 Br  b     b     -         2827   50  100 
+UncleMeat 798067293  8  8 f   -     -     -         2877    0    0 
+UncleMeat 798067355  8  7 f   -     -     -         2877    0    0 
+UncleMeat 798067405  8  6 c   rc    c     c         2877   90    0 Ac Jd
+UncleMeat 798067458  8  5 c   c     c     k         2787   40    0 Qc Jc
+UncleMeat 798067517  8  4 c   k     b     b         2747   50  150 4s As
+UncleMeat 798067569  8  3 f   -     -     -         2847    0    0 
+UncleMeat 798067613  9  2 Bc  k     k     b         2847   40    0 3s 2s
+UncleMeat 798067665  9  1 Bc  kf    Q     -         2807   20    0 
+UncleMeat 798350922 11  8 f   -     -     -         2787    0    0 
+UncleMeat 798351026  9  5 f   -     -     -         2787    0    0 
+UncleMeat 798351115 10  5 r   b     b     b         2787   70  165 Ac Ah
+UncleMeat 798351161 10  4 r   r     b     bc        2882  100    0 Qc Qs
+UncleMeat 798351257 10  3 f   -     -     -         2782    0    0 
+UncleMeat 798351332 10  2 Bk  k     b     -         2782   30   65 
+UncleMeat 798351411 10  1 Bc  b     k     b         2817   40  120 Ad Js
+UncleMeat 798351472 10 10 f   -     -     -         2897    0    0 
+UncleMeat 798351576 10  9 f   -     -     -         2897    0    0 
+UncleMeat 798351655 10  8 f   -     -     -         2897    0    0 
+UncleMeat 798351788  9  7 cc  ccc   rc    f         2897  160    0 
+UncleMeat 798351926  9  5 f   -     -     -         2737    0    0 
+UncleMeat 798352004  9  4 Q   -     -     -         2737    0    0 
+UncleMeat 798523830 10  9 f   -     -     -         2737    0    0 
+UncleMeat 798523881  9  7 f   -     -     -         2737    0    0 
+UncleMeat 798523946  9  6 f   -     -     -         2737    0    0 
+UncleMeat 798523981  9  5 f   -     -     -         2737    0    0 
+UncleMeat 798524050  9  4 f   -     -     -         2737    0    0 
+UncleMeat 798524080  9  3 f   -     -     -         2737    0    0 
+UncleMeat 798524166  9  2 Br  b     b     -         2737   60  135 
+UncleMeat 798524212  9  1 Bcc kc    bc    k         2812   70  160 Qh 7s
+UncleMeat 798524270  9  9 c   b     -     -         2902   20   45 
+UncleMeat 798524300  8  8 f   -     -     -         2927    0    0 
+UncleMeat 798524331  8  7 f   -     -     -         2927    0    0 
+UncleMeat 798524391  8  6 r   b     k     k         2927   30   75 Kc Jh
+UncleMeat 798524422  8  5 f   -     -     -         2972    0    0 
+UncleMeat 798524509  8  4 f   -     -     -         2972    0    0 
+UncleMeat 798524547  7  2 Bc  c     f     -         2972   30    0 
+UncleMeat 798524577  7  1 Bf  -     -     -         2942    5    0 
+UncleMeat 798524641  7  7 f   -     -     -         2937    0    0 
+UncleMeat 798524670  7  6 f   -     -     -         2937    0    0 
+UncleMeat 798524711  7  5 f   -     -     -         2937    0    0 
+UncleMeat 798524727  7  4 f   -     -     -         2937    0    0 
+UncleMeat 798524772  7  3 f   -     -     -         2937    0    0 
+UncleMeat 798524816  7  2 Bf  -     -     -         2937   10    0 
+UncleMeat 798524838  7  1 Bc  kc    k     bf        2927   40    0 
+UncleMeat 798524888  7  7 r   k     k     b         2887   50  120 
+UncleMeat 798524958  7  6 c   f     -     -         2957   20    0 
+UncleMeat 798525028  7  5 f   -     -     -         2937    0    0 
+UncleMeat 798525110  6  3 f   -     -     -         2937    0    0 
+UncleMeat 798525200  6  3 f   -     -     -         2937    0    0 
+UncleMeat 798525245  5  2 Bc  f     -     -         2937   20    0 
+UncleMeat 798525297  5  1 Bc  b     b     b         2917   60  130 7h Ah
+UncleMeat 798525326  5  5 f   -     -     -         2987    0    0 
+UncleMeat 798525371  5  4 f   -     -     -         2987    0    0 
+UncleMeat 798525401  5  3 f   -     -     -         2987    0    0 
+UncleMeat 798525418  5  2 Bk  c     c     c         2987   60    0 7s 9c
+UncleMeat 798525444  5  1 Bf  -     -     -         2927    5    0 
+UncleMeat 798525476  4  4 r   -     -     -         2922   20   35 
+UncleMeat 798525491  5  3 f   -     -     -         2937    0    0 
+UncleMeat 798525537  5  2 Bc  kf    -     -         2937   20    0 
+UncleMeat 798525592  5  1 Bf  -     -     -         2917    5    0 
+UncleMeat 798525631  5  5 rc  b     b     b         2912   80    0 2c Ad
+UncleMeat 798525696  5  4 f   -     -     -         2832    0    0 
+UncleMeat 798525765  5  3 f   -     -     -         2832    0    0 
+UncleMeat 798525822  5  2 Bk  f     -     -         2832   10    0 
+UncleMeat 798525891  5  1 Bf  -     -     -         2822    5    0 
+UncleMeat 798525938  5  5 c   c     f     -         2817   20    0 
+UncleMeat 798526004  5  4 c   f     -     -         2797   20    0 
+UncleMeat 798526107  6  3 f   -     -     -         2777    0    0 
+UncleMeat 798526159  6  2 Bf  -     -     -         2777   10    0 
+UncleMeat 798526229  6  1 Bc  kf    -     -         2767   10    0 
+UncleMeat 798526264  6  6 f   -     -     -         2757    0    0 
+UncleMeat 798526314  7  6 f   -     -     -         2757    0    0 
+UncleMeat 798526374  7  5 r   c     f     -         2757   30    0 
+UncleMeat 798526424  7  5 f   -     -     -         2727    0    0 
+UncleMeat 798526475  6  3 f   -     -     -         2727    0    0 
+UncleMeat 798526524  7  2 Bc  kf    -     -         2727   20    0 
+UncleMeat 798526600  7  1 Bf  -     -     -         2707    5    0 
+UncleMeat 798526627  7  7 f   -     -     -         2702    0    0 
+UncleMeat 798526705  8  7 r   b     -     -         2702   30  105 
+UncleMeat 798526742  9  7 f   -     -     -         2777    0    0 
+UncleMeat 798526819  9  6 c   c     c     f         2777   60    0 
+UncleMeat 798526925  9  4 f   -     -     -         2717    0    0 
+UncleMeat 798527027  9  3 f   -     -     -         2717    0    0 
+UncleMeat 798527057  9  2 Bk  b     brrr  kr        2717  200    0 4c 3c
+UncleMeat 798527398  9  1 Bf  -     -     -         2517    5    0 
+UncleMeat 798593069  8  6 f   -     -     -         2452    0    0 
+UncleMeat 798593110  8  5 f   -     -     -         2452    0    0 
+UncleMeat 798593182  9  4 cc  f     -     -         2452   20    0 
+UncleMeat 798593255  9  3 f   -     -     -         2432    0    0 
+UncleMeat 798593327  9  2 Bf  -     -     -         2432   10    0 
+UncleMeat 798593394  9  1 Bc  kf    -     -         2422   10    0 
+UncleMeat 798593526  9  9 c   f     -     -         2412   20    0 
+UncleMeat 798593601  9  8 f   -     -     -         2392    0    0 
+UncleMeat 798593688  8  6 f   -     -     -         2392    0    0 
+UncleMeat 798593774  9  6 c   f     -     -         2392   10    0 
+UncleMeat 798593865  9  5 cc  kc    kc    b         2382   80    0 6c Ac
+UncleMeat 798593937  8  3 f   -     -     -         2302    0    0 
+UncleMeat 798594049  8  3 f   -     -     -         2302    0    0 
+UncleMeat 798594104  8  2 Bc  f     -     -         2302   30    0 
+UncleMeat 798594209  8  1 Bf  -     -     -         2272    5    0 
+UncleMeat 798594288  8  8 c   f     -     -         2267   10    0 
+UncleMeat 798594344  8  7 f   -     -     -         2257    0    0 
+UncleMeat 798594400  8  6 f   -     -     -         2257    0    0 
+UncleMeat 798594498 11  5 f   -     -     -         2257    0    0 
+UncleMeat 798594534 10  3 f   -     -     -         2257    0    0 
+UncleMeat 798594615 10  2 Bk  bf    -     -         2257   20    0 
+UncleMeat 798594714 10  1 Bf  -     -     -         2237    5    0 
+UncleMeat 798594768 11 11 f   -     -     -         2232    0    0 
+UncleMeat 798594855 11 10 f   -     -     -         2232    0    0 
+UncleMeat 798594926 10  9 f   -     -     -         2232    0    0 
+UncleMeat 798595049 12  9 f   -     -     -         2232    0    0 
+UncleMeat 798595151 10  7 f   -     -     -         2232    0    0 
+UncleMeat 798595264  9  6 f   -     -     -         2232    0    0 
+UncleMeat 798595362  8  4 f   -     -     -         2232    0    0 
+UncleMeat 798595497 10  4 f   -     -     -         2232    0    0 
+UncleMeat 798595546  9  3 f   -     -     -         2232    0    0 
+UncleMeat 798595648  8  2 B   -     -     -         2232   10   15 
+UncleMeat 798595750  6  1 Bf  -     -     -         2237    5    0 
+UncleMeat 798595796  6  6 c   f     -     -         2232   10    0 
+UncleMeat 798595871  6  5 f   -     -     -         2222    0    0 
+UncleMeat 798595912  6  4 r   f     -     -         2222   20    0 
+UncleMeat 798595927  5  2 Bk  kf    -     -         2202   10    0 
+UncleMeat 798595966  6  1 Bc  f     -     -         2192   10    0 
+UncleMeat 798595989  6  6 f   -     -     -         2182    0    0 
+UncleMeat 798596025  5  4 f   -     -     -         2182    0    0 
+UncleMeat 798596047  5  3 f   -     -     -         2182    0    0 
+UncleMeat 798596102  5  2 Bk  f     -     -         2182   10    0 
+UncleMeat 798596139  5  1 Bc  kcc   kc    kf        2172   70    0 
+UncleMeat 798596209  6  6 f   -     -     -         2102    0    0 
+UncleMeat 798596226  6  5 c   c     c     b         2102   60  170 9c Td
+UncleMeat 798596297  6  4 f   -     -     -         2212    0    0 
+UncleMeat 798596346  5  2 f   -     -     -         2212    0    0 
+UncleMeat 798596402  5  2 Bk  f     -     -         2212   10    0 
+UncleMeat 798596419  5  1 Bc  f     -     -         2202   20    0 
+UncleMeat 798596438  5  5 c   c     br    b         2182  100    0 Ah 4h
+UncleMeat 798596492  5  4 f   -     -     -         2082    0    0 
+UncleMeat 798596534  5  3 f   -     -     -         2082    0    0 
+UncleMeat 798596569  5  2 Bc  kf    -     -         2082   20    0 
+UncleMeat 798596626  5  1 Bf  -     -     -         2062    5    0 
+UncleMeat 798596675  5  5 rc  k     k     k         2057   30   65 Kd Qd
+UncleMeat 798596715  5  4 f   -     -     -         2092    0    0 
+UncleMeat 798596729  5  3 f   -     -     -         2092    0    0 
+UncleMeat 798596782  6  3 f   -     -     -         2092    0    0 
+UncleMeat 798596826  7  2 Bc  bc    kc    kf        2092   80    0 
+UncleMeat 798596925  7  1 Bc  Q     -     -         2012   10    0 
+UncleMeat 798684141  7  5 f   -     -     -         2002    0    0 
+UncleMeat 798684190  7  4 f   -     -     -         2002    0    0 
+UncleMeat 798684258  7  3 f   -     -     -         2002    0    0 
+UncleMeat 798684351  8  2 Bcc b     k     c         2002   70    0 Jh Ts
+UncleMeat 798684436  8  1 Bc  bc    b     b         1932   80  280 Jh Qh
+UncleMeat 798684537  8  8 rc  c     f     -         2132   40    0 
+UncleMeat 798684626  9  8 f   -     -     -         2092    0    0 
+UncleMeat 798684713  9  7 cc  rc    c     f         2092   70    0 
+UncleMeat 798684807  9  6 f   -     -     -         2022    0    0 
+UncleMeat 798684882  9  5 f   -     -     -         2022    0    0 
+UncleMeat 798685032 11  5 cc  kc    fQ    -         2022   40    0 
+UncleMeat 798697300  7  4 f   -     -     -         1982    0    0 
+UncleMeat 798697350  7  3 f   -     -     -         1982    0    0 
+UncleMeat 798697364  7  2 Bc  kc    kf    -         1982   30    0 
+UncleMeat 798697517  6  1 Bc  kc    kc    k         1952   40    0 Td 9h
+UncleMeat 798697573  7  7 c   c     c     f         1912   50    0 
+UncleMeat 798697618  7  6 f   -     -     -         1862    0    0 
+UncleMeat 798697705  7  5 cc  kc    f     -         1862   30    0 
+UncleMeat 798697754  7  4 cc  kf    -     -         1832   20    0 
+UncleMeat 798697797  7  3 f   -     -     -         1812    0    0 
+UncleMeat 798697852  7  2 Bc  f     -     -         1812   20    0 
+UncleMeat 798697948  8  1 Bc  kc    f     -         1792   30    0 
+UncleMeat 798698039  8  8 r   b     br    r         1762  140  325 Kd Kc
+UncleMeat 798698116  7  6 r   b     -     -         1947   30   65 
+UncleMeat 798698150  7  5 f   -     -     -         1982    0    0 
+UncleMeat 798698199  7  4 f   -     -     -         1982    0    0 
+UncleMeat 798698278  7  3 f   -     -     -         1982    0    0 
+UncleMeat 798698393  7  2 Bf  -     -     -         1982   10    0 
+UncleMeat 798698470  7  1 Bf  -     -     -         1972    5    0 
+UncleMeat 798698577  8  8 f   -     -     -         1967    0    0 
+UncleMeat 798698672  8  7 f   -     -     -         1967    0    0 
+UncleMeat 798698716  8  6 cc  br    b     b         1967   90  205 
+UncleMeat 798698830  5  4 Q   -     -     -         2082    0    0 
+UncleMeat 798995562  3  2 Bc  f     -     -          512   20    0 
+UncleMeat 798995599  3  1 Bcc b     b     b          492   80  170 
+UncleMeat 798995633  3  3 cc  r     b     k          582   70  210 5c 5h
+UncleMeat 798995687  3  2 Bk  k     f     -          722   10    0 
+UncleMeat 798995705  3  1 Br  -     -     -          712   20   30 
+UncleMeat 798995710  3  3 f   -     -     -          722    0    0 
+UncleMeat 798995726  3  2 Bc  c     k     c          722   50    0 4c Qd
+UncleMeat 798995744  3  1 Bf  -     -     -          672    5    0 
+UncleMeat 798995752  3  3 r   -     -     -          667   20   35 
+UncleMeat 798995758  3  2 Bc  f     -     -          682   20    0 
+UncleMeat 798995769  4  1 Bf  -     -     -          662    5    0 
+UncleMeat 798995775  4  4 r   -     -     -          657   20   35 
+UncleMeat 798995783  4  3 f   -     -     -          672    0    0 
+UncleMeat 798995790  4  2 Bc  b     b     k          672   50  100 As 9c
+UncleMeat 798995823  4  1 Bf  -     -     -          722    5    0 
+UncleMeat 798995839  4  4 c   k     f     -          717   10    0 
+UncleMeat 798995869  4  3 f   -     -     -          707    0    0 
+UncleMeat 798995893  4  2 Bc  b     b     b          707   70    0 Kd 6h
+UncleMeat 798995918  4  1 Bf  -     -     -          637    5    0 
+UncleMeat 798995958  4  4 c   k     f     -          632   20    0 
+UncleMeat 798995973  4  3 f   -     -     -          612    0    0 
+UncleMeat 798996009  3  2 Br  b     r     f          612   80    0 
+UncleMeat 798996052  3  1 Bf  -     -     -          532    5    0 
+UncleMeat 798996078  3  3 f   -     -     -          527    0    0 
+UncleMeat 798996083  3  2 Bc  b     b     -          527   50  110 
+UncleMeat 798996118  3  1 Bc  kc    f     -          587   30    0 
+UncleMeat 798996153  3  3 r   k     k     c          557   40   85 Jh 7h
+UncleMeat 798996174  3  2 Bc  br    k     b          602   70  140 6c Ad
+UncleMeat 798996211  3  1 Bf  -     -     -          672    5    0 
+UncleMeat 798996252  3  3 Q   -     -     -          667    0    0 
+UncleMeat 798998782  5  2 Bk  kf    -     -          667   10    0 
+UncleMeat 798998854  5  1 Bf  -     -     -          657    5    0 
+UncleMeat 798998882  4  4 r   -     -     -          652   20   35 
+UncleMeat 798998894  4  3 c   k     rc    r          667  110  225 8d 6h
+UncleMeat 798998956  4  2 Bf  -     -     -          782   10    0 
+UncleMeat 798998978  4  1 Bc  kf    -     -          772   10    0 
+UncleMeat 798999020  4  4 f   -     -     -          762    0    0 
+UncleMeat 798999049  4  2 Bk  b     -     -          762   20   30 
+UncleMeat 798999079  4  1 Bcc b     -     -          772   30   70 
+UncleMeat 798999119  4  4 f   -     -     -          812    0    0 
+UncleMeat 798999193  5  4 cc  kc    k     k          812   40    0 Kh 7h
+UncleMeat 798999261  5  3 c   c     c     r          772   80  190 4d 2d
+UncleMeat 798999320  5  2 Bk  f     -     -          882   10    0 
+UncleMeat 798999360  5  1 Br  b     kf    -          872   30    0 
+UncleMeat 798999438  5  5 f   -     -     -          842    0    0 
+UncleMeat 798999529  5  4 c   k     b     -          842   30   45 
+UncleMeat 798999605  4  3 r   b     b     k          857   50  105 6c 6h
+UncleMeat 798999643  4  2 B   -     -     -          912   10   15 
+UncleMeat 798999650  4  1 Bc  kf    -     -          917   20    0 
+UncleMeat 798999683  5  5 f   -     -     -          897    0    0 
+UncleMeat 798999717  5  4 f   -     -     -          897    0    0 
+UncleMeat 798999758  5  3 c   c     k     k          897   20    0 Qh 7h
+UncleMeat 798999807  5  2 Bk  b     -     -          877   20   35 
+UncleMeat 798999883  8  1 Bf  -     -     -          892    5    0 
+UncleMeat 799000038 10 10 cc  c     c     c          887   70  200 Td Ad
+UncleMeat 799000208 11 10 rc  c     k     k         1017   40    0 Jd Kd
+UncleMeat 799000344  9  8 c   f     -     -          977   20    0 
+UncleMeat 799000540 10  7 f   -     -     -          957    0    0 
+UncleMeat 799000719 10  6 f   -     -     -          957    0    0 
+UncleMeat 799000874 10  5 c   kf    -     -          957   10    0 
+UncleMeat 799001028  9  4 f   -     -     -          947    0    0 
+UncleMeat 799001117  8  3 f   -     -     -          947    0    0 
+UncleMeat 799001268  8  2 Bk  b     b     bc         947   80    0 3h 9h
+UncleMeat 799001419  8  1 Bf  -     -     -          867    5    0 
+UncleMeat 799001536  8  8 f   -     -     -          862    0    0 
+UncleMeat 799001765  9  7 c   f     -     -          862   10    0 
+UncleMeat 799001878 10 10 c   c     Q     -          852   20    0 
+UncleMeat 799003494  6  2 Bk  b     k     k          832   20    0 Kc 5h
+UncleMeat 799003531  6  1 Bf  -     -     -          812    5    0 
+UncleMeat 799003564  7  6 cc  f     -     -          807   20    0 
+UncleMeat 799003653  7  5 cc  rc    c     f          787   70    0 
+UncleMeat 799003702  7  4 f   -     -     -          717    0    0 
+UncleMeat 799003741  6  2 Bf  -     -     -          717   10    0 
+UncleMeat 799003807  3  1 Bc  b     b     b          707   60    0 8d 9h
+UncleMeat 799003828  4  3 f   -     -     -          647    0    0 
+UncleMeat 799003869  4  2 Bk  k     b     k          647   30   65 5h 6h
+UncleMeat 799003886  4  1 Bf  -     -     -          682    5    0 
+UncleMeat 799003924  4  4 r   c     r     b          677   90  165 
+UncleMeat 799003961  5  4 c   k     b     k          752   30    0 8d 9c
+UncleMeat 799004032  6  4 f   -     -     -          722    0    0 
+UncleMeat 799004110  6  3 c   kf    -     -          722   10    0 
+UncleMeat 799004211  6  2 Bf  -     -     -          712   10    0 
+UncleMeat 799004292  3  1 Bc  k     -     -          702   10   20 
+UncleMeat 799004309  4  3 c   b     -     -          712   20   35 
+UncleMeat 799004327  3  2 Bk  Q     -     -          727   10    0 
+UncleMeat 799131498  4  3 c   c     r     b          717   80  210 Td 8d
+UncleMeat 799131537  4  2 Bf  -     -     -          847   10    0 
+UncleMeat 799131577  4  1 Bc  b     -     -          837   20   30 
+UncleMeat 799131600  4  4 f   -     -     -          847    0    0 
+UncleMeat 799131630  4  3 f   -     -     -          847    0    0 
+UncleMeat 799131661  4  2 B   -     -     -          847   10   15 
+UncleMeat 799131672  4  1 Bf  -     -     -          852    5    0 
+UncleMeat 799131724  3  3 f   -     -     -          847    0    0 
+UncleMeat 799131763  3  2 B   -     -     -          847   10   15 
+UncleMeat 799131779  3  1 Bf  -     -     -          852    5    0 
+UncleMeat 799131812  3  3 c   c     c     c          847   60  125 9c As
+UncleMeat 799131842  3  2 Bc  kf    -     -          912   20    0 
+UncleMeat 799131870  3  1 BQ  -     -     -          892    5    0 
+UncleMeat 799210099  7  2 Bk  b     br    b          887  100  185 
+UncleMeat 799210132  7  1 Br  -     -     -          972   20   30 
+UncleMeat 799210153  7  7 f   -     -     -          982    0    0 
+UncleMeat 799210224  7  6 f   -     -     -          982    0    0 
+UncleMeat 799210267  7  5 cc  bc    kc    kf         982   70    0 
+UncleMeat 799210375  7  4 f   -     -     -          912    0    0 
+UncleMeat 799210421  7  3 f   -     -     -          912    0    0 
+UncleMeat 799210524  9  2 Bk  b     b     b          912   60  140 Kc Jd
+UncleMeat 799210576  9  1 Bf  -     -     -          992    5    0 
+UncleMeat 799210617  9  9 c   b     -     -          987   20   45 
+UncleMeat 799210654 10  9 f   -     -     -         1012    0    0 
+UncleMeat 799210708 10  8 f   -     -     -         1012    0    0 
+UncleMeat 799210809 10  7 f   -     -     -         1012    0    0 
+UncleMeat 799210925 10  7 f   -     -     -         1012    0    0 
+UncleMeat 799211004  9  5 f   -     -     -         1012    0    0 
+UncleMeat 799211065  9  4 f   -     -     -         1012    0    0 
+UncleMeat 799211106  9  3 f   -     -     -         1012    0    0 
+UncleMeat 799211174  9  2 Bc  kc    kf    -         1012   30    0 
+UncleMeat 799211294  9  1 Bc  bc    b     b          982   70  130 
+UncleMeat 799211371  9  9 f   -     -     -         1042    0    0 
+UncleMeat 799211460  9  8 f   -     -     -         1042    0    0 
+UncleMeat 799211512  9  7 f   -     -     -         1042    0    0 
+UncleMeat 799211602  9  6 c   k     br    b         1042   90  195 Js Tc
+UncleMeat 799211685  9  5 f   -     -     -         1147    0    0 
+UncleMeat 799211761  9  4 f   -     -     -         1147    0    0 
+UncleMeat 799211838  9  3 f   -     -     -         1147    0    0 
+UncleMeat 799211931 10  2 Bc  bc    br    b         1147  140    0 Jc Jh
+UncleMeat 799212031 10  1 Bc  bc    kf    -         1007   30    0 
+UncleMeat 799212136  9  9 c   c     b     b          977   70    0 7c 9c
+UncleMeat 799212183  9  8 f   -     -     -          907    0    0 
+UncleMeat 799212248  9  7 cc  c     c     k          907   70  305 Jd Tc
+UncleMeat 799212325  8  4 Q   -     -     -         1142    0    0 
+UncleMeat 799271087 11  3 f   -     -     -         1142    0    0 
+UncleMeat 799271148 11  2 Bc  bc    br    b         1142  120  405 Kd 8c
+UncleMeat 799271229 11  1 Bc  kf    -     -         1427   10    0 
+UncleMeat 799271290 12 12 f   -     -     -         1417    0    0 
+UncleMeat 799271385 11 10 f   -     -     -         1417    0    0 
+UncleMeat 799271445 11  9 f   -     -     -         1417    0    0 
+UncleMeat 799271484  8  6 f   -     -     -         1417    0    0 
+UncleMeat 799271588  7  5 f   -     -     -         1417    0    0 
+UncleMeat 799271643  6  4 cr  bc    bc    kc        1417  110  285 Ah As
+UncleMeat 799271702  6  3 f   -     -     -         1592    0    0 
+UncleMeat 799271748  5  2 Bk  f     -     -         1592   10    0 
+UncleMeat 799271770  5  1 Bc  kf    -     -         1582   10    0 
+UncleMeat 799271805  5  5 f   -     -     -         1572    0    0 
+UncleMeat 799271849  5  4 f   -     -     -         1572    0    0 
+UncleMeat 799271867  5  3 cc  bc    c     c         1572   80    0 Ks 6s
+UncleMeat 799271907  5  2 Bk  bc    kc    bc        1492   90    0 Th 9c
+UncleMeat 799271954  5  1 Bc  kc    f     -         1402   20    0 
+UncleMeat 799272013  5  5 f   -     -     -         1382    0    0 
+UncleMeat 799272042  5  4 r   b     b     b         1382   70  145 
+UncleMeat 799272097  6  3 f   -     -     -         1457    0    0 
+UncleMeat 799272116  6  2 Bcc bc    kc    f         1457  100    0 
+UncleMeat 799272192  6  1 Bc  kf    -     -         1357   10    0 
+UncleMeat 799272245  6  6 f   -     -     -         1347    0    0 
+UncleMeat 799272263  6  4 f   -     -     -         1347    0    0 
+UncleMeat 799272308  6  3 f   -     -     -         1347    0    0 
+UncleMeat 799272355  6  2 Br  b     -     -         1347   30   75 
+UncleMeat 799272383  6  1 Bc  b     b     -         1392   40   80 
+UncleMeat 799272408  6  6 c   k     k     k         1432   10    0 5d Qd
+UncleMeat 799272450  6  5 f   -     -     -         1422    0    0 
+UncleMeat 799272497  6  4 f   -     -     -         1422    0    0 
+UncleMeat 799272552  6  3 f   -     -     -         1422    0    0 
+UncleMeat 799272619  6  2 Bf  -     -     -         1422   10    0 
+UncleMeat 799272690  5  1 Bc  kf    -     -         1412   10    0 
+UncleMeat 799272788  6  6 r   c     c     f         1402   50    0 
+UncleMeat 799272854  6  5 c   c     c     r         1352   80  220 8c Td
+UncleMeat 799272929  6  4 f   -     -     -         1492    0    0 
+UncleMeat 799273005  6  3 f   -     -     -         1492    0    0 
+UncleMeat 799273049  6  2 Bk  b     b     b         1492   60  115 
+UncleMeat 799273107  6  1 Bf  -     -     -         1547    5    0 
+UncleMeat 799273164  6  6 r   b     b     k         1542   50    0 Qh Kc
+UncleMeat 799273209  6  5 c   k     b     -         1492   30   50 
+UncleMeat 799273272  6  4 c   Q     -     -         1512   10    0 
+UncleMeat 799295886  9  7 f   -     -     -         1502    0    0 
+UncleMeat 799295941  8  5 f   -     -     -         1502    0    0 
+UncleMeat 799295968  8  4 f   -     -     -         1502    0    0 
+UncleMeat 799296025  6  3 f   Q     -     -         1502    0    0 

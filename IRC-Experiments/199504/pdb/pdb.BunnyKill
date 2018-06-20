@@ -1,0 +1,441 @@
+BunnyKill 798483664  3  2 Bk  k     k     k         1000   10   13 2d Js
+BunnyKill 798483760  3  1 Bf  -     -     -         1003    5    0 
+BunnyKill 798483788  3  3 cc  f     -     -          998   20    0 
+BunnyKill 798483841  3  2 BQ  -     -     -          978   10    0 
+BunnyKill 798484638  4  2 Bc  k     f     -          968   20    0 
+BunnyKill 798484668  4  1 Bf  -     -     -          948    5    0 
+BunnyKill 798484690  4  4 cc  f     -     -          943   20    0 
+BunnyKill 798484746  4  3 cc  kc    b     b          923   70    0 Jc 5h
+BunnyKill 798484802  4  2 Bk  f     -     -          853   10    0 
+BunnyKill 798484869  4  1 Bf  -     -     -          843    5    0 
+BunnyKill 798484878  4  4 c   k     f     -          838   10    0 
+BunnyKill 798484909  4  3 c   c     k     f          828   20    0 
+BunnyKill 798484952  4  2 Bk  b     k     b          808   40  100 9d Th
+BunnyKill 798484995  4  1 Bc  kc    kc    kc         868   60    0 Kc 3s
+BunnyKill 798485041  4  4 c   k     k     b          808   30   60 
+BunnyKill 798485093  4  3 r   k     f     -          838   20    0 
+BunnyKill 798485127  4  2 Bf  -     -     -          818   10    0 
+BunnyKill 798485161  3  1 Bc  k     k     k          808   10   10 Th 2s
+BunnyKill 798485226  3  3 f   -     -     -          808    0    0 
+BunnyKill 798485235  3  2 Bk  kf    -     -          808   10    0 
+BunnyKill 798485271  3  1 Bc  kf    -     -          798   10    0 
+BunnyKill 798485292  3  3 c   c     f     -          788   20    0 
+BunnyKill 798485334  3  2 Bc  kc    k     k          768   30    0 4h Ts
+BunnyKill 798485374  3  1 Bc  k     k     kc         738   30    0 Qs 2h
+BunnyKill 798485414  3  3 c   c     k     k          708   20    0 Tc Qd
+BunnyKill 798485451  3  2 Bk  kc    k     f          688   20    0 
+BunnyKill 798485523  3  1 Bc  kf    -     -          668   10    0 
+BunnyKill 798485545  3  3 f   -     -     -          658    0    0 
+BunnyKill 798485580  3  2 Brr c     k     k          658   60  120 Js Jd
+BunnyKill 798485616  3  1 Bc  kc    k     k          718   20   40 8d Js
+BunnyKill 798485654  3  3 r   -     -     -          738   20   35 
+BunnyKill 798485667  3  2 Bk  f     -     -          753   10    0 
+BunnyKill 798485687  3  1 Bc  kc    kf    -          743   20    0 
+BunnyKill 798485720  3  3 cc  c     f     -          723   30    0 
+BunnyKill 798485752  3  2 Bf  -     -     -          693   10    0 
+BunnyKill 798485757  3  1 Bc  k     k     k          683   10    0 Ks 9h
+BunnyKill 798485791  3  3 f   -     -     -          673    0    0 
+BunnyKill 798485809  3  2 Bk  f     -     -          673   10    0 
+BunnyKill 798485829  3  1 Bc  kc    b     bf         663   70    0 
+BunnyKill 798485885  3  3 c   k     k     k          593   10    0 Js 3s
+BunnyKill 798485920  3  2 Bc  kc    kf    -          583   30    0 
+BunnyKill 798485966  5  1 Bf  -     -     -          553    5    0 
+BunnyKill 798485996  5  5 f   -     -     -          548    0    0 
+BunnyKill 798486039  5  4 f   -     -     -          548    0    0 
+BunnyKill 798486080  5  3 f   -     -     -          548    0    0 
+BunnyKill 798486123  5  2 Bk  k     f     -          548   10    0 
+BunnyKill 798486155  6  1 Bf  -     Q     -          538    5    0 
+BunnyKill 798493851  2  2 Bf  -     -     -          533   10    0 
+BunnyKill 798493865  2  1 Bcc b     -     -          523   30   50 
+BunnyKill 798493887  2  2 B   -     -     -          543   10   15 
+BunnyKill 798493891  2  1 Br  b     -     -          548   30   50 
+BunnyKill 798493911  3  2 Bf  -     -     -          568   10    0 
+BunnyKill 798493939  3  1 Bc  kc    k     k          558   30   40 Ac 2d
+BunnyKill 798493985  3  3 c   b     b     -          568   40   70 
+BunnyKill 798494016  3  2 Bk  kf    -     -          598   10    0 
+BunnyKill 798494037  3  1 Bf  -     -     -          588    5    0 
+BunnyKill 798494053  3  3 c   k     k     f          583   10    0 
+BunnyKill 798494092  3  2 Br  b     k     rc         573   90    0 Kh Ks
+BunnyKill 798494145  3  1 Br  kc    kc    kf         483   70    0 
+BunnyKill 798494232  3  3 f   -     -     -          413    0    0 
+BunnyKill 798494252  4  2 Bk  k     k     k          413   10   25 7h 3c
+BunnyKill 798494295  5  1 Bc  kf    -     -          428   10    0 
+BunnyKill 798494371  5  5 r   k     c     k          418   60  180 Ah Kh
+BunnyKill 798494411  5  4 f   -     -     -          538    0    0 
+BunnyKill 798494447  4  3 r   -     -     -          538   20   35 
+BunnyKill 798494462  4  2 Bk  KQ    -     -          553   10    0 
+BunnyKill 798494728  9  8 cc  kf    -     -          543   20    0 
+BunnyKill 798494817  8  6 f   Q     -     -          523    0    0 
+BunnyKill 798829541 10  4 rc  k     k     k          523   40  135 Qs As
+BunnyKill 798829646 10  3 cc  k     kf    -          618   20    0 
+BunnyKill 798829737 11  2 Bk  kf    -     -          598   10    0 
+BunnyKill 798829778 10  1 Bf  -     -     -          588    5    0 
+BunnyKill 798829875  9  9 r   b     r     cf         583   90    0 
+BunnyKill 798829961  9  8 f   -     -     -          493    0    0 
+BunnyKill 798830004  9  6 f   -     -     -          493    0    0 
+BunnyKill 798830136 11  7 cc  kf    -     -          493   20    0 
+BunnyKill 798830217 11  6 cc  cc    f     -          473   40    0 
+BunnyKill 798830371  9  3 f   -     -     -          433    0    0 
+BunnyKill 798830552  9  2 Bc  kc    kc    kc         433   90  225 Ah Jc
+BunnyKill 798830614  8  1 BQ  -     -     -          568    5    0 
+BunnyKill 798832983  6  3 cf  -     -     -          563   10    0 
+BunnyKill 798833021  6  2 Bk  kf    -     -          553   10    0 
+BunnyKill 798833079  5  1 Bc  bc    kf    -          543   30    0 
+BunnyKill 798833130  6  5 f   -     -     -          513    0    0 
+BunnyKill 798833180  7  5 f   -     -     -          513    0    0 
+BunnyKill 798833225  8  5 rr  cc    cc    kc         513  120  415 Qh Qs
+BunnyKill 798833310  8  4 f   -     -     -          808    0    0 
+BunnyKill 798833364  9  4 rr  kf    -     -          808   40    0 
+BunnyKill 798833469  8  2 Bk  bc    kc    kr         768   90  310 Jd Ts
+BunnyKill 798833561  7  1 Bc  kc    k     b          988   40    0 2h 3h
+BunnyKill 798833621  7  7 r   b     b     b          948   70  160 
+BunnyKill 798833677  4  3 c   k     k     b         1038   30   70 Jd Th
+BunnyKill 798833717  3  2 c   b     k     k         1078   20   50 9c Ts
+BunnyKill 798833771  4  3 c   cf    -     -         1108   20    0 
+BunnyKill 798833822  4  2 Bcc cc    kc    k         1088   80    0 8d 9s
+BunnyKill 798833909  4  1 Bf  -     -     -         1008    5    0 
+BunnyKill 798833940  4  4 rc  f     -     -         1003   30    0 
+BunnyKill 798834004  5  3 f   -     -     -          973    0    0 
+BunnyKill 798834191  4  1 Bk  k     k     b          973   30   40 
+BunnyKill 798834229  5  1 Bc  krc   br    brc        983  190  285 Qc 2d
+BunnyKill 798834315  5  5 rc  f     -     -         1078   40    0 
+BunnyKill 798834381  5  4 f   -     -     -         1038    0    0 
+BunnyKill 798834470  5  3 ccc kc    kc    kf        1038   70    0 
+BunnyKill 798834561  5  2 Bk  f     -     -          968   10    0 
+BunnyKill 798834620  5  1 Bcc kr    b     b          958   80  180 4c Tc
+BunnyKill 798834676  4  3 Q   -     -     -         1058    0    0 
+BunnyKill 798836927 11  8 c   c     c     k         1058   50  195 As 4c
+BunnyKill 798837062 12  8 c   c     rc    k         1203   80    0 5c Kd
+BunnyKill 798837145 10  5 f   -     -     -         1123    0    0 
+BunnyKill 798837216 10  4 c   f     -     -         1123   10    0 
+BunnyKill 798837272  9  2 Bk  kc    kf    -         1113   20    0 
+BunnyKill 798837327 10  1 Br  b     b     k         1093   60    0 3s 3h
+BunnyKill 798837411 11 11 fQ  -     -     -         1033    0    0 
+BunnyKill 798844165  2  1 Bc  b     -     -         1303   20   30 
+BunnyKill 798844194  2  2 Bk  r     b     -         1313   50   80 
+BunnyKill 798844238  2  1 Bc  b     b     brrr      1343  180    0 5c Kd
+BunnyKill 798844287  2  2 Bk  k     k     k         1163   10    0 3h 7s
+BunnyKill 798844322  2  1 Bc  k     k     b         1153   30   40 
+BunnyKill 798844364  2  2 Bk  k     k     f         1163   10    0 
+BunnyKill 798844401  3  1 Bc  f     -     -         1153   10    0 
+BunnyKill 798844419  3  3 rrc c     k     k         1143   60    0 Th Kc
+BunnyKill 798844618  4  3 Q   -     -     -         1083    0    0 
+BunnyKill 798844741  5  3 cc  br    b     b         1083   90  155 3h Ac
+BunnyKill 798844811  5  2 Br  bc    cc    k         1148  100  300 Ks Kc
+BunnyKill 798844880  5  1 Bc  b     -     -         1348   20   30 
+BunnyKill 798844909  5  5 r   k     k     k         1358   20    0 Qh Tc
+BunnyKill 798844949  5  4 f   -     -     -         1338    0    0 
+BunnyKill 798844986  6  4 r   r     c     f         1338   60    0 
+BunnyKill 798845035  6  3 c   rr    b     b         1278   90  320 Ad 5h
+BunnyKill 798845122  6  2 Bc  k     c     c         1508   60  160 As 4h
+BunnyKill 798845183  6  1 Br  kc    kc    kf        1608   50    0 
+BunnyKill 798845232  6  6 f   -     -     -         1558    0    0 
+BunnyKill 798845355  7  6 c   b     c     c         1558   60    0 Qh 5s
+BunnyKill 798845438  6  5 c   r     b     b         1498   70  155 
+BunnyKill 798845493  5  3 c   f     -     -         1583   10    0 
+BunnyKill 798845520  5  2 Bk  k     k     f         1573   10    0 
+BunnyKill 798845567  6  1 Br  kc    kf    -         1563   30    0 
+BunnyKill 798845643  5  5 c   c     c     c         1533   60    0 4s Qc
+BunnyKill 798845688  5  4 f   -     -     -         1473    0    0 
+BunnyKill 798845753  4  2 Bk  k     kc    kc        1473   50    0 4s 8d
+BunnyKill 798845809  5  1 Bc  kc    kf    -         1423   20    0 
+BunnyKill 798845853  4  4 c   c     f     -         1403   30    0 
+BunnyKill 798845873  4  3 rr  r     r     b         1373  120    0 Qs Ks
+BunnyKill 798845915  4  2 Bf  -     -     -         1253   10    0 
+BunnyKill 798845929  4  1 Bc  b     -     -         1243   20   40 
+BunnyKill 798845943  4  4 c   b     -     -         1263   20   35 
+BunnyKill 798845960  4  3 rr  c     k     k         1278   50  110 Ac 7c
+BunnyKill 798845999  5  2 Bc  f     -     -         1338   20    0 
+BunnyKill 798846044  6  1 Bc  kc    kc    bc        1318   80    0 Ts 3c
+BunnyKill 798846119  6  6 f   -     -     -         1238    0    0 
+BunnyKill 798846159  6  5 c   b     c     f         1238   40    0 
+BunnyKill 798846234  5  3 c   kc    k     kf        1198   20    0 
+BunnyKill 798846297  5  2 Bc  bc    k     b         1178   60  145 
+BunnyKill 798846338  5  1 Bc  k     k     k         1263   10    0 6c 2c
+BunnyKill 798846369  5  5 r   r     r     r         1253  120    0 Kc Ah
+BunnyKill 798846430  5  4 r   k     c     r         1133   80  200 8s 7s
+BunnyKill 798846484  5  3 f   Q     -     -         1253    0    0 
+BunnyKill 798914939 11  4 cc  r     k     c         1253   60    0 Ah 4c
+BunnyKill 798915003 11  3 cf  -     -     -         1193   10    0 
+BunnyKill 798915090 12  2 Bc  b     k     cr        1183  110    0 6h Ts
+BunnyKill 798915200 11  1 Bc  kcc   kc    kf        1073   60    0 
+BunnyKill 798915321 11 11 c   f     -     -         1013   10    0 
+BunnyKill 798915405 11 10 f   -     -     -         1003    0    0 
+BunnyKill 798915559 11  9 f   -     -     -         1003    0    0 
+BunnyKill 798915700 12  8 f   -     -     -         1003    0    0 
+BunnyKill 798915779 11  6 cc  cc    kc    bf        1003  120    0 
+BunnyKill 798915929 11  5 f   -     -     -          883    0    0 
+BunnyKill 798916100 10  3 cc  krc   kc    kf         883   70    0 
+BunnyKill 798916207 10  2 Bk  k     f     -          813   10    0 
+BunnyKill 798916259 10  1 Bc  kf    -     -          803   20    0 
+BunnyKill 798916346  9  9 f   -     -     -          783    0    0 
+BunnyKill 798916453 10  9 cc  f     -     -          783   40    0 
+BunnyKill 798916612 10  8 f   -     -     -          743    0    0 
+BunnyKill 798916756  8  5 cc  kc    cf    -          743   50    0 
+BunnyKill 798916892  9  4 cf  -     -     -          693   20    0 
+BunnyKill 798917036  9  3 cc  kc    kc    kf         673   60    0 
+BunnyKill 798917147  8  1 Bcc kf    -     -          613   40    0 
+BunnyKill 798930661  9  7 c   rc    kc    kf         388   60    0 
+BunnyKill 798930742  9  6 f   -     -     -          328    0    0 
+BunnyKill 798930846  9  5 c   c     c     f          328   50    0 
+BunnyKill 798930934 12  4 cc  c     c     c          278   70  180 Jc 7d
+BunnyKill 798931044 12  3 f   -     -     -          388    0    0 
+BunnyKill 798931110 12  2 Br  kf    -     -          388   40    0 
+BunnyKill 798931213 12  1 Bc  k     kc    k          348   40  130 7c 3h
+BunnyKill 798931301  9  9 c   b     bc    c          438   90    0 7h 5h
+BunnyKill 798931405 10 10 f   -     -     -          348    0    0 
+BunnyKill 798931565  9  8 c   rc    c     f          348   60    0 
+BunnyKill 798931611  8  6 r   k     c     c          288   60    0 Qc Ac
+BunnyKill 798931695  9  5 c   k     kf    -          228   10    0 
+BunnyKill 798931769  8  3 r   br    brc   br         218  190  535 8c 7c
+BunnyKill 798931884 10  2 Bc  kf    -     -          563   20    0 
+BunnyKill 798932028 10  1 Bc  kf    -     -          543   10    0 
+BunnyKill 798932147 10 10 f   -     -     -          533    0    0 
+BunnyKill 798932296 10  9 f   -     -     -          533    0    0 
+BunnyKill 798932382 10  8 r   r     b     k          533   60    0 Ac Ah
+BunnyKill 798932487  9  7 f   -     -     -          473    0    0 
+BunnyKill 798932616  8  5 f   -     -     -          473    0    0 
+BunnyKill 798932721  9  3 c   f     -     -          473   10    0 
+BunnyKill 798932813  9  2 Bk  kc    kc    k          463   40    0 9d 6c
+BunnyKill 798932918  7  1 Bc  kc    kc    kf         423   50    0 
+BunnyKill 798933030  7  7 f   -     -     -          373    0    0 
+BunnyKill 798933110  7  7 f   -     -     -          373    0    0 
+BunnyKill 798933197  6  5 c   b     kc    kf         373   40    0 
+BunnyKill 798933277  6  4 f   -     -     -          333    0    0 
+BunnyKill 798933330  5  3 r   k     kf    -          333   20    0 
+BunnyKill 798933376  5  2 Br  b     b     -          313   60  105 
+BunnyKill 798933408  5  1 Bc  b     b     bc         358   80  220 Js Kh
+BunnyKill 798933479  5  5 f   -     -     -          498    0    0 
+BunnyKill 798933527  5  4 c   k     k     f          498   10    0 
+BunnyKill 798933599  5  3 cc  kf    -     -          488   20    0 
+BunnyKill 798933654  5  2 Bk  cc    c     kf         468   50    0 
+BunnyKill 798933963  4  1 Br  k     b     -          418   40  100 
+BunnyKill 798934014  5  5 f   -     -     -          478    0    0 
+BunnyKill 798934088  5  4 cc  b     b     -          478   50  120 
+BunnyKill 798934125  5  3 f   -     -     -          548    0    0 
+BunnyKill 798934193  5  2 Br  k     kc    kc         548   60    0 8h Th
+BunnyKill 798934264  5  1 Bf  -     -     -          488    5    0 
+BunnyKill 798934341  5  5 r   k     c     f          483   40    0 
+BunnyKill 798934388  5  4 cc  c     c     b          443   80  260 
+BunnyKill 798934454  5  3 f   -     -     -          623    0    0 
+BunnyKill 798934499  4  1 Bk  kf    -     -          623   10    0 
+BunnyKill 798934559  3  1 Br  b     br    b          613  110  230 9s 7s
+BunnyKill 798934594  2  2 f   -     -     -          733    0    0 
+BunnyKill 798934598  2  2 B   -     -     -          733   10   15 
+BunnyKill 798934601  2  1 Bf  -     -     -          738    5    0 
+BunnyKill 798934608  2  2 Bc  f     -     -          733   20    0 
+BunnyKill 798934621  2  1 Bc  b     -     -          713   20   30 
+BunnyKill 798934633  2  2 B   -     -     -          723   10   15 
+BunnyKill 798934636  2  1 Bf  -     -     -          728    5    0 
+BunnyKill 798934643  2  2 Br  b     b     b          723   80  160 Td Qd
+BunnyKill 798934667  3  1 Bc  k     kf    -          803   10    0 
+BunnyKill 798934698  3  3 f   -     -     -          793    0    0 
+BunnyKill 798934746  3  2 Br  b     k     kc         793   50  105 Qs Th
+BunnyKill 798934812  3  1 Bc  k     k     kf         848   10    0 
+BunnyKill 798934844  3  3 c   c     k     k          838   20    0 Jd 2s
+BunnyKill 798934882  3  2 Bk  b     b     b          818   60    0 6c 7h
+BunnyKill 798934916  4  1 Br  b     b     br         758  110  290 Qc Tc
+BunnyKill 798934967  4  4 c   k     c     c          938   50    0 7c 4c
+BunnyKill 798935087  4  3 f   -     -     -          888    0    0 
+BunnyKill 798935152  3  2 Bc  kf    -     -          888   20    0 
+BunnyKill 798935174  3  1 Bc  k     kf    -          868   10    0 
+BunnyKill 798935214  3  3 c   f     -     -          858   10    0 
+BunnyKill 798935263  3  2 Br  brc   kc    kc         848  110    0 8d 8s
+BunnyKill 798935337  3  1 Bc  k     k     k          738   10   20 5d Js
+BunnyKill 798935372  2  2 Bk  c     k     f          748   20    0 
+BunnyKill 798935404  2  1 Bcc k     kf    -          728   20    0 
+BunnyKill 798935439  2  2 Br  b     br    b          708  110    0 As 5d
+BunnyKill 798935477  3  1 Br  b     kf    -          598   30    0 
+BunnyKill 798935506  3  3 r   k     k     rrrr       568  180    0 Kd 3d
+BunnyKill 798935552  3  2 Bk  k     c     c          388   50  100 8s 5d
+BunnyKill 798935596  3  1 Br  b     f     -          438   30    0 
+BunnyKill 798935617  3  3 r   b     b     b          408   70    0 Kc 4c
+BunnyKill 798935645  3  2 Bc  kf    -     -          338   20    0 
+BunnyKill 798935699  5  1 Br  b     -     -          318   30   60 
+BunnyKill 798935730  5  5 cc  c     c     c          348   70    0 Tc 5c
+BunnyKill 798935802  6  5 f   -     -     -          278    0    0 
+BunnyKill 798935820  6  4 rc  c     c     c          278   80    0 6h Jh
+BunnyKill 798935862  6  3 f   -     -     -          198    0    0 
+BunnyKill 798935902  8  4 c   b     b     b          198   60  145 Tc Ah
+BunnyKill 798935944  8  3 rc  kc    kc    brrrr      283  240    0 2h 2d
+BunnyKill 798936023  8  2 Bk  bc    kcA   -           43   43    0 9s 5h
+BunnyKill 799003351  4  2 Bk  k     kf    -         1000   10    0 
+BunnyKill 799003448  5  1 Br  br    b     b          990   90  170 
+BunnyKill 799003494  6  6 c   f     -     -         1070   10    0 
+BunnyKill 799003531  6  5 f   -     -     -         1060    0    0 
+BunnyKill 799003564  7  4 f   -     -     -         1060    0    0 
+BunnyKill 799003653  7  3 cc  cf    -     -         1060   30    0 
+BunnyKill 799003702  7  2 Bc  kf    -     -         1030   20    0 
+BunnyKill 799003741  6  1 BQ  -     -     -         1010    5    0 
+BunnyKill 799009255  3  3 cc  k     f     -         1005   20    0 
+BunnyKill 799009405  3  2 BQ  -     -     -          985   10    0 
+BunnyKill 799081119  2  2 B   -     -     -          975   10   15 
+BunnyKill 799081147  3  1 Bc  k     k     k          980   10   30 6d Jd
+BunnyKill 799081238  3  3 cc  c     c     f         1000   50    0 
+BunnyKill 799081278  3  2 B   -     -     -          950   10   15 
+BunnyKill 799081285  3  1 Bc  kf    -     -          955   10    0 
+BunnyKill 799081308  3  3 f   -     -     -          945    0    0 
+BunnyKill 799081313  3  2 Bc  b     kc    kc         945   70    0 Qh 4s
+BunnyKill 799081354  3  1 Bc  k     k     b          875   30   40 
+BunnyKill 799081385  3  3 cc  b     -     -          885   30   60 
+BunnyKill 799081405  4  2 Bf  -     -     -          915   10    0 
+BunnyKill 799081444  4  1 Bc  kc    kc    br         905  100  210 7s Js
+BunnyKill 799081494  4  4 c   k     r     b         1015   70  155 9c 2c
+BunnyKill 799081581  5  4 f   -     -     -         1100    0    0 
+BunnyKill 799081616  4  3 f   -     -     -         1100    0    0 
+BunnyKill 799081652  4  2 Bk  f     -     -         1100   10    0 
+BunnyKill 799081693  5  1 Bf  -     -     -         1090    5    0 
+BunnyKill 799081713  5  5 f   -     -     -         1085    0    0 
+BunnyKill 799081734  5  4 f   -     -     -         1085    0    0 
+BunnyKill 799081770  5  3 r   k     k     kf        1085   20    0 
+BunnyKill 799081811  5  2 Bf  -     -     -         1065   10    0 
+BunnyKill 799081823  5  1 Bc  kf    -     -         1055   10    0 
+BunnyKill 799081859  5  5 c   r     b     c         1045   70    0 Tc 2c
+BunnyKill 799081901  5  4 c   cf    -     -          975   20    0 
+BunnyKill 799081982  5  3 c   kf    -     -          955   10    0 
+BunnyKill 799082074  6  2 Bk  k     b     br         945   90  185 Td Qh
+BunnyKill 799082113  7  1 Bcc bc    kc    kf        1040   60    0 
+BunnyKill 799082232  8  8 c   f     -     -          980   10    0 
+BunnyKill 799082272  8  7 c   f     -     -          970   10    0 
+BunnyKill 799082300  8  6 c   c     c     k          960   40  120 5d 6h
+BunnyKill 799082340  8  5 c   f     -     -         1040   10    0 
+BunnyKill 799082389  8  5 f   -     -     -         1030    0    0 
+BunnyKill 799082428  8  4 r   brc   b     brrc      1030  200    0 Kh Ah
+BunnyKill 799082511  8  3 f   -     -     -          830    0    0 
+BunnyKill 799082591  8  1 BQ  -     -     -          830   10    0 
+BunnyKill 799082803  8  7 r   c     c     c          820   70  215 Kc Ks
+BunnyKill 799082885  9  6 c   r     bc    b          965  100  125 9s Ac
+BunnyKill 799082946  7  4 cc  c     k     k          990   40    0 6h 3h
+BunnyKill 799082999  7  3 f   -     -     -          950    0    0 
+BunnyKill 799083031  7  2 Bc  k     k     kc         950   40  100 7c As
+BunnyKill 799083098  8  1 Br  bc    kc    kf        1010   60    0 
+BunnyKill 799083171 10 10 f   -     -     -          950    0    0 
+BunnyKill 799083281 10  9 f   -     -     -          950    0    0 
+BunnyKill 799083355 10  8 f   -     -     -          950    0    0 
+BunnyKill 799083456  9  7 c   f     -     -          950   10    0 
+BunnyKill 799083552  8  6 cc  c     c     b          940   90  280 
+BunnyKill 799083640  9  5 cc  kf    -     -         1130   20    0 
+BunnyKill 799083787  7  3 f   -     -     -         1110    0    0 
+BunnyKill 799083851  7  2 Bk  kf    -     -         1110   10    0 
+BunnyKill 799083986  9  1 Br  kcc   kc    kf        1100   70    0 
+BunnyKill 799084183  8  8 f   -     -     -         1030    0    0 
+BunnyKill 799084331  8  7 f   -     -     -         1030    0    0 
+BunnyKill 799084445  9  6 c   f     -     -         1030   10    0 
+BunnyKill 799084514  9  5 f   -     -     -         1020    0    0 
+BunnyKill 799084614  9  4 c   k     k     k         1020   10    0 5d As
+BunnyKill 799084741  8  2 Bk  f     -     -         1010   10    0 
+BunnyKill 799084819 10  1 Bc  b     b     k         1000   40    0 8h Kh
+BunnyKill 799084891 10 10 r   c     f     -          960   30    0 
+BunnyKill 799084968 10  9 r   k     c     k          930   40    0 Qs Ah
+BunnyKill 799085076 11  8 f   -     -     -          890    0    0 
+BunnyKill 799085191 11  7 c   k     k     f          890   10    0 
+BunnyKill 799085296 10  6 cc  c     br    k          880  110  205 Th 3h
+BunnyKill 799085401 10  5 rr  bc    b     b          975  100  275 Qd Kd
+BunnyKill 799085513 10  4 c   c     k     k         1150   20    0 Qs Tc
+BunnyKill 799085597 10  3 f   -     -     -         1130    0    0 
+BunnyKill 799085671 10  2 Bc  kc    kf    -         1130   40    0 
+BunnyKill 799085777  9  1 Bc  kc    kf    -         1090   20    0 
+BunnyKill 799085885 10 10 c   c     f     -         1070   20    0 
+BunnyKill 799085956 10  9 f   -     -     -         1050    0    0 
+BunnyKill 799086097 11  8 c   kf    -     -         1050   10    0 
+BunnyKill 799086248 10  6 c   krr   br    kc        1040  130    0 7h Ah
+BunnyKill 799086372 10  5 cc  c     r     b          910  100    0 8d Kh
+BunnyKill 799086452 10  5 f   -     -     -          810    0    0 
+BunnyKill 799086506  9  3 c   f     -     -          810   10    0 
+BunnyKill 799086571 10  2 Bc  rr    r     b          800  130  360 
+BunnyKill 799086724  9  1 Bc  kc    bc    kf        1030   70    0 
+BunnyKill 799086838  4  4 r   -     -     -          960   20   35 
+BunnyKill 799086855  4  3 c   c     k     k          975   20   45 Jc 4d
+BunnyKill 799086890  3  2 Bk  k     k     c         1000   30   60 7d 3c
+BunnyKill 799086932  4  1 Bc  bc    bc    b         1030   90  180 Jd 8c
+BunnyKill 799087033  6  6 f   -     -     -         1120    0    0 
+BunnyKill 799087195  6  5 c   c     Q     -         1120   20    0 
+BunnyKill 799089222 11  4 r   b     b     b         1100   70  225 8h Jh
+BunnyKill 799089323 12  3 rr  bf    -     -         1255   50    0 
+BunnyKill 799089398 12  2 Bc  kf    -     -         1205   20    0 
+BunnyKill 799089558 11  1 Bc  f     -     -         1185   20    0 
+BunnyKill 799089697 11 11 c   f     -     -         1165   10    0 
+BunnyKill 799089800 10  9 f   -     -     -         1155    0    0 
+BunnyKill 799089851 10  8 f   -     -     -         1155    0    0 
+BunnyKill 799089986  9  7 c   b     b     b         1155   60  125 
+BunnyKill 799090038  8  5 f   -     -     -         1220    0    0 
+BunnyKill 799090071  8  4 c   f     -     -         1220   10    0 
+BunnyKill 799090116  8  3 f   -     -     -         1210    0    0 
+BunnyKill 799090181  8  2 Bf  -     -     -         1210   10    0 
+BunnyKill 799090261  9  1 Bc  kf    -     -         1200   10    0 
+BunnyKill 799090355 10 10 f   -     -     -         1190    0    0 
+BunnyKill 799090473  9  8 f   -     -     -         1190    0    0 
+BunnyKill 799090605  9  7 r   k     k     k         1190   20    0 3c 2c
+BunnyKill 799090658  9  7 cc  f     -     -         1170   20    0 
+BunnyKill 799090817  7  4 rc  kf    -     -         1150   30    0 
+BunnyKill 799090909  7  2 Brrr b     br    k         1120  140  285 Jh Js
+BunnyKill 799091004  8  1 Br  k     k     kc        1265   40   90 5s 5c
+BunnyKill 799091102  9  9 r   k     k     rrrc      1315  160    0 Kc 9c
+BunnyKill 799091223  9  8 f   -     -     -         1155    0    0 
+BunnyKill 799091304  9  7 f   -     -     -         1155    0    0 
+BunnyKill 799091468  8  5 f   -     -     -         1155    0    0 
+BunnyKill 799091549  8  5 f   -     -     -         1155    0    0 
+BunnyKill 799091613  6  3 c   kc    kc    kf        1155   40    0 
+BunnyKill 799091681  6  2 Bk  b     f     -         1115   20    0 
+BunnyKill 799091726  6  1 Brc br    bc    kf        1095  100    0 
+BunnyKill 799091846  6  6 f   -     -     -          995    0    0 
+BunnyKill 799091863  5  4 c   r     c     c          995   80   97 5c Kd
+BunnyKill 799091901  5  3 cc  c     c     b         1012   70  170 3s Th
+BunnyKill 799091986  5  2 Bc  f     -     -         1112   20    0 
+BunnyKill 799092013  5  1 Br  -     -     -         1092   20   30 
+BunnyKill 799092030  5  5 r   c     c     k         1102   60  135 3d Ac
+BunnyKill 799092070  5  4 r   k     k     f         1177   20    0 
+BunnyKill 799092150  5  3 cc  kf    -     -         1157   20    0 
+BunnyKill 799092194  5  2 Br  k     kf    -         1137   20    0 
+BunnyKill 799092243  5  1 Br  k     kc    k         1117   40    0 Kh 4h
+BunnyKill 799092316  5  5 f   -     -     -         1077    0    0 
+BunnyKill 799092333  6  3 Q   -     -     -         1077    0    0 
+BunnyKill 799095857 10  3 f   -     -     -         1077    0    0 
+BunnyKill 799095992  8  2 Bf  -     -     -         1077   10    0 
+BunnyKill 799096049  8  1 Bf  -     -     -         1067    5    0 
+BunnyKill 799096108  9  8 f   -     -     -         1062    0    0 
+BunnyKill 799096210  8  6 c   b     r     k         1062   70  185 9s 5s
+BunnyKill 799096311  8  5 c   c     k     k         1177   20    0 As 4c
+BunnyKill 799096413  8  4 rc  kf    -     -         1157   30    0 
+BunnyKill 799096847  9  3 Q   Q     -     -         1127    0    0 
+BunnyKill 799101047  8  3 cc  kf    -     -         1127   20    0 
+BunnyKill 799101139  7  2 Bc  kc    kf    -         1107   30    0 
+BunnyKill 799101201  8  1 Bf  -     -     -         1077    5    0 
+BunnyKill 799101268  7  7 cc  f     -     -         1072   40    0 
+BunnyKill 799101404  8  6 cc  c     c     k         1032   50    0 Ac 7c
+BunnyKill 799101526  8  5 c   c     k     c          982   40    0 Th 6c
+BunnyKill 799101635  9  4 f   -     -     -          942    0    0 
+BunnyKill 799101752  7  3 cc  br    b     b          942   90  255 5c 4h
+BunnyKill 799101837  8  2 Bc  kc    kf    -         1107   30    0 
+BunnyKill 799101901  7  1 Bc  kf    -     -         1077   20    0 
+BunnyKill 799102001  7  6 c   k     f     -         1057   10    0 
+BunnyKill 799102091  7  4 c   f     -     -         1047   10    0 
+BunnyKill 799102179  7  3 f   -     -     -         1037    0    0 
+BunnyKill 799102272  7  2 Bk  k     k     f         1037   10    0 
+BunnyKill 799102314  7  1 Bc  kc    kf    -         1027   20    0 
+BunnyKill 799102392  7  7 f   -     -     -         1007    0    0 
+BunnyKill 799102430  7  6 c   c     cc    f         1007   60    0 
+BunnyKill 799102503  7  5 c   b     -     -          947   20   35 
+BunnyKill 799102540  7  4 r   br    kc    kf         962   70    0 
+BunnyKill 799102694  7  2 c   k     k     bf         892   30    0 
+BunnyKill 799102785  8  2 Bk  kf    -     -          862   10    0 
+BunnyKill 799102949 10  1 Br  br    brc   b          852  160    0 Ac Ah
+BunnyKill 799103102 10 10 c   k     k     b          692   40  110 4h As
+BunnyKill 799103204 11 10 f   -     -     -          762    0    0 
+BunnyKill 799103285 10  8 f   -     -     -          762    0    0 
+BunnyKill 799103400 10  7 c   b     -     -          762   20   45 
+BunnyKill 799103465  9  5 rc  br    b     b          787  100  215 Qc Jh
+BunnyKill 799103596  8  4 cc  f     -     -          902   20    0 
+BunnyKill 799103699  5  2 Bc  r     k     k          882   40    0 6h Td
+BunnyKill 799103784  6  1 Bc  b     k     kf         842   30    0 
+BunnyKill 799103858  6  6 r   k     k     rc         812  110    0 4d 3d
+BunnyKill 799103932  6  5 c   b     b     k          702   50  160 7s 9h
+BunnyKill 799104096  3  1 Bk  b     b     br         812  100  200 2c 3d
+BunnyKill 799104171  2  1 Bc  b     b     -          912   40   60 
+BunnyKill 799104204  3  3 f   -     -     -          932    0    0 
+BunnyKill 799104208  4  3 cc  f     -     -          932   20    0 
+BunnyKill 799104254  4  2 Bc  kf    -     -          912   20    0 
+BunnyKill 799104510  4  1 Bc  b     kc    kc         892   48    0 Td 3h
+BunnyKill 799104590  7  7 c   k     c     k          844   30   95 4c 8c
+BunnyKill 799104819  7  6 cc  kc    kf    -          909   30    0 
+BunnyKill 799104889  8  3 Q   -     -     -          879    0    0 

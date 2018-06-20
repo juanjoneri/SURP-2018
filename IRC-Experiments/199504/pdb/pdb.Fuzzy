@@ -1,0 +1,223 @@
+Fuzzy     798237041 10 10 c   f     -     -         1000   20    0 
+Fuzzy     798237150 11 10 c   f     -     -          980   10    0 
+Fuzzy     798237206 11  9 c   k     f     -          970   10    0 
+Fuzzy     798237326 12  9 fQ  -     -     -          960    0    0 
+Fuzzy     798256070  4  2 cc  f     -     -          960   20    0 
+Fuzzy     798256149  4  2 Bc  f     -     -          940   20    0 
+Fuzzy     798256178  4  1 Bc  k     k     k          920   10   20 7s 9c
+Fuzzy     798256247  4  4 c   k     k     k          930   10    0 5h Jd
+Fuzzy     798256291  3  3 c   f     -     -          920   10    0 
+Fuzzy     798256319  3  2 Bc  Q     -     -          910   20    0 
+Fuzzy     798256674  3  3 c   r     b     -          890   50   90 
+Fuzzy     798256714  3  2 Bc  b     -     -          930   30   55 
+Fuzzy     798256739  3  1 Bc  kc    k     k          955   20    0 Qd Ts
+Fuzzy     798256781  3  3 c   c     b     -          935   40   70 
+Fuzzy     798256818  3  2 Bc  kf    -     -          965   30    0 
+Fuzzy     798256847  3  1 Bc  k     k     k          935   10   20 2h 8c
+Fuzzy     798256873  3  3 c   b     -     -          945   20   40 
+Fuzzy     798256918  3  2 Bc  kc    kc    b          965   70  140 
+Fuzzy     798256965  3  1 Bc  b     -     -         1035   20   40 
+Fuzzy     798256985  3  3 c   f     -     -         1055   10    0 
+Fuzzy     798256998  2  2 B   -     -     -         1045   10   15 
+Fuzzy     798257003  2  1 Bcc kf    -     -         1050   20    0 
+Fuzzy     798257031  2  2 B   -     -     -         1030   10   15 
+Fuzzy     798257034  2  1 Bc  k     k     k         1035   10   20 9s 7h
+Fuzzy     798257059  2  2 Bc  rc    c     c         1045   90  180 Qh Kh
+Fuzzy     798257099  2  1 Br  k     k     b         1135   40   60 
+Fuzzy     798257136  3  2 Bc  kf    -     -         1155   20    0 
+Fuzzy     798257159  3  1 Bc  k     k     kc        1135   30    0 3d 4d
+Fuzzy     798257191  3  3 c   f     -     -         1105   10    0 
+Fuzzy     798257226  3  2 Bk  c     f     -         1095   20    0 
+Fuzzy     798257270  3  1 Bc  f     -     -         1075   10    0 
+Fuzzy     798257299  3  3 c   c     c     k         1065   40    0 3h 5s
+Fuzzy     798257330  3  2 Bc  f     -     -         1025   20    0 
+Fuzzy     798257346  3  1 Bc  b     -     -         1005   20   30 
+Fuzzy     798257367  3  3 c   c     b     -         1015   40   65 
+Fuzzy     798257396  3  2 Bk  kf    -     -         1040   10    0 
+Fuzzy     798257413  3  1 Bc  kf    -     -         1030   10    0 
+Fuzzy     798257430  3  3 cc  c     c     c         1020   70    0 3h Js
+Fuzzy     798257461  3  2 Br  b     b     kf         950   50    0 
+Fuzzy     798257510  3  1 Bc  kc    kc    kc         900   70  150 Jh 5h
+Fuzzy     798257554  4  4 f   -     -     -          980    0    0 
+Fuzzy     798257610  4  3 cc  c     k     k          980   30  100 7h Jd
+Fuzzy     798257668  5  2 Br  k     k     k         1050   30   60 Ah Qc
+Fuzzy     798257707  5  1 Bc  kf    -     -         1080   20    0 
+Fuzzy     798257728  4  4 c   f     -     -         1060   10    0 
+Fuzzy     798257751  4  3 c   c     c     k         1050   40    0 9h Ac
+Fuzzy     798257784  4  2 Bf  -     -     -         1010   10    0 
+Fuzzy     798257796  4  1 Bc  kf    -     -         1000   20    0 
+Fuzzy     798257819  4  4 cc  c     k     k          980   40   46 3s 5h
+Fuzzy     798257871  4  3 cc  f     -     -          986   20    0 
+Fuzzy     798257918  4  2 Bk  bc    bc    kc         966   90    0 Qh 2c
+Fuzzy     798257969  4  1 Bc  kf    -     -          876   10    0 
+Fuzzy     798257986  4  4 f   -     -     -          866    0    0 
+Fuzzy     798258016  4  3 f   -     -     -          866    0    0 
+Fuzzy     798258048  4  2 Bc  c     c     k          866   50  120 Tc 6d
+Fuzzy     798258082  4  1 Br  b     b     b          936   70  160 Jc Ac
+Fuzzy     798258112  4  4 c   c     f     -         1026   20    0 
+Fuzzy     798258152  5  3 cc  c     c     b         1006   70  190 
+Fuzzy     798258218  5  2 B   -     -     -         1126   10   15 
+Fuzzy     798258225  5  1 Bc  kc    k     k         1131   20    0 8c 2c
+Fuzzy     798258256  5  5 c   k     b     b         1111   60  135 As 4c
+Fuzzy     798258306  5  4 c   b     -     -         1186   20   50 
+Fuzzy     798258330  5  3 f   -     -     -         1216    0    0 
+Fuzzy     798258367  5  2 B   -     -     -         1216   10   15 
+Fuzzy     798258372  5  1 Bc  k     k     k         1221   10   30 7h 5s
+Fuzzy     798258427  4  4 r   r     b     b         1241   80  180 Js 8s
+Fuzzy     798258485  3  2 Bk  k     k     kc        1341   30   70 9c 4h
+Fuzzy     798258547  3  1 Bc  k     kf    -         1381   20    0 
+Fuzzy     798258581  3  3 cc  k     c     c         1361   60    0 9d Ac
+Fuzzy     798258640  3  2 B   -     -     -         1301   10   15 
+Fuzzy     798258652  3  1 Bc  kf    -     -         1306   10    0 
+Fuzzy     798258670  4  4 c   c     k     k         1296   20   70 Td 5d
+Fuzzy     798258713  4  3 cc  cc    kc    kf        1346   60    0 
+Fuzzy     798258792  6  2 Bc  c     f     -         1286   30    0 
+Fuzzy     798258878  6  1 Bc  kc    kc    k         1256   50  110 4c 6d
+Fuzzy     798258964  5  5 c   b     -     -         1316   20   50 
+Fuzzy     798258998  5  4 r   b     bc    c         1346   90    0 Qs Ac
+Fuzzy     798259063  5  3 c   b     -     -         1256   20   50 
+Fuzzy     798259102  5  2 Bc  k     kf    -         1286   20    0 
+Fuzzy     798259179  5  1 Bc  k     b     b         1266   50    0 2s 5d
+Fuzzy     798259249  4  4 c   k     k     k         1216   10    0 Js 7c
+Fuzzy     798259303  4  3 c   kf    -     -         1206   10    0 
+Fuzzy     798259339  5  3 cc  kc    kf    -         1196   30    0 
+Fuzzy     798259395  6  2 Bk  f     -     -         1166   10    0 
+Fuzzy     798259420  6  1 BQ  -     -     -         1156    5    0 
+Fuzzy     798263828  8  4 c   c     c     f         1151   40    0 
+Fuzzy     798263883  8  3 cc  c     f     -         1111   30    0 
+Fuzzy     798263967  8  2 Bcc k     k     c         1081   60  280 Qs 2h
+Fuzzy     798264098  8  1 Bcc kc    kc    bc        1301  100    0 Qc Ad
+Fuzzy     798264187  7  7 c   c     f     -         1201   30    0 
+Fuzzy     798264275  7  6 r   b     b     b         1171   70    0 Ac Kc
+Fuzzy     798264357  6  4 c   k     c     f         1101   30    0 
+Fuzzy     798264435  7  2 Bk  kc    kf    -         1071   20    0 
+Fuzzy     798264516  7  1 Bc  kf    -     -         1051   20    0 
+Fuzzy     798264557  7  7 r   b     c     f         1031   50    0 
+Fuzzy     798264626  7  6 c   k     b     -          981   30   70 
+Fuzzy     798264674  7  5 cc  kf    -     -         1021   20    0 
+Fuzzy     798264762  7  4 c   f     -     -         1001   10    0 
+Fuzzy     798264829  7  3 ccc kf    -     -          991   40    0 
+Fuzzy     798264924  7  2 Bk  k     k     c          951   30   60 Kd 3d
+Fuzzy     798264998  6  1 Bcc f     -     -          981   20    0 
+Fuzzy     798265061  7  7 c   c     k     c          961   50    0 4d 4h
+Fuzzy     798265112  7  6 c   k     f     -          911   20    0 
+Fuzzy     798265159  7  5 c   cf    -     -          891   20    0 
+Fuzzy     798265246  7  4 cc  c     k     b          871   50  125 Qc 5h
+Fuzzy     798265337  8  4 c   c     c     f          946   50    0 
+Fuzzy     798265423  8  3 c   kf    -     -          896   10    0 
+Fuzzy     798265524  6  2 Bk  f     -     -          886   10    0 
+Fuzzy     798265556  6  1 Bf  -     -     -          876    5    0 
+Fuzzy     798265663  6  6 cc  rc    c     c          871  110    0 4d Kc
+Fuzzy     798265732  5  4 c   k     kf    -          761   10    0 
+Fuzzy     798265795  5  4 f   -     -     -          751    0    0 
+Fuzzy     798265810  5  3 c   kc    k     f          751   20    0 
+Fuzzy     798265912  6  2 Bc  kc    kc    kc         731   70  145 7h 8h
+Fuzzy     798265982  7  1 Bcc kf    -     -          806   30    0 
+Fuzzy     798266063  6  6 c   b     k     f          776   20    0 
+Fuzzy     798266125  7  5 c   f     -     -          756   20    0 
+Fuzzy     798266185  7  4 c   f     -     -          736   20    0 
+Fuzzy     798266227  7  3 r   k     kc    kc         716   60  145 Tc Th
+Fuzzy     798266306  6  1 Bc  kc    k     k          801   30    0 Jd 3d
+Fuzzy     798266391  6  1 Bcc kf    -     -          771   20    0 
+Fuzzy     798266438  6  6 c   -     -     -          751   20   55 
+Fuzzy     798266573  4  3 c   k     kf    -          786   10    0 
+Fuzzy     798266694  4  2 Bc  r     -     -          776   40   70 
+Fuzzy     798266729  4  1 Br  kc    kc    kc         806   70    0 Ad 9h
+Fuzzy     798266780  4  4 c   f     -     -          736   10    0 
+Fuzzy     798266848  5  3 cc  f     -     -          726   20    0 
+Fuzzy     798266932  6  2 Bk  k     k     f          706   10    0 
+Fuzzy     798266999  6  1 Br  b     -     -          696   30   50 
+Fuzzy     798267040  6  6 c   k     k     k          716   10   35 Jc 5h
+Fuzzy     798267083  7  5 cc  f     -     -          741   30    0 
+Fuzzy     798267229  8  6 cr  k     f     -          711   30    0 
+Fuzzy     798267316  7  4 c   k     b     -          681   30   45 
+Fuzzy     798267372  5  2 Bk  bc    kc    kc         696   70    0 6h 7d
+Fuzzy     798267461  5  1 Bc  k     k     kc         626   30   70 2s Jd
+Fuzzy     798267520  5  5 r   b     rc    r          666  130    0 Qh Qc
+Fuzzy     798267604  5  4 r   f     -     -          536   20    0 
+Fuzzy     798267661  5  3 r   rc    c     f          516   70    0 
+Fuzzy     798267723  5  2 Br  br    br    b          446  130  260 
+Fuzzy     798267818  5  1 Bc  kc    kc    kf         576   40    0 
+Fuzzy     798267905  5  5 c   c     f     -          536   20    0 
+Fuzzy     798267953  5  4 c   c     c     k          516   50    0 6c Ad
+Fuzzy     798268019  5  3 c   b     b     -          466   40   80 
+Fuzzy     798268080  5  2 Bc  c     c     r          506   90  200 Kh 3d
+Fuzzy     798268158  5  1 Bf  -     -     -          616    5    0 
+Fuzzy     798268233  5  5 c   k     f     -          611   10    0 
+Fuzzy     798268319  6  4 c   f     -     -          601   10    0 
+Fuzzy     798268354  6  3 f   -     -     -          591    0    0 
+Fuzzy     798268419  6  2 Bk  kf    -     -          591   10    0 
+Fuzzy     798268507  7  1 Bc  bf    -     -          581   20    0 
+Fuzzy     798268555  7  7 r   k     f     -          561   20    0 
+Fuzzy     798268612  7  6 rc  c     f     -          541   60    0 
+Fuzzy     798268697  7  5 cc  rc    c     f          481   80    0 
+Fuzzy     798268828  7  4 c   k     f     -          401   10    0 
+Fuzzy     798268884  7  3 r   kc    kc    kr         391   90  195 7h Th
+Fuzzy     798269007  6  2 Bc  bc    b     b          496   80  285 Kd Qs
+Fuzzy     798269080  7  1 Brc kc    kc    k          701   70    0 Ad 2d
+Fuzzy     798269210  7  7 c   c     c     f          631   40    0 
+Fuzzy     798269332  6  5 crc kf    -     -          591   40    0 
+Fuzzy     798269470  8  6 f   -     -     -          551    0    0 
+Fuzzy     798269549  8  5 Q   -     -     -          551    0    0 
+Fuzzy     798346456  3  3 cc  c     c     f          551   50    0 
+Fuzzy     798346529  3  2 Bc  f     -     -          501   20    0 
+Fuzzy     798346557  3  1 Bf  -     -     -          481    5    0 
+Fuzzy     798346569  3  3 cc  f     -     -          476   20    0 
+Fuzzy     798346610  3  2 Bc  kf    -     -          456   20    0 
+Fuzzy     798346645  3  1 Bcc kc    k     k          436   30   60 4s Jc
+Fuzzy     798346712  2  2 Bk  b     -     -          466   20   30 
+Fuzzy     798346757  3  1 Bc  kf    -     -          476   10    0 
+Fuzzy     798346788  3  3 c   k     f     -          466   10    0 
+Fuzzy     798346825  3  2 B   -     -     -          456   10   15 
+Fuzzy     798346840  4  1 Bcc k     k     k          461   20   40 3d 6c
+Fuzzy     798346893  4  4 crc c     f     -          481   50    0 
+Fuzzy     798346960  5  4 c   c     c     c          431   60  135 6c Qd
+Fuzzy     798347053  7  5 c   c     c     c          506   60    0 Js 7d
+Fuzzy     798347110  7  4 cr  b     kc    k          446   60    0 Qh Qs
+Fuzzy     798347215  7  3 c   k     c     c          386   50    0 9s 2h
+Fuzzy     798347270  7  2 Bc  brr   brr   -          336  170  380 Th 6d
+Fuzzy     798347364  6  1 Bcc kc    k     b          546   50  120 8c Jc
+Fuzzy     798347440  7  7 r   b     -     -          616   30   65 
+Fuzzy     798347471  7  6 r   bc    k     k          651   40    0 Jh Jc
+Fuzzy     798347544  7  5 r   c     f     -          611   30    0 
+Fuzzy     798347608  7  5 cc  kf    -     -          581   20    0 
+Fuzzy     798347681  7  4 c   b     b     -          561   40   95 
+Fuzzy     798347741  7  3 c   f     -     -          616   10    0 
+Fuzzy     798347781  7  2 Bc  c     k     k          606   30    0 7s 6c
+Fuzzy     798347840  7  1 Bc  k     b     -          576   30   60 
+Fuzzy     798347894  7  7 c   c     f     -          606   30    0 
+Fuzzy     798348015  9  7 cc  c     k     k          576   30  100 9h 7d
+Fuzzy     798348137  9  6 c   bc    b     br         646  140  205 Ks Qh
+Fuzzy     798348269  9  5 cc  kc    kc    kf         711   50    0 
+Fuzzy     798348389  9  4 c   kc    kc    kf         661   40    0 
+Fuzzy     798348488  9  3 c   k     f     -          621   10    0 
+Fuzzy     798348570  9  2 Bf  -     -     -          611   10    0 
+Fuzzy     798348668  8  1 Br  b     b     b          601   70  150 
+Fuzzy     798348738  7  7 c   c     b     -          681   50  140 
+Fuzzy     798348811  8  6 cc  kf    -     -          771   20    0 
+Fuzzy     798348903  8  5 c   k     k     f          751   10    0 
+Fuzzy     798349005  8  4 c   b     -     -          741   20   45 
+Fuzzy     798349061  8  3 c   kc    kc    k          766   40   95 2s Ah
+Fuzzy     798349119  9  3 ccc f     -     -          821   40    0 
+Fuzzy     798349241 10  3 c   b     kc    kc         781   60    0 Ks 2s
+Fuzzy     798349368 10  2 Bf  -     -     -          721   10    0 
+Fuzzy     798349472 10  1 Bc  kc    k     kc         711   50    0 4s 8c
+Fuzzy     798349581 10 10 c   c     c     c          661   70    0 Jd Qs
+Fuzzy     798349689 11 10 rc  b     r     b          591  100  280 8c 7c
+Fuzzy     798349845 12 10 r   k     k     c          771   60    0 Ts Qs
+Fuzzy     798349958 12  9 c   c     bc    f          711   60    0 
+Fuzzy     798350122 12  8 cc  c     c     c          651  100    0 8c 9s
+Fuzzy     798350313 11  6 cc  r     b     b          551  110    0 2h 9h
+Fuzzy     798350498 12  7 cf  -     -     -          441   10    0 
+Fuzzy     798350658 11  6 cc  cc    kf    -          431   40    0 
+Fuzzy     798350759 10  4 c   k     k     kc         391   30   80 Kc 6s
+Fuzzy     798350829 10  3 c   bc    bc    b          441   90    0 9s Kd
+Fuzzy     798350922 11  2 Bf  Q     -     -          351   10    0 
+Fuzzy     798351161 10 10 c   f     -     -          341   20    0 
+Fuzzy     798351257 10  9 r   k     k     b          321   40    0 5s 5c
+Fuzzy     798351332 10  8 c   k     f     -          281   10    0 
+Fuzzy     798351411 10  7 c   f     -     -          271   10    0 
+Fuzzy     798351472 10  6 c   k     k     b          261   30    0 Qh 3c
+Fuzzy     798351576 10  5 r   b     b     b          231   70    0 Ah 9h
+Fuzzy     798351655 10  4 cc  f     -     -          161   20    0 
+Fuzzy     798351788  9  3 rr  brc   bcA   -          141  141    0 6d 9d

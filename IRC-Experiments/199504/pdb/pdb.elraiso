@@ -1,0 +1,749 @@
+elraiso   797213244 10  8 f   -     -     -         1128    0    0 
+elraiso   797213334 10  7 f   -     -     -         1128    0    0 
+elraiso   797213396 10  6 c   rc    f     -         1128   50    0 
+elraiso   797213518 11  5 f   -     -     -         1078    0    0 
+elraiso   797213631 12  4 f   -     -     -         1078    0    0 
+elraiso   797213725 11  2 Bk  bf    -     -         1078   20    0 
+elraiso   797213792 11  1 Bf  -     -     -         1058    5    0 
+elraiso   797213866 11 11 f   -     -     -         1053    0    0 
+elraiso   797213926 12 11 f   -     -     -         1053    0    0 
+elraiso   797214041 11  9 f   -     -     -         1053    0    0 
+elraiso   797214168 11  7 r   b     k     f         1053   30    0 
+elraiso   797214230 11  6 rc  k     c     k         1023   50    0 9s 9h
+elraiso   797214324 11  5 f   -     -     -          973    0    0 
+elraiso   797214381 10  5 f   -     -     -          973    0    0 
+elraiso   797214426  9  3 f   -     -     -          973    0    0 
+elraiso   797214481 10  2 Bf  -     -     -          973   10    0 
+elraiso   797214527 10  1 Bf  -     -     -          963    5    0 
+elraiso   797214598 10 10 f   -     -     -          958    0    0 
+elraiso   797214664 10  9 r   f     -     -          958   20    0 
+elraiso   797214760  9  7 f   -     -     -          938    0    0 
+elraiso   797214796  8  5 f   -     -     -          938    0    0 
+elraiso   797214868  8  4 f   -     -     -          938    0    0 
+elraiso   797214937  8  3 f   -     -     -          938    0    0 
+elraiso   797215011 11  5 f   -     -     -          938    0    0 
+elraiso   797215082 10  3 f   -     -     -          938    0    0 
+elraiso   797215120 10  2 Bf  -     -     -          938   10    0 
+elraiso   797215178 10  1 Bf  -     -     -          928    5    0 
+elraiso   797215236 11 11 f   -     -     -          923    0    0 
+elraiso   797215285 11 10 f   -     -     -          923    0    0 
+elraiso   797215347 11  9 r   c     r     b          923  100  285 Kh Ah
+elraiso   797215440 12  8 f   -     -     -         1108    0    0 
+elraiso   797215618 11  6 fQ  -     -     -         1108    0    0 
+elraiso   797216151 12 10 r   c     b     b         1108   70  190 Ah Ks
+elraiso   797216234 11  8 f   -     -     -         1228    0    0 
+elraiso   797216326 12  9 f   -     -     -         1228    0    0 
+elraiso   797216383 11  7 f   -     -     -         1228    0    0 
+elraiso   797216439 11  6 f   -     -     -         1228    0    0 
+elraiso   797216476 11  5 fQ  -     -     -         1228    0    0 
+elraiso   797220082 10  2 Bk  kf    -     -         1228   10    0 
+elraiso   797220163 11  1 Br  kc    kc    kf        1218   50    0 
+elraiso   797220316 11 10 f   -     -     -         1168    0    0 
+elraiso   797220387  9  8 f   -     -     -         1168    0    0 
+elraiso   797220493 11  6 f   -     -     -         1168    0    0 
+elraiso   797220576 10  4 f   -     -     -         1168    0    0 
+elraiso   797220745  9  3 f   -     -     -         1168    0    0 
+elraiso   797220841  9  2 Bf  -     -     -         1168   10    0 
+elraiso   797220937 10  1 Bf  -     -     -         1158    5    0 
+elraiso   797221004 10 10 c   f     -     -         1153   10    0 
+elraiso   797221083 10  9 f   -     -     -         1143    0    0 
+elraiso   797221147  9  7 f   -     -     -         1143    0    0 
+elraiso   797221229 10  7 cc  kc    fQ    -         1143   30    0 
+elraiso   797563208  8  2 Bf  -     -     -         1113   10    0 
+elraiso   797563313  9  1 Br  k     -     -         1103   20   40 
+elraiso   797563363  9  9 f   -     -     -         1123    0    0 
+elraiso   797563451 10  9 f   -     -     -         1123    0    0 
+elraiso   797563561  9  6 f   -     -     -         1123    0    0 
+elraiso   797563615 10  6 f   -     -     -         1123    0    0 
+elraiso   797563693 10  5 c   c     c     brc       1123  120  218 Ac 8c
+elraiso   797563829  9  4 c   rc    k     b         1221   70  250 8c Kc
+elraiso   797563930 10  3 f   -     -     -         1401    0    0 
+elraiso   797563999 10  2 Bf  -     -     -         1401   10    0 
+elraiso   797564075 11  1 Bf  -     -     -         1391    5    0 
+elraiso   797564139 12 12 f   -     -     -         1386    0    0 
+elraiso   797564220 12 11 f   -     -     -         1386    0    0 
+elraiso   797564344 10  7 Q   -     -     -         1386    0    0 
+elraiso   797571725 10  6 cc  kf    -     -         1386   20    0 
+elraiso   797571788 11  5 cc  c     c     c         1366   70    0 Th Jd
+elraiso   797571867 11  4 r   k     k     f         1296   20    0 
+elraiso   797571930 10  3 f   -     -     -         1276    0    0 
+elraiso   797571979 10  2 Bf  -     -     -         1276   10    0 
+elraiso   797572023 10  1 Br  k     k     bc        1266   70  190 As Qs
+elraiso   797572104  9  9 f   -     -     -         1386    0    0 
+elraiso   797572176  9  8 r   bc    kc    k         1386   60    0 9d 9h
+elraiso   797572258 10  8 f   -     -     -         1326    0    0 
+elraiso   797572307 10  7 f   -     -     -         1326    0    0 
+elraiso   797572360 10  6 f   -     -     -         1326    0    0 
+elraiso   797572399 10  5 f   -     -     -         1326    0    0 
+elraiso   797572466 10  4 r   k     kc    b         1326   60  135 Th Jh
+elraiso   797572511 10  3 f   -     -     -         1401    0    0 
+elraiso   797572590 10  2 Bc  kf    -     -         1401   20    0 
+elraiso   797572625 12  1 Bcc kcc   kf    -         1381   70    0 
+elraiso   797572755  8  8 f   -     -     -         1311    0    0 
+elraiso   797572861  8  7 c   f     -     -         1311   10    0 
+elraiso   797572957  9  7 c   k     b     -         1301   30   60 
+elraiso   797573046  9  6 f   -     -     -         1331    0    0 
+elraiso   797573076  9  5 f   -     -     -         1331    0    0 
+elraiso   797573186  9  4 c   f     -     -         1331   10    0 
+elraiso   797573322  9  3 r   b     b     f         1321   50    0 
+elraiso   797573403  9  2 Bf  -     -     -         1271   10    0 
+elraiso   797573468 10  1 Bc  b     k     kf        1261   20    0 
+elraiso   797573547  9  9 f   -     -     -         1241    0    0 
+elraiso   797573612 10  9 c   f     -     -         1241   10    0 
+elraiso   797573713 10  8 f   -     -     -         1231    0    0 
+elraiso   797573796 10  7 f   -     -     -         1231    0    0 
+elraiso   797573989 10  6 f   -     -     -         1231    0    0 
+elraiso   797574069 10  5 f   -     -     -         1231    0    0 
+elraiso   797574167 10  4 fQ  -     -     -         1231    0    0 
+elraiso   797643788 10  3 f   -     -     -         1231    0    0 
+elraiso   797643869 10  2 Bk  k     k     k         1231   10    0 5d Jh
+elraiso   797643921 10  1 Bf  -     -     -         1221    5    0 
+elraiso   797643992 10 10 f   -     -     -         1216    0    0 
+elraiso   797644095 11 10 c   br    b     k         1216   70    0 9c Ts
+elraiso   797644223 11  9 f   -     -     -         1146    0    0 
+elraiso   797644295 10  8 r   kf    -     -         1146   20    0 
+elraiso   797644392 10  7 f   -     -     -         1126    0    0 
+elraiso   797644446 10  6 r   b     b     b         1126   70  215 Jh Tc
+elraiso   797644540 10  5 f   -     -     -         1271    0    0 
+elraiso   797644613  9  3 f   -     -     -         1271    0    0 
+elraiso   797644690  9  2 Bk  bf    -     -         1271   20    0 
+elraiso   797644739  9  1 Bf  -     -     -         1251    5    0 
+elraiso   797644821 11 11 f   -     -     -         1246    0    0 
+elraiso   797644881 11 10 f   -     -     -         1246    0    0 
+elraiso   797644940 11  9 cc  c     r     k         1246  100  415 2c Kc
+elraiso   797645035 12  9 f   -     -     -         1561    0    0 
+elraiso   797645111 12  8 c   b     rc    k         1561   80  290 3s 4s
+elraiso   797645214 12  7 f   -     -     -         1771    0    0 
+elraiso   797645326 10  5 r   bc    f     -         1771   50    0 
+elraiso   797645463  8  3 r   c     rc    c         1721  110  230 2s 2c
+elraiso   797645525  9  2 Bk  kf    -     -         1841   10    0 
+elraiso   797645571 10  1 Bc  k     k     k         1831   10   50 8s Ts
+elraiso   797645675 11 10 f   -     -     -         1871    0    0 
+elraiso   797645747 11  9 f   -     -     -         1871    0    0 
+elraiso   797645827 11  8 c   f     -     -         1871   10    0 
+elraiso   797645875 11  7 f   -     -     -         1861    0    0 
+elraiso   797645943 11  6 f   -     -     -         1861    0    0 
+elraiso   797646029 11  5 rr  b     b     b         1861   90  265 Kd Kh
+elraiso   797646168 12  4 f   -     -     -         2036    0    0 
+elraiso   797646267 12  3 f   -     -     -         2036    0    0 
+elraiso   797646360 12  2 Bf  -     -     -         2036   10    0 
+elraiso   797646457 12  1 Bf  -     -     -         2026    5    0 
+elraiso   797646577 12 12 r   f     Q     -         2021   40    0 
+elraiso   797730992  8  4 cc  f     -     -         1981   20    0 
+elraiso   797731096  8  3 f   -     -     -         1961    0    0 
+elraiso   797731148  8  2 Bc  kf    -     -         1961   20    0 
+elraiso   797731212  7  1 Bc  kf    -     -         1941   10    0 
+elraiso   797731282  6  6 f   -     -     -         1931    0    0 
+elraiso   797731350  6  5 c   k     c     k         1931   30   90 Ks 8s
+elraiso   797731445  5  3 rc  c     k     k         1991   40    0 Qc Jd
+elraiso   797731507  7  3 r   k     f     -         1951   20    0 
+elraiso   797731543  7  2 Bk  k     c     k         1931   30    0 7c 2s
+elraiso   797731659  7  1 Bc  kf    -     -         1901   10    0 
+elraiso   797731703  7  7 f   -     -     -         1891    0    0 
+elraiso   797731739  8  7 r   f     -     -         1891   40    0 
+elraiso   797731839  8  6 fQ  -     -     -         1851    0    0 
+elraiso   797737186  5  5 f   -     -     -         1851    0    0 
+elraiso   797737229  5  4 f   -     -     -         1851    0    0 
+elraiso   797737267  4  2 r   k     k     bc        1851   60   60 8d Ac
+elraiso   797737297  4  2 Bk  kf    -     -         1851   10    0 
+elraiso   797737324  4  1 Bf  -     -     -         1841    5    0 
+elraiso   797737362  4  4 r   f     -     -         1836   20    0 
+elraiso   797737409  4  3 c   c     b     b         1816   60  140 6h Kh
+elraiso   797737452  4  2 Bf  -     -     -         1896   10    0 
+elraiso   797737476  5  1 Bf  -     -     -         1886    5    0 
+elraiso   797737519  5  5 f   -     -     -         1881    0    0 
+elraiso   797737561  4  3 f   -     -     -         1881    0    0 
+elraiso   797737611  4  2 Bf  -     -     -         1881   10    0 
+elraiso   797737647  4  1 Bf  -     -     -         1871    5    0 
+elraiso   797737719  4  4 c   f     -     -         1866   10    0 
+elraiso   797737774  5  4 f   -     -     -         1856    0    0 
+elraiso   797737869  5  3 f   -     -     -         1856    0    0 
+elraiso   797737930  5  2 Bc  brc   kc    k         1856   80    0 4d 5h
+elraiso   797737968  4  1 Bf  -     -     -         1776    5    0 
+elraiso   797737985  4  4 c   rc    c     r         1771  110    0 Ah As
+elraiso   797738040  4  3 f   -     -     -         1661    0    0 
+elraiso   797738047  4  2 Br  kc    k     b         1661   50   60 Tc Kd
+elraiso   797738094  5  1 Bf  -     -     -         1671    5    0 
+elraiso   797738146  5  5 f   -     -     -         1666    0    0 
+elraiso   797738159  4  3 r   b     b     -         1666   50   95 
+elraiso   797738204  3  1 Br  kc    kc    k         1711   50  130 Jh As
+elraiso   797738258  4  1 Bf  -     -     -         1791    5    0 
+elraiso   797738279  4  4 cc  c     k     b         1786   50  110 
+elraiso   797738383  4  3 f   -     -     -         1846    0    0 
+elraiso   797738426  4  2 Bk  f     -     -         1846   10    0 
+elraiso   797738447  4  1 Bc  kc    k     b         1836   40   60 
+elraiso   797738477  4  4 f   -     -     -         1856    0    0 
+elraiso   797738512  4  3 r   b     k     f         1856   30    0 
+elraiso   797738547  3  2 Bf  -     -     -         1826   10    0 
+elraiso   797738559  3  1 Bf  -     -     -         1816    5    0 
+elraiso   797738611  4  4 f   -     -     -         1811    0    0 
+elraiso   797738674  5  3 f   -     -     -         1811    0    0 
+elraiso   797738686  5  2 Bf  -     -     -         1811   10    0 
+elraiso   797738736  4  1 Br  -     -     -         1801   20   30 
+elraiso   797738767  5  5 f   -     -     -         1811    0    0 
+elraiso   797738808  5  4 f   -     -     -         1811    0    0 
+elraiso   797738835  7  3 f   -     -     -         1811    0    0 
+elraiso   797738905  7  2 Bc  kf    -     -         1811   20    0 
+elraiso   797738945  7  1 Bf  -     -     -         1791    5    0 
+elraiso   797738967  7  7 c   k     c     k         1786   30   45 6d Ah
+elraiso   797739053  7  6 f   -     -     -         1801    0    0 
+elraiso   797739123  8  6 f   -     -     -         1801    0    0 
+elraiso   797739162  9  7 f   -     -     -         1801    0    0 
+elraiso   797739216  8  5 rc  k     f     -         1801   30    0 
+elraiso   797739257  8  4 f   -     -     -         1771    0    0 
+elraiso   797739315  8  3 f   -     -     -         1771    0    0 
+elraiso   797739373  8  2 BKQ -     -     -         1771   10    0 
+elraiso   797742125 11 11 rc  c     rc    c         1761  150    0 Ac Jh
+elraiso   797742233 11 10 fQ  -     -     -         1611    0    0 
+elraiso   797818511  8  3 f   -     -     -         1611    0    0 
+elraiso   797818560  8  2 Bk  kf    -     -         1611   10    0 
+elraiso   797818620  7  1 Bf  -     -     -         1601    5    0 
+elraiso   797818669  7  7 f   -     -     -         1596    0    0 
+elraiso   797818713  8  7 f   -     -     -         1596    0    0 
+elraiso   797818766  8  6 f   -     -     -         1596    0    0 
+elraiso   797818825  8  5 f   -     -     -         1596    0    0 
+elraiso   797818867  8  4 f   -     -     -         1596    0    0 
+elraiso   797818922  9  3 f   -     -     -         1596    0    0 
+elraiso   797818973  9  2 Bf  -     -     -         1596   10    0 
+elraiso   797819060 10  1 Br  bf    -     -         1586   30    0 
+elraiso   797819103 10 10 f   -     -     -         1556    0    0 
+elraiso   797819143 10  9 f   -     -     -         1556    0    0 
+elraiso   797819253 11  9 c   c     f     -         1556   30    0 
+elraiso   797819329 11  8 f   -     -     -         1526    0    0 
+elraiso   797819397 11  7 f   -     -     -         1526    0    0 
+elraiso   797819488 12  7 f   -     -     -         1526    0    0 
+elraiso   797819562 11  6 f   -     -     -         1526    0    0 
+elraiso   797819599 11  5 c   kc    kf    -         1526   20    0 
+elraiso   797819738 12  4 f   -     -     -         1506    0    0 
+elraiso   797819837 11  2 f   -     -     -         1506    0    0 
+elraiso   797819876 11  2 Bk  kf    -     -         1506   10    0 
+elraiso   797820001 12  1 Bc  kQ    -     -         1496   10    0 
+elraiso   797898584  7  6 f   -     Q     -         1486    0    0 
+elraiso   797973990  7  4 f   -     -     -         1486    0    0 
+elraiso   797974022  7  3 f   -     -     -         1486    0    0 
+elraiso   797974043  7  2 Bk  k     f     -         1486   10    0 
+elraiso   797974110  7  1 Bf  -     -     -         1476    5    0 
+elraiso   797974134  7  7 r   c     c     f         1471   50    0 
+elraiso   797974161  7  6 f   -     -     -         1421    0    0 
+elraiso   797974171  7  5 f   -     -     -         1421    0    0 
+elraiso   797974216  6  4 f   -     -     -         1421    0    0 
+elraiso   797974233  6  3 f   -     -     -         1421    0    0 
+elraiso   797974247  6  2 Bc  b     b     bf        1421   70    0 
+elraiso   797974288  6  1 Bf  -     -     -         1351    5    0 
+elraiso   797974305  6  6 f   -     -     -         1346    0    0 
+elraiso   797974331  6  5 f   -     -     -         1346    0    0 
+elraiso   797974365  6  4 c   k     b     -         1346   30   50 
+elraiso   797974412  8  3 r   r     k     r         1366   80    0 7h 6h
+elraiso   797974484  8  2 Bf  -     -     -         1286   10    0 
+elraiso   797974540  8  1 Bc  bc    kc    kc        1276   70    0 7h 7d
+elraiso   797974588  8  8 r   c     c     b         1206   80  175 5s 8s
+elraiso   797974643  8  7 f   -     -     -         1301    0    0 
+elraiso   797974669  8  6 f   -     -     -         1301    0    0 
+elraiso   797974703  8  5 fQ  -     -     -         1301    0    0 
+elraiso   797992082  7  5 f   -     -     -         1301    0    0 
+elraiso   797992120  7  4 f   -     -     -         1301    0    0 
+elraiso   797992163  7  3 f   -     -     -         1301    0    0 
+elraiso   797992212  7  2 Bf  -     -     -         1301   10    0 
+elraiso   797992305  6  1 Bc  kc    f     -         1291   30    0 
+elraiso   797992375  6  6 f   -     -     -         1261    0    0 
+elraiso   797992419  6  5 f   -     -     -         1261    0    0 
+elraiso   797992461  7  4 r   rc    f     -         1261   60    0 
+elraiso   797992577  8  3 f   -     -     -         1201    0    0 
+elraiso   797992644  7  2 Bc  kc    br    b         1201  110  340 Jc As
+elraiso   797992760  8  1 Bf  -     -     -         1431    5    0 
+elraiso   797992818  8  8 c   k     b     r         1426   90  275 Td Qs
+elraiso   797992914  8  7 f   -     -     -         1611    0    0 
+elraiso   797992963  8  6 r   b     -     -         1611   30   65 
+elraiso   797993051  7  5 f   Q     -     -         1646    0    0 
+elraiso   797993200  7  3 f   -     -     -         1646    0    0 
+elraiso   797993308  7  2 Bf  -     -     -         1646   10    0 
+elraiso   797993396  7  1 Bf  -     -     -         1636    5    0 
+elraiso   797993490  7  7 f   -     -     -         1631    0    0 
+elraiso   797993574  7  6 f   -     -     -         1631    0    0 
+elraiso   797993643  7  5 f   -     -     -         1631    0    0 
+elraiso   797993693  7  4 r   k     k     k         1631   20   65 Qh Kd
+elraiso   797993753  7  3 f   -     -     -         1676    0    0 
+elraiso   797993811  7  2 Bf  -     -     -         1676   10    0 
+elraiso   797993882  7  1 Bc  k     bc    kc        1666   70    0 9h Ah
+elraiso   797993986  7  7 f   -     -     -         1596    0    0 
+elraiso   797994081  7  6 f   -     -     -         1596    0    0 
+elraiso   797994134  7  5 f   -     -     -         1596    0    0 
+elraiso   797994201  7  4 f   -     -     -         1596    0    0 
+elraiso   797994280  9  3 c   c     c     b         1596   60  190 3d Ad
+elraiso   797994377  8  2 Bk  k     k     k         1726   10    0 Th 6d
+elraiso   797994464  8  1 Bf  -     -     -         1716    5    0 
+elraiso   797994527  8  8 f   -     -     -         1711    0    0 
+elraiso   797994592  8  7 f   -     -     -         1711    0    0 
+elraiso   797994666  9  7 f   -     -     -         1711    0    0 
+elraiso   797994785  9  6 f   -     -     -         1711    0    0 
+elraiso   797994891  6  3 f   -     -     -         1711    0    0 
+elraiso   797994975  6  2 Bf  -     -     -         1711   10    0 
+elraiso   797995077  6  1 Bf  -     -     -         1701    5    0 
+elraiso   797995170  8  8 f   -     -     -         1696    0    0 
+elraiso   797995288  8  7 f   -     -     -         1696    0    0 
+elraiso   797995345  6  4 f   -     -     -         1696    0    0 
+elraiso   797995396  6  3 f   -     -     -         1696    0    0 
+elraiso   797995473  6  2 Bf  -     -     -         1696   10    0 
+elraiso   797995523  6  1 Bf  -     -     -         1686    5    0 
+elraiso   797995587  8  8 f   -     -     -         1681    0    0 
+elraiso   797995705  9  8 f   -     -     -         1681    0    0 
+elraiso   797995781  8  6 f   -     -     -         1681    0    0 
+elraiso   797995891  9  6 c   f     -     -         1681   20    0 
+elraiso   797995987  9  5 f   -     -     -         1661    0    0 
+elraiso   797996056  9  3 f   -     -     -         1661    0    0 
+elraiso   797996115 10  2 Bf  -     -     -         1661   10    0 
+elraiso   797996195 10  1 Bf  -     -     -         1651    5    0 
+elraiso   797996300 11 11 f   -     -     -         1646    0    0 
+elraiso   797996379 11 10 f   -     Q     -         1646    0    0 
+elraiso   797997065 10  5 f   -     -     -         1646    0    0 
+elraiso   797997147 10  4 f   -     -     -         1646    0    0 
+elraiso   797997272  8  2 Bc  f     -     -         1646   20    0 
+elraiso   797997365  8  1 Bf  -     -     -         1626    5    0 
+elraiso   797997441 10  9 f   -     -     -         1621    0    0 
+elraiso   797997541 10  8 f   -     -     -         1621    0    0 
+elraiso   797997679 10  7 f   -     -     -         1621    0    0 
+elraiso   797997733  8  5 rc  cc    cc    f         1621  120    0 
+elraiso   797997836  9  4 f   -     -     -         1501    0    0 
+elraiso   797998003  8  2 Bf  -     -     -         1501   10    0 
+elraiso   797998106  8  1 Bf  -     -     -         1491    5    0 
+elraiso   797998242  9  9 f   -     -     -         1486    0    0 
+elraiso   797998337  8  7 f   -     -     -         1486    0    0 
+elraiso   797998448  9  5 f   -     -     -         1486    0    0 
+elraiso   797998531 10  3 f   -     -     -         1486    0    0 
+elraiso   797998577 10  2 Bk  c     c     bc        1486  120    0 7s Th
+elraiso   797998663 11  1 Bf  -     -     -         1366    5    0 
+elraiso   797998822 10 10 c   r     rr    rc        1361  170    0 Jd Ah
+elraiso   797998948 10  9 r   f     -     -         1191   20    0 
+elraiso   797999027 11  9 c   f     -     -         1171   10    0 
+elraiso   797999171 11  9 c   kf    -     -         1161   20    0 
+elraiso   797999261 10  7 Q   -     -     -         1141    0    0 
+elraiso   798010125  7  3 f   -     -     -         1141    0    0 
+elraiso   798010177  7  2 Bk  b     -     -         1141   20   35 
+elraiso   798010228  7  1 Br  b     bc    kc        1156  100    0 Ac 9s
+elraiso   798010301  7  7 rc  c     f     -         1056   40    0 
+elraiso   798010361  7  6 r   c     cc    f         1016   80    0 
+elraiso   798010559  8  5 f   -     -     -          936    0    0 
+elraiso   798010663  8  4 f   -     -     -          936    0    0 
+elraiso   798010791  8  3 f   -     -     -          936    0    0 
+elraiso   798010888  8  2 Bk  k     k     r          936   50    0 9c 8d
+elraiso   798011053  8  1 Bf  -     -     -          886    5    0 
+elraiso   798011174  7  7 f   -     -     -          881    0    0 
+elraiso   798011202  6  5 f   -     -     -          881    0    0 
+elraiso   798011312  7  5 f   -     -     -          881    0    0 
+elraiso   798011422  8  4 f   -     -     -          881    0    0 
+elraiso   798011486  8  3 rrrrrr b     b     b          881  170  355 As Ad
+elraiso   798011582  9  2 Bc  kc    kQ    -         1066   30    0 
+elraiso   798055644  3  2 Bk  b     -     -         1036   20   30 
+elraiso   798055656  3  1 Br  b     -     -         1046   40   80 
+elraiso   798055667  3  3 r   k     k     b         1086   40   45 Qs Ts
+elraiso   798055688  3  2 B   -     -     -         1091   10   15 
+elraiso   798055693  3  1 Bf  -     -     -         1096    5    0 
+elraiso   798055708  3  3 rc  f     -     -         1091   30    0 
+elraiso   798055724  3  2 Bf  -     -     -         1061   10    0 
+elraiso   798055729  3  1 Br  b     k     b         1051   50   80 
+elraiso   798055744  3  3 r   f     -     -         1081   20    0 
+elraiso   798055765  3  2 Bk  k     kc    k         1061   30    0 Ts Ah
+elraiso   798055794  3  1 Br  b     -     -         1031   30   50 
+elraiso   798055805  3  3 r   k     k     k         1051   20   50 9s Td
+elraiso   798055822  3  2 Br  b     b     -         1081   50   85 
+elraiso   798055854  3  1 Br  b     b     b         1116   70  120 
+elraiso   798055869  3  3 f   -     -     -         1166    0    0 
+elraiso   798055873  3  2 B   -     -     -         1166   10   15 
+elraiso   798055881  4  1 Br  b     kc    kf        1171   50    0 
+elraiso   798055914  4  4 c   k     f     -         1121   10    0 
+elraiso   798055957  5  3 f   -     -     -         1111    0    0 
+elraiso   798055984  5  2 Bc  c     c     rc        1111  110    0 Th Qs
+elraiso   798056033  5  1 Bc  kf    -     -         1001   10    0 
+elraiso   798056073  5  5 f   -     -     -          991    0    0 
+elraiso   798056114  5  4 r   c     b     -          991   50   95 
+elraiso   798056138  5  3 f   -     -     -         1036    0    0 
+elraiso   798056150  5  2 Bk  k     b     -         1036   30   45 
+elraiso   798056191  5  1 Bf  -     Q     -         1051    5    0 
+elraiso   798064353  7  3 f   -     -     -         1046    0    0 
+elraiso   798064435  6  2 Bf  -     -     -         1046   10    0 
+elraiso   798064495  6  1 Br  b     -     -         1036   30   60 
+elraiso   798064531  6  6 r   b     -     -         1066   30   65 
+elraiso   798064551  6  5 f   -     -     -         1101    0    0 
+elraiso   798064562  6  4 r   -     -     -         1101   20   35 
+elraiso   798064578  6  3 f   -     -     -         1116    0    0 
+elraiso   798064611  6  2 Bc  rf    -     -         1116   40    0 
+elraiso   798064642  6  1 Br  kc    kf    -         1076   40    0 
+elraiso   798064744  5  5 f   -     -     -         1036    0    0 
+elraiso   798064791  5  4 f   -     -     -         1036    0    0 
+elraiso   798064886  6  3 f   -     -     -         1036    0    0 
+elraiso   798064899  6  2 Bk  kc    k     f         1036   20    0 
+elraiso   798064982  8  1 Bf  -     -     -         1016    5    0 
+elraiso   798065019  8  8 f   -     -     -         1011    0    0 
+elraiso   798065072  8  7 f   -     -     -         1011    0    0 
+elraiso   798065128  8  6 f   -     -     -         1011    0    0 
+elraiso   798065159  8  5 f   -     -     -         1011    0    0 
+elraiso   798065228  8  4 f   -     -     -         1011    0    0 
+elraiso   798065283  8  3 rcc c     k     c         1011   70    0 Ac 7c
+elraiso   798065341  8  2 Brc kc    kc    k          941   70    0 5d Ad
+elraiso   798065411  8  1 Bf  -     -     -          871    5    0 
+elraiso   798065470  8  8 f   -     -     -          866    0    0 
+elraiso   798065560  8  7 f   -     -     -          866    0    0 
+elraiso   798065688  8  6 cc  kc    f     -          866   30    0 
+elraiso   798065809  8  5 ccc f     -     -          836   30    0 
+elraiso   798065906  9  4 rc  kQ    -     -          806   40    0 
+elraiso   798070124  9  8 f   -     -     -          766    0    0 
+elraiso   798070303  7  5 r   b     k     b          766   50  145 
+elraiso   798070380  7  4 f   -     -     -          861    0    0 
+elraiso   798070462  7  3 r   k     k     f          861   20    0 
+elraiso   798070502  7  2 Bk  kf    -     -          841   10    0 
+elraiso   798070557  7  1 Bf  -     -     -          831    5    0 
+elraiso   798070647  7  7 f   -     -     -          826    0    0 
+elraiso   798070665  7  6 r   k     k     b          826   40  110 As Ts
+elraiso   798070741  7  5 f   -     -     -          896    0    0 
+elraiso   798070777  8  5 f   -     -     -          896    0    0 
+elraiso   798070859  9  5 f   -     -     -          896    0    0 
+elraiso   798070924  8  4 f   -     -     -          896    0    0 
+elraiso   798071002  9  3 c   f     -     -          896   10    0 
+elraiso   798071041  9  2 Bc  kf    -     -          886   20    0 
+elraiso   798071129 11  1 Bf  -     -     -          866    5    0 
+elraiso   798071209 11 11 rc  r     k     f          861   60    0 
+elraiso   798071323 11  9 c   c     k     c          801   40    0 As 6s
+elraiso   798071405 10  7 f   -     -     -          761    0    0 
+elraiso   798071493 10  6 r   c     r     b          761  100  195 
+elraiso   798071546 10  5 f   -     -     -          856    0    0 
+elraiso   798071624 10  4 f   -     -     -          856    0    0 
+elraiso   798071686 10  3 f   -     -     -          856    0    0 
+elraiso   798071725 10  2 Br  k     b     b          856   70  195 Jc Ks
+elraiso   798071793 10  1 Bf  -     -     -          981    5    0 
+elraiso   798071936 11 11 f   -     -     -          976    0    0 
+elraiso   798072005 11 10 f   -     -     -          976    0    0 
+elraiso   798072176 10  8 KQ  -     -     -          976    0    0 
+elraiso   798072371  8  7 fKQ -     -     -          976    0    0 
+elraiso   798072495  8  5 c   k     f     -          976   10    0 
+elraiso   798072550  8  4 f   -     -     -          966    0    0 
+elraiso   798072589  8  3 cf  -     -     -          966   10    0 
+elraiso   798072670  7  2 Bk  kf    -     -          956   10    0 
+elraiso   798072729  8  1 Bf  Q     -     -          946    5    0 
+elraiso   798078748  7  4 f   -     -     -          941    0    0 
+elraiso   798078799  8  3 cc  kf    -     Q          941   20    0 
+elraiso   798158680 12  8 f   -     -     -          921    0    0 
+elraiso   798158814 12  7 f   -     -     -          921    0    0 
+elraiso   798158952 11  5 f   -     -     -          921    0    0 
+elraiso   798159022 11  4 f   -     -     -          921    0    0 
+elraiso   798159159 12  4 c   b     k     b          921   40  170 8d 8c
+elraiso   798159324 12  2 Bk  kf    -     -         1051   10    0 
+elraiso   798159420 12  1 BQ  -     -     -         1041    5    0 
+elraiso   798162837  6  4 f   -     -     -         1036    0    0 
+elraiso   798162892  6  3 r   b     k     kc        1036   50  145 Ts Jd
+elraiso   798162954  8  2 Bk  b     b     b         1131   60  125 
+elraiso   798163018  9  1 Br  b     b     -         1196   50  110 
+elraiso   798163094  9  9 f   -     -     -         1256    0    0 
+elraiso   798163220  7  6 f   -     -     -         1256    0    0 
+elraiso   798163273  5  4 f   -     -     -         1256    0    0 
+elraiso   798163302  6  5 f   -     -     -         1256    0    0 
+elraiso   798163350  7  4 cc  kr    f     -         1256   40    0 
+elraiso   798163490  8  2 f   -     -     -         1216    0    0 
+elraiso   798163570  9  2 Bf  -     -     -         1216   10    0 
+elraiso   798163630  9  1 Bf  -     -     -         1206    5    0 
+elraiso   798163702 10 10 f   -     -     -         1201    0    0 
+elraiso   798163754  9  8 cc  f     -     -         1201   20    0 
+elraiso   798163864 10  8 f   -     -     -         1181    0    0 
+elraiso   798163951 10  7 r   k     r     b         1181   80  285 Qd Ac
+elraiso   798164056 11  7 r   c     f     -         1386   30    0 
+elraiso   798164163 10  7 r   f     -     -         1356   20    0 
+elraiso   798164258  6  2 f   -     -     -         1336    0    0 
+elraiso   798164292  7  2 Bk  k     k     r         1336   50    0 3h 9d
+elraiso   798164358  5  1 Bc  k     k     b         1286   30    0 Ad 8s
+elraiso   798164407  5  5 r   k     k     b         1256   50  115 
+elraiso   798164500  5  4 f   -     -     -         1321    0    0 
+elraiso   798164526  5  3 f   -     -     -         1321    0    0 
+elraiso   798164601  5  2 Bk  k     f     -         1321   10    0 
+elraiso   798164657  5  1 Bf  -     -     -         1311    5    0 
+elraiso   798164697  5  5 f   -     -     -         1306    0    0 
+elraiso   798164732  5  4 f   -     -     -         1306    0    0 
+elraiso   798164792  5  3 rr  k     c     k         1306   60    0 Ks Ah
+elraiso   798164853  5  2 Bk  k     c     f         1246   30    0 
+elraiso   798164941  6  1 Bf  -     -     -         1216    5    0 
+elraiso   798165009  6  6 f   -     -     -         1211    0    0 
+elraiso   798165073  7  5 c   k     f     -         1211   10    0 
+elraiso   798165118  7  4 f   -     -     -         1201    0    0 
+elraiso   798165166  7  3 f   -     -     -         1201    0    0 
+elraiso   798165212  7  2 Bk  r     c     c         1201   70    0 Tc As
+elraiso   798165271  6  1 Bc  KQ    -     -         1131   10    0 
+elraiso   798165438  7  6 c   kf    -     -         1121   10    0 
+elraiso   798165534  8  5 f   -     -     -         1111    0    0 
+elraiso   798165643  8  5 cc  kc    k     kQ        1111   30    0 
+elraiso   798335000  5  2 Bk  b     -     -         1081   20   30 
+elraiso   798335039  5  1 Br  br    -     -         1091   50  110 
+elraiso   798335093  5  5 f   -     -     -         1151    0    0 
+elraiso   798335179  7  5 f   -     -     -         1151    0    0 
+elraiso   798335240  7  4 f   -     -     -         1151    0    0 
+elraiso   798335313  7  3 f   -     -     -         1151    0    0 
+elraiso   798335409  8  2 Bf  -     -     -         1151   10    0 
+elraiso   798335452  8  1 Bf  -     -     -         1141    5    0 
+elraiso   798335538  9  9 f   -     -     -         1136    0    0 
+elraiso   798335708  7  6 c   c     f     -         1136   20    0 
+elraiso   798335760  8  4 Q   -     -     -         1116    0    0 
+elraiso   798338039 10  5 c   f     -     -         1116   10    0 
+elraiso   798338115 10  4 f   -     -     -         1106    0    0 
+elraiso   798338233 10  3 c   kc    k     k         1106   20   90 As Jd
+elraiso   798338344  9  2 Bk  k     k     k         1176   10   20 2d 4d
+elraiso   798338407  9  1 Bf  -     -     -         1186    5    0 
+elraiso   798338450  8  8 f   -     -     -         1181    0    0 
+elraiso   798338575  8  6 f   -     -     -         1181    0    0 
+elraiso   798338592  8  6 f   -     -     -         1181    0    0 
+elraiso   798338651  8  5 f   -     -     -         1181    0    0 
+elraiso   798338741  8  4 f   -     -     -         1181    0    0 
+elraiso   798338787  8  3 f   -     -     -         1181    0    0 
+elraiso   798338837  8  2 Bf  -     -     -         1181   10    0 
+elraiso   798338944  8  1 Bc  k     b     -         1171   30   40 
+elraiso   798338991  7  7 f   -     -     -         1181    0    0 
+elraiso   798339054  7  6 f   -     -     -         1181    0    0 
+elraiso   798339091  7  5 f   -     -     -         1181    0    0 
+elraiso   798339160  7  4 c   f     -     -         1181   10    0 
+elraiso   798339228  7  3 f   -     -     -         1171    0    0 
+elraiso   798339324  7  2 Bc  kc    kc    f         1171   50    0 
+elraiso   798339458  7  1 Bc  b     kf    -         1121   20    0 
+elraiso   798339543  8  8 f   -     -     -         1101    0    0 
+elraiso   798339631  8  7 f   -     -     -         1101    0    0 
+elraiso   798339667  8  7 c   b     br    b         1101  100    0 3d 2d
+elraiso   798339788  8  5 f   -     -     -         1001    0    0 
+elraiso   798339857  8  4 f   -     -     -         1001    0    0 
+elraiso   798339937  8  3 f   -     -     -         1001    0    0 
+elraiso   798340006  8  2 Bc  kc    b     b         1001   70  220 5c 8c
+elraiso   798340116  9  1 Bf  -     -     Q         1151    5    0 
+elraiso   798435223  5  4 f   -     -     -         1146    0    0 
+elraiso   798435271  5  3 f   -     -     -         1146    0    0 
+elraiso   798435323  5  2 Bk  k     f     -         1146   10    0 
+elraiso   798435365  5  1 Br  b     b     b         1136   70  160 
+elraiso   798435440  6  6 f   -     -     -         1226    0    0 
+elraiso   798435518  6  5 f   -     -     -         1226    0    0 
+elraiso   798435566  6  4 f   -     -     -         1226    0    0 
+elraiso   798435643  6  3 f   -     -     -         1226    0    0 
+elraiso   798435658  6  2 Bk  r     bc    f         1226   70    0 
+elraiso   798435759  8  1 Bf  -     -     -         1156    5    0 
+elraiso   798435851  7  7 rc  k     rc    b         1151  110  325 Qd As
+elraiso   798435942  8  7 f   -     -     -         1366    0    0 
+elraiso   798435991  7  5 r   b     -     -         1366   30   85 
+elraiso   798436057  8  4 rc  k     kc    f         1421   50    0 
+elraiso   798436156  8  3 f   -     -     -         1371    0    0 
+elraiso   798436215  8  2 Bf  -     -     -         1371   10    0 
+elraiso   798436309  7  1 Bc  kc    kr    bc        1361  110  300 9s Ks
+elraiso   798436400  4  4 c   b     b     -         1551   40   80 
+elraiso   798436444  6  5 r   c     r     b         1591   90    0 Kd Jd
+elraiso   798436520  6  4 f   -     -     -         1501    0    0 
+elraiso   798436601  6  3 f   -     -     -         1501    0    0 
+elraiso   798436634  7  2 Bk  f     -     -         1501   10    0 
+elraiso   798436706  6  1 Bc  k     b     k         1491   30   70 Js 4s
+elraiso   798436789  4  4 r   k     k     k         1531   20   55 Ts Js
+elraiso   798436843  4  3 r   b     -     -         1566   30   60 
+elraiso   798436881  4  2 Bk  k     kQ    -         1596   10    0 
+elraiso   798436999  4  2 Br  b     b     b         1586   80  220 Js Ah
+elraiso   798437053  4  1 Br  k     k     b         1726   40   60 
+elraiso   798437106  4  4 rc  rc    f     -         1746   70    0 
+elraiso   798437184  4  3 r   k     b     -         1676   40   80 
+elraiso   798437241  5  2 Bk  k     k     kf        1716   10    0 
+elraiso   798437330  5  1 Bc  b     k     b         1706   50  120 
+elraiso   798437439  5  5 f   -     -     -         1776    0    0 
+elraiso   798437484  5  4 r   k     c     f         1776   40    0 
+elraiso   798437551  5  3 f   Q     -     -         1736    0    0 
+elraiso   798437641  6  6 c   f     -     -         1736   10    0 
+elraiso   798437688  6  5 f   -     -     -         1726    0    0 
+elraiso   798437761  6  4 r   b     bf    -         1726   50    0 
+elraiso   798437832  6  3 f   -     -     -         1676    0    0 
+elraiso   798437902  7  3 f   -     -     -         1676    0    0 
+elraiso   798437960  7  2 Bf  -     -     -         1676   10    0 
+elraiso   798438009  7  1 Bf  -     -     -         1666    5    0 
+elraiso   798438090  7  7 f   -     -     -         1661    0    0 
+elraiso   798438194  7  6 r   b     b     k         1661   50   85 2c Kc
+elraiso   798438365  5  3 f   -     -     -         1696    0    0 
+elraiso   798438426  6  2 Bk  kc    kc    kf        1696   40    0 
+elraiso   798438500  6  1 Bf  -     -     -         1656    5    0 
+elraiso   798438577  6  6 Q   -     -     -         1651    0    0 
+elraiso   798438725  6  4 f   -     -     -         1651    0    0 
+elraiso   798438791  5  3 f   -     -     -         1651    0    0 
+elraiso   798438844  6  2 Bk  bf    -     -         1651   20    0 
+elraiso   798438908  6  1 Bc  f     -     -         1631   10    0 
+elraiso   798438966  6  6 f   -     -     -         1621    0    0 
+elraiso   798439079  6  5 r   k     c     f         1621   40    0 
+elraiso   798439133  6  4 f   -     -     -         1581    0    0 
+elraiso   798439209  6  3 f   -     -     -         1581    0    0 
+elraiso   798439279  6  2 Bk  kr    b     b         1581   70  145 4d Tc
+elraiso   798439328  6  1 Brc kc    kf    -         1656   40    0 
+elraiso   798439440  7  7 f   -     -     -         1616    0    0 
+elraiso   798439533  6  5 f   -     -     -         1616    0    0 
+elraiso   798439620  6  4 f   -     -     -         1616    0    0 
+elraiso   798439690  7  3 fQ  -     -     -         1616    0    0 
+elraiso   798439909  6  6 f   -     -     -         1616    0    0 
+elraiso   798439991  6  5 f   -     -     -         1616    0    0 
+elraiso   798440106  6  4 r   b     kr    kf        1616   70    0 
+elraiso   798440196  6  3 f   -     -     -         1546    0    0 
+elraiso   798440248  6  2 Bk  k     kf    -         1546   10    0 
+elraiso   798440328  7  1 Bc  kf    -     -         1536   10    0 
+elraiso   798440380  7  7 f   -     -     -         1526    0    0 
+elraiso   798440462  7  7 f   -     -     -         1526    0    0 
+elraiso   798440519  7  6 f   -     -     -         1526    0    0 
+elraiso   798440619  7  5 f   -     -     -         1526    0    0 
+elraiso   798440697  7  4 f   -     -     -         1526    0    0 
+elraiso   798440763  7  3 f   -     -     -         1526    0    0 
+elraiso   798440801  6  2 Br  br    b     k         1526   80    0 Ac Kc
+elraiso   798440847  6  1 Br  kc    kc    b         1446   90  350 Kh Ks
+elraiso   798440915  8  7 f   Q     -     -         1706    0    0 
+elraiso   798441124  8  6 f   -     -     -         1706    0    0 
+elraiso   798441228  7  4 cc  b     b     -         1706   50  120 
+elraiso   798441286  6  2 Bk  k     k     kf        1776   10    0 
+elraiso   798441396  7  1 Br  br    kc    kc        1766  100    0 Ks Js
+elraiso   798441493  7  7 f   -     -     -         1666    0    0 
+elraiso   798441520  7  6 f   -     -     -         1666    0    0 
+elraiso   798441567  7  5 f   -     -     -         1666    0    0 
+elraiso   798441613  7  4 f   -     -     -         1666    0    0 
+elraiso   798441665  7  3 f   -     -     -         1666    0    0 
+elraiso   798441716  7  2 Bk  kf    Q     -         1666   10    0 
+elraiso   798502363  9  2 Bk  bf    -     -         1656   20    0 
+elraiso   798502507  8  1 Bf  -     -     -         1636    5    0 
+elraiso   798502569  8  8 f   -     -     -         1631    0    0 
+elraiso   798502618  8  7 f   -     -     -         1631    0    0 
+elraiso   798502681  8  6 f   -     -     -         1631    0    0 
+elraiso   798502744  9  5 f   -     -     -         1631    0    0 
+elraiso   798502792  8  4 f   -     -     -         1631    0    0 
+elraiso   798502850  9  3 rc  kc    bc    kf        1631   80    0 
+elraiso   798502905  9  2 Bc  kc    b     krc       1551  130    0 Qc Ts
+elraiso   798502998 10  1 Bc  bc    b     bc        1421   90  210 Td Ac
+elraiso   798503089 10 10 f   -     -     -         1541    0    0 
+elraiso   798503188  9  8 f   -     -     -         1541    0    0 
+elraiso   798503254  8  7 f   -     -     -         1541    0    0 
+elraiso   798503302  8  6 f   -     -     -         1541    0    0 
+elraiso   798503365  7  4 f   -     -     -         1541    0    0 
+elraiso   798503418  7  3 f   -     -     -         1541    0    0 
+elraiso   798503455  7  2 Bk  bc    k     br        1541   90  220 Ac Ah
+elraiso   798503555  7  1 Br  k     k     b         1671   40   80 
+elraiso   798503679  6  6 f   -     -     -         1711    0    0 
+elraiso   798503733  6  5 rc  k     kr    kc        1711   90    0 9d 9h
+elraiso   798503773  7  4 cc  kc    kc    k         1621   50  165 6c 6d
+elraiso   798503838  7  3 f   -     -     -         1736    0    0 
+elraiso   798503873  7  2 Bf  -     -     -         1736   10    0 
+elraiso   798503914  7  1 Br  b     b     b         1726   70  120 
+elraiso   798503956  8  8 f   -     -     -         1776    0    0 
+elraiso   798504076  9  7 f   -     -     -         1776    0    0 
+elraiso   798504176 10  6 f   -     -     -         1776    0    0 
+elraiso   798504265 10  5 f   -     -     -         1776    0    0 
+elraiso   798504403 10  4 f   -     -     -         1776    0    0 
+elraiso   798504548 10  4 KQ  -     -     -         1776    0    0 
+elraiso   798582785  3  2 Bk  k     f     -         1776   10    0 
+elraiso   798582854  3  1 Bc  k     k     b         1766   30    0 Td 4d
+elraiso   798582886  3  3 f   -     -     -         1736    0    0 
+elraiso   798582910  3  2 Bc  kc    kc    kf        1736   50    0 
+elraiso   798582961  3  1 Br  -     -     -         1686   20   30 
+elraiso   798582972  3  3 f   -     -     -         1696    0    0 
+elraiso   798582989  3  2 Bk  kf    -     -         1696   10    0 
+elraiso   798583006  3  1 Bc  k     k     k         1686   10   20 7d 5d
+elraiso   798583036  3  3 f   -     -     -         1696    0    0 
+elraiso   798583059  3  2 Bf  -     -     -         1696   10    0 
+elraiso   798583074  3  1 Br  -     -     -         1686   20   30 
+elraiso   798583087  3  3 f   -     -     -         1696    0    0 
+elraiso   798583109  3  2 Bk  f     -     -         1696   10    0 
+elraiso   798583144  3  1 Br  bc    kc    kf        1686   70    0 
+elraiso   798583190  3  3 rc  k     f     -         1616   30    0 
+elraiso   798583231  3  2 Bk  kr    b     b         1586   70    0 7s Ac
+elraiso   798583266  5  1 Bc  kc    k     b         1516   40  100 7h 6s
+elraiso   798583340  5  5 f   -     -     -         1576    0    0 
+elraiso   798583391  4  3 f   -     -     -         1576    0    0 
+elraiso   798583420  4  2 Bf  -     -     -         1576   10    0 
+elraiso   798583480  4  1 Br  b     k     k         1566   30    0 Th 5d
+elraiso   798583534  4  4 f   -     -     -         1536    0    0 
+elraiso   798583573  4  3 f   -     -     -         1536    0    0 
+elraiso   798583618  4  2 Bc  kf    -     -         1536   20    0 
+elraiso   798583652  4  1 Br  bf    -     -         1516   40    0 
+elraiso   798583682  4  4 cc  f     -     -         1476   20    0 
+elraiso   798583716  4  3 c   k     b     -         1456   30   50 
+elraiso   798583756  4  2 Bk  f     -     -         1476   10    0 
+elraiso   798583832  4  1 Bcc k     b     k         1466   40    0 6s 6d
+elraiso   798583929  4  4 f   -     -     -         1426    0    0 
+elraiso   798583945  4  3 f   -     -     -         1426    0    0 
+elraiso   798583991  4  2 Bk  kf    -     -         1426   10    0 
+elraiso   798584013  3  1 Br  k     k     b         1416   40   70 
+elraiso   798584052  3  3 c   f     -     -         1446   10    0 
+elraiso   798584173  3  2 Bf  -     -     -         1436   10    0 
+elraiso   798584222  3  1 Bf  -     -     -         1426    5    0 
+elraiso   798584248  3  3 Q   -     -     -         1421    0    0 
+elraiso   798594498 11  7 f   -     -     -         1421    0    0 
+elraiso   798594534 10  5 c   b     k     k         1421   20    0 Ts 9s
+elraiso   798594615 10  4 c   r     -     -         1401   30   80 
+elraiso   798594714 10  3 f   -     -     -         1451    0    0 
+elraiso   798594768 11  2 Bk  k     kr    k         1451   50    0 4s 8c
+elraiso   798594855 11  1 BfQ -     -     -         1401    5    0 
+elraiso   798595049 12 11 f   -     -     -         1396    0    0 
+elraiso   798595151 10  8 f   Q     -     -         1396    0    0 
+elraiso   798690044 10  4 f   -     -     -         1396    0    0 
+elraiso   798690197 10  3 f   -     -     -         1396    0    0 
+elraiso   798690347  9  2 Bk  f     -     -         1396   10    0 
+elraiso   798690457  8  1 Brc k     kc    f         1386   60    0 
+elraiso   798690579  7  7 f   -     -     -         1326    0    0 
+elraiso   798690654  7  6 f   -     -     -         1326    0    0 
+elraiso   798690733  7  5 f   -     -     -         1326    0    0 
+elraiso   798690783  8  4 f   -     -     -         1326    0    0 
+elraiso   798690896  8  3 f   -     -     -         1326    0    0 
+elraiso   798690976  8  2 Bf  -     -     -         1326   10    0 
+elraiso   798691070  8  1 Bf  -     -     -         1316    5    0 
+elraiso   798691151  8  8 f   -     -     -         1311    0    0 
+elraiso   798691236  7  6 f   -     -     Q         1311    0    0 
+elraiso   798769614 10 10 f   -     -     -         1311    0    0 
+elraiso   798769761 10  8 f   -     -     -         1311    0    0 
+elraiso   798769847  8  5 f   -     -     -         1311    0    0 
+elraiso   798769978  8  4 c   b     b     b         1311   60  140 9h Ts
+elraiso   798770083  8  3 rr  b     br    b         1391  130  315 Kh Ks
+elraiso   798770180  9  2 Bk  b     b     -         1576   40   80 
+elraiso   798770247  9  1 Bf  -     -     -         1616    5    0 
+elraiso   798770306  9  9 c   k     c     f         1611   30    0 
+elraiso   798770386 10  9 f   -     -     -         1581    0    0 
+elraiso   798770449 10  8 f   -     -     -         1581    0    0 
+elraiso   798770543 11  8 c   c     f     -         1581   20    0 
+elraiso   798770693  9  4 f   -     -     -         1561    0    0 
+elraiso   798770730  8  2 f   -     -     -         1561    0    0 
+elraiso   798770778  8  2 Bf  -     -     -         1561   10    0 
+elraiso   798770834 11  1 Bc  kf    -     -         1551   10    0 
+elraiso   798770910 10 10 f   -     -     -         1541    0    0 
+elraiso   798770964 10  9 f   -     -     -         1541    0    0 
+elraiso   798771032 10  8 f   -     -     -         1541    0    0 
+elraiso   798771116 10  7 f   -     -     -         1541    0    0 
+elraiso   798771291  8  5 c   c     r     k         1541   60    0 Jd Ad
+elraiso   798771361  8  5 f   -     -     -         1481    0    0 
+elraiso   798771524  7  3 cc  kf    -     -         1481   20    0 
+elraiso   798771595  8  3 f   -     -     -         1461    0    0 
+elraiso   798771676  8  2 Bk  k     k     kc        1461   30    0 4d 3c
+elraiso   798771750  7  1 Bf  -     -     -         1431    5    0 
+elraiso   798771790  7  7 f   -     -     -         1426    0    0 
+elraiso   798771877  7  6 c   c     c     f         1426   40    0 
+elraiso   798771933  8  4 Q   -     -     -         1386    0    0 
+elraiso   798773906  8  6 f   -     -     -         1386    0    0 
+elraiso   798773969  7  4 f   -     -     -         1386    0    0 
+elraiso   798774023  8  4 c   bc    k     f         1386   30    0 
+elraiso   798774117  8  3 f   -     -     -         1356    0    0 
+elraiso   798774209  8  2 Bk  f     -     -         1356   10    0 
+elraiso   798774344  7  1 Bc  kc    kf    -         1346   20    0 
+elraiso   798774468  7  7 r   f     -     -         1326   20    0 
+elraiso   798774547  7  6 f   -     -     -         1306    0    0 
+elraiso   798774601  7  5 f   -     -     -         1306    0    0 
+elraiso   798774698  6  4 f   -     -     -         1306    0    0 
+elraiso   798774746  6  3 f   -     -     -         1306    0    0 
+elraiso   798774804  6  2 Bf  -     -     -         1306   10    0 
+elraiso   798774853  6  1 Bf  -     -     -         1296    5    0 
+elraiso   798774960  6  6 f   -     -     -         1291    0    0 
+elraiso   798775010  7  6 c   c     f     -         1291   20    0 
+elraiso   798775091  7  5 f   -     -     -         1271    0    0 
+elraiso   798775177  7  4 f   -     -     -         1271    0    0 
+elraiso   798775300  9  3 r   kc    kc    f         1271   50    0 
+elraiso   798775380  9  2 Br  rr    k     b         1221  100    0 As Kc
+elraiso   798775496 10  1 Bf  -     -     -         1121    5    0 
+elraiso   798775579 11 11 cc  c     rr    c         1116  150    0 8h Ah
+elraiso   798775731 11 10 f   -     -     -          966    0    0 
+elraiso   798775791 11  9 c   k     bc    b          966   70  270 Td As
+elraiso   798775950 10  7 f   -     -     -         1166    0    0 
+elraiso   798776024  9  7 f   -     -     -         1166    0    0 
+elraiso   798776143  9  6 c   f     -     -         1166   10    0 
+elraiso   798776258  8  4 f   -     -     Q         1156    0    0 
+elraiso   799287016  6  2 Bk  k     k     k         1156   10    0 8h 8c
+elraiso   799287075  6  1 Bc  k     k     kf        1146   10    0 
+elraiso   799287153  7  7 f   -     -     -         1136    0    0 
+elraiso   799287201  7  6 f   -     -     -         1136    0    0 
+elraiso   799287276  8  6 r   r     k     kf        1136   40    0 
+elraiso   799287381  8  5 c   k     k     f         1096   10    0 
+elraiso   799287449  8  4 f   -     -     -         1086    0    0 
+elraiso   799287503  8  3 f   -     -     -         1086    0    0 
+elraiso   799287619  9  2 Bf  -     -     -         1086   10    0 
+elraiso   799287687  9  1 BfQ -     -     -         1076    5    0 

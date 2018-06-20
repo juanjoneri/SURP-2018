@@ -1,0 +1,125 @@
+runner    797725045  9  4 c   b     k     rc        1000  100    0 As 7h
+runner    797725130 11  4 c   r     b     r          900   90  290 Tc 7d
+runner    797725214  9  2 Bk  k     b     k         1100   30    0 Td Jc
+runner    797725318  8  1 Bc  b     bc    br        1070  120  270 6h 6s
+runner    797725397  9  9 c   f     -     -         1220   10    0 
+runner    797725478  8  8 c   b     -     -         1210   20   40 
+runner    797725516  9  9 c   c     c     f         1230   40    0 
+runner    797725593  8  7 c   b     b     f         1190   40    0 
+runner    797725654  7  5 c   k     b     -         1150   30   45 
+runner    797725683  8  4 c   k     b     -         1165   30   55 
+runner    797725753  8  3 cc  k     bc    kc        1190  100    0 8s Qc
+runner    797725848  8  3 c   c     c     f         1090   40    0 
+runner    797725894  9  2 Br  b     b     b         1050   80    0 Ks Ts
+runner    797725976  9  1 Bc  b     b     b          970   60  190 Jd Kd
+runner    797726024  8  8 c   k     f     -         1100   10    0 
+runner    797726099  8  6 c   bc    kc    kc        1090   70    0 9d Th
+runner    797726178  8  6 cc  c     f     -         1020   30    0 
+runner    797726251  8  5 cc  f     -     -          990   20    0 
+runner    797726303  8  4 c   kf    -     -          970   10    0 
+runner    797726413  8  3 cc  kc    kr    b          960  100  305 7s Td
+runner    797726505  8  2 Bk  b     -     -         1165   20   40 
+runner    797726533  7  1 Br  b     b     kf        1185   50    0 
+runner    797726602  7  7 c   f     -     -         1135   10    0 
+runner    797726633  7  6 r   c     c     r         1125   90  205 Qs Ad
+runner    797726679  7  5 c   f     -     -         1240   10    0 
+runner    797726718  7  4 c   f     -     -         1230   10    0 
+runner    797726767  7  3 c   b     b     -         1220   40   75 
+runner    797726801  7  2 Bk  b     b     kc        1255   60    0 6h Qs
+runner    797726904  7  1 Bc  f     -     -         1195   10    0 
+runner    797726952  7  7 r   bc    c     c         1185   90    0 Ad Ks
+runner    797727010  7  6 c   f     -     -         1095   10    0 
+runner    797727070  7  5 c   k     b     -         1085   30   50 
+runner    797727106  7  4 c   k     b     KQ        1105   30    0 
+runner    797727284  7  6 c   f     Q     -         1075   20    0 
+runner    797727792  8  3 c   b     b     bc        1055   80    0 3c Kd
+runner    797727832  8  2 Bc  f     -     -          975   20    0 
+runner    797727899  9  1 Bc  kf    -     -          955   10    0 
+runner    797727955  9  9 c   k     k     k          945   10    0 Jh 7s
+runner    797728059  8  7 c   c     f     -          935   20    0 
+runner    797728129  7  6 c   b     b     -          915   40   70 
+runner    797728159  7  6 c   b     k     k          945   20    0 5h 3d
+runner    797728209  6  4 c   b     b     -          925   40   85 
+runner    797728252  6  3 c   r     k     k          970   30    0 7s Qd
+runner    797728321  7  2 Bc  kc    kc    f          940   50    0 
+runner    797728377  8  1 Bc  kc    f     -          890   20    0 
+runner    797728447  8  8 c   c     c     r          870   80  180 Jd 8s
+runner    797728503  8  7 c   c     c     c          970   60    0 6d Ad
+runner    797728544  7  5 Q   -     -     -          910    0    0 
+runner    797728827  7  7 r   b     k     c          910   50    0 Jh Qh
+runner    797728896  7  6 c   f     -     -          860   20    0 
+runner    797728961  8  5 c   b     b     k          840   40  170 8d Qd
+runner    797729147  6  4 c   c     c     c          970   60    0 Kc 2d
+runner    797729187  8  2 cc  bc    kc    b          910  100  350 3c 6d
+runner    797729255  9  2 Bk  kf    -     -         1160   10    0 
+runner    797729284  9  1 Bc  b     -     -         1150   20   40 
+runner    797729320  9  9 cc  cc    cc    rr        1170  200    0 Kc 8c
+runner    797729437  9  8 cc  b     c     k          970   50    0 6d 9c
+runner    797729528  9  6 cc  kc    kc    f          920   50    0 
+runner    797729624  9  5 c   c     f     -          870   30    0 
+runner    797729665  9  4 c   b     c     r          840   80  260 4s 3s
+runner    797729759  9  4 cc  bc    k     k         1020   40  150 Jd 8h
+runner    797729822  9  3 c   c     f     -         1130   20    0 
+runner    797729883  9  2 Bk  f     -     -         1110   10    0 
+runner    797729942  8  1 Bcr bc    krc   brr       1100  210  480 7d Ad
+runner    797730023  8  8 cc  f     -     -         1370   20    0 
+runner    797730064  8  7 c   f     -     -         1350   10    0 
+runner    797730109  8  6 c   k     c     c         1340   50    0 Tc Jd
+runner    797730177  6  4 c   k     b     k         1290   30    0 3d Qc
+runner    797730215  6  3 c   kf    -     -         1260   10    0 
+runner    797730246  5  2 Bc  kf    -     -         1250   20    0 
+runner    797730312  5  1 Bc  k     k     b         1230   30   40 
+runner    797730361  7  7 cc  f     -     -         1240   20    0 
+runner    797730398  7  6 r   b     b     b         1220   80  205 
+runner    797730487  7  5 c   b     -     -         1345   20   55 
+runner    797730520  7  4 c   kf    -     -         1380   10    0 
+runner    797730550  6  3 c   c     c     b         1370   60  240 Ac As
+runner    797730613  7  2 Bk  c     c     c         1550   60    0 9h 4h
+runner    797730654  8  1 Bc  bc    kc    b         1490   70  130 
+runner    797730693  8  8 c   c     c     c         1550   60    0 Ah Js
+runner    797730752  8  8 c   c     c     rc        1490  110    0 Qh Th
+runner    797730884  6  5 c   f     -     -         1380   20    0 
+runner    797730907  6  5 c   b     -     -         1360   20   35 
+runner    797730934  7  4 cc  b     b     b         1375   70    0 Jc 5h
+runner    797730992  8  3 cc  bc    b     bc        1305  100  168 3c Qc
+runner    797731096  8  2 Bc  kf    -     -         1373   20    0 
+runner    797731148  8  1 Bc  f     -     -         1353   20    0 
+runner    797731212  7  7 c   b     c     c         1333   60    0 9h 6c
+runner    797731282  6  5 c   c     bc    r         1273  110    0 Tc 3h
+runner    797731350  6  4 c   k     b     k         1163   30    0 9s Ts
+runner    797731445  5  2 cc  b     k     k         1133   40  150 9c 3h
+runner    797731507  7  2 Bc  k     b     -         1243   40   65 
+runner    797731543  7  1 Bc  k     b     k         1268   30   60 8s 3h
+runner    797731659  7  7 c   c     c     c         1298   60    0 5c 9d
+runner    797731703  7  6 c   f     -     -         1238   10    0 
+runner    797731739  8  6 cc  f     -     -         1228   40    0 
+runner    797731839  8  5 cc  c     f     -         1188   40    0 
+runner    797731920  6  3 c   b     -     -         1148   20   35 
+runner    797731951  6  2 Bk  r     kf    -         1163   30    0 
+runner    797732010  7  1 Bc  b     brc   kc        1133  120    0 3s 6c
+runner    797732049  5  5 c   k     b     -         1013   30   45 
+runner    797732079  5  4 c   k     b     b         1028   50  115 Kh Qc
+runner    797732111  5  3 cc  kc    kc    k         1093   50    0 8s 8c
+runner    797732151  5  2 Br  b     b     b         1043   70    0 4s Th
+runner    797732203  5  1 Bc  kf    -     -          973   10    0 
+runner    797732283  5  5 c   f     -     -          963   10    0 
+runner    797732324  5  4 c   b     -     -          953   20   50 
+runner    797732339  5  4 c   f     -     -          983   10    0 
+runner    797732380  3  2 Bc  b     b     -          973   50   85 
+runner    797732404  3  1 Bc  k     k     k         1008   10   20 As 8d
+runner    797732414  4  3 c   c     f     -         1018   20    0 
+runner    797732473  3  2 Bc  kc    kc    kr         998   90    0 Qs 8d
+runner    797732499  4  1 Bc  f     -     -          908   10    0 
+runner    797732513  4  4 c   b     k     rc         898   80    0 Js Jh
+runner    797732560  4  3 cc  k     b     c          818   60    0 3c Kc
+runner    797732616  4  2 Bk  f     -     -          758   10    0 
+runner    797732636  4  1 Bc  kf    -     -          748   10    0 
+runner    797732662  4  4 c   c     c     c          738   60    0 3d 6c
+runner    797732702  4  3 cc  kc    kc    k          678   50  130 Kd 8h
+runner    797732732  4  2 Bk  kc    kc    k          758   40    0 5s 4s
+runner    797732809  4  1 Bc  kc    kc    kc         718   60    0 4c 8c
+runner    797732852  3  3 cc  c     c     c          658   70    0 7h Jh
+runner    797732877  3  2 Bk  r     -     -          588   30   50 
+runner    797732899  3  1 Bc  b     b     -          608   50  110 
+runner    797732925  3  3 c   r     k     k          668   30    0 6s 7d
+runner    797732945  4  3 cKQ -     -     -          638   10    0 

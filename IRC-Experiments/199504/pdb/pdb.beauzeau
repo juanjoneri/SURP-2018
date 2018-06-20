@@ -1,0 +1,1506 @@
+beauzeau  797708255 12 12 f   -     -     -         1000    0    0 
+beauzeau  797708347 12 11 f   -     -     -         1000    0    0 
+beauzeau  797708431 11  9 c   bc    c     c         1000   70    0 Qc Th
+beauzeau  797708549 12  9 cc  fQ    -     -          930   20    0 
+beauzeau  797709668 11  5 cc  kf    -     -          910   20    0 
+beauzeau  797709774 11  4 f   -     -     -          890    0    0 
+beauzeau  797709855 11  3 cc  c     rc    b          890  110  340 7c Ac
+beauzeau  797709992 11  2 Bk  k     bf    -         1120   30    0 
+beauzeau  797710175  9  1 Bc  b     b     b         1090   70  150 As Jc
+beauzeau  797710239  7  7 f   -     -     -         1170    0    0 
+beauzeau  797710270  7  6 f   -     -     -         1170    0    0 
+beauzeau  797710312  7  5 f   -     -     -         1170    0    0 
+beauzeau  797710403  9  4 cc  f     -     -         1170   20    0 
+beauzeau  797710548  8  3 cc  bc    kr    b         1150  100  235 Ks 3s
+beauzeau  797710649  8  2 Br  b     bc    kc        1285  100    0 Jd Qh
+beauzeau  797710756  8  1 Bf  -     -     -         1185    5    0 
+beauzeau  797710800  9  9 r   b     r     k         1180   80  215 Jh Jd
+beauzeau  797710909  8  7 Q   -     -     -         1315    0    0 
+beauzeau  797712031  8  5 f   -     -     -         1315    0    0 
+beauzeau  797712115  8  4 f   -     -     -         1315    0    0 
+beauzeau  797712190  7  2 Bc  kf    -     -         1315   20    0 
+beauzeau  797712316  9  1 Bc  b     -     -         1295   20   30 
+beauzeau  797712401 10 10 f   -     -     -         1305    0    0 
+beauzeau  797712530 11 11 f   -     -     -         1305    0    0 
+beauzeau  797712617 10  9 f   -     -     -         1305    0    0 
+beauzeau  797712650 10  8 f   -     -     -         1305    0    0 
+beauzeau  797712763 10  7 f   -     -     -         1305    0    0 
+beauzeau  797712908  9  5 f   -     -     -         1305    0    0 
+beauzeau  797712973 10  5 c   c     b     b         1305   60  230 Qd Jd
+beauzeau  797713129 12  5 f   -     -     -         1475    0    0 
+beauzeau  797713229 11  3 f   -     -     -         1475    0    0 
+beauzeau  797713289 11  2 Bk  k     f     -         1475   10    0 
+beauzeau  797713410 12  1 Bf  -     -     -         1465    5    0 
+beauzeau  797713627 11 11 c   k     f     -         1460   10    0 
+beauzeau  797713809 12 11 f   -     -     -         1450    0    0 
+beauzeau  797713866 12 10 c   c     r     b         1450   90  360 
+beauzeau  797714023  9  8 f   -     -     -         1720    0    0 
+beauzeau  797714121  9  7 f   -     -     -         1720    0    0 
+beauzeau  797714195 10  7 f   -     -     -         1720    0    0 
+beauzeau  797714300 10  6 f   -     -     -         1720    0    0 
+beauzeau  797714360 10  5 Q   -     -     -         1720    0    0 
+beauzeau  797782405  3  3 r   -     -     -         1720   20   35 
+beauzeau  797782413  3  2 B   -     -     -         1735   10   15 
+beauzeau  797782420  3  1 Bc  b     k     bc        1740   60  130 8c Qh
+beauzeau  797782446  3  3 f   -     -     -         1810    0    0 
+beauzeau  797782458  3  2 Bc  k     cr    b         1810  100  260 7c 6d
+beauzeau  797782493  3  1 Bc  kf    -     -         1970   10    0 
+beauzeau  797782536  3  3 r   -     -     -         1960   20   35 
+beauzeau  797782546  3  2 Br  c     k     k         1975   30    0 Qd 6d
+beauzeau  797782583  3  1 Bc  k     b     kc        1945   50    0 4s Qc
+beauzeau  797782622  3  3 f   -     -     -         1895    0    0 
+beauzeau  797782633  3  2 Bc  b     b     c         1895   70    0 8s Th
+beauzeau  797782678  3  1 Bc  kf    -     -         1825   10    0 
+beauzeau  797782713  3  3 f   -     -     -         1815    0    0 
+beauzeau  797782739  3  2 Bk  r     b     -         1815   50   80 
+beauzeau  797782761  3  1 Bc  kf    -     -         1845   10    0 
+beauzeau  797782783  3  3 f   -     -     -         1835    0    0 
+beauzeau  797782803  3  2 Br  k     b     b         1835   60  120 Ks Js
+beauzeau  797782836  3  1 Bc  k     bc    k         1895   50  100 Ad 3c
+beauzeau  797782860  3  3 f   -     -     -         1945    0    0 
+beauzeau  797782870  3  2 Bc  bc    krr   k         1945  120  360 Ad Ac
+beauzeau  797782930  3  1 Br  kc    kf    -         2185   30    0 
+beauzeau  797782978  3  3 c   b     c     f         2155   40    0 
+beauzeau  797783015  2  2 Bk  b     -     -         2115   20   30 
+beauzeau  797783038  2  1 Bf  -     -     -         2125    5    0 
+beauzeau  797783046  2  2 B   -     -     -         2120   10   15 
+beauzeau  797783052  2  1 Bf  -     -     -         2125    5    0 
+beauzeau  797783063  2  2 Bc  c     k     f         2120   30    0 
+beauzeau  797783100  2  1 BrQ -     -     -         2090   20   30 
+beauzeau  797783179  2  1 Brr br    bc    bc        2100  150  150 Kd Qc
+beauzeau  797783230  2  2 B   -     -     -         2100   10   15 
+beauzeau  797783240  2  1 Bc  b     b     bc        2105   80    0 Qs Ac
+beauzeau  797783305  3  3 cc  k     k     c         2025   40    0 Kh 7c
+beauzeau  797783360  3  2 Bc  f     -     -         1985   20    0 
+beauzeau  797783409  3  1 Bc  k     k     b         1965   30   40 
+beauzeau  797783466  3  3 r   k     f     -         1975   20    0 
+beauzeau  797783535  3  2 Bf  -     -     -         1955   10    0 
+beauzeau  797783559  3  1 Bf  -     -     -         1945    5    0 
+beauzeau  797783594  3  3 f   -     -     -         1940    0    0 
+beauzeau  797783608  3  2 B   -     -     -         1940   10   15 
+beauzeau  797783616  3  1 Bf  -     -     -         1945    5    0 
+beauzeau  797783674  3  3 r   b     -     -         1940   30   60 
+beauzeau  797783711  3  2 Bc  k     k     k         1970   20    0 Jh 4h
+beauzeau  797783784  3  1 Bc  bc    bc    kc        1950  100  110 5c Ad
+beauzeau  797783864  3  3 r   c     k     k         1960   30    0 Ac 8d
+beauzeau  797783921  3  2 Br  b     b     b         1930   80  140 
+beauzeau  797783999  3  1 Br  k     b     -         1990   40   60 
+beauzeau  797784043  3  3 Q   -     -     -         2010    0    0 
+beauzeau  797871738  7  4 f   -     -     -         2010    0    0 
+beauzeau  797871754  7  3 cc  rr    brc   br        2010  210  610 4s 5s
+beauzeau  797871888  7  2 Bk  f     -     -         2410   10    0 
+beauzeau  797871990  6  1 Bc  kf    -     -         2400   10    0 
+beauzeau  797872040  6  6 rc  rc    c     r         2390  130  315 Qd Js
+beauzeau  797872116  6  5 f   -     -     -         2575    0    0 
+beauzeau  797872180  7  5 r   b     b     c         2575   70    0 Qs Qh
+beauzeau  797872234  7  4 f   -     -     -         2505    0    0 
+beauzeau  797872265  7  3 cc  kc    k     kf        2505   30    0 
+beauzeau  797872314  7  2 Bf  -     -     -         2475   10    0 
+beauzeau  797872370  7  1 Bc  b     b     kc        2465   60  130 Jd 2d
+beauzeau  797872414  7  7 f   -     -     -         2535    0    0 
+beauzeau  797872468  7  6 f   -     -     -         2535    0    0 
+beauzeau  797872513  7  5 Q   -     -     -         2535    0    0 
+beauzeau  797887425 11  7 f   -     -     -         2535    0    0 
+beauzeau  797887491 11  6 c   f     -     -         2535   10    0 
+beauzeau  797887547 12  5 f   -     -     -         2525    0    0 
+beauzeau  797887650 12  4 c   kf    -     -         2525   10    0 
+beauzeau  797887752 12  3 f   -     -     -         2515    0    0 
+beauzeau  797887788 12  2 Bk  b     b     kf        2515   40    0 
+beauzeau  797887920 12  1 Bf  -     -     -         2475    5    0 
+beauzeau  797888074 12 12 f   -     -     -         2470    0    0 
+beauzeau  797888196 12 11 f   -     -     -         2470    0    0 
+beauzeau  797888303 12 10 c   c     c     f         2470   40    0 
+beauzeau  797888431 12  9 f   -     -     -         2430    0    0 
+beauzeau  797888505 12  8 rc  c     c     f         2430   60    0 
+beauzeau  797888624 12  7 r   rc    c     r         2370  140  395 6h 6s
+beauzeau  797888739 12  6 f   -     -     -         2625    0    0 
+beauzeau  797888899 12  5 c   b     b     k         2625   40  130 9d 8d
+beauzeau  797889045 12  4 cc  kf    -     -         2715   20    0 
+beauzeau  797889147 12  3 f   -     -     -         2695    0    0 
+beauzeau  797889244 11  2 Bc  kf    -     -         2695   20    0 
+beauzeau  797889324 10  1 Bc  kc    kf    -         2675   30    0 
+beauzeau  797889432 10 10 c   f     -     -         2645   10    0 
+beauzeau  797889507  9  8 f   -     -     -         2635    0    0 
+beauzeau  797889554  8  6 f   -     -     -         2635    0    0 
+beauzeau  797889657  9  6 c   b     bc    b         2635   80  275 8c 9c
+beauzeau  797889787  9  5 f   -     -     -         2830    0    0 
+beauzeau  797889931 10  5 f   -     -     -         2830    0    0 
+beauzeau  797890041  9  4 f   -     -     -         2830    0    0 
+beauzeau  797890121 10  3 cc  cc    k     Q         2830   40    0 
+beauzeau  797900100  6  2 Bk  b     b     -         2790   40   65 
+beauzeau  797900160  5  1 Bf  -     -     -         2815    5    0 
+beauzeau  797900220  6  6 c   b     -     -         2810   20   35 
+beauzeau  797900255  5  5 f   -     -     -         2825    0    0 
+beauzeau  797900429  5  3 f   -     -     -         2825    0    0 
+beauzeau  797900491  6  2 Bc  rc    ccc   f         2825  140    0 
+beauzeau  797900580  6  1 Bc  kc    kf    -         2685   30    0 
+beauzeau  797900616  6  6 f   -     -     -         2655    0    0 
+beauzeau  797900692  6  5 f   -     -     -         2655    0    0 
+beauzeau  797900786  8  4 rc  r     b     c         2655  100  345 Ad 7d
+beauzeau  797900911  6  3 f   -     -     -         2900    0    0 
+beauzeau  797900976  6  2 Bcc rf    -     -         2900   60    0 
+beauzeau  797901062  7  1 Bf  -     -     -         2840    5    0 
+beauzeau  797901139  6  6 c   f     -     -         2835   20    0 
+beauzeau  797901199  7  5 f   -     -     -         2815    0    0 
+beauzeau  797901258  6  4 f   -     -     -         2815    0    0 
+beauzeau  797901305  6  3 f   -     -     -         2815    0    0 
+beauzeau  797901356  6  2 Bc  k     k     kf        2815   20    0 
+beauzeau  797901427  6  1 Bf  -     -     -         2795    5    0 
+beauzeau  797901479  6  6 f   -     -     -         2790    0    0 
+beauzeau  797901534  7  6 c   f     -     -         2790   20    0 
+beauzeau  797901578  7  5 f   -     -     -         2770    0    0 
+beauzeau  797901675  7  4 cc  cc    kf    -         2770   50    0 
+beauzeau  797901785  9  4 rc  rc    c     f         2720  100    0 
+beauzeau  797901864  7  2 Bc  kc    c     f         2620   50    0 
+beauzeau  797901967  7  1 Bc  kf    -     -         2570   30    0 
+beauzeau  797902097  7  7 f   -     -     -         2540    0    0 
+beauzeau  797902143  7  6 f   -     -     -         2540    0    0 
+beauzeau  797902211  7  5 f   -     -     -         2540    0    0 
+beauzeau  797902275  8  4 f   -     -     -         2540    0    0 
+beauzeau  797902360  8  3 Q   -     -     -         2540    0    0 
+beauzeau  797902643  8  7 f   -     -     -         2540    0    0 
+beauzeau  797902793  8  6 c   f     -     -         2540   20    0 
+beauzeau  797902863  8  5 f   -     -     -         2520    0    0 
+beauzeau  797902923  8  4 f   -     -     -         2520    0    0 
+beauzeau  797903016  8  3 f   -     -     -         2520    0    0 
+beauzeau  797903105  9  2 Bc  kf    -     -         2520   20    0 
+beauzeau  797903192  9  1 Bf  -     -     -         2500    5    0 
+beauzeau  797903317  9  9 c   r     b     b         2495   80    0 6h 7d
+beauzeau  797903368  9  8 f   -     -     -         2415    0    0 
+beauzeau  797903460 10  8 rc  rr    cc    c         2415  200    0 Qc Ad
+beauzeau  797903613 11  9 f   -     -     -         2215    0    0 
+beauzeau  797903765 11  8 f   -     -     -         2215    0    0 
+beauzeau  797903868 11  7 f   -     -     -         2215    0    0 
+beauzeau  797904044 10  5 f   -     -     -         2215    0    0 
+beauzeau  797904148 11  5 f   -     -     -         2215    0    0 
+beauzeau  797904218  8  4 r   rc    kc    k         2215   70  210 As Kc
+beauzeau  797904291  5  2 BQ  -     -     -         2355   10    0 
+beauzeau  797974835  3  2 Bk  f     -     -         2515   10    0 
+beauzeau  797974852  3  1 Br  b     kf    -         2505   30    0 
+beauzeau  797974880  3  3 f   -     -     -         2475    0    0 
+beauzeau  797974901  3  2 Bf  -     -     -         2475   10    0 
+beauzeau  797974910  3  1 Br  br    b     -         2465   70  120 
+beauzeau  797974936  3  3 f   -     -     -         2515    0    0 
+beauzeau  797974943  3  2 Bk  r     br    bc        2515  130    0 Jh 3s
+beauzeau  797974993  2  1 Br  -     -     -         2385   20   30 
+beauzeau  797975013  2  2 B   -     -     -         2395   10   15 
+beauzeau  797975023  2  1 Br  -     -     -         2400   20   30 
+beauzeau  797975030  2  2 B   -     -     -         2410   10   15 
+beauzeau  797975037  2  1 BQ  -     -     -         2415    5    0 
+beauzeau  798130270  2  1 Bc  kc    b     b         3605   60    0 As Ah
+beauzeau  798130305  2  2 Bk  k     k     k         3545   10   10 2s 8c
+beauzeau  798130358  2  1 Br  -     -     -         3545   20   30 
+beauzeau  798130368  2  2 B   -     -     -         3555   10   15 
+beauzeau  798130376  2  1 Br  -     -     -         3560   20   30 
+beauzeau  798130380  2  2 Br  b     b     -         3570   50   80 
+beauzeau  798130399  2  1 Br  k     b     b         3600   60  120 2s 2h
+beauzeau  798130412  2  2 Br  k     k     c         3660   40    0 4c Ad
+beauzeau  798130432  2  1 Br  b     k     k         3620   30    0 As Jd
+beauzeau  798130470  2  2 Bk  b     k     k         3590   20   40 9c 4s
+beauzeau  798130504  2  1 Bf  -     -     -         3610    5    0 
+beauzeau  798130511  2  2 B   -     -     -         3605   10   15 
+beauzeau  798130513  2  1 Br  -     -     -         3610   20   30 
+beauzeau  798130520  2  2 B   -     -     -         3620   10   15 
+beauzeau  798130523  2  1 Br  b     k     k         3625   30   60 Kc Jd
+beauzeau  798130545  2  2 Bk  k     f     -         3655   10    0 
+beauzeau  798130571  2  1 Bc  kf    -     -         3645   10    0 
+beauzeau  798130582  2  2 Bk  c     f     -         3635   20    0 
+beauzeau  798130604  2  1 Br  b     -     -         3615   30   50 
+beauzeau  798130612  2  2 Br  k     b     k         3635   40    0 Ks 3s
+beauzeau  798130640  3  1 Bc  kf    -     -         3595   20    0 
+beauzeau  798130668  3  3 r   r     k     f         3575   40    0 
+beauzeau  798130701  2  2 Bf  -     -     -         3535   10    0 
+beauzeau  798130708  2  1 Bc  k     b     -         3525   30   40 
+beauzeau  798130725  2  2 B   -     -     -         3535   10   15 
+beauzeau  798130728  2  1 Br  -     -     -         3540   20   30 
+beauzeau  798130744  2  2 BQ  -     -     -         3550   10    0 
+beauzeau  798135034  3  3 r   k     b     -         3540   40   65 
+beauzeau  798135068  3  2 B   -     -     -         3565   10   15 
+beauzeau  798135072  3  1 Br  -     -     -         3570   20   30 
+beauzeau  798135093  3  3 f   -     -     -         3580    0    0 
+beauzeau  798135105  3  2 Bk  f     -     -         3580   10    0 
+beauzeau  798135121  3  1 Br  -     -     -         3570   20   30 
+beauzeau  798135135  3  3 f   -     -     -         3580    0    0 
+beauzeau  798135160  4  2 Br  b     -     -         3580   30   50 
+beauzeau  798135181  4  1 Bc  kf    -     -         3600   10    0 
+beauzeau  798135229  4  4 f   -     -     -         3590    0    0 
+beauzeau  798135239  3  3 r   b     -     -         3590   30   55 
+beauzeau  798135258  3  2 Bf  -     -     -         3615   10    0 
+beauzeau  798135271  3  1 Bc  b     b     b         3605   60  100 
+beauzeau  798135305  3  3 f   -     -     -         3645    0    0 
+beauzeau  798135313  4  2 Bc  b     -     -         3645   30   55 
+beauzeau  798135330  4  1 Bc  kf    -     -         3670   10    0 
+beauzeau  798135360  5  5 f   -     -     -         3660    0    0 
+beauzeau  798135410  5  4 f   -     -     -         3660    0    0 
+beauzeau  798135451  5  3 r   r     b     -         3660   60  105 
+beauzeau  798135484  5  2 Bk  cc    kc    f         3705   50    0 
+beauzeau  798135542  6  1 Br  b     b     -         3655   60  190 
+beauzeau  798135599  5  5 f   -     -     -         3785    0    0 
+beauzeau  798135613  4  4 f   -     -     -         3785    0    0 
+beauzeau  798135638  4  3 f   -     -     -         3785    0    0 
+beauzeau  798135659  4  2 Bk  r     k     k         3785   30    0 9d 7s
+beauzeau  798135716  4  1 Bf  -     -     -         3755    5    0 
+beauzeau  798135744  4  4 f   -     -     -         3750    0    0 
+beauzeau  798135748  4  3 f   -     -     -         3750    0    0 
+beauzeau  798135767  4  2 Bf  -     -     -         3750   10    0 
+beauzeau  798135798  4  1 Bcc kc    kf    -         3740   30    0 
+beauzeau  798135826  4  4 r   b     c     c         3710   70    0 7h 7c
+beauzeau  798135846  4  3 r   r     b     k         3640   60  140 8c Kc
+beauzeau  798135885  5  2 Bc  kf    -     -         3720   20    0 
+beauzeau  798135913  5  1 Bc  k     bc    k         3700   50    0 Kh 7c
+beauzeau  798135955  5  5 f   -     -     -         3650    0    0 
+beauzeau  798136003  5  4 f   -     -     -         3650    0    0 
+beauzeau  798136037  5  3 Q   -     -     -         3650    0    0 
+beauzeau  798155654  5  2 Bk  c     c     f         3650   40    0 
+beauzeau  798155724  5  1 Bc  br    b     -         3610   60  110 
+beauzeau  798155769  6  6 f   -     -     -         3660    0    0 
+beauzeau  798155875  8  8 f   -     -     -         3660    0    0 
+beauzeau  798156001  7  6 f   -     -     -         3660    0    0 
+beauzeau  798156066  7  5 r   c     f     -         3660   30    0 
+beauzeau  798156130  5  2 f   -     -     -         3630    0    0 
+beauzeau  798156172  5  2 Bc  kr    b     b         3630   80  145 
+beauzeau  798156215  5  1 Bc  k     b     -         3695   30   50 
+beauzeau  798156252  5  5 r   r     k     k         3715   40   85 8h 5h
+beauzeau  798156303  5  4 c   kc    kf    -         3760   20    0 
+beauzeau  798156353  5  3 f   -     -     -         3740    0    0 
+beauzeau  798156368  5  2 Br  bf    -     -         3740   30    0 
+beauzeau  798156418  6  1 Bf  -     -     -         3710    5    0 
+beauzeau  798156478  7  7 r   r     b     -         3705   60  150 
+beauzeau  798156573  7  6 f   -     -     -         3795    0    0 
+beauzeau  798156640  8  6 f   -     -     -         3795    0    0 
+beauzeau  798156721  7  4 c   k     b     k         3795   30   80 Jc Qh
+beauzeau  798156794  8  3 c   b     f     -         3845   20    0 
+beauzeau  798156846  8  2 Bk  k     b     k         3825   30    0 8d 6c
+beauzeau  798156927  9  1 Bc  kf    -     -         3795   10    0 
+beauzeau  798156993  9  9 r   c     rc    c         3785  110    0 8s 8c
+beauzeau  798157102 10  9 f   -     -     -         3675    0    0 
+beauzeau  798157242 10  8 c   f     -     -         3675   30    0 
+beauzeau  798157367  9  7 f   -     -     -         3645    0    0 
+beauzeau  798157506  6  3 f   -     -     -         3645    0    0 
+beauzeau  798157545  8  3 f   -     -     -         3645    0    0 
+beauzeau  798157609  8  2 Bc  kf    -     -         3645   20    0 
+beauzeau  798157688  9  1 Bf  -     -     -         3625    5    0 
+beauzeau  798157762  8  8 c   r     bf    -         3620   50    0 
+beauzeau  798157851  7  6 cc  rc    b     kf        3570   70    0 
+beauzeau  798158048  9  6 f   -     -     -         3500    0    0 
+beauzeau  798158192 11  6 rr  rc    brc   b         3500  180  760 
+beauzeau  798158420 10  5 cc  bc    kc    kf        4080   60    0 
+beauzeau  798158680 12  5 f   -     -     -         4020    0    0 
+beauzeau  798158814 12  4 f   -     -     -         4020    0    0 
+beauzeau  798158952 11  2 Q   -     -     -         4020    0    0 
+beauzeau  798174477 12 10 f   -     -     -         4020    0    0 
+beauzeau  798174583 11  8 f   -     -     -         4020    0    0 
+beauzeau  798174656 11  7 f   -     -     -         4020    0    0 
+beauzeau  798174712 12  6 cc  rc    bc    kc        4020  120    0 Ah 9h
+beauzeau  798174838 11  5 Q   -     -     -         3900    0    0 
+beauzeau  798224747 10  5 f   -     -     -         3900    0    0 
+beauzeau  798224809  9  4 f   -     -     -         3900    0    0 
+beauzeau  798224859  9  3 f   -     -     -         3900    0    0 
+beauzeau  798224941 11  2 Bk  kf    -     -         3900   10    0 
+beauzeau  798225039 11  1 Bcc k     b     b         3890   60  220 8d Th
+beauzeau  798225124 11 11 c   f     -     -         4050   10    0 
+beauzeau  798225202 10  9 f   -     -     -         4040    0    0 
+beauzeau  798225264 11  9 f   -     -     -         4040    0    0 
+beauzeau  798225344 12  9 f   -     -     -         4040    0    0 
+beauzeau  798225412 12  8 f   -     -     -         4040    0    0 
+beauzeau  798225522 11  6 f   -     -     -         4040    0    0 
+beauzeau  798225611 12  7 f   -     -     -         4040    0    0 
+beauzeau  798225725 12  5 f   -     -     -         4040    0    0 
+beauzeau  798225828 11  3 f   -     -     -         4040    0    0 
+beauzeau  798225951 10  1 Bc  krc   kc    brr       4040  170  250 As Js
+beauzeau  798226088  9  1 Bf  -     -     -         4120    5    0 
+beauzeau  798226176  9  9 f   -     -     -         4115    0    0 
+beauzeau  798226249  9  8 f   -     -     -         4115    0    0 
+beauzeau  798226322  9  7 f   -     -     -         4115    0    0 
+beauzeau  798226418  9  6 f   -     -     -         4115    0    0 
+beauzeau  798226498 10  6 f   -     -     -         4115    0    0 
+beauzeau  798226630 11  5 cc  kcc   kc    kf        4115   70    0 
+beauzeau  798226731  9  2 f   -     -     -         4045    0    0 
+beauzeau  798226837 10  2 BKQ -     -     -         4045   10    0 
+beauzeau  798305228  3  2 Bk  kf    -     -         4035   10    0 
+beauzeau  798305248  3  1 Bf  -     -     -         4025    5    0 
+beauzeau  798305281  3  3 r   -     -     -         4020   20   35 
+beauzeau  798305312  3  2 B   -     -     -         4035   10   15 
+beauzeau  798305323  3  1 Bc  b     k     k         4040   20   50 4s Qs
+beauzeau  798305348  3  3 c   k     f     -         4070   10    0 
+beauzeau  798305385  4  2 Bk  kc    k     r         4060   60  140 5d 8s
+beauzeau  798305426  4  1 Br  b     -     -         4140   30   50 
+beauzeau  798305465  4  4 r   k     k     f         4160   20    0 
+beauzeau  798305492  4  3 f   -     -     -         4140    0    0 
+beauzeau  798305562  5  2 Bk  b     b     -         4140   40   60 
+beauzeau  798305601  5  1 Bf  -     -     -         4160    5    0 
+beauzeau  798305635  5  5 f   -     -     -         4155    0    0 
+beauzeau  798305661  5  4 f   -     -     -         4155    0    0 
+beauzeau  798305699  5  3 f   -     -     -         4155    0    0 
+beauzeau  798305751  6  2 Bk  kr    b     b         4155   70    0 Qc 6d
+beauzeau  798305802  6  1 Bf  -     -     -         4085    5    0 
+beauzeau  798305856  6  6 cc  c     k     k         4080   30    0 9s Jc
+beauzeau  798305910  6  5 f   -     -     -         4050    0    0 
+beauzeau  798305956  6  4 f   -     -     -         4050    0    0 
+beauzeau  798306005  6  3 f   -     -     -         4050    0    0 
+beauzeau  798306058  6  2 Bk  k     k     f         4050   10    0 
+beauzeau  798306110  5  1 Bf  -     -     -         4040    5    0 
+beauzeau  798306170  5  5 r   b     b     b         4035   70  175 5c 5s
+beauzeau  798306246  5  4 cc  f     -     -         4140   30    0 
+beauzeau  798306294  5  3 c   b     b     k         4110   40  100 Jc Th
+beauzeau  798306353  5  2 Bc  c     c     f         4170   50    0 
+beauzeau  798306383  5  1 Bf  -     -     -         4120    5    0 
+beauzeau  798306426  5  5 c   r     b     -         4115   50  105 
+beauzeau  798306457  5  4 f   -     -     -         4170    0    0 
+beauzeau  798306488  4  3 f   -     -     -         4170    0    0 
+beauzeau  798306510  4  2 Bk  kf    -     -         4170   10    0 
+beauzeau  798306577  4  1 Bc  b     -     -         4160   20   30 
+beauzeau  798306597  4  4 f   -     -     -         4170    0    0 
+beauzeau  798306633  4  3 rc  r     f     -         4170   50    0 
+beauzeau  798306690  4  2 Br  b     b     -         4120   50  100 
+beauzeau  798306728  4  1 Br  k     k     b         4170   50  110 Ks Ah
+beauzeau  798306760  4  4 c   b     -     -         4230   20   40 
+beauzeau  798306789  4  3 cc  k     bc    kf        4250   60    0 
+beauzeau  798306857  4  2 Bc  c     f     -         4190   30    0 
+beauzeau  798306889  4  1 Bc  b     -     -         4160   20   40 
+beauzeau  798306906  5  5 f   -     -     -         4180    0    0 
+beauzeau  798306960  5  4 r   -     -     -         4180   20   35 
+beauzeau  798306974  5  3 f   -     -     -         4195    0    0 
+beauzeau  798307013  5  2 Bc  kc    k     b         4195   50   85 
+beauzeau  798307052  4  1 Bf  -     -     -         4230    5    0 
+beauzeau  798307068  4  4 r   -     -     -         4225   20   35 
+beauzeau  798307088  5  3 f   -     -     -         4240    0    0 
+beauzeau  798307112  5  2 Br  r     k     k         4240   40    0 Kh 3d
+beauzeau  798307146  5  1 Br  bc    bc    kf        4200   80    0 
+beauzeau  798307217  4  4 f   -     -     -         4120    0    0 
+beauzeau  798307257  5  4 f   -     -     -         4120    0    0 
+beauzeau  798307428  5  3 f   -     -     -         4120    0    0 
+beauzeau  798307502  5  2 Bc  k     k     k         4120   20    0 8c Qh
+beauzeau  798307547  5  1 Br  kr    k     k         4100   50  140 9h 9c
+beauzeau  798307635  6  6 f   -     -     -         4190    0    0 
+beauzeau  798307717  7  6 c   r     f     -         4190   30    0 
+beauzeau  798307823  8  7 c   c     f     -         4160   20    0 
+beauzeau  798307885  8  6 r   c     c     k         4140   50    0 As Qd
+beauzeau  798307934  8  6 c   c     c     f         4090   60    0 
+beauzeau  798307998  7  4 c   f     -     -         4030   10    0 
+beauzeau  798308038  7  3 f   -     -     -         4020    0    0 
+beauzeau  798308069  7  2 Bk  b     -     -         4020   20   40 
+beauzeau  798308104  6  1 Bf  -     -     -         4040    5    0 
+beauzeau  798308163  6  6 f   -     -     -         4035    0    0 
+beauzeau  798308220  7  5 r   b     -     -         4035   30   65 
+beauzeau  798308244  7  4 f   -     -     -         4070    0    0 
+beauzeau  798308322  8  3 f   -     -     -         4070    0    0 
+beauzeau  798308365  8  2 Bk  kf    -     -         4070   10    0 
+beauzeau  798308453  9  1 Bc  kf    -     -         4060   10    0 
+beauzeau  798308556 10 10 r   rc    f     -         4050   50    0 
+beauzeau  798308611 10  9 f   -     -     -         4000    0    0 
+beauzeau  798308675 11  9 c   b     b     k         4000   40    0 Ah 9h
+beauzeau  798308795 10  7 f   -     -     -         3960    0    0 
+beauzeau  798308829 11  7 f   -     -     -         3960    0    0 
+beauzeau  798308882 11  6 c   k     c     b         3960   50  135 Qh Js
+beauzeau  798308954 11  5 f   -     -     -         4045    0    0 
+beauzeau  798309005 11  4 c   f     -     -         4045   10    0 
+beauzeau  798309100 12  4 r   b     bc    kf        4035   70    0 
+beauzeau  798309190 12  3 r   kc    k     kf        3965   30    0 
+beauzeau  798309260 12  2 Bf  -     -     Q         3935   10    0 
+beauzeau  798311155  5  4 f   -     -     -         3925    0    0 
+beauzeau  798311167  5  3 f   -     -     -         3925    0    0 
+beauzeau  798311183  5  2 Bc  k     f     -         3925   20    0 
+beauzeau  798311287  6  1 Bf  -     -     -         3905    5    0 
+beauzeau  798311336  6  6 c   k     c     f         3900   30    0 
+beauzeau  798311376  5  4 f   -     -     -         3870    0    0 
+beauzeau  798311384  5  3 f   -     -     -         3870    0    0 
+beauzeau  798311407  5  2 Bc  bc    kf    -         3870   40    0 
+beauzeau  798311479  6  1 Bc  b     b     b         3830   60    0 9s 8c
+beauzeau  798311514  5  5 f   -     -     -         3770    0    0 
+beauzeau  798311547  5  4 f   -     -     -         3770    0    0 
+beauzeau  798311586  5  3 f   -     -     -         3770    0    0 
+beauzeau  798311643  5  2 Bk  kf    -     -         3770   10    0 
+beauzeau  798311672  5  1 Bf  -     -     -         3760    5    0 
+beauzeau  798311704  5  5 c   c     c     r         3755   80  170 Ac 4c
+beauzeau  798311744  5  4 f   -     -     -         3845    0    0 
+beauzeau  798311782  5  3 f   -     -     -         3845    0    0 
+beauzeau  798311813  5  2 Bc  k     kf    -         3845   20    0 
+beauzeau  798311848  5  1 Bf  -     -     -         3825    5    0 
+beauzeau  798311883  5  5 c   bc    f     -         3820   30    0 
+beauzeau  798311931  5  4 f   -     -     -         3790    0    0 
+beauzeau  798311972  6  4 f   -     -     -         3790    0    0 
+beauzeau  798311992  6  3 cc  kf    -     -         3790   20    0 
+beauzeau  798312038  6  2 Bcc kcc   kf    -         3770   80    0 
+beauzeau  798312184  7  1 Bc  k     b     b         3690   50  100 Js 5c
+beauzeau  798312316  6  6 f   -     -     -         3740    0    0 
+beauzeau  798312351  7  6 r   r     b     bc        3740  100    0 Ts Th
+beauzeau  798312404  7  5 c   k     k     b         3640   30   65 Kc 9c
+beauzeau  798312430  7  4 f   -     -     -         3675    0    0 
+beauzeau  798312479  7  3 cc  b     b     bc        3675   90    0 3s 3d
+beauzeau  798312539  9  3 f   -     -     -         3585    0    0 
+beauzeau  798312658  9  2 Br  b     b     b         3585   70  230 Jc Jh
+beauzeau  798312733  8  1 Bf  -     -     -         3745    5    0 
+beauzeau  798312772 10 10 f   -     -     -         3740    0    0 
+beauzeau  798312818 10  9 f   -     -     -         3740    0    0 
+beauzeau  798312933 10  8 c   kc    kf    -         3740   20    0 
+beauzeau  798313015 10  8 c   r     r     b         3720  100  265 3s As
+beauzeau  798313078 10  7 f   -     -     -         3885    0    0 
+beauzeau  798313142 10  6 f   -     -     -         3885    0    0 
+beauzeau  798313218 11  5 f   -     -     -         3885    0    0 
+beauzeau  798313275 11  4 f   -     -     -         3885    0    0 
+beauzeau  798313305 11  3 f   -     -     -         3885    0    0 
+beauzeau  798313387 12  2 Bk  k     k     br        3885   70  160 Jh Ah
+beauzeau  798313474 12  1 Bc  k     kf    -         3975   10    0 
+beauzeau  798313565 11 11 f   -     -     -         3965    0    0 
+beauzeau  798313661 11 10 f   -     -     -         3965    0    0 
+beauzeau  798313821 10  8 f   -     -     -         3965    0    0 
+beauzeau  798313891  8  5 f   -     -     -         3965    0    0 
+beauzeau  798313977  8  4 f   -     -     -         3965    0    0 
+beauzeau  798314038  8  3 c   kQ    -     -         3965   10    0 
+beauzeau  798318697 10  3 cc  kf    -     -         3955   20    0 
+beauzeau  798318740 10  2 Bk  kf    -     -         3935   10    0 
+beauzeau  798318870 12  1 Bf  -     -     -         3925    5    0 
+beauzeau  798318924 12 12 f   -     -     -         3920    0    0 
+beauzeau  798319002 12 11 f   -     -     -         3920    0    0 
+beauzeau  798319081 12 10 f   -     -     -         3920    0    0 
+beauzeau  798319173 12  9 f   -     -     -         3920    0    0 
+beauzeau  798319253 12  8 f   -     -     -         3920    0    0 
+beauzeau  798319316 12  7 f   -     -     -         3920    0    0 
+beauzeau  798319376 12  6 f   -     -     -         3920    0    0 
+beauzeau  798319447 12  5 f   -     -     -         3920    0    0 
+beauzeau  798319675 10  3 rc  br    b     bc        3920  120    0 Td As
+beauzeau  798319847 10  3 r   k     b     b         3800   60  175 9s 9c
+beauzeau  798319921 10  2 Bf  -     -     -         3915   10    0 
+beauzeau  798319986 10  1 Bc  kf    -     -         3905   10    0 
+beauzeau  798320067 10 10 cc  rr    bKQ   -         3895   80    0 
+beauzeau  798320263 11 10 cc  b     k     b         3815   50  175 Qd Jh
+beauzeau  798320385 12 10 f   -     -     -         3940    0    0 
+beauzeau  798320464 11  8 cc  bc    kc    kf        3940   60    0 
+beauzeau  798320538 11  7 f   -     -     -         3880    0    0 
+beauzeau  798320605 11  6 f   -     -     -         3880    0    0 
+beauzeau  798320680 10  5 f   -     -     -         3880    0    0 
+beauzeau  798320713 10  4 f   -     -     -         3880    0    0 
+beauzeau  798320768 10  3 cc  kr    b     -         3880   60  135 
+beauzeau  798320858  9  1 Bk  kf    -     -         3955   10    0 
+beauzeau  798320896  9  1 Bc  br    bc    kf        3945   80    0 
+beauzeau  798320980  9  9 f   -     -     -         3865    0    0 
+beauzeau  798321060  9  8 c   f     -     -         3865   10    0 
+beauzeau  798321130 10  8 f   -     -     -         3855    0    0 
+beauzeau  798321211 11  8 f   -     -     -         3855    0    0 
+beauzeau  798321305 10  6 f   -     -     -         3855    0    0 
+beauzeau  798321360  8  4 f   -     -     -         3855    0    0 
+beauzeau  798321402  8  4 f   -     -     -         3855    0    0 
+beauzeau  798321539  8  3 f   -     -     -         3855    0    0 
+beauzeau  798321600  9  2 Bk  kc    kc    k         3855   40    0 6c 5d
+beauzeau  798321736  8  1 Bf  -     -     -         3815    5    0 
+beauzeau  798321846  7  7 f   -     -     -         3810    0    0 
+beauzeau  798321892  8  8 f   -     -     -         3810    0    0 
+beauzeau  798321987  8  7 r   kf    -     -         3810   20    0 
+beauzeau  798322108  9  6 f   -     -     -         3790    0    0 
+beauzeau  798322148  9  3 Q   -     -     -         3790    0    0 
+beauzeau  798322667  8  3 f   -     -     -         3790    0    0 
+beauzeau  798322720  7  2 Bk  f     -     -         3790   10    0 
+beauzeau  798322747  6  1 Bc  b     -     -         3780   20   40 
+beauzeau  798322770  6  6 r   rc    c     c         3800   90  210 8s 8h
+beauzeau  798322814  7  5 f   -     -     -         3920    0    0 
+beauzeau  798322877  8  5 r   b     b     -         3920   50  115 
+beauzeau  798322918  7  3 f   -     -     -         3985    0    0 
+beauzeau  798322988  7  2 Bc  c     k     b         3985   50  130 Qs 9s
+beauzeau  798323050  7  1 Bc  kr    b     k         4065   50    0 9h Jd
+beauzeau  798323119  8  8 f   -     -     -         4015    0    0 
+beauzeau  798323181  8  7 f   -     -     -         4015    0    0 
+beauzeau  798323237  8  6 f   -     -     -         4015    0    0 
+beauzeau  798323277  7  5 f   -     -     -         4015    0    0 
+beauzeau  798323356  7  4 c   k     k     k         4015   10   40 Kc 7c
+beauzeau  798323413  7  3 c   kf    -     -         4045   10    0 
+beauzeau  798323503  6  1 Bk  b     k     b         4035   40    0 2c 8d
+beauzeau  798323550  6  1 Bf  -     -     -         3995    5    0 
+beauzeau  798323596  6  6 c   k     f     -         3990   10    0 
+beauzeau  798323658  7  6 f   -     -     -         3980    0    0 
+beauzeau  798323697  7  5 f   -     -     -         3980    0    0 
+beauzeau  798323769  6  4 f   -     -     -         3980    0    0 
+beauzeau  798323820  6  3 r   k     b     b         3980   60  115 
+beauzeau  798323847  6  2 Bc  k     b     kc        4035   60    0 9d Jd
+beauzeau  798323902  6  1 Bc  kf    -     -         3975   10    0 
+beauzeau  798323962  8  7 c   r     r     b         3965   90    0 8c Kc
+beauzeau  798324040  7  5 c   k     b     -         3875   30   45 
+beauzeau  798324146  6  3 c   b     k     r         3890   60  140 8h Kh
+beauzeau  798324184  7  2 Bc  kf    -     -         3970   20    0 
+beauzeau  798324213  7  1 Bf  -     -     -         3950    5    0 
+beauzeau  798324308  7  7 f   -     -     -         3945    0    0 
+beauzeau  798324381  8  7 c   kf    -     -         3945   10    0 
+beauzeau  798324496  7  5 f   -     -     -         3935    0    0 
+beauzeau  798324584  7  4 c   b     -     -         3935   20   50 
+beauzeau  798324634  6  2 r   -     -     -         3965   20   30 
+beauzeau  798324650  6  2 Bk  k     k     f         3975   10    0 
+beauzeau  798324698  6  1 Bf  -     -     -         3965    5    0 
+beauzeau  798324755  6  6 r   b     -     -         3960   30   65 
+beauzeau  798324798  6  5 r   k     c     c         3995   60    0 As Th
+beauzeau  798324847  6  4 cc  cc    kf    -         3935   50    0 
+beauzeau  798324921  6  3 Q   -     -     -         3885    0    0 
+beauzeau  798425113 12  8 f   -     -     -         3885    0    0 
+beauzeau  798425172 12  7 f   -     -     -         3885    0    0 
+beauzeau  798425261 12  6 f   -     -     -         3885    0    0 
+beauzeau  798425380 11  4 f   -     -     -         3885    0    0 
+beauzeau  798425447  9  3 cc  kf    -     -         3885   20    0 
+beauzeau  798425546  9  2 Bk  k     b     br        3865   90  240 Ac 2c
+beauzeau  798425639  9  1 Bc  kc    kf    -         4015   30    0 
+beauzeau  798425711  9  9 cc  r     b     f         3985   60    0 
+beauzeau  798425803  9  8 cc  r     b     b         3925   80  230 5h 5c
+beauzeau  798425907  8  6 f   -     -     -         4075    0    0 
+beauzeau  798425945  7  4 c   kc    kf    -         4075   20    0 
+beauzeau  798426042  7  3 f   -     -     -         4055    0    0 
+beauzeau  798426107  7  2 B   -     -     -         4055   10   15 
+beauzeau  798426142  6  1 Bc  k     k     k         4060   10    0 9d Td
+beauzeau  798426191  6  6 f   -     -     -         4050    0    0 
+beauzeau  798426226  6  5 f   -     -     -         4050    0    0 
+beauzeau  798426257  6  4 f   -     -     -         4050    0    0 
+beauzeau  798426281  6  3 r   b     b     -         4050   50   95 
+beauzeau  798426302  6  2 Bk  kf    -     -         4095   10    0 
+beauzeau  798426337  6  1 Bc  kf    -     -         4085   20    0 
+beauzeau  798426381  6  6 f   -     -     -         4065    0    0 
+beauzeau  798426407  6  5 r   r     k     k         4065   50    0 Ad 9c
+beauzeau  798426451  6  4 f   -     -     -         4015    0    0 
+beauzeau  798426498  6  3 rc  kc    kc    kr        4015  100  255 As 3s
+beauzeau  798426547  6  2 Bk  f     -     -         4170   10    0 
+beauzeau  798426577  6  1 Bc  kf    -     -         4160   10    0 
+beauzeau  798426626  7  7 f   -     -     -         4150    0    0 
+beauzeau  798426657  7  6 f   -     -     -         4150    0    0 
+beauzeau  798426678  7  5 cc  kc    k     k         4150   30    0 6d 7d
+beauzeau  798426723  7  4 r   b     b     -         4120   50  135 
+beauzeau  798426791  7  3 f   -     -     -         4205    0    0 
+beauzeau  798426906  7  2 Bc  cc    kc    k         4205   90    0 Kd 4d
+beauzeau  798427065  7  1 Bc  b     b     bc        4115   80    0 As Qh
+beauzeau  798427139  7  7 f   -     -     -         4035    0    0 
+beauzeau  798427197  7  6 f   -     -     -         4035    0    0 
+beauzeau  798427221  7  5 c   f     -     -         4035   10    0 
+beauzeau  798427292  7  4 c   k     f     -         4025   10    0 
+beauzeau  798427343  7  2 Bf  -     -     -         4015   10    0 
+beauzeau  798427397  7  1 Bc  kc    kf    -         4005   30    0 
+beauzeau  798427492  6  6 f   -     -     -         3975    0    0 
+beauzeau  798427528  6  5 r   -     -     -         3975   20   35 
+beauzeau  798427562  5  3 Q   -     -     -         3990    0    0 
+beauzeau  798428401  4  4 cc  f     -     -         3990   20    0 
+beauzeau  798428442  2  1 Bk  kQ    -     -         3970   10    0 
+beauzeau  798431243  4  2 Bk  kc    krr   b         4200  120    0 As Ah
+beauzeau  798431296  6  1 Bc  k     b     -         4080   30   60 
+beauzeau  798431359  7  7 f   -     -     -         4110    0    0 
+beauzeau  798431389  6  5 r   -     -     -         4110   20   35 
+beauzeau  798431413  7  4 f   -     -     -         4125    0    0 
+beauzeau  798431480  7  3 f   -     -     -         4125    0    0 
+beauzeau  798431524  7  2 Bc  b     b     -         4125   50   95 
+beauzeau  798431565  7  1 Bc  kf    -     -         4170   10    0 
+beauzeau  798431598  7  7 f   -     -     -         4160    0    0 
+beauzeau  798431635  8  7 cc  b     -     -         4160   30  110 
+beauzeau  798431686  7  5 f   -     -     -         4240    0    0 
+beauzeau  798431720  6  3 r   b     bc    k         4240   70  175 Ah 9h
+beauzeau  798431788  5  2 B   -     -     -         4345   10   15 
+beauzeau  798431803  7  1 Bc  kf    -     -         4350   10    0 
+beauzeau  798431856  7  7 c   f     -     -         4340   10    0 
+beauzeau  798431928  9  8 f   -     -     -         4330    0    0 
+beauzeau  798431988  9  7 c   c     f     -         4330   30    0 
+beauzeau  798432088  6  3 Q   -     -     -         4300    0    0 
+beauzeau  798433095  7  4 cc  kf    -     -         4300   20    0 
+beauzeau  798433149  7  3 cc  b     b     b         4280   70  155 9d Th
+beauzeau  798433221  8  2 Bk  kf    -     -         4365   10    0 
+beauzeau  798433301  8  1 Bc  bc    kf    -         4355   30    0 
+beauzeau  798433370  8  8 c   k     k     k         4325   10    0 Qs 9s
+beauzeau  798433440  8  7 c   r     b     br        4315  110  260 4s 4c
+beauzeau  798433563  6  5 c   r     b     b         4465   70  160 Kh 5h
+beauzeau  798433638  7  5 f   -     -     -         4555    0    0 
+beauzeau  798433704  8  4 f   -     -     -         4555    0    0 
+beauzeau  798433753  8  3 f   -     -     -         4555    0    0 
+beauzeau  798433821  9  2 Bc  k     b     k         4555   40    0 3h 5c
+beauzeau  798434050  7  1 Bf  -     -     -         4515    5    0 
+beauzeau  798434164  5  5 r   rc    b     k         4510   80    0 Ts 9s
+beauzeau  798434276  6  5 f   -     -     -         4430    0    0 
+beauzeau  798434392  6  3 c   b     k     b         4430   40  115 2h 2c
+beauzeau  798434459  6  2 Bk  b     -     -         4505   20   40 
+beauzeau  798434513  6  1 Bf  -     -     -         4525    5    0 
+beauzeau  798434604  6  6 f   -     -     -         4520    0    0 
+beauzeau  798434717  8  6 Q   -     -     -         4520    0    0 
+beauzeau  798435942  8  3 Q   -     -     -         4520    0    0 
+beauzeau  798436057  8  8 f   -     -     -         4520    0    0 
+beauzeau  798436156  8  7 f   -     -     -         4520    0    0 
+beauzeau  798436215  8  6 f   -     -     -         4520    0    0 
+beauzeau  798436309  7  4 r   b     bc    f         4520   70    0 
+beauzeau  798436400  4  2 Bk  kc    kf    -         4450   20    0 
+beauzeau  798436444  6  1 Bf  -     -     -         4430    5    0 
+beauzeau  798436520  6  6 rr  bc    r     b         4425  120  290 Ks Kh
+beauzeau  798436601  6  5 f   -     -     -         4595    0    0 
+beauzeau  798436634  7  5 f   -     -     -         4595    0    0 
+beauzeau  798436706  6  5 Q   -     -     -         4595    0    0 
+beauzeau  798477315  4  3 f   -     -     -         4595    0    0 
+beauzeau  798477332  4  2 Bk  -     -     -         4595   10   20 
+beauzeau  798477359  5  1 Bc  k     kf    -         4605   10    0 
+beauzeau  798477419  4  4 Q   -     -     -         4595    0    0 
+beauzeau  798477551  3  3 r   b     b     -         4595   50   85 
+beauzeau  798477588  4  2 Bk  k     k     k         4630   10    0 4s 5s
+beauzeau  798477631  5  1 Br  b     b     k         4620   60  130 Td Th
+beauzeau  798477672  5  5 f   -     -     -         4690    0    0 
+beauzeau  798477693  5  4 r   b     -     -         4690   30   60 
+beauzeau  798477716  5  3 cc  c     f     -         4720   30    0 
+beauzeau  798477749  5  2 Bk  kc    bc    kc        4690   80    0 Jd Kd
+beauzeau  798477828  6  1 Br  bc    b     b         4610   90    0 Ks As
+beauzeau  798477882  6  6 f   -     -     -         4520    0    0 
+beauzeau  798477927  6  5 f   -     -     -         4520    0    0 
+beauzeau  798477950  5  4 r   r     rc    k         4520  100    0 Ah Ks
+beauzeau  798477995  6  3 f   -     -     -         4420    0    0 
+beauzeau  798478075  6  2 Bc  b     b     b         4420   70  160 2c Qc
+beauzeau  798478119  7  1 Br  bc    kc    kf        4510   60    0 
+beauzeau  798478171  8  8 f   -     -     -         4450    0    0 
+beauzeau  798478257  9  8 f   -     -     -         4450    0    0 
+beauzeau  798478333  8  6 c   f     -     -         4450   10    0 
+beauzeau  798478406  7  4 f   -     -     -         4440    0    0 
+beauzeau  798478478  8  4 cc  f     -     Q         4440   20    0 
+beauzeau  798486155  6  2 Bc  b     b     b         4420   70  125 
+beauzeau  798486189  5  1 Bc  kf    -     -         4475   20    0 
+beauzeau  798486218  4  4 c   b     -     -         4455   30   90 
+beauzeau  798486251  4  3 f   -     -     -         4515    0    0 
+beauzeau  798486288  4  2 Bk  kc    kf    -         4515   20    0 
+beauzeau  798486329  5  1 Bf  -     -     -         4495    5    0 
+beauzeau  798486348  5  5 rc  c     cc    k         4490  100    0 3d As
+beauzeau  798486444  6  5 rc  rc    r     c         4390  120  275 Ah 8c
+beauzeau  798486498  6  4 cc  kf    -     -         4545   20    0 
+beauzeau  798486545  6  3 c   c     k     f         4525   20    0 
+beauzeau  798486607  7  2 Bk  r     bc    r         4505  110  230 4h As
+beauzeau  798486650  7  1 Bf  -     -     -         4625    5    0 
+beauzeau  798486685  7  7 f   -     -     -         4620    0    0 
+beauzeau  798486707  7  5 r   b     -     -         4620   30   75 
+beauzeau  798486733  7  4 r   bc    c     c         4665   80    0 Qh Qs
+beauzeau  798486769  6  3 f   -     -     -         4585    0    0 
+beauzeau  798486829  6  2 Bk  b     b     k         4585   40   40 3d Ac
+beauzeau  798486884  6  1 Bc  k     -     -         4585   10   20 
+beauzeau  798486909  7  6 f   -     -     -         4595    0    0 
+beauzeau  798486965  7  5 f   -     -     -         4595    0    0 
+beauzeau  798487068  7  4 f   -     -     -         4595    0    0 
+beauzeau  798487170  8  3 Q   -     -     -         4595    0    0 
+beauzeau  798487935  5  4 f   -     -     -         4595    0    0 
+beauzeau  798488000  5  3 f   -     -     -         4595    0    0 
+beauzeau  798488049  5  2 Bk  k     f     -         4595   10    0 
+beauzeau  798488088  5  1 Bc  kc    kf    -         4585   20    0 
+beauzeau  798488185  4  4 f   -     -     -         4565    0    0 
+beauzeau  798488202  4  3 r   -     -     -         4565   20   35 
+beauzeau  798488211  4  2 Brc kc    kf    -         4580   50    0 
+beauzeau  798488258  3  1 Br  b     -     -         4530   30   50 
+beauzeau  798488306  2  2 Brc rc    r     -         4550  110  200 
+beauzeau  798488343  2  1 Bcc kf    -     -         4640   20    0 
+beauzeau  798488370  2  2 Bc  f     -     -         4620   20    0 
+beauzeau  798488383  2  1 Bc  b     -     -         4600   20   30 
+beauzeau  798488395  2  2 B   -     -     -         4610   10   15 
+beauzeau  798488397  2  1 Brc kf    -     -         4615   30    0 
+beauzeau  798488410  2  2 Bc  r     rf    -         4585   80    0 
+beauzeau  798488443  2  1 Bcr b     br    bc        4505  140    0 Ah Kc
+beauzeau  798488498  2  2 Br  b     b     -         4365   60  100 
+beauzeau  798488540  2  1 Bf  -     -     -         4405    5    0 
+beauzeau  798488559  2  2 B   -     -     -         4400   10   15 
+beauzeau  798488563  2  1 Bf  -     -     -         4405    5    0 
+beauzeau  798488572  2  2 B   -     -     -         4400   10   15 
+beauzeau  798488579  2  1 Brc krr   b     b         4405  110  200 
+beauzeau  798488646  2  2 B   -     -     -         4495   10   15 
+beauzeau  798488656  2  1 Bc  b     -     -         4500   20   30 
+beauzeau  798488673  2  2 Bf  -     -     -         4510   10    0 
+beauzeau  798488680  2  1 Bf  -     -     -         4500    5    0 
+beauzeau  798488691  2  2 Bf  -     -     -         4495   10    0 
+beauzeau  798488713  2  1 Bcrc br    bc    br        4485  170  340 5c 5s
+beauzeau  798488761  3  2 Bk  k     kf    -         4655   10    0 
+beauzeau  798488796  3  1 Bc  b     b     b         4645   60  120 9h Jh
+beauzeau  798488859  3  3 f   -     -     -         4705    0    0 
+beauzeau  798488894  3  2 Bc  kr    b     kc        4705   80    0 4c 5h
+beauzeau  798488930  3  1 Bf  -     -     -         4625    5    0 
+beauzeau  798488943  3  3 r   f     -     -         4620   20    0 
+beauzeau  798488975  2  2 B   -     -     -         4600   10   15 
+beauzeau  798488979  2  1 Bc  k     bQ    -         4605   30   40 
+beauzeau  798493911  3  3 r   c     c     c         4615   70  150 Td 8c
+beauzeau  798493939  3  2 Bc  kf    -     -         4695   20    0 
+beauzeau  798493985  3  1 Bc  kc    kf    -         4675   20    0 
+beauzeau  798494016  3  3 c   b     -     -         4655   20   35 
+beauzeau  798494037  3  2 Bf  -     -     -         4670   10    0 
+beauzeau  798494053  3  1 Bc  k     k     b         4660   30   50 
+beauzeau  798494092  3  3 f   -     -     -         4680    0    0 
+beauzeau  798494145  3  2 Bc  b     bc    kc        4680   90    0 As 4h
+beauzeau  798494232  3  1 Bc  b     -     -         4590   20   30 
+beauzeau  798494252  4  3 f   -     -     -         4600    0    0 
+beauzeau  798494295  5  2 Bk  b     kf    -         4600   20    0 
+beauzeau  798494371  5  1 Bc  k     bc    k         4580   60    0 6c 5c
+beauzeau  798494411  5  5 f   -     -     -         4520    0    0 
+beauzeau  798494447  4  4 f   -     -     -         4520    0    0 
+beauzeau  798494462  4  3 f   -     -     -         4520    0    0 
+beauzeau  798494621  6  1 Bc  kc    kf    -         4520   30    0 
+beauzeau  798494670  6  1 Bc  kf    -     -         4490   10    0 
+beauzeau  798494728  9  9 r   br    b     -         4480   70  195 
+beauzeau  798494817  8  7 c   c     k     b         4605   40  100 8c Ac
+beauzeau  798494881  7  5 c   b     -     -         4665   20   50 
+beauzeau  798494921  8  5 f   -     -     -         4695    0    0 
+beauzeau  798494985  8  4 f   -     -     -         4695    0    0 
+beauzeau  798495037  8  4 f   -     -     -         4695    0    0 
+beauzeau  798495077  7  2 Bk  b     -     -         4695   20   35 
+beauzeau  798495104  7  1 Bc  kf    -     -         4710   10    0 
+beauzeau  798495176  8  7 f   -     -     -         4700    0    0 
+beauzeau  798495214 10  8 f   -     -     -         4700    0    0 
+beauzeau  798495291 10  7 f   -     -     -         4700    0    0 
+beauzeau  798495352 10  6 f   -     -     -         4700    0    0 
+beauzeau  798495389 10  5 f   -     -     -         4700    0    0 
+beauzeau  798495441 10  4 c   c     f     -         4700   20    0 
+beauzeau  798495503 10  3 cc  kr    bc    kf        4680   80    0 
+beauzeau  798495589 10  2 Bk  k     kf    -         4600   10    0 
+beauzeau  798495648  9  1 Bc  kf    -     -         4590   10    0 
+beauzeau  798495830 12 12 f   -     -     -         4580    0    0 
+beauzeau  798495941 10  9 c   b     b     -         4580   40   75 
+beauzeau  798496034  8  7 f   -     -     -         4615    0    0 
+beauzeau  798496099 12  9 fQ  -     -     -         4615    0    0 
+beauzeau  798500736 11 10 f   -     -     -         5545    0    0 
+beauzeau  798509626 10  3 cc  kc    kr    kf        5525   70    0 
+beauzeau  798509754 10  3 f   -     -     -         5455    0    0 
+beauzeau  798509918 11  2 Bc  k     k     b         5455   40    0 3s Ah
+beauzeau  798510035 11  1 BKQ -     -     -         5415    5    0 
+beauzeau  798510549 10 10 c   Q     -     -         5410   20    0 
+beauzeau  798511931  8  6 r   r     b     -         5390   60  155 
+beauzeau  798511972  8  5 f   -     -     -         5485    0    0 
+beauzeau  798512025  9  4 rr  rc    kc    bc        5485  130    0 Ad Kh
+beauzeau  798512104  8  2 Bk  f     -     -         5355   10    0 
+beauzeau  798512202  8  1 Bc  kc    k     k         5345   30    0 Qd Jd
+beauzeau  798512288 10 10 f   -     -     -         5315    0    0 
+beauzeau  798512414  8  8 c   k     b     -         5315   40   85 
+beauzeau  798512485  4  4 f   -     -     -         5360    0    0 
+beauzeau  798512503  4  3 r   c     k     r         5360   70    0 3d 3c
+beauzeau  798512547  3  2 Bk  kf    -     -         5290   10    0 
+beauzeau  798512583  3  1 Br  b     b     -         5280   50   80 
+beauzeau  798512605  3  3 c   c     r     b         5310   80    0 6c 7s
+beauzeau  798512644  4  2 Br  b     -     -         5230   30   50 
+beauzeau  798512681  4  1 Bf  -     -     -         5250    5    0 
+beauzeau  798512708  4  4 r   k     r     b         5245   80    0 Qd Ah
+beauzeau  798512741  5  4 f   -     -     -         5165    0    0 
+beauzeau  798512759  5  3 f   -     -     -         5165    0    0 
+beauzeau  798512770  5  2 Bc  k     k     b         5165   40   60 
+beauzeau  798512811  5  1 Br  b     -     -         5185   30   70 
+beauzeau  798512837  5  5 f   -     -     -         5225    0    0 
+beauzeau  798512864  5  4 cc  r     c     f         5225   60    0 
+beauzeau  798512905  5  3 c   f     -     -         5165   10    0 
+beauzeau  798512934  5  2 Bc  b     bc    kf        5155   80    0 
+beauzeau  798512981  5  1 Bc  kr    -     -         5075   30   50 
+beauzeau  798513003  5  5 c   k     k     f         5095   10    0 
+beauzeau  798513036  5  4 f   -     -     -         5085    0    0 
+beauzeau  798513072  6  4 f   -     -     -         5085    0    0 
+beauzeau  798513113  6  3 f   -     -     -         5085    0    0 
+beauzeau  798513147  6  2 Bk  b     b     -         5085   40   70 
+beauzeau  798513196  6  1 Bcc kf    -     -         5115   20    0 
+beauzeau  798513220  6  6 cc  f     -     -         5095   20    0 
+beauzeau  798513261  6  5 rc  rc    c     c         5075  100    0 8h Kh
+beauzeau  798513326  8  5 f   -     -     -         4975    0    0 
+beauzeau  798513385  8  4 f   -     -     -         4975    0    0 
+beauzeau  798513399  8  3 f   -     -     -         4975    0    0 
+beauzeau  798513449  8  2 Bk  k     k     b         4975   30   60 
+beauzeau  798513554  8  1 Bc  kf    -     -         5005   10    0 
+beauzeau  798513630  7  7 c   k     r     bc        4995   90    0 3d Qd
+beauzeau  798513709  8  7 f   -     -     -         4905    0    0 
+beauzeau  798513769  8  6 f   -     -     -         4905    0    0 
+beauzeau  798513807  8  5 f   -     -     -         4905    0    0 
+beauzeau  798513851  8  4 f   -     -     -         4905    0    0 
+beauzeau  798513870  8  3 f   -     -     -         4905    0    0 
+beauzeau  798513920  8  2 Bk  kf    -     -         4905   10    0 
+beauzeau  798513968  8  1 Bf  -     -     -         4895    5    0 
+beauzeau  798514037  8  8 c   r     b     b         4890   80    0 Kc Jd
+beauzeau  798514085  9  8 f   -     -     -         4810    0    0 
+beauzeau  798514135  9  7 f   -     -     -         4810    0    0 
+beauzeau  798514196  9  6 f   -     -     -         4810    0    0 
+beauzeau  798514237  9  6 cc  kc    kf    -         4810   30    0 
+beauzeau  798514313  8  4 f   -     -     -         4780    0    0 
+beauzeau  798514358  8  3 f   -     -     -         4780    0    0 
+beauzeau  798514400  8  2 Bc  krr   b     b         4780  100  205 Kh Qh
+beauzeau  798514445  8  1 Bc  kf    -     -         4885   10    0 
+beauzeau  798514490  8  8 f   -     -     -         4875    0    0 
+beauzeau  798514722  8  7 cc  c     c     f         4875   50    0 
+beauzeau  798514771  8  6 c   k     f     -         4825   10    0 
+beauzeau  798514833  8  5 cc  c     c     k         4815   60    0 8h Qh
+beauzeau  798514905  8  4 f   -     -     -         4755    0    0 
+beauzeau  798514961  8  3 f   -     -     -         4755    0    0 
+beauzeau  798514983  7  2 Bc  bc    b     k         4755   60    0 2c 2d
+beauzeau  798515024  7  1 Bc  kf    -     -         4695   10    0 
+beauzeau  798515079  7  7 f   -     -     -         4685    0    0 
+beauzeau  798515096  7  6 rc  c     f     -         4685   40    0 
+beauzeau  798515139  7  5 f   -     -     -         4645    0    0 
+beauzeau  798515182  7  4 r   b     br    b         4645  110  215 
+beauzeau  798515221  7  3 r   kc    kc    k         4750   50    0 Ah Kd
+beauzeau  798515273  7  2 Bc  kr    b     -         4700   60  140 
+beauzeau  798515338  7  1 Bc  k     bc    kf        4780   60    0 
+beauzeau  798515376  8  8 f   -     -     -         4720    0    0 
+beauzeau  798515417  8  7 f   -     -     -         4720    0    0 
+beauzeau  798515459  8  6 f   -     -     -         4720    0    0 
+beauzeau  798515522  8  5 cc  kc    k     kf        4720   30    0 
+beauzeau  798515596  8  4 f   -     -     -         4690    0    0 
+beauzeau  798515669  7  3 f   -     -     -         4690    0    0 
+beauzeau  798515713  7  2 Bk  f     -     -         4690   10    0 
+beauzeau  798515752  7  1 Bf  -     -     -         4680    5    0 
+beauzeau  798515789  7  7 f   -     -     -         4675    0    0 
+beauzeau  798515859  7  6 f   -     -     -         4675    0    0 
+beauzeau  798515921  6  4 rc  r     b     b         4675  100  220 
+beauzeau  798515997  7  3 r   -     -     -         4795   20   35 
+beauzeau  798516019  7  2 Bc  kc    kc    b         4810   80  205 
+beauzeau  798516096  7  1 Bc  k     bf    -         4935   30    0 
+beauzeau  798516173  7  7 rr  r     b     -         4905   80  200 
+beauzeau  798516449  6  6 f   -     -     -         5025    0    0 
+beauzeau  798516496  6  5 rc  f     -     -         5025   30    0 
+beauzeau  798516613  6  4 f   -     -     -         4995    0    0 
+beauzeau  798516659  6  3 f   -     -     -         4995    0    0 
+beauzeau  798516685  6  2 Bk  k     f     -         4995   10    0 
+beauzeau  798516748  7  1 Bc  kf    -     -         4985   10    0 
+beauzeau  798516879  7  6 rc  r     b     c         4975  100    0 Kh Ks
+beauzeau  798516934  7  5 f   -     -     -         4875    0    0 
+beauzeau  798516989  7  4 c   br    bc    b         4875  100    0 Qh Js
+beauzeau  798517070  8  4 c   c     bf    -         4775   40    0 
+beauzeau  798517116  8  3 cc  kf    -     -         4735   20    0 
+beauzeau  798517191  7  2 Bk  r     b     -         4715   50   90 
+beauzeau  798517259  7  1 Bc  kr    b     b         4755   70  130 
+beauzeau  798517306  7  7 r   b     -     -         4815   40   85 
+beauzeau  798517344  7  6 f   -     -     -         4860    0    0 
+beauzeau  798517419  7  5 r   b     bc    kc        4860   90    0 Kc Qc
+beauzeau  798517519  8  4 f   -     -     -         4770    0    0 
+beauzeau  798517568  8  3 f   -     -     -         4770    0    0 
+beauzeau  798517604  8  2 Bk  k     b     -         4770   30   70 
+beauzeau  798517666  7  1 Bc  k     kf    -         4810   10    0 
+beauzeau  798517715  7  7 f   -     -     -         4800    0    0 
+beauzeau  798517750  7  6 f   -     -     -         4800    0    0 
+beauzeau  798517774  6  4 r   b     b     b         4800   70    0 6h As
+beauzeau  798517832  6  3 f   -     -     -         4730    0    0 
+beauzeau  798517868  6  2 Bc  kc    kc    b         4730   80  190 
+beauzeau  798517950  6  1 Bc  kf    -     -         4840   20    0 
+beauzeau  798518011  7  7 f   -     -     -         4820    0    0 
+beauzeau  798518055  7  6 f   -     -     -         4820    0    0 
+beauzeau  798518089  8  6 f   -     -     -         4820    0    0 
+beauzeau  798518148  8  5 c   b     kc    k         4820   40    0 Qc 9c
+beauzeau  798518222  8  4 f   -     -     -         4780    0    0 
+beauzeau  798518276  8  3 f   -     -     -         4780    0    0 
+beauzeau  798518338  8  2 Bk  k     b     -         4780   30   50 
+beauzeau  798518404  8  1 Bcc kc    bc    b         4800  120  360 6c As
+beauzeau  798518521  8  8 f   -     -     -         5040    0    0 
+beauzeau  798518597  8  7 f   -     -     -         5040    0    0 
+beauzeau  798518634  8  6 f   -     -     -         5040    0    0 
+beauzeau  798518689  8  5 f   -     -     -         5040    0    0 
+beauzeau  798518777  8  5 f   -     -     -         5040    0    0 
+beauzeau  798518847  7  3 Q   -     -     -         5040    0    0 
+beauzeau  798518981  8  3 f   -     -     -         5040    0    0 
+beauzeau  798519065  8  2 Bk  c     c     k         5040   40    0 7d 3c
+beauzeau  798519121  8  1 Bc  kc    bc    bc        5000  100  200 5c Tc
+beauzeau  798519178  8  8 f   -     -     -         5100    0    0 
+beauzeau  798519307  7  7 f   -     -     -         5100    0    0 
+beauzeau  798519370  6  5 f   -     -     -         5100    0    0 
+beauzeau  798519422  7  4 f   -     -     -         5100    0    0 
+beauzeau  798519462  7  3 f   -     -     -         5100    0    0 
+beauzeau  798519500  7  2 Bk  f     -     -         5100   10    0 
+beauzeau  798519534  7  1 Bf  -     -     -         5090    5    0 
+beauzeau  798519569  6  6 f   -     -     -         5085    0    0 
+beauzeau  798519620  6  5 c   f     -     -         5085   20    0 
+beauzeau  798519675  6  4 f   -     -     -         5065    0    0 
+beauzeau  798519706  6  3 f   -     -     -         5065    0    0 
+beauzeau  798519786  6  2 Bc  kf    -     -         5065   20    0 
+beauzeau  798519853  6  1 Bf  -     -     -         5045    5    0 
+beauzeau  798519894  5  5 f   -     -     -         5040    0    0 
+beauzeau  798519927  4  3 f   -     -     -         5040    0    0 
+beauzeau  798519957  4  2 Bc  r     -     -         5040   40   70 
+beauzeau  798519994  3  1 Bf  -     -     -         5070    5    0 
+beauzeau  798520023  3  3 r   bc    r     -         5065   80  145 
+beauzeau  798520058  3  2 Bk  r     f     -         5130   30    0 
+beauzeau  798520111  3  1 Bc  b     bc    k         5100   60    0 7c 5c
+beauzeau  798520153  4  4 c   k     k     k         5040   10    0 Js 9d
+beauzeau  798520197  4  3 f   -     -     -         5030    0    0 
+beauzeau  798520237  4  2 Br  -     -     -         5030   20   30 
+beauzeau  798520258  4  1 Bf  -     -     -         5040    5    0 
+beauzeau  798520300  4  4 f   -     -     -         5035    0    0 
+beauzeau  798520360  4  3 r   b     -     -         5035   30   60 
+beauzeau  798520390  4  2 Bc  kc    kc    kf        5065   50    0 
+beauzeau  798520454  4  1 Bf  -     -     -         5015    5    0 
+beauzeau  798520495  4  4 r   b     c     rc        5010  110  295 9h Th
+beauzeau  798520578  4  3 f   -     -     -         5195    0    0 
+beauzeau  798520617  4  2 Br  b     b     b         5195   80  195 Kc Jc
+beauzeau  798520663  5  1 Bc  kf    -     -         5310   10    0 
+beauzeau  798520725  5  5 c   k     f     -         5300   20    0 
+beauzeau  798520830  5  4 r   b     b     b         5280   70  150 
+beauzeau  798520909  5  3 r   -     -     -         5360   20   35 
+beauzeau  798520932  5  2 Bc  kc    k     k         5375   30   85 Th Ac
+beauzeau  798521000  7  1 Bc  k     k     kf        5430   10    0 
+beauzeau  798521092  8  8 f   -     -     -         5420    0    0 
+beauzeau  798521144  8  7 f   -     -     -         5420    0    0 
+beauzeau  798521196  8  6 c   b     -     -         5420   20   45 
+beauzeau  798521246  9  6 f   -     -     -         5445    0    0 
+beauzeau  798521277  9  5 f   -     -     -         5445    0    0 
+beauzeau  798521331  9  4 f   -     -     -         5445    0    0 
+beauzeau  798521385  9  3 c   b     b     -         5445   40   75 
+beauzeau  798521430  9  2 Bf  -     -     -         5480   10    0 
+beauzeau  798521485  9  1 Bc  k     bc    kf        5470   50    0 
+beauzeau  798521584  8  8 c   r     b     b         5420   70  250 2c Kc
+beauzeau  798521662  7  6 f   -     -     -         5600    0    0 
+beauzeau  798521700  7  6 c   r     b     k         5600   50    0 Jd Td
+beauzeau  798521784  7  5 f   -     -     -         5550    0    0 
+beauzeau  798521819  8  4 f   -     -     -         5550    0    0 
+beauzeau  798521897  9  3 f   -     -     -         5550    0    0 
+beauzeau  798521911  9  2 Bk  b     -     -         5550   20   30 
+beauzeau  798521942  9  1 Bf  -     -     -         5560    5    0 
+beauzeau  798521962  9  9 f   -     -     -         5555    0    0 
+beauzeau  798522048  9  8 f   -     -     -         5555    0    0 
+beauzeau  798522096  8  6 f   -     -     -         5555    0    0 
+beauzeau  798522121  9  6 r   b     br    c         5555  110    0 Kh Qs
+beauzeau  798522186  9  5 f   -     -     -         5445    0    0 
+beauzeau  798522220  8  4 cc  cc    k     b         5445   60  205 9c Tc
+beauzeau  798522313  7  3 f   -     -     -         5590    0    0 
+beauzeau  798522347  8  2 Bc  b     bc    k         5590   70    0 Jd Ks
+beauzeau  798522434  8  1 Bc  kf    -     -         5520   10    0 
+beauzeau  798522510  8  8 f   -     -     -         5510    0    0 
+beauzeau  798522590  8  7 r   b     -     -         5510   30   55 
+beauzeau  798522636  8  6 f   -     -     -         5535    0    0 
+beauzeau  798522689  8  5 f   -     -     -         5535    0    0 
+beauzeau  798522717  8  4 c   bc    f     -         5535   30    0 
+beauzeau  798522839  8  3 r   -     -     -         5505   20   35 
+beauzeau  798522885  7  2 Bc  kf    -     -         5520   20    0 
+beauzeau  798522996  6  1 Bc  kf    -     -         5500   20    0 
+beauzeau  798523046  6  6 f   -     -     -         5480    0    0 
+beauzeau  798523098  6  5 f   -     -     -         5480    0    0 
+beauzeau  798523115  6  4 r   r     b     b         5480   80  145 
+beauzeau  798523165  6  3 c   kc    kc    kf        5545   40    0 
+beauzeau  798523237  7  2 Bc  br    b     k         5505   70  128 Qs Tc
+beauzeau  798523345  7  1 Bf  -     -     -         5563    5    0 
+beauzeau  798523385  7  7 c   bc    c     f         5558   50    0 
+beauzeau  798523432  6  5 c   b     -     -         5508   20   45 
+beauzeau  798523468  7  4 f   -     -     -         5533    0    0 
+beauzeau  798523493  7  3 f   -     -     -         5533    0    0 
+beauzeau  798523507  7  2 Bk  r     b     -         5533   50   80 
+beauzeau  798523538  7  1 Bc  k     b     b         5563   60  180 Td 6d
+beauzeau  798523588  7  7 f   -     -     -         5683    0    0 
+beauzeau  798523636  8  7 f   -     -     -         5683    0    0 
+beauzeau  798523672  8  6 r   -     -     -         5683   20   35 
+beauzeau  798523694  8  5 f   -     -     -         5698    0    0 
+beauzeau  798523716  8  4 r   bc    kc    kc        5698   80    0 Qd Ah
+beauzeau  798523769  9  3 cc  kf    -     -         5618   20    0 
+beauzeau  798523830 10  2 Bc  kc    kf    -         5598   30    0 
+beauzeau  798523881  9  1 Bc  b     brc   b         5568  130  330 4s 5s
+beauzeau  798523946  9  9 f   -     -     -         5768    0    0 
+beauzeau  798523981  9  8 f   -     -     -         5768    0    0 
+beauzeau  798524050  9  7 f   -     -     -         5768    0    0 
+beauzeau  798524080  9  6 c   c     f     -         5768   20    0 
+beauzeau  798524166  9  5 f   -     -     -         5748    0    0 
+beauzeau  798524212  9  4 f   -     -     -         5748    0    0 
+beauzeau  798524270  9  3 c   kf    -     -         5748   10    0 
+beauzeau  798524300  8  2 Bc  kf    -     -         5738   20    0 
+beauzeau  798524331  8  1 Bf  -     -     -         5718    5    0 
+beauzeau  798524391  8  8 f   -     -     -         5713    0    0 
+beauzeau  798524422  8  7 cc  f     -     -         5713   20    0 
+beauzeau  798524509  8  6 r   b     -     -         5693   30   60 
+beauzeau  798524547  7  4 f   -     -     -         5723    0    0 
+beauzeau  798524577  7  3 c   b     b     b         5723   60  185 Td Ad
+beauzeau  798524641  7  2 Bf  -     -     -         5848   10    0 
+beauzeau  798524670  7  1 Bc  b     -     -         5838   30   70 
+beauzeau  798524711  7  7 f   -     -     -         5878    0    0 
+beauzeau  798524727  7  6 f   -     -     -         5878    0    0 
+beauzeau  798524772  7  5 f   -     -     -         5878    0    0 
+beauzeau  798524816  7  3 f   -     -     -         5878    0    0 
+beauzeau  798524838  7  2 Bk  b     k     r         5878   60  120 
+beauzeau  798524888  7  1 Bc  k     k     kf        5938   30    0 
+beauzeau  798524958  7  7 c   r     bc    c         5908  100    0 7d Ah
+beauzeau  798525028  7  6 f   -     -     -         5808    0    0 
+beauzeau  798525110  6  4 c   kc    kf    -         5808   20    0 
+beauzeau  798525200  6  4 r   r     k     c         5788   60  140 Jd Ts
+beauzeau  798525245  5  3 f   -     -     -         5868    0    0 
+beauzeau  798525297  5  2 Bk  f     -     -         5868   10    0 
+beauzeau  798525326  5  1 Bc  kr    b     b         5858   70  140 
+beauzeau  798525371  5  5 f   -     -     -         5928    0    0 
+beauzeau  798525401  5  4 f   -     -     -         5928    0    0 
+beauzeau  798525418  5  3 f   -     -     -         5928    0    0 
+beauzeau  798525444  5  2 Br  -     -     -         5928   20   35 
+beauzeau  798525476  4  1 Bf  -     -     -         5943    5    0 
+beauzeau  798525491  5  5 f   -     -     -         5938    0    0 
+beauzeau  798525537  5  4 f   -     -     -         5938    0    0 
+beauzeau  798525592  5  3 c   b     -     -         5938   20   35 
+beauzeau  798525631  5  2 Bc  kc    kc    kc        5953   80  200 8s 5s
+beauzeau  798525696  5  1 Br  bc    bc    k         6073   80    0 Kc Ac
+beauzeau  798525765  5  5 r   b     bc    k         5993   70    0 Jc Ks
+beauzeau  798525822  5  4 c   r     bc    c         5923   90    0 As 6d
+beauzeau  798525891  5  3 r   b     b     -         5833   50   85 
+beauzeau  798525938  5  2 Bk  b     b     k         5868   40  100 3s Td
+beauzeau  798526004  5  1 Bc  kr    b     kf        5928   60    0 
+beauzeau  798526107  6  5 c   k     k     f         5868   10    0 
+beauzeau  798526159  6  4 cc  cc    f     -         5858   40    0 
+beauzeau  798526229  6  3 f   -     -     -         5818    0    0 
+beauzeau  798526264  6  2 Bk  k     kf    -         5818   10    0 
+beauzeau  798526314  7  1 Bc  b     b     b         5808   60    0 Qs 5c
+beauzeau  798526374  7  7 f   -     -     -         5748    0    0 
+beauzeau  798526424  7  7 c   f     -     -         5748   10    0 
+beauzeau  798526475  6  5 f   -     -     -         5738    0    0 
+beauzeau  798526524  7  4 f   -     -     -         5738    0    0 
+beauzeau  798526600  7  3 f   -     -     -         5738    0    0 
+beauzeau  798526627  7  2 Bk  k     f     -         5738   10    0 
+beauzeau  798526705  8  1 Bf  -     -     -         5728    5    0 
+beauzeau  798526742  9  9 r   c     c     rr        5723  130  380 Qd Ks
+beauzeau  798526819  9  8 f   -     -     -         5973    0    0 
+beauzeau  798526925  9  7 f   -     -     -         5973    0    0 
+beauzeau  798527027  9  6 c   f     -     -         5973   10    0 
+beauzeau  798527057  9  5 f   -     -     -         5963    0    0 
+beauzeau  798527398  9  4 f   -     -     -         5963    0    0 
+beauzeau  798583266  5  5 f   -     -     -         6068    0    0 
+beauzeau  798583340  5  4 r   -     -     -         6068   20   35 
+beauzeau  798583391  4  2 Bk  kf    -     -         6083   10    0 
+beauzeau  798583420  4  1 Br  b     kf    -         6073   30    0 
+beauzeau  798583480  4  4 f   -     -     -         6043    0    0 
+beauzeau  798583534  4  3 c   b     -     -         6043   20   40 
+beauzeau  798583573  4  2 Bk  k     b     -         6063   30   50 
+beauzeau  798583618  4  1 Bf  -     -     -         6083    5    0 
+beauzeau  798583652  4  4 f   -     -     -         6078    0    0 
+beauzeau  798583682  4  3 f   -     -     -         6078    0    0 
+beauzeau  798583716  4  2 Bk  k     kf    -         6078   10    0 
+beauzeau  798583756  4  1 Bc  b     b     bc        6068   80    0 5h 6s
+beauzeau  798583832  4  4 f   -     -     -         5988    0    0 
+beauzeau  798583929  4  3 r   -     -     -         5988   20   35 
+beauzeau  798583945  4  2 Br  k     b     -         6003   40   70 
+beauzeau  798583991  4  1 Bf  -     -     -         6033    5    0 
+beauzeau  798584013  3  3 cc  k     k     f         6028   20    0 
+beauzeau  798584052  3  2 Bk  b     b     b         6008   60    0 Qh 7s
+beauzeau  798584173  3  1 Bc  kc    kr    -         5948   70  130 
+beauzeau  798584222  3  3 c   k     b     -         6008   30   45 
+beauzeau  798584248  3  2 Br  rc    f     -         6023   50    0 
+beauzeau  798584291  3  1 Bc  b     b     b         5973   60  160 Qc 9c
+beauzeau  798584332  3  3 rc  c     c     f         6073   60    0 
+beauzeau  798584402  3  2 Bk  k     k     f         6013   10    0 
+beauzeau  798584447  3  1 Bc  bc    b     k         6003   50    0 Jd Th
+beauzeau  798584499  3  3 r   b     b     -         5953   50  100 
+beauzeau  798584581  3  2 Bk  r     r     b         6003   90  190 4h 5h
+beauzeau  798584640  3  1 Br  b     b     -         6103   50  110 
+beauzeau  798584690  3  3 f   -     -     -         6163    0    0 
+beauzeau  798584730  3  2 Bk  b     -     -         6163   20   30 
+beauzeau  798584767  3  1 Bf  -     -     -         6173    5    0 
+beauzeau  798584777  3  3 f   -     -     -         6168    0    0 
+beauzeau  798584808  4  2 Bc  kf    -     -         6168   20    0 
+beauzeau  798584835  4  1 Bc  b     b     b         6148   60  140 Ks Qc
+beauzeau  798584873  4  4 r   f     -     -         6228   20    0 
+beauzeau  798584967  4  3 c   b     b     -         6208   40   70 
+beauzeau  798585008  5  3 f   -     -     -         6238    0    0 
+beauzeau  798585063  6  2 Bc  c     r     b         6238   90  200 7h 9s
+beauzeau  798585130  6  1 Bf  -     -     -         6348    5    0 
+beauzeau  798585189  6  6 f   -     -     -         6343    0    0 
+beauzeau  798585265  6  5 f   -     -     -         6343    0    0 
+beauzeau  798585300  6  4 f   -     -     -         6343    0    0 
+beauzeau  798585366  6  3 f   -     -     -         6343    0    0 
+beauzeau  798585426  7  2 Bk  k     kf    -         6343   10    0 
+beauzeau  798585501  8  1 Bc  k     k     k         6333   10   30 4c 8d
+beauzeau  798585546  8  8 f   -     -     -         6353    0    0 
+beauzeau  798585592  8  7 f   -     -     -         6353    0    0 
+beauzeau  798585691  8  6 r   k     rc    rc        6353  140  315 Ks As
+beauzeau  798585774  8  5 c   k     f     -         6528   10    0 
+beauzeau  798585881  9  4 f   -     -     -         6518    0    0 
+beauzeau  798585961  9  3 Q   -     -     -         6518    0    0 
+beauzeau  798687107  8  7 f   -     -     -         6518    0    0 
+beauzeau  798687208  8  6 Q   -     -     -         6518    0    0 
+beauzeau  798738725  2  2 B   -     -     -         6518   10   15 
+beauzeau  798738733  2  1 Brc kc    kf    -         6523   40    0 
+beauzeau  798738761  2  2 B   -     -     -         6483   10   15 
+beauzeau  798738765  2  1 Bc  br    b     -         6488   60  100 
+beauzeau  798738796  3  2 Bc  k     f     -         6528   20    0 
+beauzeau  798738820  3  1 Bf  -     -     -         6508    5    0 
+beauzeau  798738854  3  3 r   f     -     -         6503   20    0 
+beauzeau  798738889  3  2 Bk  k     r     k         6483   50  110 2c 7h
+beauzeau  798738923  3  1 Br  b     -     -         6543   30   50 
+beauzeau  798738943  3  3 f   -     -     -         6563    0    0 
+beauzeau  798738978  3  2 Bc  k     c     c         6563   60    0 8s Td
+beauzeau  798739027  3  1 Bc  kf    -     -         6503   10    0 
+beauzeau  798739074  3  3 cc  r     b     b         6493   80  170 
+beauzeau  798739117  4  2 Bk  r     b     k         6583   50  100 4s 5d
+beauzeau  798739161  4  1 Bc  kc    kc    b         6633   60  140 
+beauzeau  798739201  4  4 f   -     -     -         6713    0    0 
+beauzeau  798739257  4  3 cc  k     b     b         6713   60  165 Js 9d
+beauzeau  798739318  5  2 Bc  kf    -     -         6818   20    0 
+beauzeau  798739347  6  1 Bf  -     -     -         6798    5    0 
+beauzeau  798739392  6  6 c   b     k     k         6793   20   55 6s 7d
+beauzeau  798739450  6  5 f   -     -     -         6828    0    0 
+beauzeau  798739506  6  4 f   -     -     -         6828    0    0 
+beauzeau  798739552  6  3 f   -     -     -         6828    0    0 
+beauzeau  798739697  6  2 BQ  -     -     -         6828   10    0 
+beauzeau  798739905  6  5 f   -     -     -         6818    0    0 
+beauzeau  798739972  6  4 r   c     c     kc        6818   80    0 Ah Qh
+beauzeau  798740039  6  4 f   -     -     -         6738    0    0 
+beauzeau  798740101  5  2 Bc  c     b     b         6738   70  190 Ah Qh
+beauzeau  798740155  5  1 Bc  kf    -     -         6858   10    0 
+beauzeau  798740211  5  5 f   -     -     -         6848    0    0 
+beauzeau  798740265  6  5 c   r     b     bc        6848  110    0 Ac 3c
+beauzeau  798740342  6  4 f   -     -     -         6738    0    0 
+beauzeau  798740376  6  3 f   -     -     Q         6738    0    0 
+beauzeau  798742395  3  2 Bk  k     k     kf        6738   10    0 
+beauzeau  798742440  4  1 Bc  kc    k     k         6728   20   60 2c Ac
+beauzeau  798742473  5  5 f   -     -     -         6768    0    0 
+beauzeau  798742497  6  5 rc  rc    c     rc        6768  140    0 As 9h
+beauzeau  798742559  7  5 c   r     bc    c         6628   90    0 4h Qh
+beauzeau  798742622  7  4 c   kf    -     -         6538   10    0 
+beauzeau  798742692  7  3 f   -     -     -         6528    0    0 
+beauzeau  798742728  7  2 Bc  b     bf    -         6528   50    0 
+beauzeau  798742791  7  1 Bc  k     b     -         6478   30   50 
+beauzeau  798742820  7  7 c   r     b     b         6498   70  245 Td Jh
+beauzeau  798742896  8  7 c   b     b     k         6673   40    0 3s 3h
+beauzeau  798743001  8  6 f   -     -     -         6633    0    0 
+beauzeau  798743068  8  5 c   k     k     r         6633   50    0 8c Jc
+beauzeau  798743177  9  4 f   -     -     -         6583    0    0 
+beauzeau  798743244  9  3 f   -     -     -         6583    0    0 
+beauzeau  798743350 10  2 Bf  -     -     -         6583   10    0 
+beauzeau  798743436 11  1 Bc  kc    kc    k         6573   50    0 Jd 6d
+beauzeau  798743584 11 11 c   c     f     -         6523   30    0 
+beauzeau  798743667 12 11 f   -     -     -         6493    0    0 
+beauzeau  798743771 12 10 f   -     -     -         6493    0    0 
+beauzeau  798744004 12  9 f   -     -     -         6493    0    0 
+beauzeau  798744160 12  8 c   f     -     -         6493   10    0 
+beauzeau  798744253 12  7 c   b     bc    bc        6483  100  345 5h 4h
+beauzeau  798744505  7  4 c   b     -     -         6728   20   30 
+beauzeau  798744539  8  4 r   b     b     b         6738   70    0 4d 4h
+beauzeau  798744666  9  3 f   -     -     -         6668    0    0 
+beauzeau  798744752  7  1 Bk  k     k     b         6668   30   50 
+beauzeau  798744836  7  1 Bc  k     kf    -         6688   10    0 
+beauzeau  798744904  6  6 r   c     rc    rr        6678  170  395 As Ts
+beauzeau  798745030  5  5 Q   -     -     -         6903    0    0 
+beauzeau  798747300  5  5 r   b     -     -         6903   30   65 
+beauzeau  798747379  5  3 f   -     -     -         6938    0    0 
+beauzeau  798747459  5  3 f   -     -     -         6938    0    0 
+beauzeau  798747532  6  2 Bk  f     -     -         6938   10    0 
+beauzeau  798747593  6  1 Bf  -     -     -         6928    5    0 
+beauzeau  798747654  6  6 f   -     -     -         6923    0    0 
+beauzeau  798747707  6  5 c   kf    -     -         6923   10    0 
+beauzeau  798747808  5  3 rr  f     -     -         6913   40    0 
+beauzeau  798747898  6  2 Bc  f     -     -         6873   20    0 
+beauzeau  798747948  6  1 Bc  b     kr    b         6853   80  250 2s 2c
+beauzeau  798748104  7  6 f   -     -     -         7023    0    0 
+beauzeau  798748186  6  4 c   k     b     b         7023   50  120 3d Jd
+beauzeau  798748259  6  4 f   -     -     -         7093    0    0 
+beauzeau  798748345  6  3 f   -     -     -         7093    0    0 
+beauzeau  798748378  5  2 Bk  k     k     k         7093   10    0 5s Tc
+beauzeau  798748441  5  1 Bc  kf    -     -         7083   10    0 
+beauzeau  798748501  5  5 r   -     -     -         7073   20   35 
+beauzeau  798748521  4  4 f   -     -     -         7088    0    0 
+beauzeau  798748612  5  4 f   -     -     -         7088    0    0 
+beauzeau  798748650  5  3 c   k     b     -         7088   30   60 
+beauzeau  798748775  4  2 Bk  k     k     kf        7118   10    0 
+beauzeau  798748842  4  1 Bc  b     b     br        7108  100  210 7d As
+beauzeau  798748913  4  4 f   -     -     -         7218    0    0 
+beauzeau  798748927  4  3 Q   -     -     -         7218    0    0 
+beauzeau  798762560 10  7 c   rc    c     f         7218   70    0 
+beauzeau  798762705 10  6 rc  b     b     b         7148   80  215 
+beauzeau  798762828 11  5 f   -     -     -         7283    0    0 
+beauzeau  798762927 10  3 rr  b     b     b         7283   90  170 
+beauzeau  798763084  8  4 f   -     -     -         7363    0    0 
+beauzeau  798763116  8  2 Bk  k     b     -         7363   30   40 
+beauzeau  798763246  9  1 Bc  kc    kc    k         7373   40    0 Jh 8h
+beauzeau  798763346 10 10 f   -     -     -         7333    0    0 
+beauzeau  798763442  9  8 f   -     -     -         7333    0    0 
+beauzeau  798763545 10  8 f   -     -     -         7333    0    0 
+beauzeau  798763660 10  7 c   b     b     b         7333   60  185 
+beauzeau  798763819  9  5 f   -     -     -         7458    0    0 
+beauzeau  798763936  9  5 f   -     -     -         7458    0    0 
+beauzeau  798764017  9  4 f   -     -     -         7458    0    0 
+beauzeau  798764111  9  3 r   b     b     b         7458   70  155 
+beauzeau  798764302 11  2 Bf  -     -     -         7543   10    0 
+beauzeau  798764424 11  1 Bc  k     b     b         7533   50    0 Jc Ah
+beauzeau  798764561 11 11 r   rr    rc    rc        7483  180  470 Kd Kc
+beauzeau  798765404 11  5 f   -     -     -         7843    0    0 
+beauzeau  798765478 11  4 c   c     c     k         7843   40  210 8s 9s
+beauzeau  798765596 11  3 fQ  -     -     -         8013    0    0 
+beauzeau  798770834 11  9 f   -     -     -         8013    0    0 
+beauzeau  798770910 10  7 f   -     -     -         8013    0    0 
+beauzeau  798770964 10  6 f   -     -     -         8013    0    0 
+beauzeau  798771032 10  5 f   -     -     -         8013    0    0 
+beauzeau  798771116 10  4 f   -     -     -         8013    0    0 
+beauzeau  798771291  8  2 f   -     -     -         8013    0    0 
+beauzeau  798771361  8  2 Br  rKQ   -     -         8013   50    0 
+beauzeau  798771595  8  7 f   -     -     -         7963    0    0 
+beauzeau  798771676  8  7 f   -     -     -         7963    0    0 
+beauzeau  798771750  7  5 f   -     -     -         7963    0    0 
+beauzeau  798771790  7  4 c   r     r     b         7963   90  190 
+beauzeau  798771877  7  3 f   -     -     -         8063    0    0 
+beauzeau  798771933  8  2 Bc  k     k     kf        8063   20    0 
+beauzeau  798772025  7  1 Bf  -     -     -         8043    5    0 
+beauzeau  798772183 10 10 f   -     -     -         8038    0    0 
+beauzeau  798772284 10  9 r   rc    f     -         8038   60    0 
+beauzeau  798772401 11  8 f   -     -     -         7978    0    0 
+beauzeau  798772497 11  7 c   c     f     -         7978   20    0 
+beauzeau  798772584 10  6 f   -     -     -         7958    0    0 
+beauzeau  798772676 10  5 f   -     -     -         7958    0    0 
+beauzeau  798772902 11  4 r   b     bc    k         7958   70    0 Ad Td
+beauzeau  798773058 11  3 f   -     -     -         7888    0    0 
+beauzeau  798773132 11  2 Bc  f     -     -         7888   20    0 
+beauzeau  798773244 10  1 Bc  kf    -     -         7868   30    0 
+beauzeau  798773336  9  9 f   -     -     -         7838    0    0 
+beauzeau  798773444  9  8 r   b     c     b         7838   70  235 Qd As
+beauzeau  798773571  9  7 c   c     r     rr        8003  150  183 8c Tc
+beauzeau  798773815  8  2 Q   -     -     -         8036    0    0 
+beauzeau  798775496 10  6 f   -     -     -         7646    0    0 
+beauzeau  798775579 11  5 f   -     -     -         7646    0    0 
+beauzeau  798775731 11  4 f   -     -     -         7646    0    0 
+beauzeau  798775791 11  3 f   -     -     -         7646    0    0 
+beauzeau  798775950 10  2 Bc  bc    k     c         7646   60    0 Kd 6s
+beauzeau  798776024  9  1 Bf  -     -     -         7586    5    0 
+beauzeau  798776143  9  9 c   rc    r     b         7581  110    0 Ac 3s
+beauzeau  798776258  8  7 f   -     -     -         7471    0    0 
+beauzeau  798776374  7  6 f   -     -     -         7471    0    0 
+beauzeau  798776473  7  3 Q   -     -     -         7471    0    0 
+beauzeau  798777354  6  2 Bf  -     -     -         7471   10    0 
+beauzeau  798777422  5  1 Bc  b     b     -         7461   40   60 
+beauzeau  798777454  5  5 f   -     -     -         7481    0    0 
+beauzeau  798777510  5  3 Q   -     -     -         7481    0    0 
+beauzeau  798778927  5  1 Bk  kf    -     -         7481   10    0 
+beauzeau  798779016  7  1 Bc  kf    -     -         7471   20    0 
+beauzeau  798779076  7  7 f   -     -     -         7451    0    0 
+beauzeau  798779196  7  6 f   -     -     -         7451    0    0 
+beauzeau  798779256  7  5 f   -     -     -         7451    0    0 
+beauzeau  798779274  7  4 f   -     -     -         7451    0    0 
+beauzeau  798779390  8  2 Bc  kf    -     -         7451   20    0 
+beauzeau  798779448  8  1 Bc  k     bc    kf        7431   50    0 
+beauzeau  798779533  9  9 rr  b     b     -         7381   70  170 
+beauzeau  798779645  9  8 f   -     -     -         7481    0    0 
+beauzeau  798779697  8  7 c   rc    c     f         7481   60    0 
+beauzeau  798779809  8  7 f   -     -     -         7421    0    0 
+beauzeau  798779964  9  7 f   -     -     -         7421    0    0 
+beauzeau  798780080  9  7 r   k     r     b         7421   90  215 As Ad
+beauzeau  798780151  7  4 Q   -     -     -         7546    0    0 
+beauzeau  798823304  7  4 f   -     -     -         7546    0    0 
+beauzeau  798823373  8  2 Bc  kf    -     -         7546   20    0 
+beauzeau  798823484  7  1 Bcc kf    -     -         7526   20    0 
+beauzeau  798823669  6  6 c   b     b     -         7506   40   70 
+beauzeau  798823776  4  3 c   -     -     -         7536   10   20 
+beauzeau  798823807  4  3 f   -     -     -         7546    0    0 
+beauzeau  798823847  4  2 Bf  -     -     -         7546   10    0 
+beauzeau  798823926  5  1 Brc kc    k     krr       7536  120  320 6d Ad
+beauzeau  798824044  5  5 f   -     -     -         7736    0    0 
+beauzeau  798824087  5  4 f   -     -     -         7736    0    0 
+beauzeau  798824192  5  3 f   -     -     -         7736    0    0 
+beauzeau  798824296  5  2 B   -     -     -         7736   10   15 
+beauzeau  798824323  5  1 Bf  -     -     -         7741    5    0 
+beauzeau  798824367  4  4 f   -     -     -         7736    0    0 
+beauzeau  798824402  3  3 r   -     -     -         7736   20   35 
+beauzeau  798824426  3  2 Bc  rc    f     -         7751   50    0 
+beauzeau  798824478  3  1 Bc  k     kf    -         7701   10    0 
+beauzeau  798824520  2  2 Bk  r     b     b         7691   70    0 Ad Ts
+beauzeau  798824554  3  1 Bf  -     -     -         7621    5    0 
+beauzeau  798824568  3  3 f   -     -     -         7616    0    0 
+beauzeau  798824609  3  2 Bf  -     -     -         7616   10    0 
+beauzeau  798824618  3  1 Bc  k     b     k         7606   30    0 9h Jd
+beauzeau  798824661  4  4 f   -     -     -         7576    0    0 
+beauzeau  798824694  4  3 f   Q     -     -         7576    0    0 
+beauzeau  798824777  4  4 r   br    b     k         7576   70  200 Ah 6c
+beauzeau  798824852  5  3 f   -     -     -         7706    0    0 
+beauzeau  798824917  5  2 Bk  bc    kc    kf        7706   50    0 
+beauzeau  798824969  5  1 Bc  k     kf    -         7656   10    0 
+beauzeau  798825038  5  5 f   -     -     -         7646    0    0 
+beauzeau  798825089  5  4 f   -     -     -         7646    0    0 
+beauzeau  798825126  4  3 f   -     -     -         7646    0    0 
+beauzeau  798825144  4  2 Br  b     bc    c         7646  100    0 Jd Ac
+beauzeau  798825209  6  1 Bc  k     kf    -         7546   10    0 
+beauzeau  798825322  6  6 r   bc    c     f         7536   60    0 
+beauzeau  798825426  5  5 f   -     -     -         7476    0    0 
+beauzeau  798825511  6  4 f   -     -     -         7476    0    0 
+beauzeau  798825600  6  3 f   -     -     -         7476    0    0 
+beauzeau  798825672  6  2 Bk  k     b     -         7476   30   50 
+beauzeau  798825758  6  1 Bf  -     -     -         7496    5    0 
+beauzeau  798825798  5  5 cc  rc    f     -         7491   50    0 
+beauzeau  798825877  5  4 c   kf    -     -         7441   10    0 
+beauzeau  798825948  4  2 Bk  kf    -     -         7431   10    0 
+beauzeau  798826018  4  1 Bf  -     -     -         7421    5    0 
+beauzeau  798826060  4  4 f   -     -     -         7416    0    0 
+beauzeau  798826127  5  3 r   -     -     -         7416   20   35 
+beauzeau  798826148  5  2 Bk  k     k     b         7431   30   45 
+beauzeau  798826194  5  1 Bc  k     kf    -         7446   10    0 
+beauzeau  798826273  5  5 f   -     -     -         7436    0    0 
+beauzeau  798826326  5  4 f   -     -     -         7436    0    0 
+beauzeau  798826373  6  3 rc  bc    k     f         7436   50    0 
+beauzeau  798826424  7  2 Bk  b     -     -         7386   20   35 
+beauzeau  798826471  7  1 Br  -     -     -         7401   20   30 
+beauzeau  798826503  7  7 r   b     b     -         7411   50   95 
+beauzeau  798826563  7  7 Q   -     -     -         7456    0    0 
+beauzeau  798829042  9  8 f   -     -     -         7456    0    0 
+beauzeau  798829089  9  7 f   -     -     -         7456    0    0 
+beauzeau  798829141  9  6 c   r     b     k         7456   50  135 3d 3s
+beauzeau  798829313  8  4 cc  f     -     -         7541   20    0 
+beauzeau  798829409  8  3 f   -     -     -         7521    0    0 
+beauzeau  798829467 10  2 Bf  -     -     -         7521   10    0 
+beauzeau  798829541 10  1 Bf  -     -     -         7511    5    0 
+beauzeau  798829646 10 10 f   -     -     -         7506    0    0 
+beauzeau  798829737 11 10 f   -     -     -         7506    0    0 
+beauzeau  798829778 10  8 c   rc    b     -         7506   70  225 
+beauzeau  798829875  9  6 f   -     -     -         7661    0    0 
+beauzeau  798829961  9  5 f   -     -     -         7661    0    0 
+beauzeau  798830004  9  3 cc  br    b     kc        7661   90  230 Kc 7s
+beauzeau  798830136 11  4 f   -     -     -         7801    0    0 
+beauzeau  798830217 11  3 Q   -     -     -         7801    0    0 
+beauzeau  798831064  7  2 Bk  k     kc    bc        7801   70  145 6c Jh
+beauzeau  798831137  8  1 Bf  -     -     -         7876    5    0 
+beauzeau  798831192  8  8 f   -     -     -         7871    0    0 
+beauzeau  798831246  8  7 f   -     -     -         7871    0    0 
+beauzeau  798831310  8  6 r   b     b     -         7871   50  100 
+beauzeau  798831384  7  5 f   -     -     -         7921    0    0 
+beauzeau  798831417  7  4 c   c     f     -         7921   20    0 
+beauzeau  798831521  7  3 Q   -     -     -         7901    0    0 
+beauzeau  798832264 12  3 f   -     -     -         7901    0    0 
+beauzeau  798832321 12  2 Bk  kc    k     b         7901   40  155 
+beauzeau  798832411 12  1 Bc  kf    -     -         8016   10    0 
+beauzeau  798832513 10  3 Q   -     -     -         8006    0    0 
+beauzeau  798903165  4  2 Bc  k     k     b         7636   40    0 3h 6d
+beauzeau  798903262  4  1 Bc  bc    k     b         7596   60  190 2d 2c
+beauzeau  798903346  4  4 f   -     -     -         7726    0    0 
+beauzeau  798903405  3  2 B   -     -     -         7726   10   15 
+beauzeau  798903413  3  1 Bc  kf    -     -         7731   10    0 
+beauzeau  798903445  3  3 r   -     -     -         7721   20   35 
+beauzeau  798903455  3  2 B   -     -     -         7736   10   15 
+beauzeau  798903462  3  1 Bc  kc    kf    -         7741   20    0 
+beauzeau  798903483  3  3 f   -     -     -         7721    0    0 
+beauzeau  798903504  2  1 Br  b     -     -         7721   30   50 
+beauzeau  798903534  2  1 Brc kr    b     b         7741   90  160 
+beauzeau  798903558  2  2 Bf  -     -     -         7811   10    0 
+beauzeau  798903572  2  1 Bf  -     -     -         7801    5    0 
+beauzeau  798903575  2  2 Bc  k     k     k         7796   20   40 5h Qh
+beauzeau  798903592  2  1 Brc b     -     -         7816   40   70 
+beauzeau  798903609  2  2 Bk  c     f     -         7846   20    0 
+beauzeau  798903622  2  1 Bf  -     -     -         7826    5    0 
+beauzeau  798903625  2  2 Bf  -     -     -         7821   10    0 
+beauzeau  798903631  2  1 Bc  b     -     -         7811   20   30 
+beauzeau  798903640  2  2 Bc  b     -     -         7821   30   50 
+beauzeau  798903653  2  1 Bf  -     -     -         7841    5    0 
+beauzeau  798903660  2  2 B   -     -     -         7836   10   15 
+beauzeau  798903663  2  1 Br  bc    kf    -         7841   40    0 
+beauzeau  798903687  2  2 Bc  f     -     -         7801   20    0 
+beauzeau  798903695  2  1 Bc  k     k     k         7781   10    0 9c 7h
+beauzeau  798903712  2  2 Bk  f     -     -         7771   10    0 
+beauzeau  798903720  2  1 Bcc kc    k     bc        7761   70    0 Jd Kd
+beauzeau  798903741  2  2 Br  b     bc    k         7691   70  140 3s 5s
+beauzeau  798903778  2  1 Bc  k     k     kf        7761   10    0 
+beauzeau  798903805  2  2 B   -     -     -         7751   10   15 
+beauzeau  798903807  2  1 Brc bc    kc    kf        7756   70    0 
+beauzeau  798903859  2  2 B   -     -     -         7686   10   15 
+beauzeau  798903866  2  1 Bf  -     -     -         7691    5    0 
+beauzeau  798903870  2  2 B   -     -     -         7686   10   15 
+beauzeau  798903872  2  1 Bc  k     b     -         7691   30   40 
+beauzeau  798903884  2  2 Bk  b     -     -         7701   20   30 
+beauzeau  798903897  2  1 Br  -     -     -         7711   20   30 
+beauzeau  798903903  2  2 Bc  c     r     b         7721   90  180 3d 9d
+beauzeau  798903931  2  1 Br  b     bc    kc        7811   90    0 7c 7h
+beauzeau  798903959  2  2 B   -     -     -         7721   10   15 
+beauzeau  798903962  2  1 Bc  k     b     -         7726   30   40 
+beauzeau  798903979  2  2 Br  b     -     -         7736   30   50 
+beauzeau  798903988  2  1 Bf  -     -     -         7756    5    0 
+beauzeau  798903994  2  2 B   -     -     -         7751   10   15 
+beauzeau  798903996  2  1 Br  b     -     -         7756   30   50 
+beauzeau  798904004  2  2 Bc  c     f     -         7776   30    0 
+beauzeau  798904014  2  1 Bf  -     -     -         7746    5    0 
+beauzeau  798904018  2  2 Bk  k     c     c         7741   50    0 7h 2c
+beauzeau  798904037  2  1 Bf  -     -     -         7691    5    0 
+beauzeau  798904064  2  2 Bf  -     -     -         7686   10    0 
+beauzeau  798904073  2  1 Br  -     -     -         7676   20   30 
+beauzeau  798904079  2  2 B   -     -     -         7686   10   15 
+beauzeau  798904081  2  1 Bf  -     -     -         7691    5    0 
+beauzeau  798904085  2  2 B   -     -     -         7686   10   15 
+beauzeau  798904087  2  1 Bf  -     -     -         7691    5    0 
+beauzeau  798904092  2  2 B   -     -     -         7686   10   15 
+beauzeau  798904094  2  1 Bc  b     -     -         7691   20   30 
+beauzeau  798904103  2  2 B   -     -     -         7701   10   15 
+beauzeau  798904106  2  1 Bf  -     -     -         7706    5    0 
+beauzeau  798904116  2  2 Bk  b     f     -         7701   20    0 
+beauzeau  798904136  2  1 Bc  b     -     -         7681   20   30 
+beauzeau  798904149  2  2 Bf  -     -     -         7691   10    0 
+beauzeau  798904153  2  1 Bf  -     -     -         7681    5    0 
+beauzeau  798904156  2  2 Br  b     bc    f         7676   80    0 
+beauzeau  798904185  2  1 Br  k     bf    -         7596   40    0 
+beauzeau  798904222  2  2 Br  b     -     -         7556   40   70 
+beauzeau  798904232  2  1 Bf  -     -     -         7586    5    0 
+beauzeau  798904242  2  2 Br  k     b     -         7581   40   60 
+beauzeau  798904262  2  1 Br  -     -     -         7601   20   30 
+beauzeau  798904269  2  2 B   -     -     -         7611   10   15 
+beauzeau  798904271  2  1 Bf  -     -     -         7616    5    0 
+beauzeau  798904275  2  2 B   -     -     -         7611   10   15 
+beauzeau  798904279  2  1 Bf  -     -     -         7616    5    0 
+beauzeau  798904284  2  2 B   -     -     -         7611   10   15 
+beauzeau  798904285  2  1 Bc  b     b     -         7616   40   60 
+beauzeau  798904302  2  2 Bc  k     k     f         7636   20    0 
+beauzeau  798904320  2  1 Bf  -     -     -         7616    5    0 
+beauzeau  798904324  2  2 Bk  k     b     -         7611   30   40 
+beauzeau  798904338  2  1 Bcc kr    b     b         7621   80  160 5d Td
+beauzeau  798904367  2  2 Bk  k     k     f         7701   10    0 
+beauzeau  798904391  2  1 Br  -     -     -         7691   20   30 
+beauzeau  798904401  2  2 Br  k     b     -         7701   40   60 
+beauzeau  798904417  2  1 Br  -     -     -         7721   20   30 
+beauzeau  798904435  2  2 Br  b     -     -         7731   30   50 
+beauzeau  798904449  2  1 Bc  kf    -     -         7751   10    0 
+beauzeau  798904466  2  2 Bc  k     bc    f         7741   60    0 
+beauzeau  798904487  2  1 Br  -     -     -         7681   20   30 
+beauzeau  798904495  2  2 Bf  -     -     -         7691   10    0 
+beauzeau  798904502  2  1 Br  -     -     -         7681   20   30 
+beauzeau  798904507  2  2 Bk  b     -     -         7691   20   30 
+beauzeau  798904526  2  1 Bf  -     -     -         7701    5    0 
+beauzeau  798904537  2  2 Bk  k     k     k         7696   10    0 Qh 2c
+beauzeau  798904555  2  1 Bc  b     bc    kf        7686   60    0 
+beauzeau  798904581  2  2 B   -     -     -         7626   10   15 
+beauzeau  798904587  2  1 Bc  b     -     -         7631   20   30 
+beauzeau  798904604  3  3 r   -     -     -         7641   20   35 
+beauzeau  798904618  3  2 Bk  k     b     b         7656   50   80 
+beauzeau  798904638  3  1 Bc  k     k     kf        7686   10    0 
+beauzeau  798904667  3  3 f   -     -     -         7676    0    0 
+beauzeau  798904700  4  3 r   kc    bc    kf        7676   70    0 
+beauzeau  798904733  4  2 Bc  kf    -     -         7606   20    0 
+beauzeau  798904776  2  1 Brc kf    -     -         7586   30    0 
+beauzeau  798904790  2  2 Bk  k     k     k         7556   10    0 2d 5s
+beauzeau  798904804  2  1 Bf  -     -     -         7546    5    0 
+beauzeau  798904811  2  2 Br  b     -     -         7541   40   70 
+beauzeau  798904819  2  1 Br  -     -     -         7571   20   30 
+beauzeau  798904824  2  2 Br  b     -     -         7581   30   50 
+beauzeau  798904837  2  1 Br  -     -     -         7601   20   30 
+beauzeau  798904842  2  2 Bc  c     c     k         7611   50  100 6c 7h
+beauzeau  798904858  2  1 Bf  -     -     -         7661    5    0 
+beauzeau  798904866  2  2 Bk  k     k     bf        7656   30    0 
+beauzeau  798904899  2  1 Bf  -     -     -         7626    5    0 
+beauzeau  798904909  2  2 Bk  b     r     k         7621   60  120 7c Th
+beauzeau  798904944  2  1 Bf  -     -     -         7681    5    0 
+beauzeau  798904954  2  2 Bc  f     -     -         7676   20    0 
+beauzeau  798904963  2  1 Bf  -     -     -         7656    5    0 
+beauzeau  798904967  2  2 Bk  b     -     -         7651   20   30 
+beauzeau  798904985  2  1 Bf  -     -     -         7661    5    0 
+beauzeau  798904990  2  2 Br  b     -     -         7656   40   70 
+beauzeau  798905040  2  1 BKQ -     -     -         7686    5    0 
+beauzeau  798911248  4  2 Bk  k     r     k         7681   50    0 5h Jh
+beauzeau  798911279  4  1 Bc  b     k     k         7631   20   50 2h Ts
+beauzeau  798911317  4  4 f   -     -     -         7661    0    0 
+beauzeau  798911348  5  3 r   b     k     k         7661   30    0 Ks Qc
+beauzeau  798911402  5  2 Bk  kf    -     -         7631   10    0 
+beauzeau  798911455  6  1 Bc  k     kf    -         7621   10    0 
+beauzeau  798911497  6  6 c   b     -     -         7611   20   40 
+beauzeau  798911533  6  4 Q   -     -     -         7631    0    0 
+beauzeau  798912004  4  2 Bk  b     b     f         7631   40    0 
+beauzeau  798912048  6  1 Bf  -     -     -         7591    5    0 
+beauzeau  798912169  6  6 f   -     -     -         7586    0    0 
+beauzeau  798912208  6  5 f   -     -     -         7586    0    0 
+beauzeau  798912236  6  4 f   -     -     -         7586    0    0 
+beauzeau  798912295  7  3 c   c     k     b         7586   40   70 
+beauzeau  798912357  7  2 Bk  c     f     -         7616   20    0 
+beauzeau  798912398  6  1 Bf  -     -     -         7596    5    0 
+beauzeau  798912434  6  6 c   f     -     -         7591   10    0 
+beauzeau  798912486  6  5 f   -     -     -         7581    0    0 
+beauzeau  798912533  6  4 c   k     f     -         7581   10    0 
+beauzeau  798912598  6  3 cc  r     b     b         7571   80    0 6c 4c
+beauzeau  798912666  6  2 Bk  b     -     -         7491   20   40 
+beauzeau  798912750  6  1 Br  bc    b     k         7511   60  140 Ac 5c
+beauzeau  798912827  6  6 cc  c     r     b         7591   90  180 
+beauzeau  798912899  6  5 f   -     -     -         7681    0    0 
+beauzeau  798912959  6  4 f   -     -     -         7681    0    0 
+beauzeau  798913001  6  3 f   -     -     -         7681    0    0 
+beauzeau  798913059  6  2 Bf  -     -     -         7681   10    0 
+beauzeau  798913117  8  1 Bf  -     -     -         7671    5    0 
+beauzeau  798913201  8  8 f   -     -     -         7666    0    0 
+beauzeau  798913254  8  7 f   -     -     -         7666    0    0 
+beauzeau  798913330  7  5 f   -     -     -         7666    0    0 
+beauzeau  798913384  8  5 f   -     -     -         7666    0    0 
+beauzeau  798913443  9  5 c   f     -     -         7666   20    0 
+beauzeau  798913538  8  4 r   rc    f     -         7646   50    0 
+beauzeau  798913650  7  2 Q   -     -     -         7596    0    0 
+beauzeau  798913978  8  3 cc  b     b     bc        7596   90  285 Tc Jh
+beauzeau  798914108  7  2 Br  b     bc    b         7791   90  255 Tc Td
+beauzeau  798914196  7  1 Bc  kcc   kc    kf        7956   90    0 
+beauzeau  798914381  7  7 f   -     -     -         7866    0    0 
+beauzeau  798914517  7  6 f   -     -     -         7866    0    0 
+beauzeau  798914538  7  5 f   -     -     -         7866    0    0 
+beauzeau  798914638  7  4 f   -     -     -         7866    0    0 
+beauzeau  798914684  8  3 f   -     -     -         7866    0    0 
+beauzeau  798914718  9  3 f   -     -     -         7866    0    0 
+beauzeau  798914839 11  2 Bk  k     kf    -         7866   10    0 
+beauzeau  798914939 11  1 Br  bc    k     b         7856   60  170 Qd Qc
+beauzeau  798915003 11 11 f   -     -     -         7966    0    0 
+beauzeau  798915090 12 10 r   c     k     rf        7966   70    0 
+beauzeau  798915200 11  8 r   bc    f     -         7896   40    0 
+beauzeau  798915321 11  7 c   kf    -     -         7856   10    0 
+beauzeau  798915405 11  6 c   b     -     -         7846   20   45 
+beauzeau  798915559 11  5 f   -     -     -         7871    0    0 
+beauzeau  798915700 12  4 f   -     -     -         7871    0    0 
+beauzeau  798915779 11  3 rc  bc    kQ    -         7871   60    0 
+beauzeau  798922234  8  7 cc  b     b     f         7766   50    0 
+beauzeau  798922351  7  5 f   -     -     -         7716    0    0 
+beauzeau  798922388  7  4 f   -     -     -         7716    0    0 
+beauzeau  798922459  7  3 cc  kr    b     b         7716   80  195 Jh 6h
+beauzeau  798922590  8  2 Bc  Q     -     -         7831   20    0 

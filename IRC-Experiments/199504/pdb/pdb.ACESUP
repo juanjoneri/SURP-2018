@@ -1,0 +1,1438 @@
+ACESUP    797532791 11  9 r   kc    kc    f         1000   50    0 
+ACESUP    797532874 11  7 r   b     b     k          950   50  255 Jc Ac
+ACESUP    797532978 11  6 f   -     -     -         1155    0    0 
+ACESUP    797533052  9  4 c   k     c     f         1155   30    0 
+ACESUP    797533157 10  4 f   -     -     -         1125    0    0 
+ACESUP    797533251 11  3 f   -     -     -         1125    0    0 
+ACESUP    797533312 12  2 Bk  b     b     b         1125   60  135 8s 9c
+ACESUP    797533384 11  1 Bc  f     -     -         1200   10    0 
+ACESUP    797533459 10 10 r   c     f     -         1190   30    0 
+ACESUP    797533573 10  9 f   -     -     -         1160    0    0 
+ACESUP    797533650 10  8 f   -     -     -         1160    0    0 
+ACESUP    797533749  9  7 c   ccc   c     f         1160   70    0 
+ACESUP    797533888 10  6 c   f     -     -         1090   10    0 
+ACESUP    797534028 10  5 f   -     -     -         1080    0    0 
+ACESUP    797534148  8  4 c   c     r     b         1080   80  245 9h Jc
+ACESUP    797534212  8  3 f   -     -     -         1245    0    0 
+ACESUP    797534278  9  2 Bk  f     -     -         1245   10    0 
+ACESUP    797534352  8  1 Bf  -     -     -         1235    5    0 
+ACESUP    797534402 10 10 c   c     f     -         1230   20    0 
+ACESUP    797534511 10  9 f   -     -     -         1210    0    0 
+ACESUP    797534627 10  8 c   f     -     -         1210   20    0 
+ACESUP    797534694 10  6 c   cc    f     -         1190   40    0 
+ACESUP    797534839 10  5 ccc ccc   kcc   kf        1150  160    0 
+ACESUP    797535083  9  4 f   -     -     -          990    0    0 
+ACESUP    797535236 10  5 c   b     b     cc         990   80  143 8s Ac
+ACESUP    797535336  9  4 f   -     -     -         1053    0    0 
+ACESUP    797535394 10  2 Bc  f     -     -         1053   20    0 
+ACESUP    797535496 10  1 Bc  f     -     -         1033   20    0 
+ACESUP    797535613 11 11 r   rc    c     c         1013   90    0 8h 8s
+ACESUP    797535718  8  8 f   -     -     -          923    0    0 
+ACESUP    797535809  8  7 r   r     r     c          923  100  325 Js Kd
+ACESUP    797535906  9  7 f   -     -     -         1148    0    0 
+ACESUP    797535944  7  4 f   -     -     -         1148    0    0 
+ACESUP    797536013  7  3 cc  c     f     -         1148   30    0 
+ACESUP    797536070  7  2 Brc ccc   bcc   kf        1118  160    0 
+ACESUP    797536243  9  1 Br  k     k     kc         958   40    0 Kh Ad
+ACESUP    797536322  9  9 f   -     -     -          918    0    0 
+ACESUP    797536380 10  9 c   c     f     -          918   20    0 
+ACESUP    797536459 10  8 f   -     -     -          898    0    0 
+ACESUP    797536530 10  7 cc  b     br    rr         898  170    0 Jh Qd
+ACESUP    797536783  9  6 c   k     c     k          728   50  170 6h 5c
+ACESUP    797536894  9  5 f   -     -     -          848    0    0 
+ACESUP    797536991  9  4 f   -     -     -          848    0    0 
+ACESUP    797537169  9  3 f   -     -     -          848    0    0 
+ACESUP    797537238  9  2 Bc  f     -     -          848   20    0 
+ACESUP    797537360 12  1 BQQ -     -     -          828    5    0 
+ACESUP    797546140  9  7 c   r     r     r          823  130  330 Qs Ad
+ACESUP    797546216  9  6 f   -     -     -         1023    0    0 
+ACESUP    797546295  8  5 f   -     -     -         1023    0    0 
+ACESUP    797546383  8  4 f   -     -     -         1023    0    0 
+ACESUP    797546453  9  3 f   -     -     -         1023    0    0 
+ACESUP    797546512  9  2 Bc  k     kc    kc        1023   70    0 5c Ah
+ACESUP    797546664 10  1 Bc  b     bc    kc         953   80    0 8c 9s
+ACESUP    797546752 10 10 c   k     c     k          873   30   95 9d Ad
+ACESUP    797546828  9  8 f   -     -     -          938    0    0 
+ACESUP    797546864  8  6 c   b     b     b          938   60  140 
+ACESUP    797546929  9  5 c   f     -     -         1018   20    0 
+ACESUP    797546975  9  4 r   c     f     -          998   30    0 
+ACESUP    797547047  9  3 c   kc    kc    b          968   60  140 6d 6s
+ACESUP    797547122 10  2 Bk  k     kf    -         1048   10    0 
+ACESUP    797547200 10  1 Bf  -     -     -         1038    5    0 
+ACESUP    797547313 11 11 f   -     -     -         1033    0    0 
+ACESUP    797547349 11 10 r   b     b     brc       1033  140  167 Kh Ah
+ACESUP    797547439 11  9 cf  -     -     -         1060   20    0 
+ACESUP    797547559 10  7 f   -     -     -         1040    0    0 
+ACESUP    797547708  9  7 f   -     -     -         1040    0    0 
+ACESUP    797547748  8  5 f   -     -     -         1040    0    0 
+ACESUP    797547827  7  5 cc  c     f     -         1040   30    0 
+ACESUP    797547906  8  5 f   -     -     -         1010    0    0 
+ACESUP    797547939  8  3 f   -     -     -         1010    0    0 
+ACESUP    797547997  9  2 Bc  cc    kc    kf        1010   90    0 
+ACESUP    797548121  9  1 Bf  -     -     -          920    5    0 
+ACESUP    797548214  9  9 cc  c     k     b          915   50   90 
+ACESUP    797548282  8  7 r   bc    c     f          955   60    0 
+ACESUP    797548347  7  5 f   -     -     -          895    0    0 
+ACESUP    797548406  9  4 f   -     -     -          895    0    0 
+ACESUP    797548499 10  3 f   Q     -     -          895    0    0 
+ACESUP    797548752 12 12 c   c     c     f          895   40    0 
+ACESUP    797548830 12 11 c   b     bc    f          855  100    0 
+ACESUP    797548982 12 10 f   -     -     -          755    0    0 
+ACESUP    797549112 11  8 c   c     k     b          755   40  160 Qh Js
+ACESUP    797549215 10  7 fQ  -     -     -          875    0    0 
+ACESUP    797556289 11  8 f   -     -     -          875    0    0 
+ACESUP    797556344 12  8 cc  cc    c     f          875   70    0 
+ACESUP    797556457 12  7 c   c     c     f          805   40    0 
+ACESUP    797556557 12  6 f   -     -     -          765    0    0 
+ACESUP    797556702 12  5 cc  kc    kc    kf         765   50    0 
+ACESUP    797556801 12  4 f   -     -     -          715    0    0 
+ACESUP    797556895 12  3 cc  bc    kc    f          715   60    0 
+ACESUP    797556980 12  2 Bc  br    br    kc         655  140  615 7s 7c
+ACESUP    797557125 12  1 Bc  kc    kc    b         1130  100  410 4s 2s
+ACESUP    797557308 12 12 cc  f     -     -         1440   30    0 
+ACESUP    797557516 12 11 c   f     -     -         1410   20    0 
+ACESUP    797557624 11  9 f   -     -     -         1390    0    0 
+ACESUP    797557949 11  8 cc  k     k     f         1390   20    0 
+ACESUP    797558110 11  7 cr  rc    bf    -         1370  100    0 
+ACESUP    797558267 12  6 f   -     -     -         1270    0    0 
+ACESUP    797558348 12  5 f   -     -     -         1270    0    0 
+ACESUP    797558464 12  5 cc  br    b     b         1270   90  255 4d Qd
+ACESUP    797558560 11  4 f   -     -     -         1435    0    0 
+ACESUP    797558665 10  2 Bf  -     -     -         1435   10    0 
+ACESUP    797558738  8  1 Bc  kc    f     -         1425   20    0 
+ACESUP    797558827  9  9 c   f     -     -         1405   10    0 
+ACESUP    797558876  7  6 c   r     b     b         1395   70  155 Kh Jc
+ACESUP    797558964  6  4 cc  c     f     -         1480   30    0 
+ACESUP    797559051  7  4 f   -     -     -         1450    0    0 
+ACESUP    797559121  6  3 c   c     f     -         1450   20    0 
+ACESUP    797559168  6  2 Bc  f     -     -         1430   20    0 
+ACESUP    797559224  5  1 Bc  f     -     -         1410   10    0 
+ACESUP    797559308  6  6 cc  f     -     -         1400   40    0 
+ACESUP    797559400  7  6 f   -     -     -         1360    0    0 
+ACESUP    797559456  7  5 c   f     -     -         1360   10    0 
+ACESUP    797559513  7  4 f   -     -     -         1350    0    0 
+ACESUP    797559583  7  3 f   -     -     -         1350    0    0 
+ACESUP    797559637  6  2 Br  kc    kc    f         1350   50    0 
+ACESUP    797559744  5  1 Bc  f     -     -         1300   30    0 
+ACESUP    797559818  5  5 f   -     -     -         1270    0    0 
+ACESUP    797559838  5  4 f   -     -     -         1270    0    0 
+ACESUP    797559889  5  3 f   -     -     -         1270    0    0 
+ACESUP    797559935  4  2 Bf  -     -     -         1270   10    0 
+ACESUP    797559988  6  1 Bc  k     b     b         1260   50  120 2h Ah
+ACESUP    797560049  6  6 c   r     c     k         1330   50  170 Qs 8d
+ACESUP    797560113  6  5 f   -     -     -         1450    0    0 
+ACESUP    797560150  4  3 c   -     -     -         1450   20   60 
+ACESUP    797560181  5  2 Bf  -     -     -         1490   10    0 
+ACESUP    797560209  5  1 Bc  f     -     -         1480   10    0 
+ACESUP    797560261  5  5 r   k     f     -         1470   20    0 
+ACESUP    797560316  5  3 f   -     -     -         1450    0    0 
+ACESUP    797560342  5  1 Bk  f     -     -         1450   10    0 
+ACESUP    797560403  4  1 Bf  -     -     -         1440    5    0 
+ACESUP    797560455  4  4 c   c     f     -         1435   20    0 
+ACESUP    797560501  5  2 Bf  -     -     -         1415   10    0 
+ACESUP    797560520  5  1 Bf  -     -     -         1405    5    0 
+ACESUP    797560579  7  7 r   c     b     b         1400   70  215 Kd As
+ACESUP    797560671  5  4 r   b     -     -         1545   30   55 
+ACESUP    797560715  6  4 r   f     -     -         1570   20    0 
+ACESUP    797560748  5  2 Br  b     b     b         1550   70  145 Kc Ks
+ACESUP    797560798  4  1 Bf  -     -     -         1625    5    0 
+ACESUP    797560844  6  6 cc  -     -     -         1620   20   75 
+ACESUP    797560894  6  5 f   -     -     -         1675    0    0 
+ACESUP    797560939  6  5 f   -     -     -         1675    0    0 
+ACESUP    797560963  6  3 f   -     -     -         1675    0    0 
+ACESUP    797560991  5  2 Bk  f     -     -         1675   10    0 
+ACESUP    797561017  6  1 Bf  -     -     -         1665    5    0 
+ACESUP    797561056  7  7 c   c     r     b         1660   80  185 Ts 8c
+ACESUP    797561128  6  5 f   -     -     -         1765    0    0 
+ACESUP    797561174  6  4 c   b     b     -         1765   40   85 
+ACESUP    797561228  6  3 cc  kc    kc    f         1810   50    0 
+ACESUP    797561329  6  3 cc  k     kc    f         1760   40    0 
+ACESUP    797561403  7  1 Bf  -     -     -         1720   10    0 
+ACESUP    797561434  7  1 Bf  -     -     -         1710    5    0 
+ACESUP    797561470  7  7 c   c     f     -         1705   20    0 
+ACESUP    797561531  8  6 c   f     -     -         1685   10    0 
+ACESUP    797561602  8  5 rrc c     f     -         1675   60    0 
+ACESUP    797561658  6  3 cc  kf    -     -         1615   20    0 
+ACESUP    797561731 10  4 f   -     -     -         1595    0    0 
+ACESUP    797561818  8  2 c   f     -     -         1595   10    0 
+ACESUP    797561894  9  2 Bc  f     -     -         1585   20    0 
+ACESUP    797561991  9  1 Bcc kc    bc    f         1565   80    0 
+ACESUP    797562130 10 10 f   -     -     -         1485    0    0 
+ACESUP    797562186  9  8 f   -     -     -         1485    0    0 
+ACESUP    797562253  9  5 c   f     -     -         1485   10    0 
+ACESUP    797562308  8  4 f   -     -     -         1475    0    0 
+ACESUP    797562319  8  3 f   -     -     -         1475    0    0 
+ACESUP    797562333  8  2 Bf  -     -     -         1475   10    0 
+ACESUP    797562363  8  1 Bc  f     -     -         1465   10    0 
+ACESUP    797562434  6  6 c   b     -     -         1455   20   45 
+ACESUP    797562464  8  7 f   -     -     -         1480    0    0 
+ACESUP    797562491  6  4 c   f     -     -         1480   20    0 
+ACESUP    797562519  6  4 r   r     b     r         1460  100  225 Ad As
+ACESUP    797562592  6  3 cc  kc    b     kc        1585   70    0 3h 3d
+ACESUP    797562676  5  2 Bk  f     -     -         1515   10    0 
+ACESUP    797562730  6  1 Bc  kc    f     -         1505   20    0 
+ACESUP    797562787  7  7 c   c     c     f         1485   50    0 
+ACESUP    797562841  7  6 c   r     b     b         1435   70  220 As 2s
+ACESUP    797562916  8  6 cc  f     -     -         1585   30    0 
+ACESUP    797562990  8  5 f   -     -     -         1555    0    0 
+ACESUP    797563067  8  4 cc  cc    kc    f         1555   60    0 
+ACESUP    797563208  8  3 rc  kc    f     -         1495   50    0 
+ACESUP    797563313  9  2 Bc  f     -     -         1445   20    0 
+ACESUP    797563363  9  1 Bc  f     -     -         1425   10    0 
+ACESUP    797563451 10 10 cc  b     b     b         1415   70  200 
+ACESUP    797563561  9  7 f   -     -     -         1545    0    0 
+ACESUP    797563615 10  7 c   f     -     -         1545   10    0 
+ACESUP    797563693 10  6 c   f     -     -         1535   10    0 
+ACESUP    797563829  9  5 f   -     -     -         1525    0    0 
+ACESUP    797563930 10  4 f   -     -     -         1525    0    0 
+ACESUP    797563999 10  3 f   -     -     -         1525    0    0 
+ACESUP    797564075 11  2 Bk  f     -     -         1525   10    0 
+ACESUP    797564139 12  1 Bc  f     -     -         1515   10    0 
+ACESUP    797564220 12 12 f   -     -     -         1505    0    0 
+ACESUP    797564344 10  9 f   -     -     -         1505    0    0 
+ACESUP    797564448  8  6 cc  r     -     -         1505   60  165 
+ACESUP    797564517  6  3 f   -     -     -         1610    0    0 
+ACESUP    797564616  6  2 f   -     -     -         1610    0    0 
+ACESUP    797564656  8  2 Bk  f     -     -         1610   10    0 
+ACESUP    797564744  9  1 Bc  k     brrc  kc        1600  150    0 4h 8d
+ACESUP    797564859  9  9 f   -     -     -         1450    0    0 
+ACESUP    797564999  8  7 c   c     c     f         1450   40    0 
+ACESUP    797565074  9  7 c   r     k     k         1410   30  100 Ks 4s
+ACESUP    797565164 10  7 cc  f     -     -         1480   20    0 
+ACESUP    797565316  9  5 cc  kc    kf    -         1460   30    0 
+ACESUP    797565415  8  5 r   f     -     -         1430   20    0 
+ACESUP    797565451  9  4 c   bc    b     b         1410   80    0 Tc Jc
+ACESUP    797565605 11  4 f   -     -     -         1330    0    0 
+ACESUP    797565663 11  3 r   c     c     f         1330   50    0 
+ACESUP    797565749 11  2 Bk  f     -     -         1280   10    0 
+ACESUP    797565809 10  1 Bf  -     -     -         1270    5    0 
+ACESUP    797565842 10 10 Q   -     -     -         1265    0    0 
+ACESUP    797622294 11 10 f   -     -     -         1265    0    0 
+ACESUP    797622489 11  8 f   -     -     -         1265    0    0 
+ACESUP    797622537 11  7 c   f     -     -         1265   10    0 
+ACESUP    797622626 10  5 f   -     -     -         1255    0    0 
+ACESUP    797622743 10  4 f   -     -     -         1255    0    0 
+ACESUP    797622899 10  3 f   -     -     -         1255    0    0 
+ACESUP    797623255  7  2 Bk  k     b     -         1255   30   70 
+ACESUP    797623314  6  1 Bc  f     -     -         1295   20    0 
+ACESUP    797623381  5  5 f   -     -     -         1275    0    0 
+ACESUP    797623449  6  4 c   r     b     b         1275   70  170 
+ACESUP    797623525  7  3 f   -     -     -         1375    0    0 
+ACESUP    797623572  7  2 Br  b     b     -         1375   50  115 
+ACESUP    797623632  8  1 Bc  f     -     -         1440   10    0 
+ACESUP    797623716  8  8 c   f     -     -         1430   10    0 
+ACESUP    797623809  7  6 c   f     -     -         1420   10    0 
+ACESUP    797623863  7  6 f   -     -     -         1410    0    0 
+ACESUP    797623952  7  5 f   -     -     -         1410    0    0 
+ACESUP    797624062  7  4 f   -     -     -         1410    0    0 
+ACESUP    797624139  8  3 f   -     -     -         1410    0    0 
+ACESUP    797624223  8  2 Bk  f     -     -         1410   10    0 
+ACESUP    797624321  9  1 Bc  f     -     -         1400   10    0 
+ACESUP    797624403  9  9 c   c     f     -         1390   20    0 
+ACESUP    797624524  9  8 c   k     b     b         1370   50  145 7d Qd
+ACESUP    797624607 12  9 cc  Q     -     -         1465   40    0 
+ACESUP    797625030 11  2 Br  brc   b     b         1425  100  310 Qs Qd
+ACESUP    797625182 11  1 Bf  -     -     -         1635    5    0 
+ACESUP    797625349 12 12 r   c     b     f         1630   50    0 
+ACESUP    797625475 12 11 c   f     -     -         1580   20    0 
+ACESUP    797625671 10  9 f   -     -     -         1560    0    0 
+ACESUP    797625813 12  9 f   -     -     -         1560    0    0 
+ACESUP    797625919 12  9 f   -     -     -         1560    0    0 
+ACESUP    797626075 10  6 f   -     -     -         1560    0    0 
+ACESUP    797626168 12  5 f   -     -     -         1560    0    0 
+ACESUP    797626295 12  4 f   -     -     -         1560    0    0 
+ACESUP    797626375 12  3 f   -     -     -         1560    0    0 
+ACESUP    797626442 12  2 BQ  -     -     -         1560   10    0 
+ACESUP    797637196 11  8 f   -     -     -         1550    0    0 
+ACESUP    797637303 10  6 f   -     -     -         1550    0    0 
+ACESUP    797637394 10  5 f   -     -     -         1550    0    0 
+ACESUP    797637475  9  3 rc  rc    c     br        1550  138  666 Ad Qd
+ACESUP    797637652  9  1 Bk  b     b     b         2078   60  230 Jh 9h
+ACESUP    797637799  7  1 Bf  -     -     -         2248    5    0 
+ACESUP    797637876  7  7 c   f     -     -         2243   10    0 
+ACESUP    797638009  9  8 c   k     c     f         2233   30    0 
+ACESUP    797638086  9  7 f   -     -     -         2203    0    0 
+ACESUP    797638143 10  7 fQ  -     -     -         2203    0    0 
+ACESUP    797638329 11  6 r   br    b     b         2203   90  275 Qd As
+ACESUP    797638435 12  6 f   -     -     -         2388    0    0 
+ACESUP    797638557 11  4 f   -     -     -         2388    0    0 
+ACESUP    797638627 10  2 f   -     -     -         2388    0    0 
+ACESUP    797638707  9  2 Bk  k     bc    kc        2388   70    0 4c 9h
+ACESUP    797638810  8  1 Bc  k     f     -         2318   10    0 
+ACESUP    797638882 10 10 c   f     -     -         2308   10    0 
+ACESUP    797639023  9  8 f   -     -     -         2298    0    0 
+ACESUP    797639126  9  7 f   -     -     -         2298    0    0 
+ACESUP    797639215  8  5 f   -     -     -         2298    0    0 
+ACESUP    797639268  8  4 f   -     -     -         2298    0    0 
+ACESUP    797639338  8  3 cc  b     k     b         2298   50  150 
+ACESUP    797639439  8  2 Bc  c     f     -         2398   30    0 
+ACESUP    797639488  8  1 Bf  -     -     -         2368    5    0 
+ACESUP    797639591  8  8 f   -     -     -         2363    0    0 
+ACESUP    797639681  6  5 f   -     -     -         2363    0    0 
+ACESUP    797639736  5  3 f   -     -     -         2363    0    0 
+ACESUP    797639831  5  2 Bk  k     b     -         2363   30   45 
+ACESUP    797639878  5  1 Bc  b     bc    bc        2378  110    0 9d Kd
+ACESUP    797639998  7  7 cc  cc    c     f         2268   80    0 
+ACESUP    797640094  6  6 c   cc    c     f         2188   50    0 
+ACESUP    797640198  7  5 c   c     c     f         2138   50    0 
+ACESUP    797640405  6  4 c   f     -     -         2088   10    0 
+ACESUP    797640477  7  3 f   -     -     -         2078    0    0 
+ACESUP    797640537  6  2 Bk  f     -     -         2078   10    0 
+ACESUP    797640574  6  1 Bcc f     -     -         2068   20    0 
+ACESUP    797640629  6  6 rc  k     c     f         2048   60    0 
+ACESUP    797640688  7  5 f   -     -     -         1988    0    0 
+ACESUP    797640773  8  4 c   f     -     -         1988   10    0 
+ACESUP    797640897  7  3 c   bc    bc    brc       1978  150  165 9s Qs
+ACESUP    797641007  7  2 Bf  -     -     -         1993   10    0 
+ACESUP    797641056  8  1 Bc  kc    br    b         1983  110  250 Qd 9d
+ACESUP    797641132  8  8 f   -     -     -         2123    0    0 
+ACESUP    797641159  8  7 c   f     -     -         2123   10    0 
+ACESUP    797641250  8  6 c   f     -     -         2113   10    0 
+ACESUP    797641353  7  4 c   f     -     -         2103   10    0 
+ACESUP    797641390  7  3 c   bc    kc    kc        2093   70    0 8s Ks
+ACESUP    797641497  7  2 Bf  -     -     -         2023   10    0 
+ACESUP    797641590  7  1 Bc  b     b     b         2013   70  180 
+ACESUP    797641667  7  7 c   c     c     r         2123   90  195 Kc 6c
+ACESUP    797641715  8  7 c   c     f     -         2228   20    0 
+ACESUP    797641805  8  6 f   -     -     -         2208    0    0 
+ACESUP    797641858  6  4 r   b     -     -         2208   30   80 
+ACESUP    797641891  6  3 f   -     -     -         2258    0    0 
+ACESUP    797641973  6  2 Bc  f     -     -         2258   20    0 
+ACESUP    797642047  6  1 Bc  bc    b     kf        2238   60    0 
+ACESUP    797642122  6  6 c   c     c     k         2178   40    0 3h As
+ACESUP    797642201  6  5 f   -     -     -         2138    0    0 
+ACESUP    797642217  5  3 f   -     -     -         2138    0    0 
+ACESUP    797642227  5  2 Bf  -     -     -         2138   10    0 
+ACESUP    797642268  5  1 Br  b     br    b         2128  120  290 Kc Qc
+ACESUP    797642328  6  5 f   -     -     -         2298    0    0 
+ACESUP    797642368  6  4 f   -     -     -         2298    0    0 
+ACESUP    797642441  6  3 cc  f     -     -         2298   20    0 
+ACESUP    797642501  7  2 Bk  k     kf    -         2278   10    0 
+ACESUP    797642560  7  1 Bc  f     -     -         2268   10    0 
+ACESUP    797642599  6  6 f   -     -     -         2258    0    0 
+ACESUP    797642622  6  5 f   -     -     -         2258    0    0 
+ACESUP    797642665  6  4 c   b     b     bf        2258   60    0 
+ACESUP    797642729  5  2 B   -     -     -         2198   10   15 
+ACESUP    797642741  5  1 Bc  k     k     kf        2203   10    0 
+ACESUP    797642805  6  6 f   -     -     -         2193    0    0 
+ACESUP    797642869  7  6 c   rc    c     f         2193   70    0 
+ACESUP    797642928  7  5 f   -     -     -         2123    0    0 
+ACESUP    797642961  7  4 f   -     -     -         2123    0    0 
+ACESUP    797643026  7  3 f   -     -     -         2123    0    0 
+ACESUP    797643083 10  5 f   -     -     -         2123    0    0 
+ACESUP    797643125 10  4 f   -     -     -         2123    0    0 
+ACESUP    797643174 10  3 c   cc    f     -         2123   30    0 
+ACESUP    797643261 10  2 Bk  f     -     -         2093   10    0 
+ACESUP    797643308 10  1 Bc  kc    f     -         2083   20    0 
+ACESUP    797643361  9  9 c   c     r     rrc       2063  160    0 9c Qh
+ACESUP    797643450  8  7 f   -     -     -         1903    0    0 
+ACESUP    797643496  9  7 c   r     rr    r         1903  150    0 9d 5d
+ACESUP    797643586  9  6 c   k     c     f         1753   30    0 
+ACESUP    797643664  9  5 f   -     -     -         1723    0    0 
+ACESUP    797643719  9  4 f   -     -     -         1723    0    0 
+ACESUP    797643788 10  4 f   -     -     -         1723    0    0 
+ACESUP    797643869 10  5 f   -     -     -         1723    0    0 
+ACESUP    797643921 10  3 f   -     -     -         1723    0    0 
+ACESUP    797643992 10  2 Bc  k     kf    -         1723   20    0 
+ACESUP    797644095 11  1 Bf  -     -     -         1703    5    0 
+ACESUP    797644223 11 11 f   -     -     -         1698    0    0 
+ACESUP    797644295 10 10 c   r     c     k         1698   60  165 Jh Qc
+ACESUP    797644392 10  9 f   -     -     -         1803    0    0 
+ACESUP    797644446 10  8 f   -     -     -         1803    0    0 
+ACESUP    797644540 10  7 f   -     -     -         1803    0    0 
+ACESUP    797644613  9  5 f   -     -     -         1803    0    0 
+ACESUP    797644690  9  4 f   -     -     -         1803    0    0 
+ACESUP    797644739  9  3 r   b     b     b         1803   70  165 
+ACESUP    797644821 11  2 Bf  -     -     -         1898   10    0 
+ACESUP    797644881 11  1 Bf  -     -     -         1888    5    0 
+ACESUP    797644940 11 11 f   -     -     -         1883    0    0 
+ACESUP    797645035 12 11 c   k     f     -         1883   10    0 
+ACESUP    797645111 12 10 f   -     -     -         1873    0    0 
+ACESUP    797645214 12  9 cc  r     c     b         1873   80  250 8h Ks
+ACESUP    797645326 10  7 f   -     -     -         2043    0    0 
+ACESUP    797645463  8  4 f   -     -     -         2043    0    0 
+ACESUP    797645525  9  3 f   -     -     -         2043    0    0 
+ACESUP    797645571 10  2 Bk  f     -     -         2043   10    0 
+ACESUP    797645675 11  1 Bc  bc    f     -         2033   30    0 
+ACESUP    797645747 11 11 c   b     k     k         2003   20    0 Kh 9d
+ACESUP    797645827 11 10 c   f     -     -         1983   10    0 
+ACESUP    797645875 11  9 f   -     -     -         1973    0    0 
+ACESUP    797645943 11  8 c   f     -     -         1973   10    0 
+ACESUP    797646029 11  7 rc  c     c     f         1963   70    0 
+ACESUP    797646168 12  6 f   -     -     -         1893    0    0 
+ACESUP    797646267 12  5 f   -     -     -         1893    0    0 
+ACESUP    797646360 12  4 f   -     -     -         1893    0    0 
+ACESUP    797646457 12  3 f   -     -     -         1893    0    0 
+ACESUP    797646577 12  2 Bc  kf    -     -         1893   40    0 
+ACESUP    797646674  7  1 Bf  -     -     -         1853    5    0 
+ACESUP    797646771  7  7 f   -     -     -         1848    0    0 
+ACESUP    797646848  9  8 c   f     -     -         1848   10    0 
+ACESUP    797646884  9  7 f   -     -     -         1838    0    0 
+ACESUP    797646942  9  6 f   -     -     -         1838    0    0 
+ACESUP    797646996  9  5 f   -     -     -         1838    0    0 
+ACESUP    797647042  9  5 c   c     c     k         1838   40    0 Ad 6h
+ACESUP    797647096 10  5 r   kc    kc    b         1798   70  270 4d 4c
+ACESUP    797647296 10  4 c   f     -     -         1998   10    0 
+ACESUP    797647385  9  3 cc  b     b     -         1988   50  110 
+ACESUP    797647449 10  2 Bf  -     -     -         2048   10    0 
+ACESUP    797647559 10  1 Bc  k     k     k         2038   10   10 5s Kd
+ACESUP    797647621 10 10 f   -     -     -         2038    0    0 
+ACESUP    797647660  9  8 f   -     -     -         2038    0    0 
+ACESUP    797647736  9  6 f   -     -     -         2038    0    0 
+ACESUP    797647793  8  5 f   -     -     -         2038    0    0 
+ACESUP    797647871  7  4 f   -     -     -         2038    0    0 
+ACESUP    797647919  8  3 f   -     -     -         2038    0    0 
+ACESUP    797647956  9  2 Bf  -     -     -         2038   10    0 
+ACESUP    797648005  9  1 Bc  k     k     kf        2028   30    0 
+ACESUP    797648097  9  9 f   -     -     -         1998    0    0 
+ACESUP    797648153  9  8 c   f     -     -         1998   20    0 
+ACESUP    797648227 11  9 r   b     bc    bf        1978   90    0 
+ACESUP    797648311 10  7 c   f     -     -         1888   10    0 
+ACESUP    797648410  9  5 f   -     -     -         1878    0    0 
+ACESUP    797648447  9  5 f   -     -     -         1878    0    0 
+ACESUP    797648514 10  4 cc  kc    kc    bf        1878   70    0 
+ACESUP    797648622 11  3 f   -     -     -         1808    0    0 
+ACESUP    797648688 11  2 Bc  kc    kc    kf        1808   70    0 
+ACESUP    797648845 11  1 Bf  -     -     -         1738    5    0 
+ACESUP    797648946 11 11 rc  r     r     b         1733  130  425 Ah Ad
+ACESUP    797649060 11 10 c   k     b     k         2028   40    0 Tc Jc
+ACESUP    797649155  7  6 f   -     -     -         1988    0    0 
+ACESUP    797649229  9  5 f   -     -     -         1988    0    0 
+ACESUP    797649319  9  4 f   -     -     -         1988    0    0 
+ACESUP    797649408  9  3 r   b     b     b         1988   70  145 
+ACESUP    797649456  9  2 Bf  -     -     -         2063   10    0 
+ACESUP    797649551 11  1 Bc  kc    b     b         2053   60  140 
+ACESUP    797649641 11 11 c   c     f     -         2133   20    0 
+ACESUP    797649732 11 10 f   -     -     -         2113    0    0 
+ACESUP    797649799 12  9 f   -     -     -         2113    0    0 
+ACESUP    797649866 12  8 c   f     -     -         2113   10    0 
+ACESUP    797649925 12  7 f   -     -     -         2103    0    0 
+ACESUP    797650023 11  5 f   -     -     -         2103    0    0 
+ACESUP    797650088 11  4 cc  f     -     -         2103   20    0 
+ACESUP    797650212  9  2 Bc  k     b     b         2083   60    0 3s As
+ACESUP    797650287  5  1 Bc  b     b     kf        2023   50    0 
+ACESUP    797650352  4  4 r   k     k     k         1973   20   50 Ah Ts
+ACESUP    797650402  4  3 f   -     -     -         2003    0    0 
+ACESUP    797650420  4  2 Bk  b     b     -         2003   40   70 
+ACESUP    797650478  4  1 Bc  k     kc    b         2033   50   80 
+ACESUP    797650523  4  4 c   b     r     b         2063   90  220 8c 8s
+ACESUP    797650572  5  2 c   k     k     k         2193   10   20 Qd Jh
+ACESUP    797650609  5  2 Bk  k     k     k         2203   10   25 
+ACESUP    797650651  4  1 Bc  kc    kc    kf        2218   40    0 
+ACESUP    797650704  4  4 c   f     -     -         2178   10    0 
+ACESUP    797650735  4  3 f   -     -     -         2168    0    0 
+ACESUP    797650774  4  2 Bk  f     -     -         2168   10    0 
+ACESUP    797650802  5  1 Bc  f     -     -         2158   10    0 
+ACESUP    797650955  4  4 f   -     -     -         2148    0    0 
+ACESUP    797650980  5  4 f   -     -     -         2148    0    0 
+ACESUP    797651012  4  3 rc  f     -     -         2148   40    0 
+ACESUP    797651052  4  2 B   -     -     -         2108   10   15 
+ACESUP    797651058  3  1 Bc  k     kc    f         2113   30    0 
+ACESUP    797651112  5  5 c   f     -     -         2083   10    0 
+ACESUP    797651225  8  7 c   f     -     -         2073   20    0 
+ACESUP    797651263  7  5 c   f     -     -         2053   10    0 
+ACESUP    797651337  8  5 f   -     -     -         2043    0    0 
+ACESUP    797651410  9  5 f   -     -     -         2043    0    0 
+ACESUP    797651458  9  4 cc  r     bcc   k         2043  120    0 Qc Kd
+ACESUP    797651617 11  4 c   kc    kc    kf        1923   60    0 
+ACESUP    797651795 10  3 cc  f     -     -         1863   20    0 
+ACESUP    797651895  9  2 Bc  f     -     -         1843   20    0 
+ACESUP    797652032  7  1 Bcc kc    b     brQ       1823  130    0 
+ACESUP    797662015  6  4 c   k     f     -         1693   10    0 
+ACESUP    797662069  6  3 f   -     -     -         1683    0    0 
+ACESUP    797662095  6  2 Bc  f     -     -         1683   20    0 
+ACESUP    797662164  6  1 Bf  -     -     -         1663    5    0 
+ACESUP    797662171  6  6 cc  f     -     -         1658   20    0 
+ACESUP    797662238  4  3 c   k     bc    c         1638   70  140 Qc Jd
+ACESUP    797662282  4  3 f   -     -     -         1708    0    0 
+ACESUP    797662331  4  2 Bk  k     b     b         1708   50   85 
+ACESUP    797662403  4  1 Bc  kc    k     k         1743   20    0 Kc Tc
+ACESUP    797662458  4  4 f   -     -     -         1723    0    0 
+ACESUP    797662474  4  3 f   -     -     -         1723    0    0 
+ACESUP    797662485  4  2 B   -     -     -         1723   10   15 
+ACESUP    797662490  4  1 Bc  b     b     -         1728   50   90 
+ACESUP    797662528  4  4 f   -     -     -         1768    0    0 
+ACESUP    797662543  4  3 cc  f     -     -         1768   20    0 
+ACESUP    797662622  4  2 B   -     -     -         1748   10   15 
+ACESUP    797662631  4  1 Bc  b     bc    kf        1753   70    0 
+ACESUP    797662680  4  4 c   c     f     -         1683   20    0 
+ACESUP    797662744  4  3 r   -     -     -         1663   20   35 
+ACESUP    797662756  4  2 B   -     -     -         1678   10   15 
+ACESUP    797662760  4  1 Bf  -     -     -         1683    5    0 
+ACESUP    797662770  4  4 c   k     k     r         1678   50  105 9h Jh
+ACESUP    797662816  4  3 c   f     -     -         1733   10    0 
+ACESUP    797662862  4  2 Bc  f     -     -         1723   20    0 
+ACESUP    797662887  4  1 Bc  k     k     kf        1703   20    0 
+ACESUP    797662946  4  4 c   r     -     -         1683   30   55 
+ACESUP    797662971  4  3 f   -     -     -         1708    0    0 
+ACESUP    797662978  4  2 B   -     -     -         1708   10   15 
+ACESUP    797662982  4  1 Bc  k     kf    -         1713   20    0 
+ACESUP    797663033  4  4 f   -     -     -         1693    0    0 
+ACESUP    797663042  4  3 f   -     -     -         1693    0    0 
+ACESUP    797663114  5  2 B   -     -     -         1693   10   15 
+ACESUP    797663121  5  1 Bf  -     -     -         1698    5    0 
+ACESUP    797663137  5  5 c   r     b     b         1693   70  150 Ad Ah
+ACESUP    797663205  5  4 cc  bc    c     c         1773   80    0 Kd 9c
+ACESUP    797663273  5  3 r   b     b     -         1693   50  110 
+ACESUP    797663322  5  2 Bk  k     k     k         1753   10   25 7s 2c
+ACESUP    797663362  5  1 Bf  -     -     -         1768    5    0 
+ACESUP    797663376  5  5 c   f     -     -         1763   20    0 
+ACESUP    797663424  6  5 c   b     b     b         1743   60  135 Ks 9h
+ACESUP    797663470  6  4 f   -     -     -         1818    0    0 
+ACESUP    797663491  6  3 f   -     -     -         1818    0    0 
+ACESUP    797663566  7  2 Bk  cc    rf    -         1818   70    0 
+ACESUP    797663665  7  1 Bc  b     k     k         1748   40  160 9s Ts
+ACESUP    797663745  7  7 f   -     -     -         1868    0    0 
+ACESUP    797663818  8  7 f   -     -     -         1868    0    0 
+ACESUP    797663878  8  6 f   -     -     -         1868    0    0 
+ACESUP    797664044  7  4 f   -     -     -         1868    0    0 
+ACESUP    797664067  7  3 f   -     -     -         1868    0    0 
+ACESUP    797664124  8  2 Bk  f     -     -         1868   10    0 
+ACESUP    797664257  9  1 Bc  br    b     -         1858   70  130 
+ACESUP    797664310  9  9 c   c     f     -         1918   20    0 
+ACESUP    797664372  9  8 f   -     -     -         1898    0    0 
+ACESUP    797664487  9  8 f   -     -     -         1898    0    0 
+ACESUP    797664616  7  5 c   b     b     b         1898   60    0 Qs 9c
+ACESUP    797664693  5  3 cc  f     -     -         1838   20    0 
+ACESUP    797664767  5  2 Bk  k     k     k         1818   10    0 4h 9d
+ACESUP    797664817  4  1 Bf  -     -     -         1808    5    0 
+ACESUP    797664841  5  5 f   -     -     -         1803    0    0 
+ACESUP    797664856  5  4 f   -     -     -         1803    0    0 
+ACESUP    797664890  5  3 r   b     -     -         1803   30   65 
+ACESUP    797664937  4  2 Bc  kc    kc    b         1838   70    0 8c Jh
+ACESUP    797665005  4  1 Bc  b     -     -         1768   20   30 
+ACESUP    797665048  4  4 cc  b     -     -         1778   30   70 
+ACESUP    797665092  4  3 f   -     -     -         1818    0    0 
+ACESUP    797665168  4  2 Bc  kc    kc    f         1818   50    0 
+ACESUP    797665226  4  1 Bc  b     -     -         1768   20   40 
+ACESUP    797665247  4  4 c   f     -     -         1788   10    0 
+ACESUP    797665307  4  3 cc  c     c     c         1778   70    0 Ac 5c
+ACESUP    797665378  4  2 Br  b     b     kc        1708   80  100 9s 9c
+ACESUP    797665468  4  1 Bc  kc    kc    f         1728   40    0 
+ACESUP    797665535  4  4 f   -     -     -         1688    0    0 
+ACESUP    797665579  4  3 f   -     -     -         1688    0    0 
+ACESUP    797665595  4  2 Bk  f     -     -         1688   10    0 
+ACESUP    797665627  4  1 Bc  kf    -     -         1678   20    0 
+ACESUP    797665673  4  4 r   b     c     c         1658   70    0 Jh Jc
+ACESUP    797665764  4  3 f   -     -     -         1588    0    0 
+ACESUP    797665787  4  2 Bk  k     k     k         1588   10   25 Qd 7d
+ACESUP    797665809  4  1 Bcc k     k     k         1603   20    0 9c Jc
+ACESUP    797665868  4  4 r   b     b     -         1583   50  100 
+ACESUP    797665918  6  5 c   k     k     f         1633   10    0 
+ACESUP    797665995  6  4 f   -     -     -         1623    0    0 
+ACESUP    797666043  7  3 r   k     c     k         1623   40    0 Ah Qc
+ACESUP    797666159  8  2 Bk  kc    brc   k         1583  100    0 9c 4c
+ACESUP    797666272  9  1 Bc  fQ    -     -         1483   20    0 
+ACESUP    797701695 11  9 c   f     -     -         1463   20    0 
+ACESUP    797701755 10  8 f   -     -     -         1443    0    0 
+ACESUP    797701851 10  7 c   rc    r     b         1443  120    0 Th Kc
+ACESUP    797702005 10  6 f   -     -     -         1323    0    0 
+ACESUP    797702132  9  5 f   -     -     -         1323    0    0 
+ACESUP    797702204 10  4 cc  b     b     kf        1323   50    0 
+ACESUP    797702289 10  3 f   -     -     -         1273    0    0 
+ACESUP    797702395 10  2 Bk  f     -     -         1273   10    0 
+ACESUP    797702449  9  1 Bf  -     -     -         1263    5    0 
+ACESUP    797702567  8  8 c   k     f     -         1258   10    0 
+ACESUP    797702627  8  7 f   -     -     -         1248    0    0 
+ACESUP    797702683  8  6 c   b     b     b         1248   60  140 
+ACESUP    797702761  8  5 c   c     f     -         1328   30    0 
+ACESUP    797702827  7  4 f   -     -     -         1298    0    0 
+ACESUP    797702883  7  3 c   c     c     c         1298   60    0 3s Ks
+ACESUP    797702954  8  2 Bk  kcc   kf    -         1238   40    0 
+ACESUP    797703040  8  1 Bc  b     b     b         1198   60  120 
+ACESUP    797703100  8  8 c   f     -     -         1258   20    0 
+ACESUP    797703157  8  7 r   c     cc    f         1238   70    0 
+ACESUP    797703260  9  7 c   c     r     rc        1168  120  270 Qd Td
+ACESUP    797703348  9  6 f   -     -     -         1318    0    0 
+ACESUP    797703414  9  5 rr  r     b     c         1318  100    0 Kh Kc
+ACESUP    797703517  9  4 r   c     c     f         1218   50    0 
+ACESUP    797703597  9  3 c   f     -     -         1168   10    0 
+ACESUP    797703704  9  2 Bc  c     f     -         1158   30    0 
+ACESUP    797703793  9  1 Bcc f     -     -         1128   40    0 
+ACESUP    797703897 10 10 f   -     -     -         1088    0    0 
+ACESUP    797703986 11 10 f   -     -     -         1088    0    0 
+ACESUP    797704147 11  9 f   -     -     -         1088    0    0 
+ACESUP    797704265 10  8 rc  c     f     -         1088   50    0 
+ACESUP    797704375  9  6 f   -     -     -         1038    0    0 
+ACESUP    797704480 10  5 f   -     -     -         1038    0    0 
+ACESUP    797704591 11  5 c   c     c     f         1038   40    0 
+ACESUP    797704689 12  4 f   -     -     -          998    0    0 
+ACESUP    797704790 12  3 f   -     -     -          998    0    0 
+ACESUP    797704817 11  2 Bc  kc    b     k          998   50    0 8s Kd
+ACESUP    797704938 12  1 Bc  kc    b     k          948   40  130 Ts 4s
+ACESUP    797705024 12 12 cc  f     -     -         1038   20    0 
+ACESUP    797705128 12 11 f   -     -     -         1018    0    0 
+ACESUP    797705237 12 10 f   -     -     -         1018    0    0 
+ACESUP    797705386 12  9 f   -     -     -         1018    0    0 
+ACESUP    797705489 12  8 Q   Q     -     -         1018    0    0 
+ACESUP    797745571  8  8 f   -     -     -         1018    0    0 
+ACESUP    797745613  4  4 f   -     -     -         1018    0    0 
+ACESUP    797745649  3  2 B   -     -     -         1018   10   15 
+ACESUP    797745659  3  1 Bc  f     -     -         1023   10    0 
+ACESUP    797745683  3  3 f   -     -     -         1013    0    0 
+ACESUP    797745729  3  2 BQ  -     -     -         1013   10    0 
+ACESUP    797793990  9  3 f   -     -     -         1003    0    0 
+ACESUP    797794056  7  2 Bk  k     bc    kc        1003   70  210 Qc 3d
+ACESUP    797794137  7  1 Bc  kc    kc    f         1143   40    0 
+ACESUP    797794240  8  8 c   f     -     -         1103   10    0 
+ACESUP    797794324  7  6 r   b     -     -         1093   30   65 
+ACESUP    797794359  7  5 c   f     -     -         1128   10    0 
+ACESUP    797794406  7  4 f   -     -     -         1118    0    0 
+ACESUP    797794426  7  3 f   -     -     -         1118    0    0 
+ACESUP    797794477  7  2 Bk  f     -     -         1118   10    0 
+ACESUP    797794519  7  1 Bcf -     -     -         1108   10    0 
+ACESUP    797794618  8  8 c   c     k     k         1098   20   55 Js 9h
+ACESUP    797794739  8  7 c   f     -     -         1133   10    0 
+ACESUP    797794832  9  7 f   -     -     -         1123    0    0 
+ACESUP    797794900  9  6 c   f     -     -         1123   10    0 
+ACESUP    797795022  9  4 f   -     -     -         1113    0    0 
+ACESUP    797795102  9  3 f   -     -     -         1113    0    0 
+ACESUP    797795173  9  2 Bk  kf    -     -         1113   10    0 
+ACESUP    797795234  9  1 Bc  kc    bf    -         1103   40    0 
+ACESUP    797795330  9  9 c   c     cc    f         1063   80    0 
+ACESUP    797795419  8  7 f   -     -     -          983    0    0 
+ACESUP    797795456  9  7 r   b     b     k          983   50  115 Jd Qs
+ACESUP    797795510  9  6 f   -     -     -         1048    0    0 
+ACESUP    797795531  8  4 rc  br    b     bc        1048  120  255 Tc Th
+ACESUP    797795611  9  4 f   -     -     -         1183    0    0 
+ACESUP    797795655  7  2 Bf  -     -     -         1183   10    0 
+ACESUP    797795691  7  1 Bc  f     -     -         1173   10    0 
+ACESUP    797795738  7  7 f   -     -     -         1163    0    0 
+ACESUP    797795804  8  7 cc  f     -     -         1163   20    0 
+ACESUP    797795884  9  7 f   -     -     -         1143    0    0 
+ACESUP    797795996  8  7 f   -     -     -         1143    0    0 
+ACESUP    797796030  6  4 f   -     -     -         1143    0    0 
+ACESUP    797796075  6  3 f   -     -     -         1143    0    0 
+ACESUP    797796099  6  2 Bk  f     -     -         1143   10    0 
+ACESUP    797796138  7  1 Bc  k     k     kf        1133   10    0 
+ACESUP    797796232  7  7 c   rc    cc    f         1123   80    0 
+ACESUP    797796326  7  6 rc  c     f     -         1043   40    0 
+ACESUP    797796406  7  5 f   -     -     -         1003    0    0 
+ACESUP    797796442  8  5 cc  c     b     bc        1003   90    0 5h 7h
+ACESUP    797796567  8  5 f   -     -     -          913    0    0 
+ACESUP    797796661  7  3 f   -     -     -          913    0    0 
+ACESUP    797796711  7  2 Br  k     k     f          913   20    0 
+ACESUP    797796808  8  1 Bf  -     -     -          893    5    0 
+ACESUP    797796856  9  9 c   c     c     f          888   40    0 
+ACESUP    797796956  9  8 f   -     -     -          848    0    0 
+ACESUP    797797043  9  7 f   -     -     -          848    0    0 
+ACESUP    797797100  8  5 c   c     k     b          848   40  140 Kd 4d
+ACESUP    797797180  6  3 fQ  -     -     -          948    0    0 
+ACESUP    797802482 11  3 f   -     -     -          948    0    0 
+ACESUP    797802560 11  2 Bcc kc    k     kf         948   60    0 
+ACESUP    797802692 11  1 Bcc f     -     -          888   40    0 
+ACESUP    797802857 12 12 f   -     -     -          848    0    0 
+ACESUP    797802927 12 11 c   rc    c     r          848  100  390 9d Td
+ACESUP    797803079 12 10 c   f     -     -         1138   20    0 
+ACESUP    797803201 12  9 f   -     -     -         1118    0    0 
+ACESUP    797803330 10  7 f   -     -     -         1118    0    0 
+ACESUP    797803386 11  7 c   c     f     -         1118   30    0 
+ACESUP    797803483 12  6 f   -     -     -         1088    0    0 
+ACESUP    797803561 12  5 cc  b     b     -         1088   50  135 
+ACESUP    797803681 12  4 c   b     b     b         1173   60    0 Jh Td
+ACESUP    797803790 12  3 f   -     -     -         1113    0    0 
+ACESUP    797803952 12  2 Bk  f     -     -         1113   10    0 
+ACESUP    797804045 12  1 Bc  f     -     -         1103   10    0 
+ACESUP    797804134 12 12 c   c     c     f         1093   40    0 
+ACESUP    797804252 11 10 cc  f     -     -         1053   20    0 
+ACESUP    797804342 11  9 f   -     -     -         1033    0    0 
+ACESUP    797804423 12  9 f   -     -     -         1033    0    0 
+ACESUP    797804556 11  7 f   -     -     -         1033    0    0 
+ACESUP    797804625 11  6 f   -     -     -         1033    0    0 
+ACESUP    797804713 11  5 f   -     -     -         1033    0    0 
+ACESUP    797804861 12  5 f   -     -     -         1033    0    0 
+ACESUP    797804945 12  4 f   -     -     -         1033    0    0 
+ACESUP    797805033 11  3 f   -     -     -         1033    0    0 
+ACESUP    797805093 10  2 Bc  kc    kf    -         1033   30    0 
+ACESUP    797805156  9  1 Bf  -     -     -         1003    5    0 
+ACESUP    797805182  8  8 f   -     -     -          998    0    0 
+ACESUP    797805229  8  7 r   c     c     f          998   50    0 
+ACESUP    797805304  8  6 f   -     -     -          948    0    0 
+ACESUP    797805385  8  5 f   -     -     -          948    0    0 
+ACESUP    797805472  9  4 f   -     -     -          948    0    0 
+ACESUP    797805551 12  4 f   -     -     -          948    0    0 
+ACESUP    797805669 12  3 f   -     -     -          948    0    0 
+ACESUP    797805767 12  2 Bk  bc    bc    kf         948   70    0 
+ACESUP    797805886 12  1 Br  b     b     b          878   80  360 Qd Ad
+ACESUP    797805981 12 12 c   b     b     k         1158   40  225 3s 3c
+ACESUP    797806096 12 11 f   -     -     -         1343    0    0 
+ACESUP    797806223 12 10 c   f     -     -         1343   10    0 
+ACESUP    797806283 12  9 f   -     -     -         1333    0    0 
+ACESUP    797806394 12  8 c   f     Q     -         1333   10    0 
+ACESUP    797884843 10  7 f   -     -     -         1323    0    0 
+ACESUP    797884963 12  6 f   -     -     -         1323    0    0 
+ACESUP    797885041 12  5 f   -     -     -         1323    0    0 
+ACESUP    797885162 12  5 f   -     -     -         1323    0    0 
+ACESUP    797885305 11  3 f   -     -     -         1323    0    0 
+ACESUP    797885416 11  2 Bk  f     -     -         1323   10    0 
+ACESUP    797885512 10  1 Bf  -     -     -         1313    5    0 
+ACESUP    797885631 10 10 c   f     -     -         1308   20    0 
+ACESUP    797885798  7  7 f   -     -     -         1288    0    0 
+ACESUP    797885882  8  6 f   -     -     -         1288    0    0 
+ACESUP    797885966  8  5 f   -     -     -         1288    0    0 
+ACESUP    797886062  8  4 c   kf    -     -         1288   10    0 
+ACESUP    797886121  8  3 f   -     -     -         1278    0    0 
+ACESUP    797886208  9  2 Bk  k     f     -         1278   10    0 
+ACESUP    797886287  9  1 Bc  kc    b     br        1268  100  240 9s Qs
+ACESUP    797886454 10  9 f   -     -     -         1408    0    0 
+ACESUP    797886551 10  8 c   f     -     -         1408   10    0 
+ACESUP    797886645 11  8 r   c     f     -         1398   30    0 
+ACESUP    797886748 12  7 f   Q     -     -         1368    0    0 
+ACESUP    797914649 10  7 c   f     -     -         1368   10    0 
+ACESUP    797914699 11  6 f   -     -     -         1358    0    0 
+ACESUP    797914752 12  5 f   -     -     -         1358    0    0 
+ACESUP    797914912 12  4 Q   -     -     -         1358    0    0 
+ACESUP    798140885  9  9 c   f     -     -         1358   20    0 
+ACESUP    798140949  9  8 f   -     -     -         1338    0    0 
+ACESUP    798140992  9  7 f   -     -     -         1338    0    0 
+ACESUP    798141042  9  6 c   f     -     -         1338   10    0 
+ACESUP    798141144  9  5 f   -     -     -         1328    0    0 
+ACESUP    798141198  9  4 f   -     -     -         1328    0    0 
+ACESUP    798141272  9  3 f   -     -     -         1328    0    0 
+ACESUP    798141549  8  2 Bk  f     -     -         1328   10    0 
+ACESUP    798141587  7  1 Bc  kf    -     -         1318   10    0 
+ACESUP    798141634  7  7 f   -     -     -         1308    0    0 
+ACESUP    798141652  7  6 f   -     -     -         1308    0    0 
+ACESUP    798141738  7  5 f   -     -     -         1308    0    0 
+ACESUP    798141793  7  4 c   kf    -     -         1308   10    0 
+ACESUP    798141896  8  3 f   -     -     -         1298    0    0 
+ACESUP    798141962  8  2 Bk  kc    k     b         1298   40    0 9h 2d
+ACESUP    798142086  8  1 Bf  -     -     -         1258    5    0 
+ACESUP    798142134  6  6 c   f     -     -         1253   10    0 
+ACESUP    798142180  6  5 f   -     -     -         1243    0    0 
+ACESUP    798142225  8  6 c   c     r     b         1243   90    0 As Js
+ACESUP    798142313  7  5 c   k     c     f         1153   40    0 
+ACESUP    798142384  7  4 c   f     -     -         1113   10    0 
+ACESUP    798142436  7  3 f   -     -     -         1103    0    0 
+ACESUP    798142498  7  2 Bk  k     kc    k         1103   30   75 Ts 8h
+ACESUP    798142563  7  1 Bc  f     -     -         1148   10    0 
+ACESUP    798142582  8  8 f   -     -     -         1138    0    0 
+ACESUP    798142643  8  7 f   -     -     -         1138    0    0 
+ACESUP    798142752  8  6 f   -     -     -         1138    0    0 
+ACESUP    798142786  8  5 f   -     -     -         1138    0    0 
+ACESUP    798142812  8  4 f   -     -     -         1138    0    0 
+ACESUP    798142857  8  3 cc  b     bc    r         1138  110  210 
+ACESUP    798142929  8  2 Bc  kc    kc    k         1238   50  105 9c Jd
+ACESUP    798142983  8  1 Bc  k     b     k         1293   30   80 Jh Kd
+ACESUP    798143033  8  8 f   -     -     -         1343    0    0 
+ACESUP    798143155  9  7 f   -     -     -         1343    0    0 
+ACESUP    798143187  9  6 c   k     k     k         1343   10   25 Qh Ks
+ACESUP    798143249  9  5 f   -     -     -         1358    0    0 
+ACESUP    798143293  8  4 f   -     -     -         1358    0    0 
+ACESUP    798143357  8  3 f   -     -     -         1358    0    0 
+ACESUP    798143448  8  2 Bc  b     b     br        1358  110  225 Qc As
+ACESUP    798143516  9  1 Bc  f     -     -         1473   20    0 
+ACESUP    798143569 10 10 f   -     -     -         1453    0    0 
+ACESUP    798143684  9  8 c   f     -     -         1453   10    0 
+ACESUP    798143732  8  6 f   -     -     -         1443    0    0 
+ACESUP    798143826  9  7 f   -     -     -         1443    0    0 
+ACESUP    798143878  8  5 f   -     -     -         1443    0    0 
+ACESUP    798143909  9  5 r   kc    f     -         1443   30    0 
+ACESUP    798143982  9  4 f   -     -     -         1413    0    0 
+ACESUP    798144051 10  3 KQ  -     -     -         1413    0    0 
+ACESUP    798144478  7  4 f   -     -     -         1413    0    0 
+ACESUP    798144535  7  3 f   -     -     -         1413    0    0 
+ACESUP    798144579  8  2 Bf  -     -     -         1413   10    0 
+ACESUP    798144607  8  1 Bc  b     b     b         1403   60  130 
+ACESUP    798144664  8  8 f   -     -     -         1473    0    0 
+ACESUP    798144706  9  8 f   -     -     -         1473    0    0 
+ACESUP    798144764  9  7 f   -     -     -         1473    0    0 
+ACESUP    798144851  9  6 c   f     -     -         1473   10    0 
+ACESUP    798144896  8  5 rc  c     c     c         1463   90  310 Jc Jd
+ACESUP    798145024  9  4 f   -     -     -         1683    0    0 
+ACESUP    798145078  9  3 f   -     Q     -         1683    0    0 
+ACESUP    798145376 10  7 f   -     -     -         1683    0    0 
+ACESUP    798145439 10  6 cc  kc    kf    -         1683   30    0 
+ACESUP    798145582  9  5 f   -     -     -         1653    0    0 
+ACESUP    798145662  9  4 cc  r     b     b         1653   90  265 Ad Td
+ACESUP    798145803  8  3 f   -     -     -         1828    0    0 
+ACESUP    798145887  9  2 Bf  -     -     -         1828   10    0 
+ACESUP    798145930  9  1 Bc  f     -     -         1818   10    0 
+ACESUP    798146031 10 10 f   -     -     -         1808    0    0 
+ACESUP    798146077 10  9 f   -     -     -         1808    0    0 
+ACESUP    798146163 10  8 cc  c     f     -         1808   50    0 
+ACESUP    798146289  9  6 f   -     -     -         1758    0    0 
+ACESUP    798146331  8  4 f   -     -     -         1758    0    0 
+ACESUP    798146387  8  3 f   -     -     -         1758    0    0 
+ACESUP    798146466  7  2 Bk  f     -     -         1758   10    0 
+ACESUP    798146555 10  1 Bc  kf    -     -         1748   10    0 
+ACESUP    798146716 12 12 c   r     r     b         1738  100  235 6c 6h
+ACESUP    798146880 10  9 Q   -     -     -         1873    0    0 
+ACESUP    798147927  8  4 f   -     -     -         1873    0    0 
+ACESUP    798148081  8  4 r   -     -     -         1873   20   35 
+ACESUP    798148109  7  2 Bk  f     -     -         1888   10    0 
+ACESUP    798148191  7  1 Bf  -     -     -         1878    5    0 
+ACESUP    798148262  6  6 f   -     -     -         1873    0    0 
+ACESUP    798148297  7  5 f   -     -     -         1873    0    0 
+ACESUP    798148332  8  4 f   -     -     -         1873    0    0 
+ACESUP    798148410  9  3 c   kc    f     -         1873   20    0 
+ACESUP    798148490 10  2 Bc  k     c     f         1853   40    0 
+ACESUP    798148599 10  1 Bc  kc    kc    k         1813   50    0 Kc Th
+ACESUP    798148783  9  9 r   b     b     b         1763   80    0 Qd Qs
+ACESUP    798148870 10  9 f   -     -     -         1683    0    0 
+ACESUP    798148923  9  8 f   -     -     -         1683    0    0 
+ACESUP    798149017  9  7 f   -     -     -         1683    0    0 
+ACESUP    798149111  9  6 f   -     -     -         1683    0    0 
+ACESUP    798149194  9  4 f   -     -     -         1683    0    0 
+ACESUP    798149243 10  3 f   -     -     -         1683    0    0 
+ACESUP    798149310 10  2 Bk  b     -     -         1683   20   30 
+ACESUP    798149350  9  1 Bf  -     -     -         1693    5    0 
+ACESUP    798149405 10 10 f   -     -     -         1688    0    0 
+ACESUP    798149453  9  8 c   k     f     -         1688   10    0 
+ACESUP    798149508  9  7 cc  f     -     -         1678   20    0 
+ACESUP    798149564  9  6 c   f     -     -         1658   10    0 
+ACESUP    798149616  9  5 f   -     -     -         1648    0    0 
+ACESUP    798149672  9  4 c   cc    bf    -         1648   50    0 
+ACESUP    798149753  9  3 c   b     k     r         1598   60  230 As Ts
+ACESUP    798149860  9  2 BQ  -     -     -         1768   10    0 
+ACESUP    798219896  6  4 c   k     f     -         1758   10    0 
+ACESUP    798219932  6  4 f   -     -     -         1748    0    0 
+ACESUP    798220021  5  2 Bk  f     -     -         1748   10    0 
+ACESUP    798220046  5  1 Bf  -     -     -         1738    5    0 
+ACESUP    798220060  5  5 f   -     -     -         1733    0    0 
+ACESUP    798220140  5  4 cc  c     cc    f         1733   90    0 
+ACESUP    798220245  7  4 f   -     -     -         1643    0    0 
+ACESUP    798220330  7  3 cc  cc    f     -         1643   50    0 
+ACESUP    798220453  7  2 Bf  -     -     -         1593   10    0 
+ACESUP    798220508  7  1 Bf  -     -     -         1583    5    0 
+ACESUP    798220561  7  4 Q   -     -     -         1578    0    0 
+ACESUP    798220939  9  2 Br  br    bc    kc        1578  120    0 Kc Kd
+ACESUP    798221017  9  1 Bc  f     -     -         1458   10    0 
+ACESUP    798221097 10  9 cc  rc    b     c         1448  100  430 Jc Kc
+ACESUP    798221212  9  8 f   -     -     -         1778    0    0 
+ACESUP    798221306 11  7 c   b     b     -         1778   40  130 
+ACESUP    798221386 11  6 f   -     -     -         1868    0    0 
+ACESUP    798221470 11  5 c   f     -     -         1868   10    0 
+ACESUP    798221588 11  4 cc  k     f     -         1858   20    0 
+ACESUP    798221663 12  3 f   -     -     -         1838    0    0 
+ACESUP    798221741 12  2 Bc  b     b     b         1838   70  220 
+ACESUP    798221832 12  1 Bf  -     -     -         1988    5    0 
+ACESUP    798221921 11 11 f   -     -     -         1983    0    0 
+ACESUP    798221979 12 10 f   -     -     -         1983    0    0 
+ACESUP    798222057 10  7 r   b     b     b         1983   70  135 
+ACESUP    798222108 10  7 c   c     c     f         2048   50    0 
+ACESUP    798222153 10  6 f   -     -     -         1998    0    0 
+ACESUP    798222201 10  5 c   f     -     -         1998   10    0 
+ACESUP    798222279 10  4 f   -     -     -         1988    0    0 
+ACESUP    798222334 10  3 f   -     -     -         1988    0    0 
+ACESUP    798222386 11  2 Bf  -     -     -         1988   10    0 
+ACESUP    798222445 11  1 Bf  -     -     -         1978    5    0 
+ACESUP    798222506 11 11 f   -     -     -         1973    0    0 
+ACESUP    798222613 10  9 f   -     -     -         1973    0    0 
+ACESUP    798222696 11 10 cc  b     b     k         1973   50    0 8d 8c
+ACESUP    798222808 10  8 f   -     -     -         1923    0    0 
+ACESUP    798222883 10  7 f   -     -     -         1923    0    0 
+ACESUP    798222908 10  6 f   -     -     -         1923    0    0 
+ACESUP    798222970  8  5 cc  f     -     -         1923   20    0 
+ACESUP    798223112  9  4 f   -     -     -         1903    0    0 
+ACESUP    798223167  9  3 c   k     c     k         1903   30    0 Th Ah
+ACESUP    798223205 10  2 Bk  f     -     -         1873   10    0 
+ACESUP    798223293  9  1 Bf  -     -     -         1863    5    0 
+ACESUP    798223325  8  8 f   -     -     -         1858    0    0 
+ACESUP    798223389  8  7 f   -     -     -         1858    0    0 
+ACESUP    798223506  7  5 f   -     -     -         1858    0    0 
+ACESUP    798223534  7  4 c   b     -     -         1858   20   35 
+ACESUP    798223562  7  3 cc  f     -     -         1873   20    0 
+ACESUP    798223621  7  2 Bk  kc    b     b         1853   60  115 
+ACESUP    798223706  8  1 Bcc f     -     -         1908   20    0 
+ACESUP    798223781  8  8 c   c     f     -         1888   40    0 
+ACESUP    798223855  9  8 c   r     b     k         1848   50    0 Tc Qs
+ACESUP    798223932 10  8 c   rc    b     k         1798   70    0 Td Jd
+ACESUP    798224046 10  7 f   -     -     -         1728    0    0 
+ACESUP    798224219 11  7 f   -     -     -         1728    0    0 
+ACESUP    798224306  9  4 f   -     -     -         1728    0    0 
+ACESUP    798224391  9  3 f   -     -     -         1728    0    0 
+ACESUP    798224494  9  2 Bf  -     -     -         1728   10    0 
+ACESUP    798224540  9  1 Bc  kcc   bf    -         1718   60    0 
+ACESUP    798224674  9  9 c   k     f     -         1658   10    0 
+ACESUP    798224747 10  9 Q   Q     -     -         1648    0    0 
+ACESUP    798232726  7  7 f   -     -     -         1648    0    0 
+ACESUP    798232815  9  8 f   -     -     -         1648    0    0 
+ACESUP    798232907  8  6 f   -     -     -         1648    0    0 
+ACESUP    798233054  8  5 f   -     -     -         1648    0    0 
+ACESUP    798233116  8  4 f   -     -     -         1648    0    0 
+ACESUP    798233149  7  4 f   -     -     -         1648    0    0 
+ACESUP    798233234  6  2 Bc  bc    kc    k         1648   60    0 6d Ad
+ACESUP    798233305  6  1 Bf  -     -     -         1588    5    0 
+ACESUP    798233383  5  5 f   -     -     -         1583    0    0 
+ACESUP    798233448  6  5 f   -     -     -         1583    0    0 
+ACESUP    798233511  6  3 f   -     -     -         1583    0    0 
+ACESUP    798233563  8  3 f   -     -     -         1583    0    0 
+ACESUP    798233636  8  2 Bf  -     -     -         1583   10    0 
+ACESUP    798233717  8  1 Bf  -     -     -         1573    5    0 
+ACESUP    798233765  7  7 c   f     -     -         1568   10    0 
+ACESUP    798233836  9  7 f   -     -     -         1558    0    0 
+ACESUP    798233979  9  7 c   f     -     -         1558   20    0 
+ACESUP    798234246  7  5 f   -     -     -         1538    0    0 
+ACESUP    798234317  7  4 f   -     -     -         1538    0    0 
+ACESUP    798234390  8  4 f   -     -     -         1538    0    0 
+ACESUP    798234451 10  3 f   -     -     -         1538    0    0 
+ACESUP    798234604 11  2 Bk  f     -     -         1538   10    0 
+ACESUP    798234786 11  1 Bf  -     -     -         1528    5    0 
+ACESUP    798234868 12 12 f   -     -     -         1523    0    0 
+ACESUP    798234961 11 10 f   -     -     -         1523    0    0 
+ACESUP    798235007 11  8 f   -     -     -         1523    0    0 
+ACESUP    798235057 12  8 cc  f     -     -         1523   20    0 
+ACESUP    798235150 12  7 f   -     -     -         1503    0    0 
+ACESUP    798235271 12  6 cc  b     b     brc       1503  140    0 Ac 6c
+ACESUP    798235392 12  5 f   -     -     -         1363    0    0 
+ACESUP    798235635 11  3 c   kc    f     -         1363   20    0 
+ACESUP    798235779 11  3 f   -     -     -         1343    0    0 
+ACESUP    798235835 11  2 Bk  kc    kf    -         1343   20    0 
+ACESUP    798235901 10  1 Bc  kf    -     -         1323   10    0 
+ACESUP    798235978  9  9 c   c     r     r         1313  110  285 Ad 2d
+ACESUP    798236053  8  7 c   f     -     -         1488   10    0 
+ACESUP    798236114  8  6 cc  kc    kc    kc        1478   70    0 Qd 7d
+ACESUP    798236200  8  5 f   -     -     -         1408    0    0 
+ACESUP    798236270  8  4 cc  b     f     -         1408   50    0 
+ACESUP    798236416 10  3 c   c     k     f         1358   30    0 
+ACESUP    798236486 10  2 Br  kf    -     -         1328   20    0 
+ACESUP    798236577  9  1 Bf  -     -     -         1308    5    0 
+ACESUP    798236626  9  9 c   f     -     -         1303   20    0 
+ACESUP    798236694  9  8 f   -     -     -         1283    0    0 
+ACESUP    798236800  8  6 cc  bc    kc    k         1283   60  175 9c As
+ACESUP    798236953 10  7 f   -     -     -         1398    0    0 
+ACESUP    798237041 10  5 f   Q     -     -         1398    0    0 
+ACESUP    798240234 12  5 f   -     -     -         1398    0    0 
+ACESUP    798240317 12  4 f   -     -     -         1398    0    0 
+ACESUP    798240379 12  3 f   -     -     -         1398    0    0 
+ACESUP    798240452 12  2 Bk  k     c     c         1398   50    0 9h Jc
+ACESUP    798240611 12  1 Bc  kf    -     -         1348   20    0 
+ACESUP    798240736 12 12 c   k     c     f         1328   50    0 
+ACESUP    798240919 12 11 f   -     -     -         1278    0    0 
+ACESUP    798240996 11  9 c   cc    kc    k         1278   50   73 Ah 7h
+ACESUP    798241091 11  8 cc  rc    kc    cc        1301  130    0 Js Ts
+ACESUP    798241245 11  7 f   -     -     -         1171    0    0 
+ACESUP    798241403 11  7 f   -     -     -         1171    0    0 
+ACESUP    798241516 10  4 c   bc    kc    kf        1171   60    0 
+ACESUP    798241616 10  3 f   -     -     -         1111    0    0 
+ACESUP    798241690 11  2 Bk  f     -     -         1111   10    0 
+ACESUP    798241752 12  1 Bc  kc    f     -         1101   30    0 
+ACESUP    798241929 12 12 Q   -     -     -         1071    0    0 
+ACESUP    798319675 10  1 BQ  -     -     -         1071    5    0 
+ACESUP    798476329  4  2 Br  k     f     -         1066   30    0 
+ACESUP    798476380  4  1 Bf  -     -     -         1036    5    0 
+ACESUP    798476408  4  4 c   f     -     -         1031   10    0 
+ACESUP    798476428  4  3 f   -     -     -         1021    0    0 
+ACESUP    798476468  4  2 B   -     -     -         1021   10   15 
+ACESUP    798476475  4  1 Bc  f     -     -         1026   10    0 
+ACESUP    798476498  4  4 c   c     f     -         1016   20    0 
+ACESUP    798476523  4  3 f   -     -     -          996    0    0 
+ACESUP    798476562  4  2 Bc  kc    f     -          996   30    0 
+ACESUP    798476620  4  1 Bf  -     -     -          966    5    0 
+ACESUP    798476662  4  4 f   -     -     -          961    0    0 
+ACESUP    798476696  4  3 r   r     b     k          961   60    0 Qc As
+ACESUP    798476763  4  2 B   -     -     -          901   10   15 
+ACESUP    798476775  4  1 Bc  f     -     -          906   10    0 
+ACESUP    798476804  4  4 c   f     -     -          896   20    0 
+ACESUP    798476823  4  3 r   b     b     -          876   50  105 
+ACESUP    798476866  4  2 Bf  -     -     -          931   10    0 
+ACESUP    798476873  4  1 Bf  -     -     -          921    5    0 
+ACESUP    798476921  4  4 f   -     -     -          916    0    0 
+ACESUP    798476947  4  3 f   -     -     -          916    0    0 
+ACESUP    798476956  4  2 Bf  -     -     -          916   10    0 
+ACESUP    798476967  4  1 Bc  kc    k     kf         906   20    0 
+ACESUP    798477041  4  4 c   f     -     -          886   10    0 
+ACESUP    798477064  4  3 cc  f     -     -          876   20    0 
+ACESUP    798477124  4  2 Bk  f     -     -          856   10    0 
+ACESUP    798477155  4  1 Bf  -     -     -          846    5    0 
+ACESUP    798477171  4  4 c   b     -     -          841   20   35 
+ACESUP    798477199  4  3 f   -     -     -          856    0    0 
+ACESUP    798477208  4  2 Bf  -     -     -          856   10    0 
+ACESUP    798477225  4  1 Bf  -     -     -          846    5    0 
+ACESUP    798477233  4  4 cc  b     b     b          841   70  150 
+ACESUP    798477296  4  3 r   -     -     -          921   20   35 
+ACESUP    798477315  4  2 Bk  f     -     -          936   10    0 
+ACESUP    798477332  4  1 Bc  f     -     -          926   10    0 
+ACESUP    798477359  5  4 f   Q     -     -          916    0    0 
+ACESUP    798478171  8  6 c   c     c     r          916   80  250 9c Qd
+ACESUP    798478257  9  5 cc  k     bc    -         1086   53  121 4d 4h
+ACESUP    798478333  8  4 fQ  -     -     -         1154    0    0 
+ACESUP    798496099 12  3 f   -     -     -         1154    0    0 
+ACESUP    798496220 11  2 Bc  f     -     -         1154   20    0 
+ACESUP    798496443  7  1 Bc  kc    kc    kf        1134   40    0 
+ACESUP    798496564  8  7 f   -     -     -         1094    0    0 
+ACESUP    798496617  6  5 f   -     -     -         1094    0    0 
+ACESUP    798496646  6  4 f   -     -     -         1094    0    0 
+ACESUP    798496688  6  3 f   -     -     -         1094    0    0 
+ACESUP    798496719  7  2 Bk  k     f     -         1094   10    0 
+ACESUP    798496753  7  1 Bc  k     k     f         1084   10    0 
+ACESUP    798496813  7  7 r   r     b     b         1074   90  325 Ac As
+ACESUP    798496908  7  6 f   -     -     -         1309    0    0 
+ACESUP    798496971  7  5 c   k     b     -         1309   30   65 
+ACESUP    798497013  7  4 f   -     -     -         1344    0    0 
+ACESUP    798497050  7  3 f   -     -     -         1344    0    0 
+ACESUP    798497113  8  2 Bk  r     c     c         1344   70  160 4s 4h
+ACESUP    798497208  8  1 Bc  kc    kc    k         1434   40    0 Ac 9c
+ACESUP    798497323  7  7 c   rc    c     c         1394   90    0 Kc Js
+ACESUP    798497405  8  6 f   -     -     -         1304    0    0 
+ACESUP    798497450  7  4 fQ  -     -     -         1304    0    0 
+ACESUP    798497590  8  2 Bk  kf    -     -         1304   10    0 
+ACESUP    798497694  8  1 Bf  -     -     -         1294    5    0 
+ACESUP    798497852  9  9 c   k     k     f         1289   10    0 
+ACESUP    798497975  9  8 f   -     -     -         1279    0    0 
+ACESUP    798498024  9  7 f   -     -     -         1279    0    0 
+ACESUP    798498074  8  5 f   -     -     -         1279    0    0 
+ACESUP    798498127  9  5 cc  c     f     -         1279   30    0 
+ACESUP    798498296 10  4 f   -     -     -         1249    0    0 
+ACESUP    798498408  8  2 Bk  b     b     bf        1249   60    0 
+ACESUP    798498616  6  1 Bc  bcc   kc    k         1189   80    0 Qs Tc
+ACESUP    798498718  8  8 f   -     -     -         1109    0    0 
+ACESUP    798498831  9  8 c   k     c     r         1109   70  165 9h 6h
+ACESUP    798498920  9  6 cc  cc    cc    kf        1204   80    0 
+ACESUP    798499081 12  6 f   -     -     -         1124    0    0 
+ACESUP    798499194 10  5 f   -     Q     -         1124    0    0 
+ACESUP    798666461  6  4 f   -     -     -         1124    0    0 
+ACESUP    798666520  6  3 f   -     -     -         1124    0    0 
+ACESUP    798666560  6  2 Bf  -     -     -         1124   10    0 
+ACESUP    798666626  7  1 Bf  -     -     -         1114    5    0 
+ACESUP    798666704  8  8 r   b     b     k         1109   50    0 9d 9h
+ACESUP    798666814  9  8 f   -     -     -         1059    0    0 
+ACESUP    798666858  9  7 r   b     b     -         1059   60  125 
+ACESUP    798666926  9  6 f   -     -     -         1124    0    0 
+ACESUP    798666978  9  5 c   r     r     r         1124  110  265 7d 7c
+ACESUP    798667066  9  4 c   Q     -     -         1279   10    0 
+ACESUP    798743584 11  8 f   -     -     -         1269    0    0 
+ACESUP    798743667 12  8 f   -     -     -         1269    0    0 
+ACESUP    798743771 12  7 c   f     -     -         1269   10    0 
+ACESUP    798744004 12  6 Q   -     -     -         1259    0    0 
+ACESUP    798746755  7  2 Bf  -     -     -         1259   10    0 
+ACESUP    798746868  7  1 Bf  -     -     -         1249    5    0 
+ACESUP    798746901  6  6 f   -     -     -         1244    0    0 
+ACESUP    798746946  6  5 f   -     -     -         1244    0    0 
+ACESUP    798746994  5  4 f   -     -     -         1244    0    0 
+ACESUP    798747009  5  2 Bf  -     -     -         1244   10    0 
+ACESUP    798747074  6  1 BKQ -     -     -         1234    5    0 
+ACESUP    798747532  6  5 f   -     -     -         1229    0    0 
+ACESUP    798747593  6  4 c   f     -     -         1229   20    0 
+ACESUP    798747654  6  3 f   -     -     -         1209    0    0 
+ACESUP    798747707  6  2 Bf  -     -     -         1209   10    0 
+ACESUP    798747808  5  1 Bf  -     -     -         1199    5    0 
+ACESUP    798747898  6  5 f   -     -     -         1194    0    0 
+ACESUP    798747948  6  4 f   -     -     -         1194    0    0 
+ACESUP    798748104  7  3 f   -     -     -         1194    0    0 
+ACESUP    798748186  6  1 Bk  k     kf    -         1194   10    0 
+ACESUP    798748259  6  1 Bc  f     -     -         1184   10    0 
+ACESUP    798748345  6  6 c   f     -     -         1174   10    0 
+ACESUP    798748378  5  5 f   -     -     -         1164    0    0 
+ACESUP    798748441  5  4 f   -     -     -         1164    0    0 
+ACESUP    798748501  5  4 f   -     -     -         1164    0    0 
+ACESUP    798748521  4  3 c   r     b     -         1164   50   90 
+ACESUP    798748612  5  2 Bk  kf    -     -         1204   10    0 
+ACESUP    798748650  5  1 Bc  f     -     -         1194   10    0 
+ACESUP    798748775  4  4 f   -     -     -         1184    0    0 
+ACESUP    798748842  4  3 c   c     c     rc        1184  100    0 Ks 7h
+ACESUP    798748913  4  2 Bf  -     -     -         1084   10    0 
+ACESUP    798748927  4  1 Bf  -     -     -         1074    5    0 
+ACESUP    798748972  3  3 f   -     -     -         1069    0    0 
+ACESUP    798749006  3  2 Bk  k     Q     -         1069   10    0 
+ACESUP    798835451  7  4 f   -     -     -         1059    0    0 
+ACESUP    798835535  7  3 f   -     -     -         1059    0    0 
+ACESUP    798835650  8  2 Bc  kf    -     -         1059   20    0 
+ACESUP    798835770  8  1 Bcc kc    f     -         1039   50    0 
+ACESUP    798835891  9  9 c   k     c     f          989   70    0 
+ACESUP    798835970  9  8 f   -     -     -          919    0    0 
+ACESUP    798836025  8  6 f   -     -     -          919    0    0 
+ACESUP    798836081  8  5 cc  c     c     k          919   50  140 As 7s
+ACESUP    798836155  8  4 f   -     -     -         1009    0    0 
+ACESUP    798836204  8  3 c   f     -     -         1009   10    0 
+ACESUP    798836332  7  2 Bk  c     f     -          999   20    0 
+ACESUP    798836395  8  1 Bc  b     b     kf         979   40    0 
+ACESUP    798836479  9  9 f   -     -     -          939    0    0 
+ACESUP    798836533  8  7 r   b     b     b          939   70  235 Kc Kh
+ACESUP    798836627  8  6 f   -     -     -         1104    0    0 
+ACESUP    798836746  9  6 f   -     -     -         1104    0    0 
+ACESUP    798836814  9  5 f   -     -     -         1104    0    0 
+ACESUP    798836927 11  4 f   -     -     -         1104    0    0 
+ACESUP    798837062 12  4 f   -     -     -         1104    0    0 
+ACESUP    798837145 10  2 Bk  kc    f     -         1104   20    0 
+ACESUP    798837216 10  1 Bc  f     -     -         1084   10    0 
+ACESUP    798837272  9  9 c   f     -     -         1074   10    0 
+ACESUP    798837327 10  9 rc  c     f     -         1064   40    0 
+ACESUP    798837411 11  8 c   b     b     -         1024   40  130 
+ACESUP    798837509  9  6 f   -     -     -         1114    0    0 
+ACESUP    798837576 10  6 c   b     b     b         1114   70  200 Td Ts
+ACESUP    798837675 10  5 f   -     -     -         1244    0    0 
+ACESUP    798837780 10  4 c   b     k     k         1244   20   85 Ts Jc
+ACESUP    798837852  9  3 f   -     -     -         1309    0    0 
+ACESUP    798837940 10  2 Bc  kcc   kc    k         1309   80  385 Jd 9s
+ACESUP    798838050  9  1 Bf  -     -     -         1614    5    0 
+ACESUP    798838115  9  9 f   -     -     -         1609    0    0 
+ACESUP    798922590  8  7 r   b     b     -         1584   50  145 
+ACESUP    798922718  8  6 c   b     -     -         1679   20   30 
+ACESUP    798922751  9  6 f   -     -     -         1689    0    0 
+ACESUP    798922812 11  6 cc  kcc   f     -         1689   60    0 
+ACESUP    798922993 12  6 f   -     -     -         1629    0    0 
+ACESUP    798923121 12  5 f   -     -     -         1629    0    0 
+ACESUP    798923268 12  3 Q   -     -     -         1629    0    0 
+ACESUP    798943539  5  4 f   -     -     -         1629    0    0 
+ACESUP    798943558  5  3 f   -     -     -         1629    0    0 
+ACESUP    798943595  6  2 Bc  b     f     -         1629   30    0 
+ACESUP    798943680  7  1 Bc  kc    kc    k         1599   40  100 Jc As
+ACESUP    798943880  4  4 c   b     -     -         1659   20   30 
+ACESUP    798943933  4  4 f   -     -     -         1669    0    0 
+ACESUP    798943943  4  3 f   -     -     -         1669    0    0 
+ACESUP    798943955  4  2 Bk  f     -     -         1669   10    0 
+ACESUP    798943976  4  1 Bc  kc    k     kc        1659   50  130 Ah 4h
+ACESUP    798944035  5  5 f   -     -     -         1739    0    0 
+ACESUP    798944092  5  4 f   -     -     -         1739    0    0 
+ACESUP    798944102  5  3 f   -     -     -         1739    0    0 
+ACESUP    798944151  5  2 Bk  k     k     b         1739   30    0 8d Jh
+ACESUP    798944205  5  1 Bc  bc    bc    kc        1709  100    0 Jd 6h
+ACESUP    798944286  6  6 f   -     -     -         1609    0    0 
+ACESUP    798944305  6  5 f   -     -     -         1609    0    0 
+ACESUP    798944360  6  4 f   -     -     -         1609    0    0 
+ACESUP    798944400  6  3 c   kc    kf    -         1609   20    0 
+ACESUP    798944473  6  2 Bc  bc    kc    kf        1589   60    0 
+ACESUP    798944541  6  1 Br  bc    k     kc        1529   70  200 Ad As
+ACESUP    798944618  6  6 f   -     -     -         1659    0    0 
+ACESUP    798944682  6  5 f   -     -     -         1659    0    0 
+ACESUP    798944703  6  4 f   -     -     -         1659    0    0 
+ACESUP    798944745  6  3 f   -     -     -         1659    0    0 
+ACESUP    798944784  6  2 Bk  k     b     -         1659   30   50 
+ACESUP    798944854  6  1 Bf  -     -     -         1679    5    0 
+ACESUP    798944865  6  6 f   -     -     -         1674    0    0 
+ACESUP    798944944  6  5 f   -     -     -         1674    0    0 
+ACESUP    798944986  7  4 f   -     -     -         1674    0    0 
+ACESUP    798945037  6  2 f   -     -     -         1674    0    0 
+ACESUP    798945082  7  2 Bf  -     -     -         1674   10    0 
+ACESUP    798945132  7  1 Bf  -     -     -         1664    5    0 
+ACESUP    798945179  7  7 c   b     b     c         1659   70    0 Jh 9h
+ACESUP    798945235  7  6 c   f     -     -         1589   10    0 
+ACESUP    798945266  7  5 c   k     bc    kc        1579   70  165 3d Ad
+ACESUP    798945345  7  4 r   b     bc    bc        1674  110  295 Ac Kh
+ACESUP    798945397  7  3 c   f     -     -         1859   10    0 
+ACESUP    798945424  7  2 Bf  -     -     -         1849   10    0 
+ACESUP    798945499  7  1 Bf  -     -     -         1839    5    0 
+ACESUP    798945534  7  7 f   -     -     -         1834    0    0 
+ACESUP    798945601  6  6 f   -     -     -         1834    0    0 
+ACESUP    798945626  7  5 f   -     -     -         1834    0    0 
+ACESUP    798945689  7  4 f   -     -     -         1834    0    0 
+ACESUP    798945711  7  3 f   -     -     -         1834    0    0 
+ACESUP    798945738  8  2 Bf  -     -     -         1834   10    0 
+ACESUP    798945772  9  1 Bf  -     -     -         1824    5    0 
+ACESUP    798945889  9  9 f   -     -     -         1819    0    0 
+ACESUP    798945933  9  8 f   -     -     -         1819    0    0 
+ACESUP    798945968  8  6 f   -     -     -         1819    0    0 
+ACESUP    798946018  8  5 f   -     -     -         1819    0    0 
+ACESUP    798946077  8  4 f   -     -     -         1819    0    0 
+ACESUP    798946180  8  3 f   -     -     -         1819    0    0 
+ACESUP    798946231  8  2 Bc  b     b     kc        1819   70    0 Jh Kh
+ACESUP    798946300  8  1 Bc  bc    kc    k         1749   60  190 Ah Td
+ACESUP    798946360  8  8 cc  f     -     -         1879   30    0 
+ACESUP    798946456  8  7 c   b     -     -         1849   20   50 
+ACESUP    798946494  8  6 c   b     b     -         1879   40  100 
+ACESUP    798946543  8  5 cc  f     -     -         1939   20    0 
+ACESUP    798946578  8  4 f   -     -     -         1919    0    0 
+ACESUP    798946621  7  3 f   -     -     -         1919    0    0 
+ACESUP    798946682  7  2 Bc  kc    kc    f         1919   50    0 
+ACESUP    798946755  8  1 Bc  k     kf    -         1869   10    0 
+ACESUP    798946805  8  8 c   f     -     -         1859   10    0 
+ACESUP    798946863  8  7 f   -     -     -         1849    0    0 
+ACESUP    798946932  8  6 c   k     k     k         1849   10    0 Th 9c
+ACESUP    798947004  8  6 f   -     -     -         1839    0    0 
+ACESUP    798947068  8  5 f   -     -     -         1839    0    0 
+ACESUP    798947129  8  4 f   -     -     -         1839    0    0 
+ACESUP    798947175  8  3 f   -     -     -         1839    0    0 
+ACESUP    798947242  8  2 Bc  kc    k     kc        1839   50   73 2c As
+ACESUP    798947319  8  1 Bf  -     -     -         1862    5    0 
+ACESUP    798947376  8  8 f   -     -     -         1857    0    0 
+ACESUP    798947430  8  7 c   f     -     -         1857   10    0 
+ACESUP    798947499  8  6 f   -     -     -         1847    0    0 
+ACESUP    798947539  8  5 c   f     -     -         1847   10    0 
+ACESUP    798947602  8  4 c   c     f     -         1837   20    0 
+ACESUP    798947686  8  3 f   -     -     -         1817    0    0 
+ACESUP    798947785  8  2 Bc  cc    bc    c         1817  100    0 5c As
+ACESUP    798947902  9  1 Bc  f     -     -         1717   10    0 
+ACESUP    798947978  9  9 f   -     -     -         1707    0    0 
+ACESUP    798948025 10  9 r   c     k     c         1707   50  155 As Kh
+ACESUP    798948097 10  8 Q   -     -     -         1812    0    0 
+ACESUP    799016772  7  5 f   -     -     -         1812    0    0 
+ACESUP    799016877  6  3 f   -     -     -         1812    0    0 
+ACESUP    799016937  6  2 Bk  f     -     -         1812   10    0 
+ACESUP    799016980  6  1 Bf  -     -     -         1802    5    0 
+ACESUP    799017032  6  6 f   -     -     -         1797    0    0 
+ACESUP    799017106  7  6 f   -     -     -         1797    0    0 
+ACESUP    799017236  7  5 f   -     -     -         1797    0    0 
+ACESUP    799017325  8  5 f   -     -     -         1797    0    0 
+ACESUP    799084445  9  8 f   -     -     -         2017    0    0 
+ACESUP    799084514  9  7 r   kf    -     -         2017   20    0 
+ACESUP    799084614  9  6 f   -     -     -         1997    0    0 
+ACESUP    799084741  8  4 f   -     -     -         1997    0    0 
+ACESUP    799084819 10  3 f   -     -     -         1997    0    0 
+ACESUP    799084891 10  2 Bf  -     -     -         1997   10    0 
+ACESUP    799084968 10  1 Bc  k     kc    k         1987   40    0 Qd Jc
+ACESUP    799085076 11 11 f   -     -     -         1947    0    0 
+ACESUP    799085191 11 10 f   -     -     -         1947    0    0 
+ACESUP    799085296 10  8 f   -     -     -         1947    0    0 
+ACESUP    799085401 10  7 f   -     -     -         1947    0    0 
+ACESUP    799085513 10  6 f   -     -     -         1947    0    0 
+ACESUP    799085597 10  5 f   -     -     -         1947    0    0 
+ACESUP    799085671 10  4 f   -     -     -         1947    0    0 
+ACESUP    799085777  9  3 f   -     -     -         1947    0    0 
+ACESUP    799085885 10  2 Bk  b     b     -         1947   40   70 
+ACESUP    799085956 10  1 Bf  -     -     -         1977    5    0 
+ACESUP    799086097 11 11 f   -     -     -         1972    0    0 
+ACESUP    799086248 10  9 c   f     -     -         1972   10    0 
+ACESUP    799086372 10  8 f   -     -     -         1962    0    0 
+ACESUP    799086452 10  8 f   -     -     -         1962    0    0 
+ACESUP    799086506  9  6 f   -     -     -         1962    0    0 
+ACESUP    799086571 10  5 f   -     -     -         1962    0    0 
+ACESUP    799086724  9  5 f   -     Q     -         1962    0    0 
+ACESUP    799087389  6  6 f   -     -     -         1962    0    0 
+ACESUP    799087484  4  3 cc  cc    rrc   c         1962  170    0 Tc 9c
+ACESUP    799087567  6  2 Br  bc    kc    k         1792   60  160 5s 5h
+ACESUP    799087646  6  1 Bc  k     f     -         1892   10    0 
+ACESUP    799087701  6  6 f   -     -     -         1882    0    0 
+ACESUP    799087765  6  5 cc  f     -     -         1882   20    0 
+ACESUP    799087821  6  4 f   -     -     -         1862    0    0 
+ACESUP    799087894  6  3 f   -     -     -         1862    0    0 
+ACESUP    799087949  7  3 f   -     -     -         1862    0    0 
+ACESUP    799087994  7  2 Bcc f     -     -         1862   40    0 
+ACESUP    799088069  7  1 Bf  -     -     -         1822    5    0 
+ACESUP    799088151  8  8 cc  c     c     f         1817   50    0 
+ACESUP    799088240  8  7 rc  b     b     rf        1767  100    0 
+ACESUP    799088334  9  7 f   -     -     -         1667    0    0 
+ACESUP    799088376  9  6 cc  c     c     c         1667   90    0 As Ts
+ACESUP    799088446  9  5 f   -     -     -         1577    0    0 
+ACESUP    799088516  9  4 f   -     -     -         1577    0    0 
+ACESUP    799088596 10  4 f   -     -     -         1577    0    0 
+ACESUP    799088663 10  3 f   -     -     -         1577    0    0 
+ACESUP    799088724  9  2 Bk  f     -     -         1577   10    0 
+ACESUP    799088779  9  1 Bf  -     -     -         1567    5    0 
+ACESUP    799088820  9  9 f   -     -     -         1562    0    0 
+ACESUP    799088872 10  8 c   rc    rr    b         1562  150  335 Qh Ac
+ACESUP    799088950 11  8 f   -     -     -         1747    0    0 
+ACESUP    799089048 11  7 f   -     -     -         1747    0    0 
+ACESUP    799089123 10  6 f   -     -     -         1747    0    0 
+ACESUP    799089184 11  5 Q   -     -     -         1747    0    0 
+ACESUP    799108251  8  3 f   -     -     -         1747    0    0 
+ACESUP    799108330  8  2 Bf  -     -     -         1747   10    0 
+ACESUP    799108386  7  1 Bf  -     -     -         1737    5    0 
+ACESUP    799108439  8  8 f   -     -     -         1732    0    0 
+ACESUP    799108501  8  7 f   -     -     -         1732    0    0 
+ACESUP    799108565  8  6 r   c     c     c         1732   70  185 Qs Kh
+ACESUP    799108642  8  5 cc  k     kf    -         1847   20    0 
+ACESUP    799108750  8  4 f   -     -     -         1827    0    0 
+ACESUP    799108864  8  3 f   -     -     -         1827    0    0 
+ACESUP    799108924  8  2 Bk  f     -     -         1827   10    0 
+ACESUP    799109055  8  1 Bc  bcc   kc    kc        1817   90  320 8s 8d
+ACESUP    799109225  9  8 c   f     -     -         2047   10    0 
+ACESUP    799109277  9  7 f   -     -     -         2037    0    0 
+ACESUP    799109383  8  5 f   -     -     -         2037    0    0 
+ACESUP    799109469  9  5 f   -     -     -         2037    0    0 
+ACESUP    799109557  9  4 f   -     -     -         2037    0    0 
+ACESUP    799109643 12  3 f   -     -     -         2037    0    0 
+ACESUP    799109715 12  2 Bk  f     -     -         2037   10    0 
+ACESUP    799109824 12  1 Bc  bc    k     kc        2027   50    0 Kc Kh
+ACESUP    799109939 11 11 c   f     -     -         1977   20    0 
+ACESUP    799110078 11 10 r   br    b     k         1957   70  195 Qc Qd
+ACESUP    799110214 12  9 f   -     -     -         2082    0    0 
+ACESUP    799110405 10  7 cc  f     -     -         2082   20    0 
+ACESUP    799110566 12  7 f   -     -     -         2062    0    0 
+ACESUP    799110658 12  6 c   f     -     -         2062   10    0 
+ACESUP    799110833 12  5 f   -     -     -         2052    0    0 
+ACESUP    799110951 12  4 f   -     -     -         2052    0    0 
+ACESUP    799111157 12  4 f   -     -     -         2052    0    0 
+ACESUP    799111249 11  2 Bc  k     kc    kc        2052   60    0 Jd Ks
+ACESUP    799111360 12  1 Bc  f     -     -         1992   20    0 
+ACESUP    799111521 10 10 c   k     k     f         1972   10    0 
+ACESUP    799111668 11 10 f   -     -     -         1962    0    0 
+ACESUP    799111748 10  8 f   -     -     -         1962    0    0 
+ACESUP    799111899  9  6 f   -     -     -         1962    0    0 
+ACESUP    799111992  9  4 cc  c     f     -         1962   40    0 
+ACESUP    799112057  9  3 f   -     -     -         1922    0    0 
+ACESUP    799112134  9  2 Bf  -     -     -         1922   10    0 
+ACESUP    799112241  7  1 Bf  -     -     -         1912    5    0 
+ACESUP    799112360  7  7 c   f     -     -         1907   10    0 
+ACESUP    799112430  7  6 c   r     b     b         1897   70  165 6s 6h
+ACESUP    799112549  7  5 f   -     -     -         1992    0    0 
+ACESUP    799112640  8  5 f   -     -     -         1992    0    0 
+ACESUP    799112689  7  4 f   -     -     -         1992    0    0 
+ACESUP    799112741  6  3 f   -     -     -         1992    0    0 
+ACESUP    799112766  6  2 BQ  -     -     -         1992   10    0 
+ACESUP    799214387  6  2 Bf  -     -     -         1982   10    0 
+ACESUP    799214412  6  1 Bf  -     -     -         1972    5    0 
+ACESUP    799214432  6  6 fQ  -     -     -         1967    0    0 
+ACESUP    799214526  6  4 Q   -     -     -         1967    0    0 
+ACESUP    799214909  6  6 f   -     -     -         1967    0    0 
+ACESUP    799214987  6  5 f   -     -     -         1967    0    0 
+ACESUP    799215025  6  4 f   -     -     -         1967    0    0 
+ACESUP    799215096  6  3 f   -     -     -         1967    0    0 
+ACESUP    799215133  6  2 Bc  kcf   -     -         1967   30    0 
+ACESUP    799215266  7  1 Bc  f     -     -         1937   20    0 
+ACESUP    799215313  7  7 f   -     -     -         1917    0    0 
+ACESUP    799215323  7  6 r   r     k     k         1917   50    0 Ac 3c
+ACESUP    799215363  7  5 f   -     -     -         1867    0    0 
+ACESUP    799215381  7  4 c   c     f     -         1867   30    0 
+ACESUP    799215426  7  3 f   -     -     -         1837    0    0 
+ACESUP    799215482  7  2 Bc  b     -     -         1837   30   55 
+ACESUP    799215506  7  1 Br  b     b     b         1862   80  170 As Ah
+ACESUP    799215546  7  7 f   -     -     -         1952    0    0 
+ACESUP    799215628  7  6 r   c     c     f         1952   50    0 
+ACESUP    799215693  8  5 f   -     -     -         1902    0    0 
+ACESUP    799215719  8  4 rc  rc    c     c         1902  100  205 Ks Qs
+ACESUP    799215809  8  3 f   -     -     -         2007    0    0 
+ACESUP    799215868  8  2 Bc  b     -     -         2007   30   55 
+ACESUP    799215903  9  1 Bf  -     -     -         2032    5    0 
+ACESUP    799215929  9  9 f   -     -     -         2027    0    0 
+ACESUP    799215967  9  8 cc  f     -     -         2027   30    0 
+ACESUP    799216031  9  7 c   c     f     -         1997   20    0 
+ACESUP    799216087  9  6 f   -     -     -         1977    0    0 
+ACESUP    799216123  8  4 f   -     -     -         1977    0    0 
+ACESUP    799216202  8  3 f   -     -     -         1977    0    0 
+ACESUP    799216332  7  2 Bk  b     b     b         1977   60  105 
+ACESUP    799216391  7  1 Bc  k     kf    -         2022   10    0 
+ACESUP    799216447  7  7 c   f     -     -         2012   10    0 
+ACESUP    799216529  7  6 c   f     -     -         2002   20    0 
+ACESUP    799216600  7  5 f   -     -     -         1982    0    0 
+ACESUP    799216670  7  4 f   -     -     -         1982    0    0 
+ACESUP    799216741  7  3 f   -     -     -         1982    0    0 
+ACESUP    799216780  7  2 Bf  -     -     -         1982   10    0 
+ACESUP    799216793  7  1 Bf  -     -     -         1972    5    0 
+ACESUP    799216858  7  7 f   -     -     -         1967    0    0 
+ACESUP    799216931  5  4 r   -     -     -         1967   20   30 
+ACESUP    799216983  4  3 c   b     -     -         1977   20   45 
+ACESUP    799217010  5  2 Bf  -     -     -         2002   10    0 
+ACESUP    799217024  5  1 Bf  -     -     -         1992    5    0 
+ACESUP    799217094  5  5 f   -     -     -         1987    0    0 
+ACESUP    799217142  5  4 f   -     -     -         1987    0    0 
+ACESUP    799217165  4  2 Bk  f     -     -         1987   10    0 
+ACESUP    799217192  4  1 Bf  -     -     -         1977    5    0 
+ACESUP    799217234  4  4 cc  r     b     b         1972   80  150 
+ACESUP    799217297  5  4 cc  k     k     c         2042   40   90 5s 5c
+ACESUP    799217359  5  3 r   k     f     -         2092   20    0 
+ACESUP    799217399  5  2 Bc  kc    kc    k         2072   50    0 Qs 8h
+ACESUP    799217456  5  1 Bc  kf    -     -         2022   10    0 
+ACESUP    799217495  5  5 f   -     -     -         2012    0    0 
+ACESUP    799217511  5  4 f   -     -     -         2012    0    0 
+ACESUP    799217554  5  3 c   k     k     k         2012   10    0 Kc 6c
+ACESUP    799217598  5  2 Bc  f     -     -         2002   20    0 
+ACESUP    799217624  5  1 Bf  -     -     -         1982    5    0 
+ACESUP    799217675  5  5 c   f     -     -         1977   20    0 
+ACESUP    799217717  5  4 f   -     -     -         1957    0    0 
+ACESUP    799217748  5  3 f   -     -     -         1957    0    0 
+ACESUP    799217777  5  2 Bf  -     -     -         1957   10    0 
+ACESUP    799217788  5  1 Bf  -     -     -         1947    5    0 
+ACESUP    799217825  5  5 f   -     -     -         1942    0    0 
+ACESUP    799217892  5  4 f   -     -     -         1942    0    0 
+ACESUP    799217942  5  3 f   -     -     -         1942    0    0 
+ACESUP    799217965  5  2 Bk  bc    bc    kc        1942   90  185 2d Qd
+ACESUP    799218025  5  1 Bf  -     -     -         2037    5    0 
+ACESUP    799218054  5  5 r   b     k     k         2032   30    0 Jh Kh
+ACESUP    799218090  5  4 c   f     -     -         2002   10    0 
+ACESUP    799218142  5  3 cc  f     -     -         1992   20    0 
+ACESUP    799218176  5  2 Bf  -     -     -         1972   10    0 
+ACESUP    799218228  5  1 Bc  f     -     -         1962   10    0 
+ACESUP    799218282  5  5 r   -     -     -         1952   20   35 
+ACESUP    799218296  5  4 c   f     -     -         1967   10    0 
+ACESUP    799218349  5  3 f   -     -     -         1957    0    0 
+ACESUP    799218375  5  2 Bk  bc    kc    b         1957   70    0 8h Ad
+ACESUP    799218444  6  1 Bf  -     -     -         1887    5    0 
+ACESUP    799218493  6  6 c   f     -     -         1882   10    0 
+ACESUP    799218618  6  5 c   f     -     -         1872   10    0 
+ACESUP    799218706  7  4 f   -     -     -         1862    0    0 
+ACESUP    799218785  8  3 f   -     -     -         1862    0    0 
+ACESUP    799218834  8  2 Bk  f     -     -         1862   10    0 
+ACESUP    799218911  8  1 Bc  kc    k     b         1852   40   70 
+ACESUP    799218981  8  8 c   f     -     -         1882   10    0 
+ACESUP    799219046  8  7 f   -     -     -         1872    0    0 
+ACESUP    799219130  8  7 f   -     -     -         1872    0    0 
+ACESUP    799219259  6  4 f   -     -     -         1872    0    0 
+ACESUP    799219335  7  3 f   -     -     -         1872    0    0 
+ACESUP    799219379  7  2 Bf  -     -     -         1872   10    0 
+ACESUP    799219425  7  1 Bf  -     -     -         1862    5    0 
+ACESUP    799219482  7  7 f   -     -     -         1857    0    0 
+ACESUP    799219557  7  6 f   -     -     -         1857    0    0 
+ACESUP    799219643  7  5 f   -     -     -         1857    0    0 
+ACESUP    799219701  7  4 f   -     -     -         1857    0    0 
+ACESUP    799219773  7  3 f   -     -     -         1857    0    0 
+ACESUP    799219830  7  2 Bf  -     -     -         1857   10    0 
+ACESUP    799219886  7  1 Bc  kf    -     -         1847   10    0 
+ACESUP    799219986  7  7 c   c     r     b         1837   90  310 6s Ks
+ACESUP    799220091  8  6 c   k     c     f         2057   30    0 
+ACESUP    799220189  8  5 cc  rc    c     k         2027   70  180 2d Jd
+ACESUP    799220267  7  4 c   cc    f     -         2137   40    0 
+ACESUP    799220339  8  3 f   -     -     -         2097    0    0 
+ACESUP    799220441  8  2 Bk  b     -     -         2097   20   40 
+ACESUP    799220479  8  1 Bc  b     k     k         2117   20   50 8d 4c
+ACESUP    799220549  9  9 c   f     -     -         2147   20    0 
+ACESUP    799220602 10  5 Q   -     -     -         2127    0    0 
+ACESUP    799288720  6  2 Bk  kc    f     -         2127   20    0 
+ACESUP    799288798  6  1 Bf  -     -     -         2107    5    0 
+ACESUP    799288857  6  6 f   -     -     -         2102    0    0 
+ACESUP    799288916  7  5 f   -     -     -         2102    0    0 
+ACESUP    799288957  8  4 f   -     -     -         2102    0    0 
+ACESUP    799289004  9  3 c   bc    b     b         2102   70  220 Kh Js
+ACESUP    799289084  9  2 Bk  kc    f     -         2252   30    0 
+ACESUP    799289140  9  1 Bf  -     -     -         2222    5    0 
+ACESUP    799289212  9  9 f   -     -     -         2217    0    0 
+ACESUP    799289260  9  8 f   -     -     -         2217    0    0 
+ACESUP    799289316  8  6 f   -     -     -         2217    0    0 
+ACESUP    799289349  8  5 c   bc    f     -         2217   30    0 
+ACESUP    799289400  8  4 f   -     -     -         2187    0    0 
+ACESUP    799289438  9  3 f   -     -     -         2187    0    0 
+ACESUP    799289531  9  2 Bf  -     -     -         2187   10    0 
+ACESUP    799289617  9  1 Bf  -     -     -         2177    5    0 
+ACESUP    799289651  9  9 f   -     -     -         2172    0    0 
+ACESUP    799289702 10  8 f   -     -     -         2172    0    0 
+ACESUP    799289782 10  7 ccc cc    f     -         2172   70    0 
+ACESUP    799289930 10  6 f   -     -     -         2102    0    0 
+ACESUP    799289992  9  5 f   -     -     -         2102    0    0 
+ACESUP    799290074  8  4 f   -     -     -         2102    0    0 
+ACESUP    799290092  9  3 c   r     k     f         2102   30    0 
+ACESUP    799290159  9  2 Bf  -     -     -         2072   10    0 
+ACESUP    799290210  9  1 Bc  f     -     -         2062   10    0 
+ACESUP    799290329  9  9 cc  c     r     k         2052   70    0 5h 2h
+ACESUP    799290441 12 11 c   f     -     -         1982   10    0 
+ACESUP    799290502 12 10 f   -     -     -         1972    0    0 
+ACESUP    799290540 12  9 c   b     b     bf        1972   60    0 
+ACESUP    799290641 11  8 c   f     -     -         1912   10    0 
+ACESUP    799290739 10  6 f   -     -     -         1902    0    0 
+ACESUP    799290775 10  5 f   -     -     -         1902    0    0 
+ACESUP    799290835 11  5 f   -     -     -         1902    0    0 
+ACESUP    799290893 11  4 f   -     -     -         1902    0    0 
+ACESUP    799290983 11  3 f   -     -     -         1902    0    0 
+ACESUP    799291111 10  2 Bk  kc    kf    -         1902   20    0 
+ACESUP    799291219 11  1 Bc  kf    -     -         1882   10    0 
+ACESUP    799291361 10 10 f   -     -     -         1872    0    0 
+ACESUP    799291436 10  9 f   -     -     -         1872    0    0 
+ACESUP    799291478  9  7 f   -     -     -         1872    0    0 
+ACESUP    799291542 10  6 f   -     -     -         1872    0    0 
+ACESUP    799291600 10  5 f   -     -     -         1872    0    0 
+ACESUP    799291670 10  4 f   -     -     -         1872    0    0 
+ACESUP    799291741 10  3 f   -     -     -         1872    0    0 
+ACESUP    799291852 10  2 Bk  kc    kc    kf        1872   40    0 
+ACESUP    799291964  9  1 Bf  -     -     -         1832    5    0 
+ACESUP    799292027  9  8 c   c     f     -         1827   30    0 
+ACESUP    799292114 11  9 f   -     -     -         1797    0    0 
+ACESUP    799292177 10  7 f   -     -     -         1797    0    0 
+ACESUP    799292282 11  6 f   -     -     -         1797    0    0 
+ACESUP    799292344  9  6 cc  f     -     -         1797   20    0 
+ACESUP    799292432  8  4 cc  f     -     -         1777   20    0 
+ACESUP    799292476  9  3 c   b     brc   b         1757  120  390 As Qd
+ACESUP    799292616 10  2 Bf  -     -     -         2027   10    0 
+ACESUP    799292773 10  1 Bc  f     -     -         2017   20    0 
+ACESUP    799292932  8  8 f   -     -     -         1997    0    0 
+ACESUP    799293025  7  6 f   -     -     -         1997    0    0 
+ACESUP    799293099  7  5 f   Q     -     -         1997    0    0 
+ACESUP    799293266  7  4 f   -     -     -         1997    0    0 
+ACESUP    799293332  7  3 f   -     -     -         1997    0    0 
+ACESUP    799293360  7  2 Bk  f     -     -         1997   10    0 
+ACESUP    799293436  7  1 Bf  -     -     -         1987    5    0 
+ACESUP    799293509  8  8 c   f     -     -         1982   10    0 
+ACESUP    799293581  8  7 cc  c     f     -         1972   30    0 
+ACESUP    799293637  8  6 c   f     -     -         1942   10    0 
+ACESUP    799293718  8  5 f   -     -     -         1932    0    0 
+ACESUP    799293769  8  4 f   -     -     -         1932    0    0 
+ACESUP    799293844  8  3 f   -     -     -         1932    0    0 
+ACESUP    799293924  8  2 Bf  -     -     -         1932   10    0 
+ACESUP    799294018  6  1 Bc  bc    k     k         1922   30  100 9c Ts
+ACESUP    799294110  6  6 c   k     f     -         1992   10    0 
+ACESUP    799294168  7  6 f   -     -     -         1982    0    0 
+ACESUP    799294220  7  5 c   kc    f     -         1982   20    0 
+ACESUP    799294349  7  4 f   -     -     -         1962    0    0 
+ACESUP    799294398  7  3 f   -     -     -         1962    0    0 
+ACESUP    799294475  9  2 Bc  kf    -     -         1962   20    0 
+ACESUP    799294571  9  1 Bcc kf    -     -         1942   40    0 
+ACESUP    799294760  9  3 Q   -     -     -         1902    0    0 

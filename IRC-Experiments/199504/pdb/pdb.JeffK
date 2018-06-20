@@ -1,0 +1,191 @@
+JeffK     797735057  3  2 Bk  b     -     -         1000   20   30 
+JeffK     797735077  3  1 Bc  kf    -     -         1010   10    0 
+JeffK     797735101  2  2 BQ  -     -     -         1000   10    0 
+JeffK     798528713  2  1 Br  -     -     -          990   20   30 
+JeffK     798535713  5  1 BQ  -     -     -         1000    5    0 
+JeffK     798923648 10  7 cc  fQ    -     -          995   40    0 
+JeffK     799041068  3  3 r   -     -     -          955   20   35 
+JeffK     799041073  3  2 B   -     -     -          970   10   15 
+JeffK     799041074  3  1 BQ  -     -     -          975    5    0 
+JeffK     799041101  3  2 BQ  -     -     -          970   10    0 
+JeffK     799041213  3  3 Q   -     -     -          960    0    0 
+JeffK     799041472  2  1 BrQ -     -     -          960   20   30 
+JeffK     799128477  2  2 BQ  -     -     -          970   10   15 
+JeffK     799130482  3  2 Bk  b     -     -          975   20   30 
+JeffK     799130566  2  1 Br  -     -     -          985   20   30 
+JeffK     799130573  2  2 B   -     -     -          995   10   15 
+JeffK     799130580  2  1 Bc  kc    b     -         1000   40   60 
+JeffK     799130604  2  2 Bf  -     -     -         1020   10    0 
+JeffK     799130615  2  1 Bc  krc   kc    kc        1010   80    0 2s 7s
+JeffK     799130649  2  2 Brr rc    c     c          930  120  240 Qc Kc
+JeffK     799130693  2  1 Bf  -     -     -         1050    5    0 
+JeffK     799130703  2  2 Bc  f     -     -         1045   20    0 
+JeffK     799130723  2  1 Bc  b     -     -         1025   20   30 
+JeffK     799130739  2  2 B   -     -     -         1035   10   15 
+JeffK     799130747  2  1 Br  k     kf    -         1040   20    0 
+JeffK     799130774  2  2 Bf  -     -     -         1020   10    0 
+JeffK     799130785  2  1 Br  kc    kc    k         1010   50    0 Ad Jd
+JeffK     799130827  2  2 Bc  rc    c     c          960   90    0 Jh 4h
+JeffK     799130856  2  1 Bcc k     b     -          870   40   60 
+JeffK     799130883  2  2 Bf  -     -     -          890   10    0 
+JeffK     799130895  3  1 Bf  -     -     -          880    5    0 
+JeffK     799130902  3  3 f   -     -     -          875    0    0 
+JeffK     799130930  3  2 B   -     -     -          875   10   15 
+JeffK     799130941  3  1 Brc kf    -     -          880   40    0 
+JeffK     799130986  3  3 f   -     -     -          840    0    0 
+JeffK     799130992  3  2 B   -     -     -          840   10   15 
+JeffK     799131000  3  1 Bc  k     kr    b          845   70  140 4h Ad
+JeffK     799131029  3  3 c   c     r     brc        915  140    0 Th 9c
+JeffK     799131080  3  2 Br  k     f     -          775   20    0 
+JeffK     799131124  3  1 Bf  -     -     -          755    5    0 
+JeffK     799131161  3  3 f   -     -     -          750    0    0 
+JeffK     799131169  3  2 Br  b     bc    c          750   90  180 8c 7c
+JeffK     799131204  3  1 Bf  -     -     -          840    5    0 
+JeffK     799131238  3  3 f   -     -     -          835    0    0 
+JeffK     799131279  3  2 B   -     -     -          835   10   15 
+JeffK     799131292  3  1 Bc  b     -     -          840   20   30 
+JeffK     799131315  3  3 cc  k     b     b          850   60    0 4d Ad
+JeffK     799131354  3  2 Bk  k     b     -          790   30   45 
+JeffK     799131384  3  1 Bf  -     -     -          805    5    0 
+JeffK     799131433  3  3 f   -     -     -          800    0    0 
+JeffK     799131461  3  2 Bc  c     c     b          800   70  140 Kh Jc
+JeffK     799131498  4  1 Bc  b     bc    kc         870   80    0 Kh Js
+JeffK     799131537  4  4 f   -     -     -          790    0    0 
+JeffK     799131577  4  3 f   -     -     -          790    0    0 
+JeffK     799131600  4  2 Bc  c     k     k          790   30    0 Qc 9h
+JeffK     799131630  4  1 Bf  -     -     -          760    5    0 
+JeffK     799131661  4  4 f   -     -     -          755    0    0 
+JeffK     799131672  4  3 c   c     c     c          755   60    0 3h 7h
+JeffK     799131724  3  2 Bc  r     rr    brc        695  200    0 8h 7h
+JeffK     799131763  3  1 Bf  -     -     -          495    5    0 
+JeffK     799131779  3  3 c   c     f     -          490   20    0 
+JeffK     799131812  3  2 Bk  b     b     b          470   60    0 8s Ac
+JeffK     799131842  3  1 Bc  kf    -     -          410   20    0 
+JeffK     799131870  3  3 c   b     -     -          390   20   35 
+JeffK     799131907  2  2 B   -     -     -          405   10   15 
+JeffK     799131913  2  1 Bc  kc    k     k          410   20   40 6d Ad
+JeffK     799131948  2  2 Bc  c     c     c          430   70  140 8s Ad
+JeffK     799131972  2  1 Br  k     b     b          500   60  120 Jh Ah
+JeffK     799131997  2  2 B   -     -     -          560   10   15 
+JeffK     799132009  2  1 Bc  krc   kc    k          565   60    0 3h 6h
+JeffK     799132045  2  2 B   -     -     -          505   10   15 
+JeffK     799132069  2  1 Bc  k     b     -          510   30   40 
+JeffK     799132106  2  2 B   -     -     -          520   10   15 
+JeffK     799132113  2  1 Bf  -     -     -          525    5    0 
+JeffK     799132117  2  2 Bc  f     -     -          520   20    0 
+JeffK     799132129  2  1 Br  k     k     kc         500   40   80 Ad Th
+JeffK     799132153  2  2 Bf  -     -     -          540   10    0 
+JeffK     799132165  2  1 Br  bc    kc    b          530   80  160 As Ks
+JeffK     799132199  2  2 B   -     -     -          610   10   15 
+JeffK     799132206  3  1 Bf  -     -     -          615    5    0 
+JeffK     799132215  3  3 c   k     c     rc         610   90   92 8h As
+JeffK     799132246  3  2 Bf  -     -     -          612   10    0 
+JeffK     799132263  3  1 Bf  -     -     -          602    5    0 
+JeffK     799132274  3  3 f   -     -     -          597    0    0 
+JeffK     799132285  3  2 Bk  br    b     b          597   80  170 Ts Jd
+JeffK     799132318  3  1 Br  b     -     -          687   30   50 
+JeffK     799132337  3  3 r   b     b     -          707   50   85 
+JeffK     799132364  3  2 B   -     -     -          742   10   15 
+JeffK     799132373  3  1 Bf  -     -     -          747    5    0 
+JeffK     799132383  3  3 c   f     -     -          742   10    0 
+JeffK     799132401  3  2 Bc  c     k     rc         732   90    0 8c Ah
+JeffK     799132437  3  1 Bc  bc    kc    kc         642   80    0 8d Kd
+JeffK     799132498  3  3 f   -     -     -          562    0    0 
+JeffK     799132529  3  2 Bc  c     c     c          562   70    0 7h 6d
+JeffK     799132560  3  1 Bf  -     -     -          492    5    0 
+JeffK     799132578  3  3 f   -     -     -          487    0    0 
+JeffK     799132618  3  2 Bk  c     f     -          487   20    0 
+JeffK     799132641  3  1 BQ  -     -     -          467    5    0 
+JeffK     799201230  3  3 f   -     -     -          462    0    0 
+JeffK     799201237  3  2 Bk  k     k     k          462   10    0 Kh 5d
+JeffK     799201260  3  1 Bf  -     -     -          452    5    0 
+JeffK     799201293  3  3 cc  c     c     r          447   90  180 
+JeffK     799201329  3  2 Bk  kf    -     -          537   10    0 
+JeffK     799201349  3  1 Bf  -     -     -          527    5    0 
+JeffK     799201371  3  3 f   -     -     -          522    0    0 
+JeffK     799201389  3  2 Bf  -     -     -          522   10    0 
+JeffK     799201397  3  1 Bc  b     -     -          512   20   30 
+JeffK     799201407  3  3 cc  r     b     b          522   80  180 6d Ah
+JeffK     799201440  3  2 Br  k     k     b          622   40   60 
+JeffK     799201464  3  1 Bf  -     -     -          642    5    0 
+JeffK     799201473  3  3 c   b     -     -          637   20   35 
+JeffK     799201485  3  2 Bk  kf    -     -          652   10    0 
+JeffK     799201510  3  1 Bf  -     -     -          642    5    0 
+JeffK     799201517  3  3 f   -     -     -          637    0    0 
+JeffK     799201539  3  2 Bk  b     -     -          637   20   30 
+JeffK     799201554  3  1 Bc  kf    -     -          647   10    0 
+JeffK     799201577  3  3 c   k     k     b          637   30   45 
+JeffK     799201600  3  2 Bk  k     f     -          652   10    0 
+JeffK     799201626  3  1 Bf  -     -     -          642    5    0 
+JeffK     799201635  3  3 f   -     -     -          637    0    0 
+JeffK     799201649  3  2 Br  kc    k     k          637   40  120 Tc Td
+JeffK     799201682  3  1 Bc  bc    kc    k          717   50    0 4s 4d
+JeffK     799201710  3  3 f   -     -     -          667    0    0 
+JeffK     799201739  3  2 Bk  kc    kc    k          667   40   90 Td 9s
+JeffK     799201770  3  1 Bf  -     -     -          717    5    0 
+JeffK     799201797  3  3 f   -     -     -          712    0    0 
+JeffK     799201840  3  2 Bk  f     -     -          712   10    0 
+JeffK     799201870  3  1 Bc  bc    kf    -          702   30    0 
+JeffK     799201908  3  3 f   -     -     -          672    0    0 
+JeffK     799201915  3  2 Br  kc    kc    kc         672   80    0 Ts Tc
+JeffK     799201951  3  1 Bc  b     b     -          592   40   60 
+JeffK     799201972  3  3 f   -     -     -          612    0    0 
+JeffK     799201975  3  2 Bk  bc    b     -          612   50  110 
+JeffK     799202014  3  1 Bf  -     -     -          672    5    0 
+JeffK     799202034  3  3 c   k     c     r          667   70    0 Tc Ks
+JeffK     799202056  3  2 Bk  bc    kc    kf         597   50    0 
+JeffK     799202096  3  1 Bf  -     -     -          547    5    0 
+JeffK     799202117  3  3 cc  c     k     b          542   50  110 
+JeffK     799202157  4  2 Bk  kf    -     -          602   10    0 
+JeffK     799202186  4  1 Bc  k     k     k          592   10   30 6h Ks
+JeffK     799202213  4  4 c   f     -     -          612   10    0 
+JeffK     799202246  4  3 cc  c     c     f          602   50    0 
+JeffK     799202274  4  2 Bk  kf    -     -          552   10    0 
+JeffK     799202324  4  1 Bc  k     kc    kc         542   50    0 6d 6c
+JeffK     799202353  4  4 r   b     b     -          492   50  120 
+JeffK     799202386  3  2 Q   -     -     -          562    0    0 
+JeffK     799209684  6  3 cc  c     c     f          562   50    0 
+JeffK     799209742  6  2 Bk  k     k     b          512   30    0 4s 3h
+JeffK     799209799  6  1 Bc  kf    -     -          482   10    0 
+JeffK     799209845  6  6 f   -     -     -          472    0    0 
+JeffK     799209888  6  5 r   c     c     f          472   50    0 
+JeffK     799209930  6  4 c   b     b     b          422   60  120 
+JeffK     799209984  6  3 c   f     -     -          482   10    0 
+JeffK     799210024  6  2 Bf  -     -     -          472   10    0 
+JeffK     799210057  6  1 Bc  kc    k     k          462   20    0 9h 7s
+JeffK     799210099  7  7 f   -     -     -          442    0    0 
+JeffK     799210132  7  6 f   -     -     -          442    0    0 
+JeffK     799210153  7  5 c   r     c     k          442   60  160 Td Qh
+JeffK     799210224  7  4 c   c     c     c          542   70  195 Kc Tc
+JeffK     799210267  7  3 f   -     -     -          667    0    0 
+JeffK     799210375  7  2 Bc  c     c     c          667   70    0 8c Jd
+JeffK     799210421  7  1 Bc  b     brc   b          597  130  390 9d Kh
+JeffK     799210524  9  9 c   c     c     c          857   60    0 Tc 8c
+JeffK     799210576  9  8 f   -     -     -          797    0    0 
+JeffK     799210617  9  7 c   kf    -     -          797   10    0 
+JeffK     799210654 10  7 f   -     -     -          787    0    0 
+JeffK     799210708 10  6 c   c     b     b          787   60   95 4c Ah
+JeffK     799210809 10  5 f   -     -     -          822    0    0 
+JeffK     799210925 10  5 f   -     -     Q          822    0    0 
+JeffK     799296196  4  4 cc  c     c     k          822   80    0 4s 3s
+JeffK     799296282  4  3 c   c     c     c          742   70    0 As 2h
+JeffK     799296348  4  2 Bf  -     -     -          672   10    0 
+JeffK     799296403  4  1 Bc  b     -     -          662   20   30 
+JeffK     799296454  4  4 c   k     k     k          672   10   30 7d 7h
+JeffK     799296495  4  3 cc  c     c     c          692   70  160 Qd As
+JeffK     799296541  4  2 Bk  kf    -     -          782   10    0 
+JeffK     799296561  4  1 Bc  kf    -     -          772   20    0 
+JeffK     799296624  4  4 f   -     -     -          752    0    0 
+JeffK     799296650  4  3 cc  c     c     c          752   70    0 As 9s
+JeffK     799296700  5  2 Bk  k     k     b          682   30   60 
+JeffK     799296758  5  1 Bf  -     -     -          712    5    0 
+JeffK     799296777  4  4 f   -     -     -          707    0    0 
+JeffK     799296810  4  3 f   -     -     -          707    0    0 
+JeffK     799296848  4  2 Bk  k     k     k          707   10    0 9s 7c
+JeffK     799296894  4  1 Bf  -     -     -          697    5    0 
+JeffK     799296933  4  4 f   -     -     -          692    0    0 
+JeffK     799296982  4  3 cc  c     c     c          692   70    0 Qh 9h
+JeffK     799297040  4  2 Bk  k     k     b          622   30   55 
+JeffK     799297090  4  1 Bc  k     b     -          647   30   40 
+JeffK     799297120  4  4 f   -     -     -          657    0    0 
+JeffK     799297175  4  3 f   Q     -     -          657    0    0 

@@ -1,0 +1,541 @@
+Shooter   798275375  4  2 Bk  f     -     -         1000   10    0 
+Shooter   798275411  4  1 Bc  bc    k     kc         990   50    0 Ks 4h
+Shooter   798275481  4  4 c   f     -     -          940   20    0 
+Shooter   798275525  4  3 c   c     c     c          920   60    0 5s 3s
+Shooter   798275582  4  2 Bc  rc    k     r          860   90  160 
+Shooter   798275642  4  1 Bc  kc    bc    br         930  120  250 8c Jc
+Shooter   798275775  4  4 c   k     k     b         1060   30   45 
+Shooter   798275852  4  3 cc  bc    k     k         1075   40    0 Qd 6c
+Shooter   798275924  4  2 Bf  -     -     -         1035   10    0 
+Shooter   798275999  4  1 Bc  kc    k     k         1025   20    0 2c Th
+Shooter   798276108  4  4 rc  c     f     -         1005   50    0 
+Shooter   798276165  4  3 cc  c     c     c          955   70    0 Qd 5s
+Shooter   798276220  4  2 Bc  kc    br    b          885  110    0 Kd 4s
+Shooter   798276303  4  1 Bc  b     -     -          775   20   30 
+Shooter   798276336  4  4 c   c     c     b          785   60  145 6c 3s
+Shooter   798276430  4  3 f   -     -     -          870    0    0 
+Shooter   798276481  4  2 B   -     -     -          870   10   15 
+Shooter   798276487  4  1 Bc  k     k     k          875   20    0 2h 5h
+Shooter   798276567  3  3 c   c     c     c          855   60    0 3s Ks
+Shooter   798276628  2  2 cr  bc    k     c          795   70    0 Ks Qs
+Shooter   798276721  2  2 B   -     -     -          725   10   15 
+Shooter   798276730  2  1 Bcc br    b     b          730   90  160 
+Shooter   798276798  2  2 B   -     -     -          800   10   15 
+Shooter   798276802  2  1 Br  -     -     -          805   20   30 
+Shooter   798276822  2  2 Bc  r     -     -          815   40   70 
+Shooter   798276844  2  1 Bf  -     -     -          845    5    0 
+Shooter   798276862  2  2 Bc  c     c     b          840   70    0 9h 2s
+Shooter   798276926  2  1 Bf  -     -     -          770    5    0 
+Shooter   798276948  2  2 B   -     -     -          765   10   15 
+Shooter   798276953  2  1 Bf  -     -     -          770    5    0 
+Shooter   798276969  2  2 Brc r     b     b          765  100  200 3h 9d
+Shooter   798277031  2  1 Bcc kc    kc    kc         865   70    0 4d Ah
+Shooter   798277133  2  2 Bk  r     b     -          795   50   80 
+Shooter   798277185  2  1 Bc  br    b     -          825   60  100 
+Shooter   798277223  2  2 B   -     -     -          865   10   15 
+Shooter   798277224  2  1 Bc  k     k     k          870   10   20 Kh 5s
+Shooter   798277303  2  2 Bc  c     f     -          880   30    0 
+Shooter   798277363  2  1 Bc  b     k     b          850   40   60 
+Shooter   798277462  2  2 Br  k     k     k          870   20    0 6h 3s
+Shooter   798277519  2  1 Bcc kc    kc    kf         850   50    0 
+Shooter   798277660  2  2 Bk  k     k     k          800   10   20 3s 6h
+Shooter   798277745  2  1 Bc  b     -     -          810   20   30 
+Shooter   798277794  3  2 Bc  cc    b     b          820   80  220 6s Qc
+Shooter   798277933  3  1 Bc  brc   b     k          960   70    0 3h 4c
+Shooter   798277992  3  3 cc  b     k     rrrrrrc    890  290    0 Qh Ah
+Shooter   798278131  2  2 Bk  f     -     -          600   10    0 
+Shooter   798278277  2  1 Bf  -     -     -          590    5    0 
+Shooter   798278296  2  2 Bk  k     k     k          585   10    0 5c Tc
+Shooter   798278351  2  1 Bcc kf    -     -          575   20    0 
+Shooter   798278401  2  2 Bk  b     b     -          555   40   60 
+Shooter   798278447  2  1 Bc  b     -     -          575   20   30 
+Shooter   798278476  2  2 Bk  k     k     k          585   10   10 9d 7c
+Shooter   798278550  2  1 Bc  kr    k     k          585   30   60 Jh 6d
+Shooter   798278659  2  2 Bc  k     r     b          615   80  140 
+Shooter   798278757  2  1 Bc  kc    k     k          675   20    0 Ac 4c
+Shooter   798278833  2  2 Bk  k     k     k          655   10   20 3c Ac
+Shooter   798278927  2  1 Bc  k     b     -          665   30   40 
+Shooter   798278989  2  2 B   -     -     -          675   10   15 
+Shooter   798278994  2  1 Brrc kc    bc    k          680  100  200 6h 6d
+Shooter   798279075  2  2 Bk  br    brrrrrrc rc         780  380  380 6c Kh
+Shooter   798279268  2  1 Bc  k     k     k          780   10   20 Qd 3c
+Shooter   798279347  3  2 Bc  c     k     b          790   50   80 
+Shooter   798279392  3  1 Bc  b     -     -          820   20   30 
+Shooter   798279429  3  3 c   k     k     k          830   10    0 5h Jh
+Shooter   798279526  3  2 Bk  bc    c     c          820   70   70 6d Td
+Shooter   798279588  3  1 Bf  -     -     -          820    5    0 
+Shooter   798279602  3  3 cc  f     -     -          815   20    0 
+Shooter   798279640  3  2 Bc  k     b     -          795   40   60 
+Shooter   798279672  3  1 Bc  k     krr   -          815  100  190 
+Shooter   798279730  3  3 f   -     -     -          905    0    0 
+Shooter   798279754  3  2 B   -     -     -          905   10   15 
+Shooter   798279779  2  1 Bcf -     -     -          910   10    0 
+Shooter   798279821  2  2 B   -     -     -          900   10   15 
+Shooter   798279829  2  1 Bcc kf    -     -          905   20    0 
+Shooter   798279867  2  2 B   -     -     -          885   10   15 
+Shooter   798279873  2  1 Bc  b     -     -          890   20   30 
+Shooter   798279922  2  2 B   -     -     -          900   10   15 
+Shooter   798279927  2  1 Br  -     -     -          905   20   30 
+Shooter   798279943  2  2 B   -     -     -          915   10   15 
+Shooter   798279948  2  1 Bcc kf    -     -          920   20    0 
+Shooter   798279981  2  2 Bc  k     r     -          900   60  100 
+Shooter   798280023  2  1 Bc  kf    -     -          940   10    0 
+Shooter   798280055  2  2 B   -     -     -          930   10   15 
+Shooter   798280061  2  1 Bcf -     -     -          935   10    0 
+Shooter   798280084  2  2 B   -     -     -          925   10   15 
+Shooter   798280090  2  1 Bc  kc    b     -          930   40   60 
+Shooter   798280143  2  2 B   -     -     -          950   10   15 
+Shooter   798280151  2  1 Bf  -     -     -          955    5    0 
+Shooter   798280161  2  2 Bc  c     r     b          950   90  160 
+Shooter   798280213  2  1 Bf  -     -     -         1020    5    0 
+Shooter   798280225  2  2 B   -     -     -         1015   10   15 
+Shooter   798280230  2  1 Bf  -     -     -         1020    5    0 
+Shooter   798280241  2  2 B   -     -     -         1015   10   15 
+Shooter   798280246  2  1 Br  b     b     -         1020   50   80 
+Shooter   798280293  2  2 B   -     -     -         1050   10   15 
+Shooter   798280302  2  1 Bf  -     -     -         1055    5    0 
+Shooter   798280312  2  2 Bc  c     c     b         1050   70    0 2s 5c
+Shooter   798280372  2  1 Bcc kf    -     -          980   20    0 
+Shooter   798280431  2  2 Bc  k     f     -          960   20    0 
+Shooter   798280472  4  1 Bc  k     kf    -          940   10    0 
+Shooter   798280562  4  4 cc  k     c     c          930   60    0 4d Qc
+Shooter   798280615  4  3 cf  -     -     -          870   10    0 
+Shooter   798280657  4  2 Bc  c     cc    f          860   70    0 
+Shooter   798280718  4  1 Bc  k     k     k          790   20    0 4s 5s
+Shooter   798280795  4  4 c   -     -     -          770   10   25 
+Shooter   798280824  3  2 r   k     b     c          785   60    0 5d 5s
+Shooter   798280920  3  2 Bc  f     -     -          725   20    0 
+Shooter   798280952  3  1 Bf  -     -     -          705    5    0 
+Shooter   798281025  4  4 c   b     -     -          700   20   35 
+Shooter   798281064  4  3 c   c     c     r          715   80  170 Kd 6h
+Shooter   798281148  4  2 Bf  -     -     -          805   10    0 
+Shooter   798281180  4  1 Bc  b     kc    brr        795  160    0 4d 4h
+Shooter   798281291  4  4 r   b     k     c          635   50    0 2h Ah
+Shooter   798281353  4  3 cc  rr    rrrrc b          585  260  600 Qs 9c
+Shooter   798281526  4  2 Bk  k     k     k          925   10    0 9d 6h
+Shooter   798281599  4  1 Bf  -     -     -          915    5    0 
+Shooter   798281675  4  4 r   b     -     -          910   30   55 
+Shooter   798281727  4  3 c   k     b     -          935   30   50 
+Shooter   798281785  4  2 Bk  b     b     bc         955   80    0 Js Ts
+Shooter   798281842  4  1 Bcc kc    kc    kc         875   70    0 As 6d
+Shooter   798281941  4  4 c   k     k     k          805   10    0 8d As
+Shooter   798282018  4  3 c   c     kc    k          795   40    0 Qc 6s
+Shooter   798282110  4  2 Bc  f     -     -          755   20    0 
+Shooter   798282145  4  1 Bc  k     k     kc         735   40    0 4h 5d
+Shooter   798282215  4  4 c   k     cc    c          695   70    0 9s 8s
+Shooter   798282304  4  3 cc  bc    b     k          625   60  145 5d Jd
+Shooter   798282418  4  2 Bcc kc    f     -          710   50    0 
+Shooter   798282524  4  1 Br  b     -     -          660   30   60 
+Shooter   798282561  4  4 f   -     -     -          690    0    0 
+Shooter   798282617  4  3 c   c     r     b          690   80  180 Ad 2c
+Shooter   798282675  4  2 Bk  kc    -     -          790   20   50 
+Shooter   798282740  2  1 Bf  -     -     -          820    5    0 
+Shooter   798282754  2  2 B   -     -     -          815   10   15 
+Shooter   798282759  2  1 Bc  k     k     k          820   10    0 2d Jh
+Shooter   798282802  2  2 Bf  -     -     -          810   10    0 
+Shooter   798282818  3  1 Bc  kc    kc    kc         800   60  140 9h 8h
+Shooter   798282881  3  3 c   k     k     k          880   10    0 Qh Jh
+Shooter   798282929  3  2 Bk  b     b     b          870   60  105 
+Shooter   798282975  3  1 Bc  kc    kf    -          915   30    0 
+Shooter   798283078  2  2 c   b     -     -          885   20   30 
+Shooter   798283101  2  2 B   -     -     -          895   10   15 
+Shooter   798283105  2  1 Br  -     -     -          900   20   30 
+Shooter   798283118  2  2 Br  k     c     r          910   80  160 Ah Jh
+Shooter   798283173  2  1 Bf  -     -     -          990    5    0 
+Shooter   798283194  2  2 B   -     -     -          985   10   15 
+Shooter   798283201  2  1 Bc  k     k     k          990   10   20 3d Ks
+Shooter   798283244  2  2 Bk  k     k     c         1000   30    0 Kd 4d
+Shooter   798283297  2  1 Bc  k     k     k          970   10    0 Th 2s
+Shooter   798283678  2  2 B   -     -     -          960   10   15 
+Shooter   798283684  2  1 Bc  kc    k     kf         965   20    0 
+Shooter   798283738  2  2 Bf  -     -     -          945   10    0 
+Shooter   798283751  2  1 Bc  kc    kf    -          935   20    0 
+Shooter   798283799  2  2 Bk  k     k     k          915   10   20 Ad Qh
+Shooter   798283839  2  1 Bc  kc    bc    b          925   80  160 9h Jh
+Shooter   798283898  2  2 Bk  c     k     r         1005   60  120 8s Qs
+Shooter   798283969  2  1 Bc  k     k     kc        1065   30    0 8s Ad
+Shooter   798284018  2  2 B   -     -     -         1035   10   15 
+Shooter   798284026  2  1 Bc  k     k     k         1040   10    0 5s 2h
+Shooter   798284075  2  2 B   -     -     -         1030   10   15 
+Shooter   798284081  2  1 Bc  k     k     kc        1035   30    0 Qd 6s
+Shooter   798284128  2  2 B   -     -     -         1005   10   15 
+Shooter   798284136  2  1 Br  -     -     -         1010   20   30 
+Shooter   798284147  2  2 Bk  k     k     k         1020   10   20 Ks 6c
+Shooter   798284189  2  1 Bc  b     -     -         1030   20   30 
+Shooter   798284226  2  2 Bk  k     c     c         1040   50    0 6d 2h
+Shooter   798284267  2  1 Bf  -     -     -          990    5    0 
+Shooter   798284282  2  2 Bk  c     f     -          985   20    0 
+Shooter   798284319  2  1 Bc  b     k     k          965   20   40 9s Kc
+Shooter   798284376  2  2 B   -     -     -          985   10   15 
+Shooter   798284398  2  1 Bc  k     kc    kc         990   50    0 3s Ad
+Shooter   798284462  2  2 Bc  c     c     c          940   70    0 5s 7d
+Shooter   798284503  2  1 Bcc b     b     b          870   70    0 2c 9d
+Shooter   798284550  2  2 B   -     -     -          800   10   15 
+Shooter   798284563  2  1 Bc  k     k     b          805   30   40 
+Shooter   798284602  2  2 Bk  c     f     -          815   20    0 
+Shooter   798284635  2  1 Bf  -     -     -          795    5    0 
+Shooter   798284645  2  2 Bc  f     -     -          790   20    0 
+Shooter   798284664  2  1 Bc  k     kf    -          770   10    0 
+Shooter   798284698  2  2 B   -     -     -          760   10   15 
+Shooter   798284703  2  1 Bc  k     b     -          765   30   40 
+Shooter   798284731  2  2 Bk  k     k     k          775   10   20 8c 5h
+Shooter   798284793  2  1 Br  b     k     bc         785   70    0 5c 5h
+Shooter   798284848  2  2 B   -     -     -          715   10   15 
+Shooter   798284857  2  1 Bc  kc    kf    -          720   20    0 
+Shooter   798284911  2  2 Bk  c     c     k          700   40    0 4s Ts
+Shooter   798284964  2  1 Bc  kc    kc    k          660   40   80 Tc 6c
+Shooter   798285053  2  2 Bc  r     b     b          700   80  140 
+Shooter   798285123  2  1 Bc  b     -     -          760   20   30 
+Shooter   798285144  2  2 Bk  k     k     b          770   30   40 
+Shooter   798285197  2  1 Bc  k     k     b          780   30   30 6c 9s
+Shooter   798285255  2  2 Bc  c     c     c          780   70  140 4d Jd
+Shooter   798285307  2  1 Bc  kc    kc    kc         850   60    0 Ks 2s
+Shooter   798285366  2  2 B   -     -     -          790   10   15 
+Shooter   798285375  2  1 Br  b     -     -          795   30   50 
+Shooter   798285394  2  2 Bk  k     k     b          815   30   40 
+Shooter   798285446  2  1 Bc  kc    kc    b          825   60  100 
+Shooter   798285499  2  2 B   -     -     -          865   10   15 
+Shooter   798285512  2  1 Bc  br    b     -          870   60  100 
+Shooter   798285574  2  2 Bk  c     c     c          910   60  120 Js 6s
+Shooter   798285614  2  1 Bf  -     -     -          970    5    0 
+Shooter   798285630  2  2 Bc  f     -     -          965   20    0 
+Shooter   798285648  2  1 Bcc kf    -     -          945   20    0 
+Shooter   798285700  2  2 Bc  k     k     c          925   40   80 5s Tc
+Shooter   798285742  2  1 Bcc bc    bc    b          965  100    0 5s Qs
+Shooter   798285808  2  2 B   -     -     -          865   10   15 
+Shooter   798285821  2  1 Bc  k     k     k          870   10    0 9h Jd
+Shooter   798285857  2  2 B   -     -     -          860   10   15 
+Shooter   798285866  2  1 Bcc bc    kc    bc         865  100    0 Tc 8d
+Shooter   798285930  2  2 B   -     -     -          765   10   15 
+Shooter   798285942  2  1 Bc  b     b     -          770   40   60 
+Shooter   798285973  2  2 Br  b     b     r          790  100  180 
+Shooter   798286034  2  1 Bc  k     k     k          870   10   20 Ks 6s
+Shooter   798286080  2  2 Bc  c     c     c          880   70  140 Th 5d
+Shooter   798286128  2  1 Bcc kf    -     -          950   20    0 
+Shooter   798286169  2  2 B   -     -     -          930   10   15 
+Shooter   798286173  2  1 Bcc bc    bc    bc         935  120    0 Qh Js
+Shooter   798286230  2  2 B   -     -     -          815   10   15 
+Shooter   798286244  2  1 Bcc kf    -     -          820   20    0 
+Shooter   798286285  2  2 B   -     -     -          800   10   15 
+Shooter   798286289  2  1 Bcc krc   kc    kc         805   90  180 Kd Ad
+Shooter   798286361  2  2 B   -     -     -          895   10   15 
+Shooter   798286368  2  1 Bc  k     k     b          900   30   40 
+Shooter   798286443  2  2 B   -     -     -          910   10   15 
+Shooter   798286453  2  1 Bf  -     -     -          915    5    0 
+Shooter   798286462  2  2 B   -     -     -          910   10   15 
+Shooter   798286470  2  1 Bf  -     -     -          915    5    0 
+Shooter   798286477  2  2 Bk  k     k     rc         910   70    0 2h Js
+Shooter   798286526  2  1 Bc  k     kc    br         840   90  160 
+Shooter   798286584  2  2 Br  rc    c     b          910  100    0 Ts Kh
+Shooter   798286673  2  1 Bc  b     b     kr         810   80  160 7s Kh
+Shooter   798286732  2  2 Bc  c     Q     -          890   30    0 
+Shooter   798444516  5  3 c   kc    kc    br         860  100  260 3c Qc
+Shooter   798444615  5  2 Bc  f     -     -         1020   20    0 
+Shooter   798444654  5  1 Bc  k     kc    k         1000   30    0 2d Qc
+Shooter   798444713  5  5 cc  c     r     -          970   70  160 
+Shooter   798444774  5  4 c   kc    c     rc        1060  110    0 2s 5s
+Shooter   798444841  5  3 cc  kc    kc    kc         950   70    0 Ah 2s
+Shooter   798444950  5  2 Bk  c     c     k          880   40  140 8d Td
+Shooter   798445026  5  1 Bc  kc    b     k          980   50    0 2d 2s
+Shooter   798445130  5  5 f   -     -     -          930    0    0 
+Shooter   798445169  5  4 c   c     kf    -          930   20    0 
+Shooter   798445260  5  3 c   c     f     -          910   20    0 
+Shooter   798445314  6  3 c   c     c     b          890   60    0 7h Jc
+Shooter   798445373  6  2 Bk  kc    kf    -          830   20    0 
+Shooter   798445431  8  1 Bf  -     -     -          810    5    0 
+Shooter   798445486  8  8 c   f     -     -          805   10    0 
+Shooter   798445576  8  7 c   ccc   c     k          795   80    0 Td Qd
+Shooter   798445687  7  5 c   b     -     -          715   20   40 
+Shooter   798445750  7  5 c   k     kc    kc         735   50    0 Ac 9h
+Shooter   798445855  7  4 cc  b     kc    br         685  130  210 5h 6c
+Shooter   798445983  7  3 cc  c     b     brc        765  130    0 Tc 5c
+Shooter   798446112  8  2 Bc  ccc   f     -          635   80    0 
+Shooter   798446261  8  1 Bcf -     -     -          555   10    0 
+Shooter   798446381  8  8 c   c     k     k          545   30    0 8s 6s
+Shooter   798446470  8  7 c   c     c     f          515   50    0 
+Shooter   798446575  8  6 f   -     -     -          465    0    0 
+Shooter   798446638  8  5 c   k     f     -          465   10    0 
+Shooter   798446734  8  4 cc  f     -     -          455   20    0 
+Shooter   798446796  8  3 f   -     -     -          435    0    0 
+Shooter   798446842  8  2 Bc  cc    cc    f          435  100    0 
+Shooter   798446965  8  1 Bc  kc    kf    -          335   20    0 
+Shooter   798447069  8  8 c   c     r     b          315   90  250 Kd 8d
+Shooter   798447143  8  7 f   -     -     -          475    0    0 
+Shooter   798447234  8  6 c   k     f     -          475   10    0 
+Shooter   798447306  7  4 f   -     -     -          465    0    0 
+Shooter   798447403  8  3 f   -     -     -          465    0    0 
+Shooter   798447462  7  2 Bk  k     k     k          465   10    0 6h Jh
+Shooter   798447549  7  1 Bc  kc    kf    -          455   20    0 
+Shooter   798447654  7  7 rc  rc    c     c          435  110    0 4d 4s
+Shooter   798447915  5  4 cc  f     -     -          325   40    0 
+Shooter   798448051  6  3 c   kc    kf    -          285   20    0 
+Shooter   798448130  6  2 Bc  c     f     -          265   30    0 
+Shooter   798448177  6  1 Bc  bc    kf    -          235   40    0 
+Shooter   798448269  6  6 f   -     -     -          195    0    0 
+Shooter   798448311  6  5 f   -     -     -          195    0    0 
+Shooter   798448364  5  3 cc  f     -     -          195   30    0 
+Shooter   798448530  4  2 Bc  f     -     -          165   20    0 
+Shooter   798448615  5  1 Bf  -     -     -          145    5    0 
+Shooter   798448646  5  5 f   -     -     -          140    0    0 
+Shooter   798448694  5  4 rc  c     r     -          140   80  155 
+Shooter   798448790  5  3 f   -     -     -          215    0    0 
+Shooter   798448817  5  2 Bf  -     -     -          215   10    0 
+Shooter   798448903  5  1 Bf  -     -     -          205    5    0 
+Shooter   798449006  5  5 f   -     -     -          200    0    0 
+Shooter   798449086  5  4 cc  f     -     -          200   20    0 
+Shooter   798449176  5  3 cc  f     -     -          180   20    0 
+Shooter   798449248  5  2 Bk  f     -     -          160   10    0 
+Shooter   798449306  5  1 Bc  b     k     b          150   50    0 3s Jd
+Shooter   798449408  5  5 c   k     f     -          100   10    0 
+Shooter   798449481  5  4 c   f     -     -           90   20    0 
+Shooter   798449659  5  3 f   -     -     -           70    0    0 
+Shooter   798449700  5  2 Bk  r     b     -           70   50   80 
+Shooter   798449763  5  1 Bf  -     -     -          100    5    0 
+Shooter   798449817  5  5 f   -     -     -           95    0    0 
+Shooter   798449873  5  4 f   -     -     -           95    0    0 
+Shooter   798449912  5  3 rr  rr    bA    -           95   95    0 Ah Ad
+Shooter   798450434  6  3 cc  k     c     c         1000   60    0 8s 8c
+Shooter   798450511  6  2 Bc  c     b     -          940   50  100 
+Shooter   798450587  6  1 Bc  kc    kc    k          990   40   90 5s Jc
+Shooter   798450671  6  6 f   -     -     -         1040    0    0 
+Shooter   798450733  6  5 f   -     -     -         1040    0    0 
+Shooter   798450801  6  4 f   -     -     -         1040    0    0 
+Shooter   798450839  6  3 f   -     -     -         1040    0    0 
+Shooter   798450883  6  2 Bc  k     kc    k         1040   40    0 Ac 9s
+Shooter   798450974  5  1 Bc  b     krc   bc        1000  130    0 Ts Ad
+Shooter   798451055  6  6 c   f     -     -          870   10    0 
+Shooter   798451124  6  5 c   k     c     c          860   80    0 Ah 7c
+Shooter   798451212  6  4 f   -     -     -          780    0    0 
+Shooter   798451301  6  3 Q   -     -     -          780    0    0 
+Shooter   798535713  5  5 r   r     b     r          780  120  305 Ad Ac
+Shooter   798535864  3  3 c   -     -     -          965   10   20 
+Shooter   798535907  3  3 c   r     b     bc         975   90    0 Ks 4s
+Shooter   798535993  4  2 Bf  -     -     -          885   10    0 
+Shooter   798536038  4  1 Bc  kf    -     -          875   20    0 
+Shooter   798536089  4  4 c   k     f     -          855   20    0 
+Shooter   798536154  4  3 cc  kf    -     -          835   20    0 
+Shooter   798536255  4  2 Bf  -     -     -          815   10    0 
+Shooter   798536272  4  1 Bf  -     -     -          805    5    0 
+Shooter   798536361  4  4 cc  f     -     -          800   20    0 
+Shooter   798536446  4  4 cc  f     -     -          780   20    0 
+Shooter   798536531  3  2 Bf  -     -     -          760   10    0 
+Shooter   798536558  4  1 Bf  -     -     -          750    5    0 
+Shooter   798536612  4  4 c   rr    b     br         745  130    0 Jd 3d
+Shooter   798536714  5  3 rr  b     br    cc         615  150  435 Ah As
+Shooter   798536877  5  2 Bk  k     c     f          900   30    0 
+Shooter   798536954  4  1 Bf  -     -     -          870    5    0 
+Shooter   798536990  4  4 c   f     Q     -          865   10    0 
+Shooter   798537336  2  1 Bc  kf    -     -          855   10    0 
+Shooter   798537412  2  2 Bk  c     k     k          845   20   40 Td Kc
+Shooter   798537461  2  1 Bc  kc    kc    kc         865   60   60 5s Kh
+Shooter   798537543  3  3 f   -     -     -          865    0    0 
+Shooter   798537569  4  3 c   r     rc    c          865  110  260 5s 6s
+Shooter   798537643  4  2 Bc  kQ    -     -         1015   20    0 
+Shooter   798537895  4  3 cc  c     f     -          995   30    0 
+Shooter   798537981  4  2 Bk  b     bc    b          965   80  170 Qh 9d
+Shooter   798538048  4  1 Bc  kf    -     -         1055   10    0 
+Shooter   798538100  4  4 f   -     -     -         1045    0    0 
+Shooter   798538188  4  3 f   -     -     -         1045    0    0 
+Shooter   798538277  4  2 Bf  -     -     -         1045   10    0 
+Shooter   798538321  4  1 Br  b     br    b         1035  110  230 9s 9c
+Shooter   798538405  4  4 f   -     -     -         1155    0    0 
+Shooter   798538455  4  3 f   -     -     -         1155    0    0 
+Shooter   798538537  4  2 Bk  r     b     c         1155   70    0 7h As
+Shooter   798538601  4  1 Bf  -     -     -         1085    5    0 
+Shooter   798538689  4  4 c   c     k     rc        1080   80    0 6d 9d
+Shooter   798538761  4  3 f   -     -     -         1000    0    0 
+Shooter   798538863  4  2 Bc  kc    kf    -         1000   30    0 
+Shooter   798538965  4  1 Bf  -     -     -          970    5    0 
+Shooter   798539016  4  4 f   -     -     -          965    0    0 
+Shooter   798539135  4  3 Q   -     -     -          965    0    0 
+Shooter   798669185  9  4 c   kc    kc    kf         965   40    0 
+Shooter   798669280  9  3 f   -     -     -          925    0    0 
+Shooter   798669383 10  2 Bc  k     kf    -          925   20    0 
+Shooter   798669481 10  1 Bf  -     -     -          905    5    0 
+Shooter   798669607 11 11 c   k     c     c          900   50    0 Kc As
+Shooter   798669713 11 10 c   f     -     -          850   20    0 
+Shooter   798669796 10  9 c   c     f     -          830   30    0 
+Shooter   798669880 10  7 f   -     -     -          800    0    0 
+Shooter   798669952  9  5 c   f     -     -          800   10    0 
+Shooter   798670036 10  4 f   -     -     -          790    0    0 
+Shooter   798670089 10  3 f   -     -     -          790    0    0 
+Shooter   798670142 10  2 Bc  bc    kc    k          790   60    0 Td Qd
+Shooter   798670253  9  1 Bc  kcc   br    b          730  130  420 Qh Kh
+Shooter   798670548  8  8 c   f     -     -         1020   10    0 
+Shooter   798670646  8  7 c   c     k     k         1010   20    0 Qh 8s
+Shooter   798670735  7  6 f   -     -     -          990    0    0 
+Shooter   798670809  7  5 c   kc    k     k          990   20    0 Kh 6d
+Shooter   798670910  6  3 c   kc    kc    kf         970   60    0 
+Shooter   798671052  6  2 Bc  kc    kc    k          910   50    0 Js 6d
+Shooter   798671157  6  1 Bf  -     -     -          860    5    0 
+Shooter   798671193  6  6 f   -     -     -          855    0    0 
+Shooter   798671324  7  6 f   -     -     -          855    0    0 
+Shooter   798671401  7  5 r   br    b     b          855   90  225 Kh Qd
+Shooter   798671489  6  4 Q   -     -     -          990    0    0 
+Shooter   798671566  5  2 BKQ -     -     -          990   10    0 
+Shooter   798703317  7  2 Bf  -     -     -          980   10    0 
+Shooter   798703414  7  1 Bf  -     -     -          970    5    0 
+Shooter   798703482  7  7 c   rc    r     b          965  120  365 7d 5d
+Shooter   798703576  8  6 c   f     -     -         1210   10    0 
+Shooter   798703668  8  5 c   c     c     k         1200   40    0 Qh 9d
+Shooter   798703741  8  4 f   -     -     -         1160    0    0 
+Shooter   798703808  7  2 Bk  k     br    -         1160   70  180 
+Shooter   798703886  7  1 Bc  k     k     kc        1270   30    0 Ks Th
+Shooter   798703986  7  7 f   -     -     -         1240    0    0 
+Shooter   798704062  7  6 f   -     -     -         1240    0    0 
+Shooter   798704119  7  5 c   r     bc    c         1240  100  215 Kc Ac
+Shooter   798704179  7  4 c   k     k     k         1355   10    0 5s 4s
+Shooter   798704293  7  3 c   kf    -     -         1345   10    0 
+Shooter   798704389  9  3 f   -     -     -         1335    0    0 
+Shooter   798704445  9  2 Bf  Q     -     -         1335   10    0 
+Shooter   798704671  6  2 Bk  r     b     b         1325   70  160 Ad 9s
+Shooter   798704753  6  1 Bf  -     -     -         1415    5    0 
+Shooter   798704824  6  6 f   -     -     -         1410    0    0 
+Shooter   798704921  5  4 cc  kc    cc    kf        1410   70    0 
+Shooter   798705048  5  3 f   -     -     -         1340    0    0 
+Shooter   798705062  3  2 Bk  cc    f     -         1340   30    0 
+Shooter   798705134  3  1 Bf  Q     -     -         1310    5    0 
+Shooter   798763084  8  6 f   -     -     -         1305    0    0 
+Shooter   798763116  8  4 f   -     -     -         1305    0    0 
+Shooter   798763246  9  3 c   kf    -     -         1305   10    0 
+Shooter   798763346 10  2 Bc  kc    k     kf        1295   30    0 
+Shooter   798763442  9  1 Bc  kf    -     -         1265   10    0 
+Shooter   798763545 10 10 f   -     -     -         1255    0    0 
+Shooter   798763660 10  9 f   -     -     -         1255    0    0 
+Shooter   798763819  9  7 cc  f     -     -         1255   20    0 
+Shooter   798763936  9  7 c   f     -     -         1235   10    0 
+Shooter   798764017  9  6 c   k     f     -         1225   10    0 
+Shooter   798764111  9  5 f   -     -     -         1215    0    0 
+Shooter   798764302 11  4 ccc kc    kf    -         1215   50    0 
+Shooter   798764424 11  3 f   -     -     -         1165    0    0 
+Shooter   798764561 11  2 Bf  -     -     -         1165   10    0 
+Shooter   798765404 11  7 c   f     -     -         1365   10    0 
+Shooter   798765478 11  6 c   c     f     -         1355   20    0 
+Shooter   798765596 11  5 f   -     -     -         1335    0    0 
+Shooter   798765713  9  3 c   kc    kc    k         1335   40  170 Ah Qh
+Shooter   798765851  9  2 Bk  bc    b     b         1465   70  175 Ac 6s
+Shooter   798765958 11  1 Bf  -     -     -         1570    5    0 
+Shooter   798766054  9  9 cc  k     f     -         1565   40    0 
+Shooter   798766168 11 10 f   -     -     Q         1525    0    0 
+Shooter   798785984  3  3 c   f     -     -         1525   20    0 
+Shooter   798786019  3  3 c   c     f     -         1505   20    0 
+Shooter   798786067  2  2 Bc  b     b     -         1485   50   80 
+Shooter   798786105  2  1 Bc  k     kc    b         1515   50  100 Kd 5c
+Shooter   798786156  2  2 B   -     -     -         1565   10   15 
+Shooter   798786160  2  1 Bc  k     k     b         1570   30   40 
+Shooter   798786207  2  2 B   -     -     -         1580   10   15 
+Shooter   798786209  2  1 Bc  kf    -     -         1585   10    0 
+Shooter   798786240  2  2 B   -     -     -         1575   10   15 
+Shooter   798786243  2  1 Br  b     b     b         1580   70  140 Jh Td
+Shooter   798786280  2  2 Bf  -     -     -         1650   10    0 
+Shooter   798786298  2  1 Bcc bc    kc    k         1640   60    0 3d Jd
+Shooter   798786361  2  2 B   -     -     -         1580   10   15 
+Shooter   798786366  2  1 Bc  kf    -     -         1585   10    0 
+Shooter   798786398  2  2 B   -     -     -         1575   10   15 
+Shooter   798786401  2  1 Bcc kc    k     b         1580   50  100 7d As
+Shooter   798786456  2  2 B   -     -     -         1630   10   15 
+Shooter   798786460  2  1 Bc  kr    b     b         1635   70  140 Kh Jh
+Shooter   798786519  4  3 c   -     -     -         1705   10   25 
+Shooter   798786543  3  1 Bc  kf    -     -         1720   20    0 
+Shooter   798786580  3  1 Bf  -     -     -         1700    5    0 
+Shooter   798786609  3  3 f   -     -     -         1695    0    0 
+Shooter   798786637  3  2 B   -     -     -         1695   10   15 
+Shooter   798786644  4  1 Bc  k     k     k         1700   10   20 Ac 6h
+Shooter   798786690  4  4 cc  rr    rr    rrrc      1710  280    0 7d Ac
+Shooter   798786783  3  2 r   kc    b     b         1430   70  150 8d 8c
+Shooter   798786855  2  1 Bk  kc    kc    b         1510   60  100 
+Shooter   798786920  2  1 Bc  kf    -     -         1550   10    0 
+Shooter   798786954  2  2 Bc  c     c     rc        1540  110    0 9h Ks
+Shooter   798786999  2  1 Bc  k     k     k         1430   10   20 Kd 9h
+Shooter   798787050  2  2 B   -     -     -         1440   10   15 
+Shooter   798787056  2  1 Bcc kf    -     -         1445   20    0 
+Shooter   798787094  2  2 Bk  k     b     -         1425   30   40 
+Shooter   798787128  2  1 Bc  kc    kf    -         1435   20    0 
+Shooter   798787170  2  2 Bk  k     k     k         1415   10    0 9h Tc
+Shooter   798787202  2  1 Bf  -     -     -         1405    5    0 
+Shooter   798787217  2  2 Bk  r     b     b         1400   70  140 2d Kd
+Shooter   798787261  2  1 Bc  k     b     -         1470   30   40 
+Shooter   798787312  2  2 Bc  c     f     -         1480   30    0 
+Shooter   798787339  2  1 Bc  b     -     -         1450   20   30 
+Shooter   798787359  2  2 B   -     -     -         1460   10   15 
+Shooter   798787362  2  1 Bc  k     kc    kc        1465   50    0 Ad Jh
+Shooter   798787414  2  2 Bc  f     -     -         1415   20    0 
+Shooter   798787438  2  1 Bc  k     kf    -         1395   10    0 
+Shooter   798787478  2  2 Bf  -     -     -         1385   10    0 
+Shooter   798787499  2  1 Bf  -     -     -         1375    5    0 
+Shooter   798787509  2  2 Bk  k     f     -         1370   10    0 
+Shooter   798787572  2  1 Bf  -     -     -         1360    5    0 
+Shooter   798787582  2  2 Bk  c     r     b         1355   80  140 
+Shooter   798787623  2  1 Bc  k     b     -         1415   30   40 
+Shooter   798787653  2  2 Bk  k     k     c         1425   30    0 Kc 6c
+Shooter   798787689  2  1 Bc  b     b     b         1395   60  120 Qd Ts
+Shooter   798787733  2  2 Bk  b     -     -         1455   20   30 
+Shooter   798787754  2  1 Bc  k     kc    kc        1465   50    0 7s As
+Shooter   798787803  2  2 Bc  c     r     b         1415   90  160 
+Shooter   798787877  2  1 Bc  kc    k     b         1485   40   60 
+Shooter   798787921  2  2 B   -     -     -         1505   10   15 
+Shooter   798787924  2  1 Bc  kc    kc    k         1510   40    0 2d 6c
+Shooter   798787972  2  2 Bc  f     -     -         1470   20    0 
+Shooter   798787999  2  1 Bcc bc    kc    b         1450   80    0 5h Ts
+Shooter   798788064  2  2 Bk  r     b     r         1370   90    0 8c 4s
+Shooter   798788115  2  1 Bf  -     -     -         1280    5    0 
+Shooter   798788133  2  2 Bk  k     k     k         1275   10   20 7c 8c
+Shooter   798788188  2  1 Bc  kf    -     -         1285   10    0 
+Shooter   798788236  2  2 B   -     -     -         1275   10   15 
+Shooter   798788243  2  1 Bc  k     kf    -         1280   10    0 
+Shooter   798788320  2  2 Bc  b     b     k         1270   50    0 Jc 8h
+Shooter   798788365  2  1 Bc  kf    -     -         1220   10    0 
+Shooter   798788427  2  2 Bk  k     k     b         1210   30   40 
+Shooter   798788493  2  1 Bcc kc    kc    b         1220   70    0 Ah 8d
+Shooter   798788547  4  4 c   f     -     -         1150   10    0 
+Shooter   798788590  4  3 f   -     -     -         1140    0    0 
+Shooter   798788640  4  2 Bk  f     -     -         1140   10    0 
+Shooter   798788711  4  1 Bc  kc    k     k         1130   20    0 Td 2h
+Shooter   798788766  3  3 c   k     f     -         1110   10    0 
+Shooter   798788813  3  2 Bk  b     -     -         1100   20   35 
+Shooter   798788837  2  1 Bc  b     -     -         1115   20   30 
+Shooter   798788854  2  2 B   -     -     -         1125   10   15 
+Shooter   798788858  2  1 Br  b     b     b         1130   70  140 Qd Qh
+Shooter   798788900  2  2 B   -     -     -         1200   10   15 
+Shooter   798788904  2  1 Bc  kc    kf    -         1205   20    0 
+Shooter   798788959  2  2 Bc  b     b     b         1185   70  120 
+Shooter   798789007  2  1 Bc  k     k     k         1235   10   20 2d Kh
+Shooter   798789046  3  3 c   k     b     -         1245   30   50 
+Shooter   798789100  3  2 Bk  c     c     c         1265   60  120 Jd 6d
+Shooter   798789136  3  1 Bc  k     kc    b         1325   50    0 9d 7h
+Shooter   798789192  3  3 c   k     k     b         1275   30    0 7s 8c
+Shooter   798789243  3  2 Bf  -     -     -         1245   10    0 
+Shooter   798789275  3  1 Bc  b     -     -         1235   20   30 
+Shooter   798789299  3  3 f   -     -     -         1245    0    0 
+Shooter   798789336  3  2 Bk  f     -     -         1245   10    0 
+Shooter   798789364  3  1 Bc  k     b     -         1235   30   40 
+Shooter   798789393  3  3 c   f     -     -         1245   10    0 
+Shooter   798789433  3  2 Bk  c     k     bc        1235   60    0 4h As
+Shooter   798789488  3  1 Bc  kf    -     -         1175   20    0 
+Shooter   798789529  3  3 c   k     f     -         1155   10    0 
+Shooter   798789594  3  2 Bk  k     k     k         1145   10   20 3s Kc
+Shooter   798789673  3  1 Bc  k     b     -         1155   30   40 
+Shooter   798789706  3  3 cc  f     -     -         1165   20    0 
+Shooter   798789743  2  2 B   -     -     -         1145   10   15 
+Shooter   798789747  2  1 Bcc k     kc    kf        1150   40    0 
+Shooter   798789808  2  2 Bc  c     c     f         1110   50    0 
+Shooter   798789848  2  1 Bcc b     -     -         1060   30   50 
+Shooter   798789877  2  2 Bc  f     -     -         1080   20    0 
+Shooter   798789901  2  1 Bcc kc    kf    -         1060   30    0 
+Shooter   798789974  2  2 Bc  f     -     -         1030   20    0 
+Shooter   798790001  2  1 Bc  k     kc    k         1010   30   30 Js 5d
+Shooter   798790074  2  2 B   -     -     -         1010   10   15 
+Shooter   798790080  2  1 Bf  -     -     -         1015    5    0 
+Shooter   798790094  2  2 B   -     -     -         1010   10   15 
+Shooter   798790098  2  1 Bc  b     -     -         1015   20   30 
+Shooter   798790121  2  2 B   -     -     -         1025   10   15 
+Shooter   798790126  2  1 Bf  -     -     -         1030    5    0 
+Shooter   798790141  2  2 Bc  c     f     -         1025   30    0 
+Shooter   798790167  2  1 BQ  -     -     -          995    5   15 
+Shooter   798832644  8  7 f   -     -     -         1005    0    0 
+Shooter   798832712  7  6 f   -     -     -         1005    0    0 
+Shooter   798832792  6  4 c   rc    c     bc        1005  100    0 5h 5c
+Shooter   798832864  4  3 c   b     b     b          905   60  125 Ad Th
+Shooter   798832916  4  2 Bc  kc    k     kc         970   60    0 Qc 4s
+Shooter   798832983  6  1 Bf  -     -     -          910    5    0 
+Shooter   798833021  6  6 f   Q     -     -          905    0    0 

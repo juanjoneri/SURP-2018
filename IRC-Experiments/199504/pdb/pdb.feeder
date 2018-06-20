@@ -1,0 +1,20 @@
+feeder    798002527  4  4 cc  c     c     c         1000   70  160 Tc Js
+feeder    798002560  4  3 c   f     -     -         1090   10    0 
+feeder    798002590  3  2 Bk  kc    kc    kc        1080   60    0 3h Jh
+feeder    798002619  3  1 Bcc kf    -     -         1020   30    0 
+feeder    798002653  3  3 cc  c     c     k          990   50  120 2h Qs
+feeder    798002681  3  2 Bc  f     -     -         1060   20    0 
+feeder    798002697  3  1 Bc  k     k     k         1040   10   20 6d As
+feeder    798002722  3  3 cc  c     c     r         1050   90  170 
+feeder    798002744  3  2 Bk  f     -     -         1130   10    0 
+feeder    798002764  3  1 Bc  k     kf    -         1120   10    0 
+feeder    798002782  3  3 c   k     f     -         1110   10    0 
+feeder    798002801  3  2 Bk  f     -     -         1100   10    0 
+feeder    798002813  3  1 Bcr -     -     -         1090   30   50 
+feeder    798002822  3  3 cc  k     c     c         1110   60    0 Ks 3d
+feeder    798002856  3  2 Bk  k     k     k         1050   10   25 Qc 2s
+feeder    798002882  3  1 Bc  kcc   kc    kf        1065   60    0 
+feeder    798002934  3  3 c   k     k     k         1005   10    0 3h Ks
+feeder    798002956  4  2 Bc  c     f     -          995   30    0 
+feeder    798002977  3  1 Bc  kc    kc    kc         965   70    0 As 8d
+feeder    798003010  3  3 c   k     k     fQ         895   10    0 

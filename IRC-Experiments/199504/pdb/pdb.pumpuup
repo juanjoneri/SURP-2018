@@ -1,0 +1,126 @@
+pumpuup   797367106  5  3 f   -     -     -         1000    0    0 
+pumpuup   797367124  5  2 Bk  f     -     -         1000   10    0 
+pumpuup   797367158  6  1 Bf  -     -     -          990    5    0 
+pumpuup   797367219  5  5 f   -     -     -          985    0    0 
+pumpuup   797367253  5  4 f   -     -     -          985    0    0 
+pumpuup   797367300  6  4 r   b     b     -          985   50   85 
+pumpuup   797367341  6  2 Bk  kf    -     -         1020   10    0 
+pumpuup   797367376  6  1 Bf  -     -     -         1010    5    0 
+pumpuup   797367405  6  6 f   -     -     -         1005    0    0 
+pumpuup   797367435  6  5 f   -     -     -         1005    0    0 
+pumpuup   797367487  6  4 f   -     -     -         1005    0    0 
+pumpuup   797367497  6  3 f   -     -     -         1005    0    0 
+pumpuup   797367551  6  2 Bk  bc    kc    k         1005   50    0 Th Ts
+pumpuup   797367597  6  1 Br  b     b     -          955   50  100 
+pumpuup   797367653  6  6 f   -     -     -         1005    0    0 
+pumpuup   797367696  5  4 f   -     -     -         1005    0    0 
+pumpuup   797367719  5  3 f   -     -     -         1005    0    0 
+pumpuup   797367775  5  2 Bk  k     k     k         1005   10   20 Tc 5h
+pumpuup   797367816  5  1 Bc  kc    kc    kc        1015   60    0 Ad 6c
+pumpuup   797367866  5  5 f   -     -     -          955    0    0 
+pumpuup   797367892  5  4 f   -     -     -          955    0    0 
+pumpuup   797367908  4  2 Bk  kf    -     -          955   10    0 
+pumpuup   797367964  4  1 Bf  -     -     -          945    5    0 
+pumpuup   797368000  6  6 f   -     -     -          940    0    0 
+pumpuup   797368044  6  5 f   -     -     -          940    0    0 
+pumpuup   797368084  6  4 f   -     -     -          940    0    0 
+pumpuup   797368114  6  3 f   -     -     -          940    0    0 
+pumpuup   797368155  6  2 Bk  kf    -     -          940   10    0 
+pumpuup   797368192  6  1 Bcc kf    -     -          930   20    0 
+pumpuup   797368239  6  6 f   -     -     -          910    0    0 
+pumpuup   797368271  6  5 f   -     -     -          910    0    0 
+pumpuup   797368290  6  4 r   b     b     b          910   70  145 As 3s
+pumpuup   797368331  6  3 f   -     -     -          985    0    0 
+pumpuup   797368373  6  2 Bk  b     bf    -          985   40    0 
+pumpuup   797368414  6  1 Bf  -     -     -          945    5    0 
+pumpuup   797368465  6  6 c   b     k     k          940   20    0 6c 8c
+pumpuup   797368517  6  5 c   b     -     -          920   20   50 
+pumpuup   797368549  6  4 f   -     -     -          950    0    0 
+pumpuup   797368581  6  3 f   -     -     -          950    0    0 
+pumpuup   797368633  6  2 Bk  f     -     -          950   10    0 
+pumpuup   797368658  6  1 Bf  -     -     -          940    5    0 
+pumpuup   797368721  6  6 f   -     -     -          935    0    0 
+pumpuup   797368788  6  5 f   -     -     -          935    0    0 
+pumpuup   797368850  6  4 f   -     -     -          935    0    0 
+pumpuup   797368901  6  3 f   -     -     -          935    0    0 
+pumpuup   797368984  7  3 f   -     -     -          935    0    0 
+pumpuup   797369048  7  2 Bc  rc    b     kc         935   90    0 Td Qs
+pumpuup   797369137  7  1 Bf  -     -     -          845    5    0 
+pumpuup   797369206  7  7 c   f     -     -          840   10    0 
+pumpuup   797369315  7  6 f   -     -     -          830    0    0 
+pumpuup   797369396  8  6 f   -     -     -          830    0    0 
+pumpuup   797369511  9  6 c   f     -     -          830   10    0 
+pumpuup   797369582  9  4 f   -     -     -          820    0    0 
+pumpuup   797369718  9  3 f   -     -     -          820    0    0 
+pumpuup   797369768  9  2 Bf  -     -     -          820   10    0 
+pumpuup   797369867  9  1 Bf  -     -     -          810    5    0 
+pumpuup   797369927  8  8 c   r     b     -          805   50  120 
+pumpuup   797370022  9  8 f   -     -     -          875    0    0 
+pumpuup   797370114  8  6 f   -     -     -          875    0    0 
+pumpuup   797370141  8  5 f   -     -     -          875    0    0 
+pumpuup   797370219  8  4 f   -     -     -          875    0    0 
+pumpuup   797370266  8  3 f   -     -     -          875    0    0 
+pumpuup   797370352  8  2 Br  b     b     k          875   50  135 Ks Kd
+pumpuup   797370416  7  1 Bf  -     -     -          960    5    0 
+pumpuup   797370466  6  6 f   -     -     -          955    0    0 
+pumpuup   797370553  7  6 r   k     f     -          955   20    0 
+pumpuup   797370720  7  5 f   -     -     Q          935    0    0 
+pumpuup   797385998  8  2 Bk  k     k     k          935   10    0 8c Ac
+pumpuup   797386064  8  1 Bf  -     -     -          925    5    0 
+pumpuup   797386115  8  8 f   -     -     -          920    0    0 
+pumpuup   797386183  8  7 f   -     -     -          920    0    0 
+pumpuup   797386226  8  6 f   -     -     -          920    0    0 
+pumpuup   797386278  8  5 f   -     -     -          920    0    0 
+pumpuup   797386326  8  4 f   -     -     -          920    0    0 
+pumpuup   797386373  8  3 c   b     b     k          920   40    0 Kc Jh
+pumpuup   797386441  8  2 Bk  k     k     f          880   10    0 
+pumpuup   797386515  9  1 Bc  b     bc    kc         870  100    0 7d Jd
+pumpuup   797386586 11 11 c   cc    c     k          770   60    0 8d 9s
+pumpuup   797386670 11 10 f   -     -     -          710    0    0 
+pumpuup   797386762 11  9 r   b     b     brc        710  130    0 Qh Qs
+pumpuup   797386850 11  8 f   -     -     -          580    0    0 
+pumpuup   797386951 11  7 f   -     -     -          580    0    0 
+pumpuup   797387031 11  6 KQ  -     -     -          580    0    0 
+pumpuup   797452408  8  2 Bk  f     -     -          580   10    0 
+pumpuup   797452442  7  1 Bf  -     -     -          570    5    0 
+pumpuup   797452493  7  7 c   k     f     -          565   10    0 
+pumpuup   797452556  7  6 f   -     -     -          555    0    0 
+pumpuup   797452592  7  5 c   k     c     b          555   50  155 2d 2s
+pumpuup   797452659  6  3 f   -     -     -          660    0    0 
+pumpuup   797452735  6  2 Bc  cf    -     -          660   30    0 
+pumpuup   797452809  6  1 Bf  -     -     -          630    5    0 
+pumpuup   797452845  7  7 f   -     -     -          625    0    0 
+pumpuup   797452859  6  5 f   -     -     -          625    0    0 
+pumpuup   797452882  6  4 f   -     -     -          625    0    0 
+pumpuup   797452908  5  3 r   b     -     -          625   30   65 
+pumpuup   797452929  5  2 B   -     -     -          660   10   15 
+pumpuup   797452947  6  1 Bc  k     k     k          665   10   20 Tc 8d
+pumpuup   797452979  6  6 f   -     -     -          675    0    0 
+pumpuup   797453008  6  5 f   -     -     -          675    0    0 
+pumpuup   797453030  6  4 f   -     -     -          675    0    0 
+pumpuup   797453071  6  3 f   -     -     -          675    0    0 
+pumpuup   797453114  7  2 Bf  -     -     -          675   10    0 
+pumpuup   797453181  7  1 Bf  -     -     -          665    5    0 
+pumpuup   797453204  7  7 f   -     -     -          660    0    0 
+pumpuup   797453237  7  6 f   -     -     -          660    0    0 
+pumpuup   797453305  7  5 f   -     -     -          660    0    0 
+pumpuup   797453368  7  4 f   -     -     -          660    0    0 
+pumpuup   797453406  7  3 f   -     -     -          660    0    0 
+pumpuup   797453465  7  2 Bk  k     k     k          660   10   35 6d 7d
+pumpuup   797453514  7  1 Bf  -     -     -          685    5    0 
+pumpuup   797453553  7  7 f   -     -     -          680    0    0 
+pumpuup   797453608  7  6 f   -     -     -          680    0    0 
+pumpuup   797453639  7  5 f   -     -     -          680    0    0 
+pumpuup   797453689  7  4 rc  bc    kc    kc         680  100    0 Kd Kc
+pumpuup   797453782  7  3 r   b     k     kf         580   30    0 
+pumpuup   797453852  7  2 Bk  kf    -     -          550   10    0 
+pumpuup   797453910  6  1 Bcc kf    -     -          540   20    0 
+pumpuup   797453972  6  6 f   -     -     -          520    0    0 
+pumpuup   797454055  6  5 f   -     -     -          520    0    0 
+pumpuup   797454093  5  3 f   -     -     -          520    0    0 
+pumpuup   797454144  5  2 Bk  k     k     k          520   10    0 8h Tc
+pumpuup   797454191  5  1 Bf  -     -     -          510    5    0 
+pumpuup   797454247  5  5 f   -     -     -          505    0    0 
+pumpuup   797454293  5  4 f   -     -     -          505    0    0 
+pumpuup   797454349  5  3 f   KQ    -     -          505    0    0 
+pumpuup   798516748  7  6 KQ  -     -     -          505    0    0 

@@ -1,0 +1,1458 @@
+Quick     797210868  9  7 Q   -     -     -          885    0    0 
+Quick     797279804  7  2 Bc  cc    c     f          885   70    0 
+Quick     797279866  8  1 Bc  k     k     b          815   40   90 Jd 8h
+Quick     797279914  8  8 c   r     b     b          865   80  255 Ad Tc
+Quick     797279987  8  7 c   f     -     -         1040   10    0 
+Quick     797280068  8  6 c   rc    c     f         1030   70    0 
+Quick     797280111  8  5 c   f     -     -          960   10    0 
+Quick     797280217  8  4 c   c     c     k          950   40    0 Th Tc
+Quick     797280268  8  3 r   b     b     -          910   50   95 
+Quick     797280317  8  2 Bk  c     k     k          955   20    0 9c 7d
+Quick     797280428  7  1 Bc  b     b     -          935   40   80 
+Quick     797280477  6  6 c   k     k     k          975   10   30 As 3h
+Quick     797280509  6  5 r   c     k     k          995   30    0 Ad Jh
+Quick     797280558  7  6 r   b     -     -          965   30   55 
+Quick     797280580  7  5 f   -     -     -          990    0    0 
+Quick     797280629  6  3 f   -     -     -          990    0    0 
+Quick     797280729  6  2 Bk  k     kc    kf         990   30    0 
+Quick     797280809  6  1 Bc  b     b     k          960   50  110 Td Jh
+Quick     797280846  6  6 f   -     -     -         1020    0    0 
+Quick     797280888  6  5 cc  rc    c     c         1020  110    0 Kd Tc
+Quick     797280949  7  4 c   f     -     -          910   10    0 
+Quick     797281056  8  3 c   b     b     k          900   40    0 Js Qc
+Quick     797281131  7  2 Bk  k     kc    kf         860   30    0 
+Quick     797281252  7  1 Bc  b     b     k          830   40  110 9d Jh
+Quick     797281309  7  7 f   -     -     -          900    0    0 
+Quick     797281325  7  6 cc  c     c     k          900   50    0 8s 8h
+Quick     797281383  8  5 c   c     c     k          850   40    0 7h Ad
+Quick     797281463  8  4 cc  cc    bc    br         810  140  230 7c 5c
+Quick     797281561  9  3 c   kc    kc    k          900   40    0 7s Th
+Quick     797281637  8  2 Bc  kf    -     -          860   20    0 
+Quick     797281682  8  1 Bc  kc    kf    -          840   20    0 
+Quick     797281771  9  9 c   c     f     -          820   40    0 
+Quick     797281905  8  8 r   b     b     -          780   60  145 
+Quick     797281961  8  7 c   k     c     f          865   50    0 
+Quick     797282022  9  6 r   c     f     -          815   30    0 
+Quick     797282090  8  5 f   -     -     -          785    0    0 
+Quick     797282145  9  4 f   -     -     -          785    0    0 
+Quick     797282181  9  3 cc  bc    kf    -          785   40    0 
+Quick     797282233  9  2 Bf  -     -     -          745   10    0 
+Quick     797282290  9  1 Bc  kf    -     -          735   20    0 
+Quick     797282357 10 10 f   -     -     -          715    0    0 
+Quick     797282450  9  8 rc  cf    -     -          715   40    0 
+Quick     797282530 10  8 c   b     b     -          675   40   80 
+Quick     797282586 10  7 c   r     k     k          715   30    0 6d Td
+Quick     797282637 10  6 c   k     c     f          685   30    0 
+Quick     797282718 10  5 cc  kc    k     k          655   30    0 9c Ts
+Quick     797282781 10  4 f   -     -     -          625    0    0 
+Quick     797282873 11  3 f   -     -     -          625    0    0 
+Quick     797282980 11  2 Bc  bc    kc    kf         625   70    0 
+Quick     797283049 12  1 Bc  kf    -     -          555   20    0 
+Quick     797283097 10 10 r   b     b     b          535   70  190 
+Quick     797283227 10  8 c   r     b     k          655   50    0 Ks Jh
+Quick     797283286 10  7 f   -     -     -          605    0    0 
+Quick     797283394  9  5 c   kc    kf    -          605   30    0 
+Quick     797283457  7  3 c   k     b     -          575   30   80 
+Quick     797283531  5  2 Bc  kc    kf    -          625   30    0 
+Quick     797283587  5  1 Bc  kc    kf    -          595   20    0 
+Quick     797283633  6  6 c   k     k     f          575   10    0 
+Quick     797283683  6  5 c   c     f     -          565   20    0 
+Quick     797283722  7  5 c   f     -     -          545   10    0 
+Quick     797283738  7  4 cc  c     f     -          535   30    0 
+Quick     797283776  7  3 f   -     -     -          505    0    0 
+Quick     797283838  7  2 Bc  kf    -     -          505   20    0 
+Quick     797283868  6  1 Bc  kf    -     -          485   10    0 
+Quick     797283892  6  6 r   k     b     -          475   40   65 
+Quick     797283940  6  5 c   f     -     -          500   10    0 
+Quick     797283989  7  5 f   -     -     -          490    0    0 
+Quick     797284024  8  5 c   k     k     k          490   10    0 Qd 8s
+Quick     797284091  8  4 f   -     -     -          480    0    0 
+Quick     797284212  9  4 c   c     f     -          480   20    0 
+Quick     797284273  9  3 f   -     -     -          460    0    0 
+Quick     797284340  9  2 Bc  kc    kf    -          460   30    0 
+Quick     797284393  9  1 Bc  kc    kc    kf         430   40    0 
+Quick     797284479  9  9 f   -     -     -          390    0    0 
+Quick     797284597 11  8 c   f     -     -          390   20    0 
+Quick     797284672 11  7 c   k     b     b          370   50  120 8h 7c
+Quick     797284747 11  5 c   bcc   k     kf         440   50    0 
+Quick     797284870 11  4 f   -     -     -          390    0    0 
+Quick     797284906 12  3 c   k     b     k          390   30    0 8d Td
+Quick     797284969 12  2 Bc  kf    -     -          360   20    0 
+Quick     797285008 12  1 Bc  kc    kr    bc         340  100    0 6s 5s
+Quick     797285156 11 11 f   -     -     -          240    0    0 
+Quick     797285221  9  8 f   -     -     -          240    0    0 
+Quick     797285309  8  6 f   -     -     -          240    0    0 
+Quick     797285348  8  5 f   -     -     -          240    0    0 
+Quick     797285404  7  4 f   -     -     -          240    0    0 
+Quick     797285468  6  3 f   -     -     -          240    0    0 
+Quick     797285501  6  2 Bf  -     -     -          240   10    0 
+Quick     797285545  6  1 Bc  k     krc   kc         230  100    0 5d Jc
+Quick     797285710  6  6 c   b     r     c          130   80    0 As Qc
+Quick     797285790  6  5 c   c     f     -           50   20    0 
+Quick     797285872  6  4 f   -     -     -           30    0    0 
+Quick     797285912  6  3 f   -     -     -           30    0    0 
+Quick     797285949  6  2 Bf  -     -     -           30   10    0 
+Quick     797285993  6  1 Bc  bA    -     -           20   20    0 Ac 6d
+Quick     797286045  6  5 f   -     -     -         1000    0    0 
+Quick     797286080  5  3 c   r     rc    c         1000  110    0 Kh Ts
+Quick     797286123  6  2 Bk  kf    -     -          890   10    0 
+Quick     797286168  6  1 Bf  -     -     -          880    5    0 
+Quick     797286216  6  6 c   k     f     -          875   10    0 
+Quick     797286263  6  5 c   c     c     f          865   40    0 
+Quick     797286303  6  4 cc  r     c     f          825   60    0 
+Quick     797286363  6  3 c   k     k     f          765   10    0 
+Quick     797286419  6  2 Bk  kc    k     k          755   20   23 4c Kc
+Quick     797286456  6  1 Bf  -     -     -          758    5    0 
+Quick     797286492  7  7 f   -     -     -          753    0    0 
+Quick     797286508  7  6 f   -     -     -          753    0    0 
+Quick     797286573  7  5 f   -     -     -          753    0    0 
+Quick     797286583  7  4 f   -     -     -          753    0    0 
+Quick     797286626  7  3 f   -     -     -          753    0    0 
+Quick     797286689  7  2 Bk  k     kf    -          753   10    0 
+Quick     797286738  7  1 Bf  -     -     -          743    5    0 
+Quick     797286779  7  7 c   k     c     k          738   30   85 Ad 2d
+Quick     797286835  6  5 c   k     k     b          793   30   55 
+Quick     797286907  5  4 c   c     r     b          818   80  205 6s 7c
+Quick     797286956  6  3 c   b     -     -          943   20   40 
+Quick     797287005  7  2 Bk  kc    kf    -          963   30    0 
+Quick     797287101  9  1 Bc  kr    -     -          933   30   70 
+Quick     797287150 10 10 f   -     -     -          973    0    0 
+Quick     797287204 11 10 cc  k     k     f          973   20    0 
+Quick     797287297 12 10 c   c     f     -          953   30    0 
+Quick     797287377 12  9 f   Q     -     -          923    0    0 
+Quick     797287639 11  6 f   -     -     -          923    0    0 
+Quick     797287719 10  4 c   kc    kf    -          923   20    0 
+Quick     797287865 12  5 f   -     -     -          903    0    0 
+Quick     797287956 12  4 c   bc    b     bf         903   70    0 
+Quick     797288113 11  3 f   -     -     -          833    0    0 
+Quick     797288203 10  2 Bf  -     -     -          833   10    0 
+Quick     797288295 10  1 BQ  -     -     -          823    5    0 
+Quick     797288606 11  9 f   -     -     -          818    0    0 
+Quick     797288782  8  7 r   br    b     br         818  140  340 Kc Ks
+Quick     797288848 10  8 cc  ccc   ccc   f         1018  160    0 
+Quick     797289014 12  7 f   Q     -     -          858    0    0 
+Quick     797537360 12  2 Bf  -     -     -          858   10    0 
+Quick     797537468 11  1 Br  kc    kc    kc         848   80    0 Js Jc
+Quick     797537564 12 12 c   f     -     -          768   10    0 
+Quick     797537650 12 11 c   k     c     r          758   80    0 Ad Tc
+Quick     797537733 12 10 f   -     -     -          678    0    0 
+Quick     797537885 12  9 c   k     f     -          678   10    0 
+Quick     797537953 11  7 c   b     b     k          668   40  115 4d Td
+Quick     797538049 10  5 r   b     b     -          743   50  110 
+Quick     797538118 10  5 cc  c     r     -          803   70  190 
+Quick     797538316  8  4 cc  cf    -     -          923   30    0 
+Quick     797538409  8  3 f   -     -     -          893    0    0 
+Quick     797538500  9  2 Bc  kf    -     -          893   20    0 
+Quick     797538569  9  1 Bc  kf    -     -          873   10    0 
+Quick     797538641  8  8 c   c     k     f          863   20    0 
+Quick     797538727  8  7 c   b     b     b          843   60  195 8c 8d
+Quick     797538814  8  6 f   -     -     -          978    0    0 
+Quick     797538934 10  5 f   -     -     -          978    0    0 
+Quick     797539006  9  4 f   -     -     -          978    0    0 
+Quick     797539099  8  3 c   k     f     -          978   10    0 
+Quick     797539150  8  2 Bk  k     k     kf         968   10    0 
+Quick     797539235  7  1 Bc  kc    kc    k          958   50  120 4h Th
+Quick     797539296  8  8 c   c     c     f         1028   40    0 
+Quick     797539375  8  7 c   f     -     -          988   20    0 
+Quick     797539402  8  6 c   r     rc    c          968  120    0 Jc Ad
+Quick     797539508  8  5 c   kc    kf    -          848   20    0 
+Quick     797539563  8  4 f   -     -     -          828    0    0 
+Quick     797539590  9  3 c   kc    kf    -          828   20    0 
+Quick     797539647  9  2 Bk  kf    -     -          808   10    0 
+Quick     797539718  9  1 Bf  -     -     -          798    5    0 
+Quick     797539770  9  9 c   c     c     f          793   40    0 
+Quick     797539832  9  8 f   -     -     -          753    0    0 
+Quick     797539891 10  8 c   k     b     b          753   50  155 7d Jh
+Quick     797540092  8  6 c   c     f     -          858   20    0 
+Quick     797540196  9  6 c   c     f     -          838   20    0 
+Quick     797540271  9  5 f   -     -     -          818    0    0 
+Quick     797540322  7  3 f   -     -     -          818    0    0 
+Quick     797540402  8  2 Bk  c     f     -          818   20    0 
+Quick     797540483  8  1 Bc  kf    -     -          798   10    0 
+Quick     797540548  8  8 c   f     -     -          788   10    0 
+Quick     797540647  9  7 c   b     -     -          778   20   60 
+Quick     797540716  8  6 c   rc    rr    r          818  160  580 6h Js
+Quick     797540844  8  5 cc  kc    kf    -         1238   30    0 
+Quick     797540967  9  4 cc  kc    kf    -         1208   70    0 
+Quick     797541074  8  2 Bc  c     c     f         1138   50    0 
+Quick     797541155  9  1 Bf  -     -     -         1088    5    0 
+Quick     797541232  8  8 c   c     cc    k         1083   70    0 8c 8s
+Quick     797541414  8  7 f   -     -     -         1013    0    0 
+Quick     797541495  8  6 f   -     -     -         1013    0    0 
+Quick     797541615  9  5 r   cc    k     bc        1013   90    0 Ah Qh
+Quick     797541720  8  3 c   kc    kc    kf         923   40    0 
+Quick     797541828  8  3 f   -     -     -          883    0    0 
+Quick     797541897  8  2 Bk  kc    kf    -          883   20    0 
+Quick     797541982  7  1 Bc  b     b     bc         863   90    0 Th 8d
+Quick     797542067  8  8 c   c     b     k          773   40    0 6c Jc
+Quick     797542118  9  7 c   kc    kf    -          733   20    0 
+Quick     797542172  9  6 fQ  -     -     -          713    0    0 
+Quick     797558267 12 10 f   -     -     -          713    0    0 
+Quick     797558348 12  9 f   -     -     -          713    0    0 
+Quick     797558464 12  9 f   -     Q     -          713    0    0 
+Quick     797577159  7  4 f   -     -     -          693    0    0 
+Quick     797577220  6  2 Bk  b     kf    -          693   20    0 
+Quick     797577283  6  1 Bc  b     b     b          673   70  160 
+Quick     797577365  7  7 f   -     -     -          763    0    0 
+Quick     797577393  7  6 f   -     -     -          763    0    0 
+Quick     797577498  7  5 cc  b     b     -          763   50  125 
+Quick     797577588  6  3 f   -     -     -          838    0    0 
+Quick     797577633  6  3 f   -     -     -          838    0    0 
+Quick     797577699  6  2 Bk  c     f     -          838   20    0 
+Quick     797577732  5  1 Bf  -     -     -          818    5    0 
+Quick     797577772  5  5 c   r     b     k          813   50  115 2d Kd
+Quick     797577820  4  3 f   -     -     -          878    0    0 
+Quick     797577854  5  3 f   -     -     -          878    0    0 
+Quick     797577888  5  2 Bk  k     k     f          878   10    0 
+Quick     797577941  5  1 Bc  k     bc    kf         868   50    0 
+Quick     797578008  5  5 f   -     -     -          818    0    0 
+Quick     797578082  5  4 cc  r     b     c          818   80  230 Jd Td
+Quick     797578151  5  3 cc  b     b     -          968   50  115 
+Quick     797578201  5  2 Bk  k     k     k         1033   10   40 Ad 7h
+Quick     797578241  5  1 Br  b     -     -         1063   30   50 
+Quick     797578269  5  5 f   -     -     -         1083    0    0 
+Quick     797578339  5  4 cc  kc    kf    -         1083   30    0 
+Quick     797578391  5  3 f   -     -     -         1053    0    0 
+Quick     797578398  5  2 Bc  r     bf    -         1053   60    0 
+Quick     797578465  5  1 Bf  -     -     -          993    5    0 
+Quick     797578490  5  5 f   -     -     -          988    0    0 
+Quick     797578519  5  4 f   -     -     -          988    0    0 
+Quick     797578556  6  3 f   -     -     -          988    0    0 
+Quick     797578603  6  2 Bc  b     b     b          988   70  195 2s Qs
+Quick     797578655  6  1 Bf  -     -     -         1113    5    0 
+Quick     797578687  6  6 cc  rc    c     c         1108   90  220 Ts Kh
+Quick     797578734  6  5 f   -     -     -         1238    0    0 
+Quick     797578758  6  4 cc  kc    k     f         1238   30    0 
+Quick     797578833  6  3 f   -     -     -         1208    0    0 
+Quick     797578873  7  2 Bk  kc    kf    -         1208   20    0 
+Quick     797578917  7  1 Bcf -     -     -         1188   10    0 
+Quick     797578948  7  7 c   k     b     k         1178   30    0 7h Ah
+Quick     797579003  7  6 f   Q     -     -         1148    0    0 
+Quick     797579405  7  6 f   -     -     -         1148    0    0 
+Quick     797579488  7  5 cc  bc    k     kc        1148   60    0 Qs Kd
+Quick     797579536  7  4 f   -     -     -         1088    0    0 
+Quick     797579599  7  3 f   -     -     -         1088    0    0 
+Quick     797579621  7  2 Bk  kf    -     -         1088   10    0 
+Quick     797579712  7  1 Bf  -     -     -         1078    5    0 
+Quick     797579752  7  7 c   c     f     -         1073   20    0 
+Quick     797579828  8  7 f   -     -     -         1053    0    0 
+Quick     797579889  8  6 cc  b     bc    kc        1053   90    0 8s Qs
+Quick     797579931  8  5 cc  kf    -     -          963   20    0 
+Quick     797580003  7  4 f   -     -     -          943    0    0 
+Quick     797580061  6  3 c   b     -     -          943   20   35 
+Quick     797580100  7  2 Bk  kf    -     -          958   10    0 
+Quick     797580170  7  1 Bf  -     -     -          948    5    0 
+Quick     797580265  6  6 cc  k     c     k          943   40    0 5d 8d
+Quick     797580353  7  5 c   b     k     r          903   60  150 4h Kh
+Quick     797580427  8  6 f   -     -     -          993    0    0 
+Quick     797580486  8  5 f   -     -     -          993    0    0 
+Quick     797580538  8  4 f   -     -     -          993    0    0 
+Quick     797580615  8  3 f   -     -     -          993    0    0 
+Quick     797580696  8  2 Bf  -     -     -          993   10    0 
+Quick     797580745  8  1 Bc  kf    -     -          983   10    0 
+Quick     797580868  8  8 c   k     k     f          973   10    0 
+Quick     797580929  8  7 cc  c     c     k          963   80    0 Ad 8c
+Quick     797581027  8  6 f   -     -     -          883    0    0 
+Quick     797581079  8  5 c   k     b     f          883   30    0 
+Quick     797581149  8  4 c   b     b     b          853   60    0 Kd 7d
+Quick     797581214  8  3 c   f     -     -          793   10    0 
+Quick     797581254  8  2 Bk  k     f     -          783   10    0 
+Quick     797581350  9  1 Bf  -     -     -          773    5    0 
+Quick     797581426  9  9 c   c     f     -          768   30    0 
+Quick     797581537  9  8 f   -     -     -          738    0    0 
+Quick     797581613  8  6 f   -     -     -          738    0    0 
+Quick     797581672  7  4 cc  kcc   kc    k          738   70    0 7s 6s
+Quick     797581776  7  3 f   -     -     -          668    0    0 
+Quick     797581821  6  2 Bc  bc    kf    -          668   40    0 
+Quick     797581847  5  1 Bc  bc    kc    kc         628   80    0 3s Ts
+Quick     797581888  5  5 c   c     f     -          548   30    0 
+Quick     797581912  5  4 r   b     b     b          518   70  160 
+Quick     797581976  5  3 r   b     -     -          608   30   55 
+Quick     797581999  5  2 Bf  -     -     -          633   10    0 
+Quick     797582006  5  1 Br  b     b     b          623   70  120 
+Quick     797582050  5  5 r   k     c     f          673   40    0 
+Quick     797582097  5  4 cc  kf    -     -          633   20    0 
+Quick     797582132  5  3 f   -     -     -          613    0    0 
+Quick     797582168  5  2 Bk  b     bc    kc         613   80    0 Jd 7h
+Quick     797582250  5  1 Bf  -     -     -          533    5    0 
+Quick     797582322  5  5 f   -     -     -          528    0    0 
+Quick     797582338  5  4 c   f     -     -          528   10    0 
+Quick     797582387  5  3 f   -     -     -          518    0    0 
+Quick     797582432  5  2 Bk  c     c     k          518   40    0 Jh Ac
+Quick     797582502  5  1 Bf  -     -     -          478    5    0 
+Quick     797582541  5  5 c   k     r     -          473   50   85 
+Quick     797582586  5  4 c   c     r     k          508   60    0 Kc 4c
+Quick     797582632  5  3 f   -     -     -          448    0    0 
+Quick     797582644  5  2 Bf  -     -     -          448   10    0 
+Quick     797582661  5  1 Bc  kf    Q     -          438   10    0 
+Quick     797623809  7  3 c   r     b     -          428   50  110 
+Quick     797623863  7  3 f   -     -     -          488    0    0 
+Quick     797623952  7  2 Brc brc   b     bc         488  140    0 Kd Jd
+Quick     797624062  7  1 Bc  bc    b     bc         348  100    0 Th Ac
+Quick     797624139  8  8 r   k     k     b          248   40  115 5s 5h
+Quick     797624223  8  7 c   rc    c     r          323  100  320 Jc 5c
+Quick     797624321  9  6 f   -     -     -          543    0    0 
+Quick     797624403  9  5 f   -     -     -          543    0    0 
+Quick     797624524  9  4 f   -     -     -          543    0    0 
+Quick     797624607 12  3 ccc bc    kc    kf         543   80    0 
+Quick     797624822 11  2 Bc  b     b     b          463   70  255 Kd Qs
+Quick     797624954 11  1 Bc  bc    br    k          648   90  300 
+Quick     797625030 11 11 f   -     -     -          858    0    0 
+Quick     797625182 11 10 f   -     -     -          858    0    0 
+Quick     797625349 12 10 cc  c     kc    k          858   50  235 Jd Tc
+Quick     797625475 12  9 c   cc    cc    k         1043   80    0 2h As
+Quick     797625671 10  7 r   cc    f     -          963   50    0 
+Quick     797625813 12  7 f   -     -     -          913    0    0 
+Quick     797625919 12  7 cc  b     bc    b          913  100  335 
+Quick     797626075 10  4 cc  kc    kf    -         1148   40    0 
+Quick     797626168 12  3 f   -     -     -         1108    0    0 
+Quick     797626295 12  2 Bc  kc    kf    -         1108   40    0 
+Quick     797626375 12  1 Bc  bc    kc    kf        1068   50    0 
+Quick     797626442 12 12 c   f     -     -         1018   40    0 
+Quick     797626556 12 11 f   -     -     -          978    0    0 
+Quick     797626692 12 10 f   -     -     -          978    0    0 
+Quick     797626817 11  8 f   -     -     -          978    0    0 
+Quick     797626945 11  7 f   -     -     -          978    0    0 
+Quick     797627044 12  7 f   -     -     -          978    0    0 
+Quick     797627103 12  6 c   bc    kc    k          978   60    0 Kd 2d
+Quick     797627189 12  5 f   -     -     -          918    0    0 
+Quick     797627254 12  4 c   kf    -     -          918   10    0 
+Quick     797627376 12  3 cc  kf    -     -          908   30    0 
+Quick     797627545 12  2 Bk  f     -     -          878   10    0 
+Quick     797627734 12  1 BQ  -     -     -          868    5    0 
+Quick     797632442 12  2 Bc  kc    k     br         863   90  370 Kh 9c
+Quick     797632565 12  1 Bf  -     -     -         1143    5    0 
+Quick     797632685 12 12 f   -     -     -         1138    0    0 
+Quick     797632849 12 11 c   b     b     k         1138   40  100 9d Ts
+Quick     797632918 11  9 f   -     -     -         1198    0    0 
+Quick     797633024 12  9 c   f     -     -         1198   10    0 
+Quick     797633135 12  8 f   -     -     -         1188    0    0 
+Quick     797633245 12  7 f   -     -     -         1188    0    0 
+Quick     797633388 12  6 f   -     -     -         1188    0    0 
+Quick     797633597 10  4 f   -     -     -         1188    0    0 
+Quick     797633724 12  4 f   -     -     -         1188    0    0 
+Quick     797633906 12  3 cc  kf    -     -         1188   30    0 
+Quick     797634039 12  2 Bc  bcc   kc    k         1158   80  405 8h 7h
+Quick     797634157 10  1 Bf  -     -     -         1483    5    0 
+Quick     797634278 12 10 f   -     -     -         1478    0    0 
+Quick     797634342 12  9 r   c     c     k         1478   70    0 Qc Ac
+Quick     797634451 12  8 cc  c     f     -         1408   40    0 
+Quick     797634560 12  7 f   -     -     -         1368    0    0 
+Quick     797634675 12  6 f   -     -     -         1368    0    0 
+Quick     797634759 12  5 c   b     b     -         1368   40   90 
+Quick     797634855 10  3 c   bc    b     b         1418   70  220 Kc Qh
+Quick     797634914 10  2 Bf  -     -     -         1568   10    0 
+Quick     797635018 11  1 Bf  -     -     -         1558    5    0 
+Quick     797635094 11 11 c   f     -     -         1553   10    0 
+Quick     797635267 11 11 f   -     -     -         1543    0    0 
+Quick     797635365 12  9 r   rr    cc    cc        1543  140    0 As Ad
+Quick     797635557 12  8 c   r     r     c         1403  100    0 Qd Th
+Quick     797635696 12  7 f   -     -     -         1303    0    0 
+Quick     797635752 12  6 c   kc    bc    k         1303   70  310 Jc Kh
+Quick     797635940 11  5 c   k     b     kf        1543   30    0 
+Quick     797636038 11  4 f   -     -     -         1513    0    0 
+Quick     797636106 11  3 cc  kc    bc    kf        1513   80    0 
+Quick     797636273 11  2 Bf  -     -     -         1433   10    0 
+Quick     797636360 11  1 Bc  kc    kc    kf        1423   50    0 
+Quick     797636451 11 11 c   cc    rc    c         1373  130    0 8c Kc
+Quick     797636539  9  8 f   -     -     -         1243    0    0 
+Quick     797636635  9  7 cc  cf    -     -         1243   30    0 
+Quick     797636703  9  6 c   b     b     b         1213   60  150 9s Ks
+Quick     797636802 10  5 c   b     b     k         1303   40    0 Ad 4c
+Quick     797636872  8  4 c   b     c     k         1263   40    0 8h Td
+Quick     797636949  9  3 f   -     -     -         1223    0    0 
+Quick     797637019 10  2 Bc  kc    kf    -         1223   30    0 
+Quick     797637098 11  1 Bf  Q     -     -         1193    5    0 
+Quick     797644095 11  7 f   -     -     -         1188    0    0 
+Quick     797644223 11  6 f   -     -     -         1188    0    0 
+Quick     797644295 10  5 f   -     -     -         1188    0    0 
+Quick     797644392 10  4 rr  b     b     b         1188   90  195 Ks Kc
+Quick     797644446 10  3 f   -     -     -         1293    0    0 
+Quick     797644540 10  2 Bcc brc   b     b         1293  120    0 Qd Kd
+Quick     797644613  9  1 Bc  kc    b     k         1173   40    0 Qc 3d
+Quick     797644690  9  9 c   r     -     -         1133   30   90 
+Quick     797644739  9  8 c   c     c     f         1193   50    0 
+Quick     797644821 11  8 r   b     b     -         1143   50  115 
+Quick     797644881 11  7 f   -     -     -         1208    0    0 
+Quick     797644940 11  6 cc  c     rc    k         1208  100    0 5s Ad
+Quick     797645035 12  6 c   k     f     -         1108   10    0 
+Quick     797645111 12  5 c   kc    f     -         1098   20    0 
+Quick     797645214 12  4 cc  cc    f     -         1078   40    0 
+Quick     797645326 10  2 Bc  kr    b     b         1038   90    0 Qh Ac
+Quick     797645463  8  1 Bc  b     br    b          948  110    0 4c 8s
+Quick     797645525  9  9 f   -     -     -          838    0    0 
+Quick     797645571 10  8 f   -     -     -          838    0    0 
+Quick     797645675 11  7 c   r     kc    kc         838   70    0 Kh Jd
+Quick     797645747 11  6 c   kf    -     -          768   10    0 
+Quick     797645827 11  5 c   b     -     -          758   20   60 
+Quick     797645875 11  4 cc  kf    -     -          798   20    0 
+Quick     797645943 11  3 c   c     k     b          778   40  140 9d 9h
+Quick     797646029 11  2 Bf  -     -     -          878   10    0 
+Quick     797646168 12  1 Bf  -     -     -          868    5    0 
+Quick     797646267 12 12 cc  c     bc    c          863   90  125 Th Ks
+Quick     797646360 12 11 cc  c     f     -          898   50    0 
+Quick     797646457 12 10 c   kc    f     -          848   30    0 
+Quick     797646577 12  9 f   -     -     -          818    0    0 
+Quick     797646674  7  7 r   r     c     b          818   90    0 Ts Tc
+Quick     797646771  7  6 c   r     bc    c          728   90    0 4h Jc
+Quick     797646848  9  6 c   b     -     -          638   20   55 
+Quick     797646884  9  5 cc  kc    b     b          673   70  135 
+Quick     797646942  9  4 c   c     c     c          738   60  145 Ad 5s
+Quick     797646996  9  3 c   b     -     -          823   20   70 
+Quick     797647042  9  2 Bk  b     b     k          873   40    0 Td 6s
+Quick     797647096 10  1 Bc  kc    kf    -          833   30    0 
+Quick     797647296 10 10 f   -     -     -          803    0    0 
+Quick     797647385  9  8 f   -     -     -          803    0    0 
+Quick     797647449 10  8 f   -     -     -          803    0    0 
+Quick     797647559 10  7 f   -     -     -          803    0    0 
+Quick     797647621 10  6 c   c     f     -          803   30    0 
+Quick     797647660  9  4 c   rc    c     f          773   60    0 
+Quick     797647736  9  3 f   -     -     -          713    0    0 
+Quick     797647793  8  2 Bf  -     -     -          713   10    0 
+Quick     797647871  7  1 Bc  kf    -     -          703   10    0 
+Quick     797647919  8  8 c   k     k     f          693   10    0 
+Quick     797647956  9  8 r   b     b     -          683   50   95 
+Quick     797648005  9  7 f   -     -     -          728    0    0 
+Quick     797648097  9  6 c   c     f     -          728   20    0 
+Quick     797648153  9  5 c   rc    bc    c          708  110    0 5d Kd
+Quick     797648227 11  4 cc  kc    kf    -          598   30    0 
+Quick     797648311 10  2 Bk  kQ    -     -          568   10    0 
+Quick     797713129 12  6 f   -     -     -          558    0    0 
+Quick     797713229 11  4 f   -     -     -          558    0    0 
+Quick     797713289 11  3 f   -     -     -          558    0    0 
+Quick     797713410 12  2 Bf  -     -     -          558   10    0 
+Quick     797713627 11  1 Bc  k     bc    kf         548   50    0 
+Quick     797713809 12 12 c   c     c     f          498   50    0 
+Quick     797713866 12 11 c   c     c     f          448   70    0 
+Quick     797714023  9  7 Q   -     -     -          378    0    0 
+Quick     797714545 12  6 c   r     b     -          378   50  150 
+Quick     797714709  9  4 f   -     -     -          478    0    0 
+Quick     797714829  8  3 f   -     -     -          478    0    0 
+Quick     797714938  8  2 Bc  kf    -     -          478   20    0 
+Quick     797715009  8  1 Bf  -     -     -          458    5    0 
+Quick     797715055  9  9 f   -     -     -          453    0    0 
+Quick     797715173  9  8 c   k     rr    b          453  120  290 5c 5d
+Quick     797715281  9  7 f   -     -     -          623    0    0 
+Quick     797715426 10  7 c   b     b     k          623   40   53 Tc Jh
+Quick     797715524 10  6 f   -     -     -          636    0    0 
+Quick     797715601 11  6 cc  f     -     -          636   20    0 
+Quick     797715757 11  4 cc  f     -     -          616   20    0 
+Quick     797715849 10  3 f   -     -     -          596    0    0 
+Quick     797715967 10  2 Bc  b     bc    kf         596   70    0 
+Quick     797716069 10  1 Bf  -     -     -          526    5    0 
+Quick     797716252 12 11 c   rc    c     c          521   90  375 3d As
+Quick     797716527 11  5 Q   -     -     -          806    0    0 
+Quick     797734207  7  6 f   -     -     -          806    0    0 
+Quick     797734266  8  5 c   c     r     b          806   80  235 3d Ah
+Quick     797734320  8  4 c   kc    k     k          961   20    0 Th 3h
+Quick     797734430  7  3 f   -     -     -          941    0    0 
+Quick     797734527  7  2 Bk  kf    -     -          941   10    0 
+Quick     797734576  6  1 Bc  kc    kc    kf         931   40    0 
+Quick     797734700  7  6 f   -     -     -          891    0    0 
+Quick     797734759  6  4 cc  kf    -     -          891   40    0 
+Quick     797734853  5  4 f   -     -     -          851    0    0 
+Quick     797734881  3  2 Bc  f     -     -          851   20    0 
+Quick     797734927  4  1 Br  -     -     -          831   20   30 
+Quick     797734949  3  3 f   -     -     -          841    0    0 
+Quick     797734976  3  1 B   -     -     -          841   10   10 
+Quick     797734988  3  1 BcQ -     -     -          841   10   30 
+Quick     797735419  2  1 Br  -     -     -          861   20   30 
+Quick     797735427  2  2 Br  k     f     -          871   20    0 
+Quick     797735447  2  1 Bf  -     -     -          851    5    0 
+Quick     797735451  2  2 Bf  -     -     -          846   10    0 
+Quick     797735459  3  1 Br  b     -     -          836   30   70 
+Quick     797735488  4  4 cc  b     brc   c          876  140    0 Kd Jc
+Quick     797735562  6  5 c   c     f     -          736   30    0 
+Quick     797735637  7  5 f   -     -     -          706    0    0 
+Quick     797735673  7  4 f   -     -     -          706    0    0 
+Quick     797735727  7  2 Bf  -     -     -          706   10    0 
+Quick     797735765  8  1 Bf  -     -     -          696    5    0 
+Quick     797735829  8  8 cc  f     -     -          691   20    0 
+Quick     797735872  8  7 f   -     -     -          671    0    0 
+Quick     797735920  8  6 c   c     r     -          671   60  130 
+Quick     797735963  9  6 r   r     c     r          741  120  360 Jc Js
+Quick     797736029  8  5 cc  k     b     c          981   60  135 9c 3c
+Quick     797736181  6  3 r   b     -     -         1056   30   55 
+Quick     797736234  5  2 Bf  -     -     -         1081   10    0 
+Quick     797736256  4  1 Bf  -     -     -         1071    5    0 
+Quick     797736280  4  4 c   k     k     k         1066   20   80 Tc Qh
+Quick     797736360  3  2 Bk  c     rc    f         1126   80    0 
+Quick     797736399  5  1 Bf  -     -     -         1046    5    0 
+Quick     797736423  4  4 f   -     -     -         1041    0    0 
+Quick     797736436  5  4 r   b     -     -         1041   30   60 
+Quick     797736466  4  3 f   -     -     -         1071    0    0 
+Quick     797736509  5  2 Bc  c     c     r         1071   90  220 9c Kc
+Quick     797736597  4  1 Bf  -     -     -         1201    5    0 
+Quick     797736676  4  4 c   b     b     b         1196   60  130 6h Ah
+Quick     797736716  4  3 c   b     -     -         1266   20   50 
+Quick     797736746  4  2 Br  k     bc    f         1296   60    0 
+Quick     797736809  5  1 Bf  -     -     -         1236    5    0 
+Quick     797736899  4  4 f   -     -     -         1231    0    0 
+Quick     797736909  4  3 c   c     b     k         1231   40    0 6s 9s
+Quick     797736939  4  2 Bk  b     kc    k         1191   40   85 4s 9s
+Quick     797736985  4  1 Bf  -     -     -         1236    5    0 
+Quick     797737003  4  4 c   f     -     -         1231   10    0 
+Quick     797737048  4  3 f   -     -     -         1221    0    0 
+Quick     797737090  4  2 Bc  b     b     b         1221   70  145 Ah 3c
+Quick     797737111  4  1 Bc  b     b     bc        1296   80    0 3d 5d
+Quick     797737155  4  4 c   k     c     k         1216   30    0 Td Ah
+Quick     797737186  5  3 f   -     -     -         1186    0    0 
+Quick     797737229  5  2 BQ  -     -     -         1186   10    0 
+Quick     797800884 10  8 cc  cc    kc    kf        1176   80    0 
+Quick     797800982 10  7 c   f     -     -         1096   20    0 
+Quick     797801051 10  6 f   -     -     -         1076    0    0 
+Quick     797801128 11  5 f   -     -     -         1076    0    0 
+Quick     797801271 10  4 cc  bc    br    kc        1076  170    0 8s Ah
+Quick     797801406 10  3 cc  c     c     k          906   50    0 7c 8s
+Quick     797801474 10  2 Bk  f     -     -          856   10    0 
+Quick     797801554 10  1 Bf  -     -     -          846    5    0 
+Quick     797801611 10 10 c   rc    c     k          841   80    0 8h Th
+Quick     797801722 10  7 f   -     -     -          761    0    0 
+Quick     797801848 11  7 f   -     -     -          761    0    0 
+Quick     797802020 11  6 f   -     -     -          761    0    0 
+Quick     797802229 10  4 f   -     -     -          761    0    0 
+Quick     797802300 10  4 ccc kcc   kf    -          761   70    0 
+Quick     797802382 10  3 f   -     -     -          691    0    0 
+Quick     797802482 11  2 Br  b     b     -          691   50  160 
+Quick     797802560 11  1 Bf  -     -     -          801    5    0 
+Quick     797802692 11 11 rc  r     r     b          796  120  235 Ah Ad
+Quick     797802857 12 11 c   c     r     k          911   70    0 7d 7h
+Quick     797802927 12 10 f   -     -     -          841    0    0 
+Quick     797803079 12  9 f   -     -     -          841    0    0 
+Quick     797803201 12  8 cc  rr    b     b          841  100  440 6s 6c
+Quick     797803330 10  6 f   -     -     -         1181    0    0 
+Quick     797803386 11  6 f   -     -     -         1181    0    0 
+Quick     797803483 12  5 c   kc    kf    -         1181   20    0 
+Quick     797803561 12  4 f   -     -     -         1161    0    0 
+Quick     797803681 12  3 f   -     -     -         1161    0    0 
+Quick     797803790 12  2 Br  br    br    bcc       1161  220    0 Kc Ks
+Quick     797803952 12  1 Bc  b     bc    kf         941   60    0 
+Quick     797804045 12 12 c   r     k     c          881   50  150 Ts Jh
+Quick     797804134 12 11 fQ  -     -     -          981    0    0 
+Quick     797809307 10  6 f   -     -     -          981    0    0 
+Quick     797809393  8  3 f   -     -     -          981    0    0 
+Quick     797809451  6  2 Bf  -     -     -          981   10    0 
+Quick     797809537  7  1 Bf  -     -     -          971    5    0 
+Quick     797809584  7  7 c   k     k     f          966   10    0 
+Quick     797809651  8  7 f   -     -     -          956    0    0 
+Quick     797809734  8  6 f   -     -     -          956    0    0 
+Quick     797809816  7  5 c   c     c     f          956   40    0 
+Quick     797809860  5  2 c   f     -     -          916   10    0 
+Quick     797809904  5  2 Bf  -     -     -          906   10    0 
+Quick     797809925  5  1 Bc  k     b     -          896   30   40 
+Quick     797809967  4  4 r   -     -     -          906   20   35 
+Quick     797809972  4  3 f   -     -     -          921    0    0 
+Quick     797809995  4  2 Bf  -     -     -          921   10    0 
+Quick     797810047  5  1 Br  bc    kc    kc         911   90    0 Qh Th
+Quick     797810101  5  5 cc  k     b     k          821   50   70 8s 9h
+Quick     797810146  4  3 c   c     r     k          841   60    0 4s 2s
+Quick     797810195  4  2 Bk  k     f     -          781   10    0 
+Quick     797810247  4  1 Bf  -     -     -          771    5    0 
+Quick     797810259  4  4 r   r     b     b          766   80  145 
+Quick     797810290  5  4 f   -     -     -          831    0    0 
+Quick     797810312  5  3 c   b     b     -          831   40   70 
+Quick     797810363  5  2 Bcc kc    b     bc         861  110    0 4c As
+Quick     797810421  5  1 Bc  b     k     b          751   40   60 
+Quick     797810466  5  5 rr  k     k     k          771   40    0 Ac Js
+Quick     797810500  5  4 f   -     -     -          731    0    0 
+Quick     797810563  4  2 Bk  r     c     f          731   50    0 
+Quick     797810617  5  1 Bc  bc    bc    kf         681   80    0 
+Quick     797810659  5  5 c   f     -     -          601   10    0 
+Quick     797810704  5  4 cc  rr    b     b          591  100  220 Ad 9h
+Quick     797810755  4  2 B   -     -     -          711   10   15 
+Quick     797810764  4  1 Bf  -     -     -          716    5    0 
+Quick     797810844  4  4 c   c     c     f          711   40    0 
+Quick     797810898  4  3 f   -     -     -          671    0    0 
+Quick     797810913  4  2 Bc  c     f     -          671   30    0 
+Quick     797810932  4  1 Bf  -     -     -          641    5    0 
+Quick     797810947  4  4 f   -     -     -          636    0    0 
+Quick     797810988  4  3 r   -     -     -          636   20   35 
+Quick     797810999  4  2 Bk  k     k     b          651   30   50 
+Quick     797811039  4  1 Bf  -     -     -          671    5    0 
+Quick     797811079  4  4 r   b     -     -          666   40  105 
+Quick     797811106  4  3 r   -     -     -          731   20   35 
+Quick     797811119  4  2 B   -     -     -          746   10   15 
+Quick     797811127  5  1 Br  br    bf    -          751   90    0 
+Quick     797811187  5  5 f   -     -     -          661    0    0 
+Quick     797811208  5  4 f   -     -     -          661    0    0 
+Quick     797811282  5  3 c   b     b     -          661   40   70 
+Quick     797811324  5  2 Bk  b     b     -          691   40   60 
+Quick     797811361  5  1 Bc  k     kf    -          711   10    0 
+Quick     797811414  5  5 c   rc    r     f          701   80    0 
+Quick     797811474  5  4 c   rrc   c     c          621  100    0 Kc 9h
+Quick     797811544  6  4 c   k     k     k          521   10   30 Ks 7h
+Quick     797811586  6  3 r   bc    kc    kf         541   60    0 
+Quick     797811650  5  2 Bf  -     -     -          481   10    0 
+Quick     797811663  5  1 Bf  -     -     -          471    5    0 
+Quick     797811689  5  5 c   rc    c     r          466  100  220 2h Jh
+Quick     797811743  5  4 cc  k     r     c          586   90    0 3c 8c
+Quick     797811826  5  3 c   k     f     -          496   10    0 
+Quick     797811896  6  2 Bk  kc    b     kf         486   40    0 
+Quick     797811948  7  1 Br  b     -     -          446   30   80 
+Quick     797812085  5  5 r   b     r     b          496   90  190 Kh Qh
+Quick     797812132  6  4 f   -     -     -          596    0    0 
+Quick     797812207  7  4 f   -     -     -          596    0    0 
+Quick     797812287  8  4 c   c     k     f          596   20    0 
+Quick     797812349  7  3 f   -     -     -          576    0    0 
+Quick     797812399  9  3 c   kc    b     b          576   60  130 
+Quick     797812563  8  2 Bk  b     bc    kf         646   60    0 
+Quick     797812628  8  1 Bc  k     b     kf         586   30    0 
+Quick     797812682  8  8 f   -     -     -          556    0    0 
+Quick     797812786  8  7 f   -     -     -          556    0    0 
+Quick     797812882  7  5 c   f     -     -          556   10    0 
+Quick     797812930  7  4 c   kc    c     f          546   50    0 
+Quick     797813011  7  3 Q   -     -     -          496    0    0 
+Quick     798143448  8  4 f   -     -     -          496    0    0 
+Quick     798143516  9  5 f   -     -     -          496    0    0 
+Quick     798143569 10  4 f   -     -     -          496    0    0 
+Quick     798143684  9  3 c   kf    -     -          496   10    0 
+Quick     798143732  8  2 Bc  b     b     kf         486   50    0 
+Quick     798143826  9  1 Bf  -     -     -          436    5    0 
+Quick     798143878  8  8 f   -     -     -          431    0    0 
+Quick     798143909  9  8 c   b     b     -          431   50  140 
+Quick     798143982  9  7 f   -     -     -          521    0    0 
+Quick     798144051 10  7 f   -     -     -          521    0    0 
+Quick     798144198  9  5 f   -     -     -          521    0    0 
+Quick     798144214  9  4 f   -     -     -          521    0    0 
+Quick     798144297  9  3 c   b     b     -          521   40   70 
+Quick     798144392  8  2 Bk  krc   b     b          551   90    0 9s Th
+Quick     798144478  7  1 Bcc bc    kr    b          461  100  200 
+Quick     798144535  7  7 rc  c     c     k          561   70  155 Qd Kd
+Quick     798144579  8  6 f   -     -     -          646    0    0 
+Quick     798144607  8  5 f   -     -     -          646    0    0 
+Quick     798144664  8  4 f   -     -     -          646    0    0 
+Quick     798144706  9  3 f   -     -     -          646    0    0 
+Quick     798144764  9  2 Bc  kc    k     f          646   30    0 
+Quick     798144851  9  1 Bf  Q     -     -          616    5    0 
+Quick     798146555 10  6 f   -     -     -          611    0    0 
+Quick     798146716 12  7 c   rc    bc    kc         611  100    0 Jh 4h
+Quick     798146880 10  6 cc  c     c     c          511   70  290 5d 9d
+Quick     798146961  9  5 f   -     -     -          731    0    0 
+Quick     798147013 10  4 f   -     -     -          731    0    0 
+Quick     798147068 10  3 cc  fQ    -     -          731   20    0 
+Quick     798157102 10  7 c   kc    f     -          711   30    0 
+Quick     798157242 10  6 cc  kf    -     -          681   30    0 
+Quick     798157367  9  5 Q   -     -     -          651    0    0 
+Quick     798157545  8  6 c   k     r     b          651   70    0 Ts Qc
+Quick     798157609  8  5 f   -     -     -          581    0    0 
+Quick     798157688  9  4 c   c     f     -          581   20    0 
+Quick     798157762  8  2 Bk  fQ    -     -          561   10    0 
+Quick     798158420 10  3 cc  kc    kQ    -          551   40    0 
+Quick     798163018  9  6 f   -     -     -          511    0    0 
+Quick     798163094  9  5 c   k     fQ    -          511   10    0 
+Quick     798163570  9  9 f   -     -     -          501    0    0 
+Quick     798163630  9  8 rc  k     rc    k          501  120    0 Jh Ac
+Quick     798163702 10  8 r   r     b     b          381   90  195 As Jd
+Quick     798163754  9  6 f   -     -     -          486    0    0 
+Quick     798163864 10  6 f   -     -     -          486    0    0 
+Quick     798163951 10  5 cc  k     bc    kf         486   60    0 
+Quick     798164056 11  5 f   -     -     -          426    0    0 
+Quick     798164163 10  5 fQ  -     -     -          426    0    0 
+Quick     798164601  5  5 f   -     -     -          426    0    0 
+Quick     798164657  5  4 f   -     -     -          426    0    0 
+Quick     798164697  5  3 f   -     -     -          426    0    0 
+Quick     798164732  5  2 Bc  kf    -     -          426   20    0 
+Quick     798164792  5  1 Brc k     b     k          406   60    0 Jd Ad
+Quick     798164853  5  5 f   -     -     -          346    0    0 
+Quick     798164941  6  5 rr  r     b     b          346  100    0 Ks Kd
+Quick     798165009  6  4 f   -     -     -          246    0    0 
+Quick     798165073  7  3 f   -     -     -          246    0    0 
+Quick     798165118  7  2 Bk  kf    -     -          246   10    0 
+Quick     798165166  7  1 Bc  b     -     -          236   20   40 
+Quick     798165212  7  7 c   f     -     -          256   10    0 
+Quick     798165271  6  5 f   -     -     -          246    0    0 
+Quick     798165360  7  6 c   k     k     c          246   30    0 2h 2s
+Quick     798165438  7  4 c   kr    b     b          216   70  180 7c Kc
+Quick     798165534  8  3 cc  b     kf    -          326   30    0 
+Quick     798165643  8  2 BQ  -     -     -          296   10    0 
+Quick     798168421  7  5 c   b     bc    c          286   80    0 5d Kd
+Quick     798168466  7  4 c   k     k     k          206   10   20 8h Jc
+Quick     798168568  7  3 cc  kc    kc    brc        216  130    0 9d Jc
+Quick     798168709  7  2 Bk  kf    -     -           86   10    0 
+Quick     798168798  8  1 Bc  bc    k     k           76   30    0 Qd Tc
+Quick     798168908  8  8 r   c     cA    -           46   46  239 Kc Qc
+Quick     798169107  8  7 rr  b     b     c          239   90  260 As Qs
+Quick     798169133  7  5 c   f     -     -          409   10    0 
+Quick     798169259  8  4 f   -     -     -          399    0    0 
+Quick     798169288  8  3 f   -     -     -          399    0    0 
+Quick     798169368  8  2 Bf  -     -     -          399   10    0 
+Quick     798169464  8  1 Bc  bc    k     b          389   50    0 Ah 4h
+Quick     798169536  8  8 c   r     b     f          339   50    0 
+Quick     798169634  8  7 f   -     -     -          289    0    0 
+Quick     798169684  8  6 c   cc    c     r          289  100    0 6c 5d
+Quick     798169807  9  5 f   -     -     -          189    0    0 
+Quick     798169870  9  4 f   -     -     -          189    0    0 
+Quick     798170068  9  3 cc  cc    f     -          189   40    0 
+Quick     798170308  9  2 Br  b     -     -          149   30   55 
+Quick     798170354  7  1 Bc  kc    kf    -          174   20    0 
+Quick     798170462  8  8 cc  c     c     f          154   50    0 
+Quick     798170587  8  7 c   c     c     f          104   50    0 
+Quick     798170705  8  6 f   -     -     -           54    0    0 
+Quick     798170782  8  4 c   rcA   -     -           54   54    0 Jd Qc
+Quick     798170986  8  2 Bk  kc    kf    -         1000   20    0 
+Quick     798171086  8  1 Bf  -     -     -          980    5    0 
+Quick     798171159  8  8 c   f     -     -          975   10    0 
+Quick     798171297  8  7 c   c     f     -          965   30    0 
+Quick     798171374  8  6 c   k     k     kf         935   10    0 
+Quick     798171454  8  6 f   -     -     -          925    0    0 
+Quick     798171523  8  5 cc  kc    kf    -          925   30    0 
+Quick     798171588  8  4 f   -     -     -          895    0    0 
+Quick     798171688  8  3 cc  c     c     f          895   60    0 
+Quick     798171773  8  2 Bf  -     -     -          835   10    0 
+Quick     798171896  8  1 Bc  bc    k     b          825   90  175 Ts Jc
+Quick     798172027  8  8 f   -     -     -          910    0    0 
+Quick     798172127  8  7 rr  r     b     k          910   80    0 9s As
+Quick     798172260  9  6 cc  f     -     -          830   20    0 
+Quick     798172378  9  5 cc  f     -     -          810   20    0 
+Quick     798172522 10  4 f   -     -     -          790    0    0 
+Quick     798172630  9  3 r   c     c     k          790   50    0 Jh As
+Quick     798172713  8  2 Bc  kc    c     f          740   50    0 
+Quick     798172840  7  1 Br  kf    -     -          690   20    0 
+Quick     798172934  9  9 f   -     -     -          670    0    0 
+Quick     798173015  9  8 f   -     -     -          670    0    0 
+Quick     798173077  9  7 c   cc    k     kf         670   30    0 
+Quick     798173190  9  6 f   -     -     -          640    0    0 
+Quick     798173247  9  5 f   -     -     -          640    0    0 
+Quick     798173291  9  4 c   kcc   b     k          640   70    0 Js Tc
+Quick     798173388  9  3 f   -     -     -          570    0    0 
+Quick     798173466  9  2 BQ  -     Q     -          570   10    0 
+Quick     798224219 11  4 f   -     -     -          560    0    0 
+Quick     798224306  9  2 Bk  f     -     -          560   10    0 
+Quick     798224391  9  1 Bc  b     b     kf         550   40    0 
+Quick     798224494  9  9 f   -     -     -          510    0    0 
+Quick     798224540  9  8 c   cc    f     -          510   40    0 
+Quick     798224674  9  7 c   k     r     b          470   70    0 2c 2s
+Quick     798224747 10  7 f   -     -     -          400    0    0 
+Quick     798224809  9  6 c   c     k     f          400   20    0 
+Quick     798224859  9  5 f   -     -     -          380    0    0 
+Quick     798224941 11  4 c   br    b     b          380   80  200 6h 6c
+Quick     798225039 11  3 cc  k     f     -          500   20    0 
+Quick     798225124 11  2 Bk  Q     -     -          480   10    0 
+Quick     798226630 11 10 f   -     -     -          470    0    0 
+Quick     798226731  9  7 c   k     b     kf         470   30    0 
+Quick     798226837 10  7 f   -     -     -          440    0    0 
+Quick     798227027  7  4 cc  r     c     f          440   70    0 
+Quick     798227124  8  4 cc  b     b     bc         370   90    0 Ac Td
+Quick     798227231  7  3 c   k     c     f          280   30    0 
+Quick     798227259  8  2 Bc  bc    bc    kf         250   80    0 
+Quick     798227331  8  1 Bc  k     kc    k          170   40    0 4d 3d
+Quick     798227395  8  8 c   k     r     b          130   80  285 
+Quick     798227475  8  7 c   f     -     -          335   10    0 
+Quick     798227522  8  6 f   -     -     -          325    0    0 
+Quick     798227650  8  5 c   b     -     -          325   20   45 
+Quick     798227724  9  5 cc  kc    k     k          350   30    0 3c 7c
+Quick     798227807  8  3 cc  kc    kc    k          320   50    0 9h Kh
+Quick     798227927  5  2 Bk  kf    -     -          270   10    0 
+Quick     798227944  5  1 Bc  bc    b     k          260   50    0 8h Ah
+Quick     798227987  5  5 c   r     -     -          210   40   85 
+Quick     798228038  4  3 cc  bc    k     k          255   40   95 Td Ac
+Quick     798228065  4  2 Bk  b     k     k          310   20   45 Qc Ah
+Quick     798228097  4  1 Bf  -     -     -          335    5    0 
+Quick     798228117  4  4 c   c     c     rr         330  120  250 Tc 9h
+Quick     798228196  4  3 f   -     -     -          460    0    0 
+Quick     798228257  3  2 Bk  b     b     k          460   40   43 Jh 6h
+Quick     798228277  3  1 Bc  kc    kf    -          463   30    0 
+Quick     798228305  3  3 f   -     -     -          433    0    0 
+Quick     798228320  3  2 Bk  k     k     k          433   10    0 9h 7c
+Quick     798228338  3  1 Bf  -     -     -          423    5    0 
+Quick     798228343  3  3 f   -     -     -          418    0    0 
+Quick     798228351  3  2 Br  b     b     b          418   70  145 Jd Ac
+Quick     798228370  4  1 Bc  b     b     b          493   70  160 5s 4c
+Quick     798228428  4  4 c   r     b     k          583   60    0 Qd 4d
+Quick     798228475  4  3 f   -     -     -          523    0    0 
+Quick     798228525  4  2 Bk  f     -     -          523   10    0 
+Quick     798228546  4  1 Bf  -     -     -          513    5    0 
+Quick     798228559  4  4 c   b     b     -          508   40   70 
+Quick     798228582  4  3 c   k     k     k          538   10   35 Ah 7c
+Quick     798228611  4  2 Bk  b     k     b          563   40   85 3h 4h
+Quick     798228635  4  1 Bf  -     -     -          608    5    0 
+Quick     798228681  4  4 r   r     r     b          603  100  220 Ah As
+Quick     798228717  4  3 c   c     k     cc         723   90    0 Js Kc
+Quick     798228763  4  2 Br  b     b     kc         633   70  170 Ad Ks
+Quick     798228812  4  1 Bf  -     -     -          733    5    0 
+Quick     798228859  4  4 f   -     -     -          728    0    0 
+Quick     798228893  4  3 Q   -     -     -          728    0    0 
+Quick     798229729  4  2 Bk  kf    -     -          728   10    0 
+Quick     798229754  4  1 Bf  -     -     -          718    5    0 
+Quick     798229761  4  4 c   k     k     k          713   10   30 2s 2h
+Quick     798229784  4  3 f   -     -     -          733    0    0 
+Quick     798229807  4  2 Bf  -     -     -          733   10    0 
+Quick     798229845  4  1 Bc  k     k     kf         723   10    0 
+Quick     798229879  4  4 f   -     -     -          713    0    0 
+Quick     798229888  4  3 f   -     -     -          713    0    0 
+Quick     798229912  5  2 Br  b     b     k          713   50    0 Ad Ks
+Quick     798229955  5  1 Bf  -     -     -          663    5    0 
+Quick     798230001  4  4 c   c     c     f          658   40    0 
+Quick     798230032  4  4 c   f     -     -          618   10    0 
+Quick     798230066  4  3 c   k     k     k          608   10    0 8h 7c
+Quick     798230102  4  2 Bk  b     b     b          598   60    0 5c 6s
+Quick     798230144  4  1 Bf  -     -     -          538    5    0 
+Quick     798230168  4  4 f   -     -     -          533    0    0 
+Quick     798230185  4  3 c   c     c     f          533   40    0 
+Quick     798230214  5  2 Bk  f     -     -          493   10    0 
+Quick     798230288  5  1 Bc  kc    kr    b          483   80  180 5c 6h
+Quick     798230349  5  5 f   -     -     -          583    0    0 
+Quick     798230368  5  4 f   -     -     -          583    0    0 
+Quick     798230406  5  3 f   -     -     -          583    0    0 
+Quick     798230446  5  2 Bc  b     kf    -          583   30    0 
+Quick     798230530  5  1 Bc  kf    -     -          553   10    0 
+Quick     798230586  6  6 c   c     f     -          543   20    0 
+Quick     798230622  7  6 c   c     k     f          523   20    0 
+Quick     798230691  7  5 f   -     -     -          503    0    0 
+Quick     798230752  6  4 f   -     -     -          503    0    0 
+Quick     798230786  6  3 f   -     -     -          503    0    0 
+Quick     798230821  6  2 Bk  c     f     -          503   20    0 
+Quick     798230866  5  1 Bcc bc    kc    k          483   60    0 Th Kc
+Quick     798230917  6  5 f   -     -     -          423    0    0 
+Quick     798230984  6  4 c   c     c     f          423   50    0 
+Quick     798231032  6  3 f   -     -     -          373    0    0 
+Quick     798231068  6  2 Bk  k     f     -          373   10    0 
+Quick     798231156  6  1 Bcc kf    -     -          363   20    0 
+Quick     798231205  6  6 rr  k     k     k          343   40  105 Ah Jh
+Quick     798231267  5  4 f   -     -     -          408    0    0 
+Quick     798231305  6  3 r   b     -     -          408   30   65 
+Quick     798231336  7  2 Bc  b     b     b          443   70  195 Js 9s
+Quick     798231429  7  1 Bc  kf    -     -          568   10    0 
+Quick     798231469  7  7 c   k     k     k          558   10    0 Ts 9h
+Quick     798231506  7  6 r   -     -     -          548   20   35 
+Quick     798231518  7  5 c   f     -     -          563   20    0 
+Quick     798231564  7  4 c   b     -     -          543   20   55 
+Quick     798231604  8  3 f   -     -     -          578    0    0 
+Quick     798231691  7  2 Bk  k     k     kf         578   10    0 
+Quick     798231769  7  1 Bf  -     -     -          568    5    0 
+Quick     798231824  8  8 cc  r     b     k          563   60    0 Ks Th
+Quick     798231899  7  6 c   c     k     k          503   20    0 5c 2c
+Quick     798231962  8  6 c   kc    kc    k          483   40   95 Td Ac
+Quick     798232022  8  5 f   -     -     -          538    0    0 
+Quick     798232151  7  3 f   -     -     -          538    0    0 
+Quick     798232165  7  3 c   kc    cc    k          538   70    0 4c 8c
+Quick     798232342  9  4 c   k     k     k          468   10    0 Jc Kc
+Quick     798232560  6  1 Bk  bc    kc    kf         458   50    0 
+Quick     798232726  7  1 Bc  kc    kr    b          408   80  180 Jc Qs
+Quick     798232815  9  9 r   k     cc    f          508   60    0 
+Quick     798232907  8  7 c   kc    kf    -          448   20    0 
+Quick     798233054  8  6 f   -     -     -          428    0    0 
+Quick     798233116  8  5 Q   -     -     -          428    0    0 
+Quick     798233511  6  4 f   -     -     -          428    0    0 
+Quick     798233563  8  4 c   brc   k     k          428   50    0 7d Qd
+Quick     798233636  8  3 cc  kf    -     Q          378   20    0 
+Quick     798234786 11  4 c   b     bc    krc        358  120    0 Jh Ac
+Quick     798234868 12  3 fQ  -     -     -          238    0    0 
+Quick     798236953 10  8 cc  c     b     -          238   50  115 
+Quick     798237041 10  6 f   -     -     -          303    0    0 
+Quick     798237150 11  5 c   c     f     -          303   20    0 
+Quick     798237206 11  4 fQ  -     -     -          283    0    0 
+Quick     798237510 11  8 c   r     r     k          283   70  160 Qs Ac
+Quick     798237609 11  6 f   Q     -     -          373    0    0 
+Quick     798237683 12  6 c   c     f     -          373   20    0 
+Quick     798237829 12  5 c   r     b     b          353   70  160 Kc Qh
+Quick     798237885 11  4 f   -     -     -          443    0    0 
+Quick     798237955 11  3 cc  b     bc    kc         443   90    0 Ad 8d
+Quick     798238043 12  2 Bk  b     b     kc         353   60    0 Kh Jh
+Quick     798238097 12  1 Bf  -     -     -          293    5    0 
+Quick     798238217 12 12 c   c     c     f          288   40    0 
+Quick     798238280 12 11 c   k     c     c          248   50  135 Qh 5h
+Quick     798238354 12 10 f   -     -     -          333    0    0 
+Quick     798238436 12  9 f   -     -     -          333    0    0 
+Quick     798238524 12  8 f   -     -     -          333    0    0 
+Quick     798238615 12  8 f   -     -     -          333    0    0 
+Quick     798238735 12  7 cc  k     c     c          333   60    0 Jc Ah
+Quick     798238834 10  4 c   r     b     -          273   50  130 
+Quick     798238920  9  2 f   -     -     -          353    0    0 
+Quick     798238986 10  2 Bk  kf    -     Q          353   10    0 
+Quick     798241403 11 10 f   -     -     -          343    0    0 
+Quick     798241516 10  8 c   rc    kc    kf         343   60    0 
+Quick     798241616 10  7 c   f     -     -          283   20    0 
+Quick     798241690 11  7 f   -     -     -          263    0    0 
+Quick     798241752 12  6 f   -     -     -          263    0    0 
+Quick     798241929 12  5 fQ  -     -     -          263    0    0 
+Quick     798315409  8  2 Bk  bc    r     r          263  110  350 Jh 7d
+Quick     798315501  8  1 Bf  -     -     -          503    5    0 
+Quick     798315534  7  7 c   k     k     k          498   10    0 Jd 6c
+Quick     798315580  8  6 c   c     k     k          488   20    0 7h 7c
+Quick     798315682  8  5 f   -     -     -          468    0    0 
+Quick     798315729  8  4 f   -     -     -          468    0    0 
+Quick     798315776  8  3 c   kc    b     b          468   60    0 Kd 8d
+Quick     798315838  8  2 Bk  kf    -     -          408   10    0 
+Quick     798315897  8  1 Bc  b     -     -          398   20   30 
+Quick     798315927  8  8 c   k     f     -          408   10    0 
+Quick     798315994  8  7 f   -     -     -          398    0    0 
+Quick     798316026  8  6 f   -     -     -          398    0    0 
+Quick     798316100  7  4 f   -     -     -          398    0    0 
+Quick     798316114  7  3 f   -     -     -          398    0    0 
+Quick     798316217  7  2 Bf  -     -     -          398   10    0 
+Quick     798316265  7  1 Bc  b     -     -          388   20   30 
+Quick     798316291  8  8 c   k     c     f          398   30    0 
+Quick     798316398  9  8 c   k     c     b          368   50  125 9d 7d
+Quick     798316464  9  7 cc  kc    k     b          443   50  115 8c Ah
+Quick     798316553 10  7 f   -     -     -          508    0    0 
+Quick     798316654  9  6 f   -     -     -          508    0    0 
+Quick     798316687 10  5 c   b     -     -          508   20   55 
+Quick     798316755 10  4 c   kf    -     -          543   10    0 
+Quick     798316787  9  2 Bf  -     -     -          533   10    0 
+Quick     798316835  8  1 Bc  bc    kc    k          523   50    0 3c Js
+Quick     798316879  8  8 c   f     -     -          473   20    0 
+Quick     798316928  9  8 f   -     -     -          453    0    0 
+Quick     798317022 11  9 c   c     c     r          453   90  215 Qs Tc
+Quick     798317095 10  7 f   Q     -     -          578    0    0 
+Quick     798317250 10  3 c   kc    kf    -          578   20    0 
+Quick     798317353  8  2 Bk  k     k     b          558   30   70 9d 5c
+Quick     798317433  9  1 Bc  b     b     kf         598   40    0 
+Quick     798317509  9  9 f   -     -     -          558    0    0 
+Quick     798317608  9  8 c   k     f     -          558   10    0 
+Quick     798317673  9  7 c   cc    c     f          548   60    0 
+Quick     798317766  9  6 r   b     -     -          488   30   85 
+Quick     798317856  8  4 c   c     f     -          543   20    0 
+Quick     798317932  7  4 f   -     -     -          523    0    0 
+Quick     798317959  7  3 f   -     -     -          523    0    0 
+Quick     798318055  7  2 Bk  brc   k     b          523   70  150 3d Ks
+Quick     798318185  7  1 Bc  bc    kf    -          603   30    0 
+Quick     798318244  6  6 f   -     -     -          573    0    0 
+Quick     798318305  6  5 f   -     -     -          573    0    0 
+Quick     798318334  7  4 f   -     -     -          573    0    0 
+Quick     798318386  7  3 f   -     -     -          573    0    0 
+Quick     798318436  7  2 Bk  bc    bc    kc         573   90  190 7c 5s
+Quick     798318520  6  1 Bc  k     b     -          673   30   60 
+Quick     798318585  6  6 c   f     -     -          703   10    0 
+Quick     798318615  6  5 f   -     -     -          693    0    0 
+Quick     798318648  7  5 f   -     -     -          693    0    0 
+Quick     798318697 10  7 f   -     -     -          693    0    0 
+Quick     798318740 10  6 c   b     c     f          693   40    0 
+Quick     798318870 12  5 f   -     -     -          653    0    0 
+Quick     798318924 12  4 f   -     -     -          653    0    0 
+Quick     798319002 12  3 r   b     b     b          653   70  155 Jd As
+Quick     798319081 12  2 Bk  k     r     bc         738   90  105 9c 2c
+Quick     798319173 12  1 Bc  b     b     b          753   60  230 Ks 9s
+Quick     798319253 12 12 c   c     c     f          923   50    0 
+Quick     798319316 12 11 f   -     -     -          873    0    0 
+Quick     798319376 12 10 cc  k     b     b          873   60  135 
+Quick     798319447 12  9 c   kc    kc    rc         948  120    0 4d Jd
+Quick     798319675 10  6 f   -     -     -          828    0    0 
+Quick     798319847 10  6 f   -     -     -          828    0    0 
+Quick     798319921 10  5 f   -     -     -          828    0    0 
+Quick     798319986 10  4 c   b     b     -          828   40   80 
+Quick     798320067 10  3 f   -     -     -          868    0    0 
+Quick     798320159  9  2 Bc  kc    kf    -          868   30    0 
+Quick     798320263 11  1 Bf  -     -     -          838    5    0 
+Quick     798320385 12 12 c   c     f     -          833   20    0 
+Quick     798320464 11 10 f   -     -     -          813    0    0 
+Quick     798320538 11  9 f   -     -     -          813    0    0 
+Quick     798320605 11  8 c   r     b     b          813   70  150 
+Quick     798320680 10  7 f   -     -     -          893    0    0 
+Quick     798320713 10  6 c   r     b     b          893   80  175 
+Quick     798320768 10  5 f   -     -     -          988    0    0 
+Quick     798320858  9  3 f   -     -     -          988    0    0 
+Quick     798320896  9  3 c   cc    f     -          988   40    0 
+Quick     798320980  9  2 Bf  -     -     -          948   10    0 
+Quick     798321060  9  1 Bc  bc    kf    -          938   30    0 
+Quick     798321130 10 10 c   k     f     -          908   20    0 
+Quick     798321211 11 10 c   cc    k     f          888   50    0 
+Quick     798321305 10  8 c   k     c     f          838   30    0 
+Quick     798321360  8  5 f   Q     -     -          808    0    0 
+Quick     798402662  5  4 f   -     -     -          808    0    0 
+Quick     798402723  5  3 ccc k     kc    cf         808   80    0 
+Quick     798402803  6  2 Bc  kc    b     k          728   60    0 6c Ah
+Quick     798402940  4  1 Bf  -     -     -          668    5    0 
+Quick     798402993  4  4 r   b     b     k          663   50  120 Kh Jh
+Quick     798403052  5  4 f   -     -     -          733    0    0 
+Quick     798403082  5  3 f   -     -     -          733    0    0 
+Quick     798403125  5  2 Bk  k     k     b          733   30   50 
+Quick     798403170  5  1 Bc  kc    k     b          753   40   80 Ac 3d
+Quick     798403223  5  5 c   b     b     -          793   50  135 
+Quick     798403303  5  4 c   f     -     -          878   10    0 
+Quick     798403341  6  3 c   b     -     -          868   20   55 
+Quick     798403384  6  2 Bk  k     b     -          903   30   50 
+Quick     798403533  5  1 Bc  kf    -     -          923   10    0 
+Quick     798403616  5  5 cc  c     f     -          913   30    0 
+Quick     798403693  5  4 f   -     -     -          883    0    0 
+Quick     798403760  5  3 cc  b     b     -          883   50  115 
+Quick     798403848  5  2 Bf  Q     -     -          948   10    0 
+Quick     798413177  6  4 c   c     c     k          938   40   85 As 2s
+Quick     798413215  6  3 c   c     c     k          983   40    0 As 8d
+Quick     798413268  6  2 Bf  -     -     -          943   10    0 
+Quick     798413298  6  1 Bc  kc    kf    -          933   20    0 
+Quick     798413340  6  6 f   -     -     -          913    0    0 
+Quick     798413379  6  5 c   b     -     -          913   20   55 
+Quick     798413421  6  4 fQ  -     -     -          948    0    0 
+Quick     798419806 10  4 f   -     -     -          948    0    0 
+Quick     798419841 10  3 c   c     k     k          948   20    0 Ts 9s
+Quick     798419921  9  2 Br  c     kc    kf         928   50    0 
+Quick     798420035  8  1 Bc  kc    kf    -          878   30    0 
+Quick     798420126  7  7 c   bc    k     k          848   30   75 Ah 5s
+Quick     798420190  7  6 c   k     bc    k          893   50    0 8d Ac
+Quick     798420267  7  5 c   cc    f     -          843   30    0 
+Quick     798420356  8  4 f   -     -     -          813    0    0 
+Quick     798420591  7  2 Bf  -     -     -          813   10    0 
+Quick     798420787  7  1 Bc  br    bc    kc         803  100    0 Qd Jh
+Quick     798420887  7  7 f   -     -     -          703    0    0 
+Quick     798420974  9  8 c   c     c     k          703   40    0 3d 2d
+Quick     798421094  8  6 c   k     f     -          663   10    0 
+Quick     798421213  7  6 c   k     b     -          653   30   60 
+Quick     798421296  9  5 f   -     -     -          683    0    0 
+Quick     798421354  9  4 f   -     -     -          683    0    0 
+Quick     798421421  9  3 rr  b     b     -          683   70  135 
+Quick     798421473  9  2 Bf  -     -     -          748   10    0 
+Quick     798421631  9  1 Bc  b     b     -          738   50  140 
+Quick     798421717  9  9 c   k     c     f          828   30    0 
+Quick     798421777  8  7 c   c     b     b          798   60  165 6s 6h
+Quick     798421857  7  5 r   b     b     b          903   70    0 Th Tc
+Quick     798421929  7  4 cc  kc    k     k          833   30   50 Ah Td
+Quick     798422015  7  3 c   k     bf    -          853   30    0 
+Quick     798422121  5  1 Bf  -     -     -          823   10    0 
+Quick     798422185  5  1 Bf  -     -     -          813    5    0 
+Quick     798422213  4  4 c   c     k     f          808   20    0 
+Quick     798422259  5  4 f   -     -     -          788    0    0 
+Quick     798422323  5  3 c   bc    kc    k          788   50  170 3c 4c
+Quick     798422385  6  2 Bk  kc    b     kf         908   40    0 
+Quick     798422440  5  1 Bf  -     -     -          868    5    0 
+Quick     798422482  5  5 c   c     c     f          863   50    0 
+Quick     798422555  5  4 c   k     k     k          813   10    0 6d 8d
+Quick     798422630  6  3 f   -     -     -          803    0    0 
+Quick     798422667  6  2 Bcc kc    f     -          803   50    0 
+Quick     798422740  6  1 Bc  k     b     k          753   30   80 5s 5d
+Quick     798422784  6  6 cc  k     b     b          803   60  160 
+Quick     798422865  6  5 c   c     c     k          903   50  165 5s Ah
+Quick     798422921  6  4 cc  kf    -     -         1018   20    0 
+Quick     798423007  7  3 cc  kc    kf    -          998   30    0 
+Quick     798423155  8  2 Bf  -     -     -          968   10    0 
+Quick     798423258  8  1 Bc  k     b     -          958   30   50 
+Quick     798423320  9  9 c   f     -     -          978   10    0 
+Quick     798423419  9  8 f   -     -     -          968    0    0 
+Quick     798423582  9  7 cc  f     -     -          968   20    0 
+Quick     798423657  8  6 c   rc    c     r          948  130  485 4h Th
+Quick     798423776  8  5 f   -     -     -         1303    0    0 
+Quick     798423885  8  4 c   kf    -     -         1303   10    0 
+Quick     798423972  8  3 f   -     -     -         1293    0    0 
+Quick     798424048  8  2 Bf  -     -     -         1293   10    0 
+Quick     798424142  7  1 Bf  -     -     -         1283    5    0 
+Quick     798424304  8  8 c   f     -     -         1278   10    0 
+Quick     798424441  8  7 c   k     f     -         1268   10    0 
+Quick     798424524  8  6 f   -     -     -         1258    0    0 
+Quick     798424687  8  5 f   -     -     -         1258    0    0 
+Quick     798424796  8  3 c   kc    kc    f         1258   40    0 
+Quick     798424940  9  3 cc  kc    kf    -         1218   30    0 
+Quick     798425022 10  2 Bc  kc    kf    -         1188   30    0 
+Quick     798425113 12  1 Bf  -     -     -         1158    5    0 
+Quick     798425172 12 12 c   c     b     b         1153   70  250 Qd 3h
+Quick     798425261 12 11 c   c     cc    kf        1333   60    0 
+Quick     798425380 11  9 c   r     r     c         1273  100    0 Jh Th
+Quick     798425447  9  6 cc  kc    kr    b         1173   90  230 
+Quick     798425546  9  5 c   k     f     -         1313   10    0 
+Quick     798425639  9  4 f   -     -     -         1303    0    0 
+Quick     798425711  9  3 f   -     -     -         1303    0    0 
+Quick     798425803  9  2 Br  bc    kc    kc        1303   80    0 Ah Jh
+Quick     798425907  8  1 Bf  -     -     -         1223    5    0 
+Quick     798425945  7  7 c   c     r     b         1218   80  230 8h Jd
+Quick     798426042  7  6 c   c     Q     -         1368   20    0 
+Quick     798495291 10  4 f   -     -     -         1348    0    0 
+Quick     798495352 10  3 f   -     -     -         1348    0    0 
+Quick     798495389 10  2 Bc  c     f     -         1348   30    0 
+Quick     798495441 10  1 Bf  -     -     -         1318    5    0 
+Quick     798495503 10 10 c   bc    r     b         1313  100  255 
+Quick     798495589 10  9 f   -     Q     -         1468    0    0 
+Quick     798495941 10  1 BQ  -     -     -         1468    5    0 
+Quick     798503956  8  5 f   -     -     -         1463    0    0 
+Quick     798504076  9  4 f   -     -     -         1463    0    0 
+Quick     798504176 10  3 f   -     -     -         1463    0    0 
+Quick     798504265 10  2 Bf  -     -     -         1463   10    0 
+Quick     798504403 10  1 Bf  -     -     -         1453    5    0 
+Quick     798504548 10 10 f   -     -     -         1448    0    0 
+Quick     798504646  7  6 c   c     c     f         1448   50    0 
+Quick     798504698  7  5 f   -     -     -         1398    0    0 
+Quick     798504721  7  4 cr  b     b     b         1398   80  200 
+Quick     798504828  7  3 f   -     -     -         1518    0    0 
+Quick     798504909  8  2 Bf  -     -     -         1518   10    0 
+Quick     798504940  8  1 Bf  -     -     -         1508    5    0 
+Quick     798505005  8  8 c   c     r     k         1503   60    0 Qs 9h
+Quick     798505084  9  8 c   f     -     -         1443   10    0 
+Quick     798505167  9  7 f   -     -     -         1433    0    0 
+Quick     798505210 10  7 f   -     -     -         1433    0    0 
+Quick     798505229 10  6 f   -     -     -         1433    0    0 
+Quick     798505297 10  5 c   k     c     k         1433   30  120 8c Js
+Quick     798505355 10  4 f   -     -     -         1523    0    0 
+Quick     798505489 10  3 f   -     -     -         1523    0    0 
+Quick     798505571 10  2 Bcc ccc   kc    f         1523  100    0 
+Quick     798505822  8  1 Bc  bc    bf    -         1423   50    0 
+Quick     798505920  8  8 c   c     r     b         1373   90    0 7c Tc
+Quick     798505997  9  8 f   -     -     -         1283    0    0 
+Quick     798506052  8  6 c   r     r     c         1283   90    0 7c 6h
+Quick     798506145  9  5 c   kc    c     f         1193   40    0 
+Quick     798506242  9  4 f   -     -     -         1153    0    0 
+Quick     798506325  9  4 cc  k     f     -         1153   20    0 
+Quick     798506410  8  2 Bk  r     k     f         1133   30    0 
+Quick     798506471  8  1 Bc  k     k     k         1103   20    0 9s 8h
+Quick     798506597 10 10 c   f     -     -         1083   20    0 
+Quick     798506742 10  9 f   -     -     -         1063    0    0 
+Quick     798506839 11  9 f   -     -     -         1063    0    0 
+Quick     798506886 12  9 c   r     b     b         1063   80  185 3d 6d
+Quick     798506961 12  8 f   -     -     -         1168    0    0 
+Quick     798507110 10  6 c   c     cc    b         1168   80  270 2d 8d
+Quick     798507231 11  6 c   c     c     k         1358   40    0 Jc 8h
+Quick     798507363 11  5 f   -     -     -         1318    0    0 
+Quick     798507476 11  4 c   r     br    k         1318   90  145 6s 5d
+Quick     798507611 11  3 f   -     -     -         1373    0    0 
+Quick     798507724 10  2 Bc  brr   b     kc        1373  110    0 4c Qd
+Quick     798507801  9  1 Bc  k     k     k         1263   10    0 Th Kc
+Quick     798507885  9  9 c   c     c     k         1253   60  102 Th Kd
+Quick     798507986  9  7 r   kc    kc    krrrr     1295  210    0 As Ks
+Quick     798508159 10  7 c   c     c     c         1085   60    0 8d 8s
+Quick     798508284 10  6 c   c     c     f         1025   40    0 
+Quick     798508383 10  5 c   k     k     kf         985   10    0 
+Quick     798508480 10  3 c   f     -     -          975   10    0 
+Quick     798508564 10  2 Bf  -     -     -          965   10    0 
+Quick     798508720  9  1 Bc  kc    k     k          955   30    0 8s Qs
+Quick     798508870  8  8 c   k     k     f          925   10    0 
+Quick     798509068  8  7 f   -     -     -          915    0    0 
+Quick     798509119  8  6 c   k     k     f          915   10    0 
+Quick     798509205  8  5 cc  b     b     -          905   50  120 
+Quick     798509345  8  4 f   -     -     -          975    0    0 
+Quick     798509454  9  3 r   b     b     b          975   70  190 Qd Ah
+Quick     798509526 10  2 Bk  kc    kc    Q         1095   40    0 
+Quick     798751056  6  6 r   r     c     f         1055   60    0 
+Quick     798751136  5  4 c   k     k     k          995   10    0 2s 2c
+Quick     798751244  6  3 f   -     -     -          985    0    0 
+Quick     798751303  6  2 Bk  b     bc    kc         985   80    0 Kc Qd
+Quick     798751349  5  1 Bc  b     bc    k          905   70    0 5s Qs
+Quick     798751402  5  5 c   b     b     -          835   40   65 
+Quick     798751451  5  4 f   -     -     -          860    0    0 
+Quick     798751488  5  3 cc  c     c     rc         860  110    0 Qh 5h
+Quick     798751571  5  2 Bk  b     br    brc        750  160    0 Ac 4s
+Quick     798751647  6  1 Br  b     bc    kc         590   90    0 Ad 3c
+Quick     798751736  6  6 rr  c     b     bc         500  110    0 7d Kd
+Quick     798751801  7  5 r   r     -     -          390   40   75 
+Quick     798751847  7  4 f   -     -     -          425    0    0 
+Quick     798751953  7  3 r   r     br    f          425  100    0 
+Quick     798752016  8  2 Br  bc    kf    -          325   40    0 
+Quick     798752091 10  1 Bc  k     kc    kf         285   30    0 
+Quick     798752179 11 11 rc  c     k     f          255   50    0 
+Quick     798752287 12 11 f   -     -     -          205    0    0 
+Quick     798752399 12 10 f   -     -     -          205    0    0 
+Quick     798752454 12  9 cc  cc    kf    -          205   50    0 
+Quick     798752535 12  8 c   c     f     -          155   20    0 
+Quick     798752670 12  7 c   r     cf    -          135   50    0 
+Quick     798752763 10  5 c   bc    cf    -           85   50    0 
+Quick     798752864 11  4 f   -     -     -           35    0    0 
+Quick     798752972 12  4 f   -     -     -           35    0    0 
+Quick     798753061 12  3 crcA -     -     -           35   35    0 3d 9d
+Quick     798754353  7  3 c   k     cc    k         1000   70    0 9d 7d
+Quick     798754508  7  2 Br  br    k     k          930   60  155 Js Jc
+Quick     798754581  7  1 Bc  kc    kc    f         1025   40    0 
+Quick     798754647  7  7 f   -     -     -          985    0    0 
+Quick     798754701  9  6 cc  kc    kc    f          985   50    0 
+Quick     798754776 10  6 f   -     -     -          935    0    0 
+Quick     798754856 11  6 cc  kcc   brc   kc         935  160  605 Tc Kh
+Quick     798755031 10  5 f   -     -     -         1380    0    0 
+Quick     798755110 10  4 c   br    b     b         1380   80    0 Jh Kc
+Quick     798755197 11  3 f   -     -     -         1300    0    0 
+Quick     798755277 12  2 Bk  b     f     -         1300   20    0 
+Quick     798755370 12  1 Bc  kf    -     -         1280   10    0 
+Quick     798755469 12 12 c   r     b     b         1270   70  180 3h 6c
+Quick     798755552 11 10 rc  b     r     c         1380  110    0 Ac Ah
+Quick     798755664 10  9 f   -     -     -         1270    0    0 
+Quick     798755738 10  7 cc  c     kc    b         1270   90    0 4c Kc
+Quick     798755861 11  7 f   -     -     -         1180    0    0 
+Quick     798755952 11  6 f   -     -     -         1180    0    0 
+Quick     798756233 11  5 Q   -     Q     -         1180    0    0 
+Quick     798756437 11  3 f   -     -     -         1180    0    0 
+Quick     798756526 10  2 Bf  -     -     -         1180   10    0 
+Quick     798756656  9  1 Bc  bc    k     k         1170   40  110 Qh 3h
+Quick     798756728  8  8 rc  rc    c     c         1240  180    0 As Ah
+Quick     798756977 11  8 cc  c     f     -         1060   50    0 
+Quick     798757142 11  8 f   -     -     -         1010    0    0 
+Quick     798757235 10  7 c   f     -     -         1010   10    0 
+Quick     798757270 10  6 c   kc    kf    -         1000   30    0 
+Quick     798757365 10  5 f   -     -     -          970    0    0 
+Quick     798757475 10  4 rr  c     c     kf         970   70    0 
+Quick     798757567 10  3 cc  kc    krc   rc         900  190    0 Ks 3s
+Quick     798757751 10  2 Bcc b     bf    -          710   65    0 
+Quick     798757861  9  1 Bc  bc    kc    krrc       645  185    0 8c 7h
+Quick     798757938 10  9 f   -     -     -          460    0    0 
+Quick     798758087  9  7 cc  cc    r     c          460  130    0 4s 5c
+Quick     798758249 10  6 cc  rr    b     r          330  120    0 Qd 2h
+Quick     798758490 11  5 cc  bc    kc    kc         210   80    0 Ah 8s
+Quick     798758608  9  3 c   f     -     -          130   10    0 
+Quick     798758687  9  2 Bc  bc    kccA  -          120  120    0 Qs Jd
+Quick     798763545 10  5 r   r     c     c         1000   80    0 Qs Qc
+Quick     798763660 10  4 c   kc    kc    kf         920   40    0 
+Quick     798763819  9  2 cc  kc    kf    -          880   30    0 
+Quick     798763936  9  2 Bk  kf    -     -          850   10    0 
+Quick     798764017  9  1 Bc  k     b     -          840   30   70 
+Quick     798764111  9  9 c   c     c     f          880   50    0 
+Quick     798764302 11  9 rc  c     c     f          830   70    0 
+Quick     798764424 11  8 f   -     -     -          760    0    0 
+Quick     798764561 11  7 f   -     -     -          760    0    0 
+Quick     798765404 11 11 c   c     f     -          770   20    0 
+Quick     798765478 11 10 c   f     -     -          750   10    0 
+Quick     798765596 11  9 c   kc    kc    b          740   70    0 8s 9c
+Quick     798765713  9  6 c   b     b     k          670   40    0 5d 4h
+Quick     798765851  9  5 c   r     c     c          630   70    0 5d 4d
+Quick     798765958 11  5 f   -     -     -          560    0    0 
+Quick     798766054  9  4 f   -     Q     -          560    0    0 
+Quick     798766856  7  3 cc  kc    k     k          560   50  225 Ks 3d
+Quick     798766907  7  2 Bf  -     -     -          735   10    0 
+Quick     798766959  8  1 Bcc kf    -     -          725   20    0 
+Quick     798767070  8  8 c   k     c     c          705   50    0 Kd 8c
+Quick     798767121  8  8 c   rr    b     b          655   90  240 
+Quick     798767198  7  6 f   -     -     -          805    0    0 
+Quick     798767251  7  5 f   -     -     -          805    0    0 
+Quick     798767318  6  4 c   b     k     k          805   20   60 2h 5h
+Quick     798767379  6  3 cc  bc    kc    k          845   60    0 Qs 6s
+Quick     798767458  6  2 Bc  b     bc    c          785   90    0 9s Ad
+Quick     798767565  5  1 Bc  kc    bc    kc         695   90    0 Ah 8d
+Quick     798767629  5  5 cc  rr    b     k          605   80    0 2s 3h
+Quick     798767728  5  4 c   c     c     k          525   40  140 3d As
+Quick     798767824  5  3 r   b     bc    k          625   70    0 3d 3s
+Quick     798767866  4  1 Bf  -     -     -          555   10    0 
+Quick     798767916  4  1 Bcc bc    kc    kc         545   90  210 3s 3h
+Quick     798767967  4  4 cc  r     k     k          665   40  120 3d Tc
+Quick     798768019  4  3 f   -     -     -          745    0    0 
+Quick     798768054  4  2 Bc  bc    bc    kc         745  100    0 8s 2s
+Quick     798768096  4  1 Bf  -     -     -          645    5    0 
+Quick     798768114  4  4 cc  f     -     -          640   30    0 
+Quick     798768156  5  4 f   -     -     -          610    0    0 
+Quick     798768248  5  3 cc  c     cc    kc         610  100  270 Ac Th
+Quick     798768318  5  2 Br  b     -     -          780   30   70 
+Quick     798768366  5  1 Br  b     b     b          820   70  140 5s 5h
+Quick     798768402  5  5 c   k     f     -          890   10    0 
+Quick     798768442  6  4 c   b     b     -          880   40   85 
+Quick     798768498  6  3 c   kc    kc    kf         925   40    0 
+Quick     798768566  6  2 Bk  kf    -     -          885   10    0 
+Quick     798768651  6  1 Bcc b     b     b          875   70    0 9s 5d
+Quick     798768732  6  6 r   c     c     b          805   70  160 Ac 9c
+Quick     798768797  6  5 c   cc    c     f          895   50    0 
+Quick     798768939  6  4 f   -     -     -          845    0    0 
+Quick     798768974  7  3 c   f     -     -          845   10    0 
+Quick     798769061  6  2 BQ  -     -     -          835   10    0 
+Quick     798771933  8  5 f   -     -     -          825    0    0 
+Quick     798772025  7  3 Q   -     -     -          825    0    0 
+Quick     798779016  7  2 Bc  kc    kc    f          825   50    0 
+Quick     798779076  7  1 Bf  -     -     -          775    5    0 
+Quick     798779196  7  7 c   f     -     -          770   10    0 
+Quick     798779256  7  6 f   -     -     -          760    0    0 
+Quick     798779274  7  5 cc  kcf   -     -          760   30    0 
+Quick     798779390  8  3 f   -     -     -          730    0    0 
+Quick     798779448  8  2 Bk  k     f     -          730   10    0 
+Quick     798779533  9  1 Bcc kc    kf    -          720   50    0 
+Quick     798779645  9  9 c   c     f     -          670   30    0 
+Quick     798779697  8  8 f   -     -     -          640    0    0 
+Quick     798779809  8  8 f   -     -     -          640    0    0 
+Quick     798779964  9  4 Q   -     -     -          640    0    0 
+Quick     798834229  5  5 f   -     -     -          640    0    0 
+Quick     798834315  5  4 cc  f     -     -          640   40    0 
+Quick     798834381  5  3 c   k     k     k          600   10    0 Th Ks
+Quick     798834470  5  2 Bf  -     -     -          590   10    0 
+Quick     798834561  5  1 Bc  bc    b     kc         580   70    0 7c Jc
+Quick     798834620  5  5 cc  f     -     -          510   20    0 
+Quick     798834676  4  4 c   k     k     k          490   10    0 Jh 8h
+Quick     798834720  4  3 f   -     -     -          480    0    0 
+Quick     798834770  3  2 Bk  k     k     -          480   10   25 
+Quick     798834789  3  1 Bf  -     -     -          495    5    0 
+Quick     798834798  3  3 cc  k     c     k          490   40    0 9h 8s
+Quick     798834831  4  2 Br  br    c     c          450  100    0 Kd Kh
+Quick     798834907  4  1 Bc  k     kf    -          350   20    0 
+Quick     798834959  4  4 f   -     -     -          330    0    0 
+Quick     798834990  4  3 c   k     k     k          330   10    0 Jh Ah
+Quick     798835033  3  1 Bk  kr    b     kf         320   50    0 
+Quick     798835082  3  1 Bc  kc    kf    -          270   20    0 
+Quick     798835126  3  3 r   c     f     -          250   30    0 
+Quick     798835162  4  3 cc  kc    cc    f          220   70    0 
+Quick     798835219  4  2 Bk  b     br    b          150  100    0 3s 2c
+Quick     798835288  4  1 BrrA -     -     -           50   50    0 Qd Qh
+Quick     798835393  6  4 cc  f     -     -         1000   20    0 
+Quick     798835451  7  3 cc  bc    kc    kc         980   80    0 Kd Ts
+Quick     798835535  7  2 Bc  kc    krr   brrc       900  250    0 Td 6d
+Quick     798835650  8  1 Bf  -     -     -          650    5    0 
+Quick     798835770  8  8 rr  b     b     b          645   90  320 9s As
+Quick     798835891  9  8 c   k     f     -          875   10    0 
+Quick     798835970  9  7 f   -     -     -          865    0    0 
+Quick     798836025  8  5 f   -     -     -          865    0    0 
+Quick     798836081  8  4 f   -     -     -          865    0    0 
+Quick     798836155  8  3 f   -     -     -          865    0    0 
+Quick     798836204  8  2 Bk  k     b     b          865   50   95 
+Quick     798836332  7  1 Bc  b     b     kf         910   40    0 
+Quick     798836395  8  8 c   c     c     b          870   60  210 Td 3d
+Quick     798836479  9  8 c   r     c     k         1020   90    0 Tc Qh
+Quick     798836533  8  6 f   -     -     -          930    0    0 
+Quick     798836627  8  5 c   c     c     f          930   40    0 
+Quick     798836746  9  5 f   -     -     -          890    0    0 
+Quick     798836814  9  4 f   -     -     -          890    0    0 
+Quick     798836927 11  3 cc  b     b     k          890   50    0 5d Td
+Quick     798837062 12  2 Bk  b     br    k          840   80  190 8h 8s
+Quick     798837145 10  1 Bc  kf    -     -          950   10    0 
+Quick     798837216 10 10 c   b     -     -          940   20   50 
+Quick     798837272  9  8 c   c     f     -          970   20    0 
+Quick     798837327 10  8 f   -     -     -          950    0    0 
+Quick     798837411 11  7 c   kc    kf    -          950   20    0 
+Quick     798837509  9  5 f   -     -     -          930    0    0 
+Quick     798837576 10  5 f   -     -     -          930    0    0 
+Quick     798837675 10  4 c   cf    -     -          930   20    0 
+Quick     798837780 10  3 f   -     -     -          910    0    0 
+Quick     798837852  9  2 Bk  k     k     kf         910   10    0 
+Quick     798837940 10  1 Bf  -     -     -          900    5    0 
+Quick     798838050  9  9 f   -     -     -          895    0    0 
+Quick     798838115  9  8 f   -     -     -          895    0    0 
+Quick     798839242  9  9 c   c     f     -          645   20    0 
+Quick     798839334  8  7 f   -     -     -          625    0    0 
+Quick     798839469  8  6 f   -     -     -          625    0    0 
+Quick     798839580  8  5 f   -     -     -          625    0    0 
+Quick     798839738  9  5 c   cf    -     -          625   30    0 
+Quick     798839819  9  4 cc  c     c     c          595   70    0 8d 8c
+Quick     798839922  8  3 cc  brrrr b     b          525  150  365 7s 7h
+Quick     798840047  7  2 Br  b     b     bc         740   90    0 Kh Qh
+Quick     798840153  8  1 Bc  kc    bf    -          650   50    0 
+Quick     798840226  9  9 f   -     -     -          600    0    0 
+Quick     798840342  9  8 c   rc    f     -          600   60    0 
+Quick     798840492  8  6 c   b     b     b          540   70  185 6h Jc
+Quick     798840701  8  6 f   -     -     -          655    0    0 
+Quick     798840779  7  4 r   b     b     b          655   70  200 As Kc
+Quick     798840868  8  3 c   br    bc    kcf        785  150    0 
+Quick     798841022  8  2 Bk  kf    -     -          635   10    0 
+Quick     798841107  8  1 Bc  kf    -     -          625   40    0 
+Quick     798841265  8  8 c   f     -     -          585   10    0 
+Quick     798841360  8  7 f   -     -     -          575    0    0 
+Quick     798841522  5  4 c   b     k     k          575   20   50 8c Qd
+Quick     798841748  4  2 B   -     -     -          605   10   15 
+Quick     798841923  3  1 BQ  -     -     -          610    5    0 
+Quick     798850149  5  2 cc  kf    -     -          605   20    0 
+Quick     798850181  5  2 Bf  -     -     -          585   10    0 
+Quick     798850206  5  1 Bf  -     -     -          575    5    0 
+Quick     798850240  5  5 f   -     -     -          570    0    0 
+Quick     798850283  6  5 cc  k     k     kf         570   20    0 
+Quick     798850348  6  4 f   -     -     -          550    0    0 
+Quick     798850384  6  3 f   -     -     -          550    0    0 
+Quick     798850438  7  2 Bk  f     -     -          550   10    0 
+Quick     798850462  7  1 Bc  kf    -     -          540   10    0 
+Quick     798850532  7  7 cc  r     k     b          530   60  240 5c 7c
+Quick     798850655  7  6 r   c     f     -          710   30    0 
+Quick     798850768 11  9 f   -     -     -          680    0    0 
+Quick     798850845 10  7 r   k     c     f          680   40    0 
+Quick     798850938 10  6 cc  f     -     -          640   20    0 
+Quick     798851125  9  5 cc  c     c     c          620   70    0 Th 7h
+Quick     798851190 11  5 c   k     kc    k          550   30    0 7s 6c
+Quick     798851282 11  4 f   -     -     -          520    0    0 
+Quick     798851465 12  3 f   -     -     -          520    0    0 
+Quick     798851554 12  2 Bk  kc    k     kf         520   30    0 
+Quick     798851670 12  1 Bc  krc   b     -          490   70  270 
+Quick     798851800 12 12 cc  f     -     -          690   30    0 
+Quick     798851956 12 11 f   -     -     -          660    0    0 
+Quick     798852145  7  6 c   cc    cc    f          660  110    0 
+Quick     798852268  6  4 f   -     -     -          550    0    0 
+Quick     798852328  7  4 cc  kf    -     -          550   20    0 
+Quick     798852446  6  2 r   b     b     b          530   70  150 Js Ad
+Quick     798852486  6  2 B   -     -     -          610   10   15 
+Quick     798852517  6  1 Br  b     b     bc         615  110    0 Jd Kh
+Quick     798852670  5  5 f   -     -     -          505    0    0 
+Quick     798852729  5  4 f   -     -     -          505    0    0 
+Quick     798852893  5  4 f   -     -     -          505    0    0 
+Quick     798852944  5  3 f   -     -     -          505    0    0 
+Quick     798853030  5  2 Bc  kf    -     -          505   20    0 
+Quick     798853085  4  1 Bc  k     k     brc        485   90  210 4s Qh
+Quick     798853138  5  5 c   f     -     -          605   10    0 
+Quick     798853191  5  4 r   c     c     f          595   50    0 
+Quick     798853245  5  3 f   -     -     -          545    0    0 
+Quick     798853293  4  2 Bk  k     kf    -          545   10    0 
+Quick     798853347  6  1 Bc  kc    kc    kf         535   40    0 
+Quick     798853485  7  7 cc  f     -     -          495   40    0 
+Quick     798853590  7  6 cc  bc    c     f          455   70    0 
+Quick     798853714  8  6 c   f     -     -          385   10    0 
+Quick     798853782  8  5 f   -     -     -          375    0    0 
+Quick     798853890  8  4 cc  c     f     -          375   30    0 
+Quick     798853973  8  3 f   -     -     -          345    0    0 
+Quick     798854020  7  2 Br  k     k     k          345   20   60 Jh Ad
+Quick     798854089  7  1 Bc  bc    kc    b          385   70  130 
+Quick     798854143  7  7 c   f     -     -          445   20    0 
+Quick     798854209  7  6 c   c     b     k          425   40  110 6d 7h
+Quick     798854291  7  5 f   -     -     -          495    0    0 
+Quick     798854349  7  4 c   b     -     -          495   20   45 
+Quick     798854404  7  3 c   b     k     k          520   20    0 6c Qc
+Quick     798854484  6  2 Bc  b     -     -          500   30   70 
+Quick     798854527  6  1 Bf  -     -     -          540    5    0 
+Quick     798854594  6  6 c   k     f     -          535   10    0 
+Quick     798854656  5  4 f   -     -     -          525    0    0 
+Quick     798854730  7  4 rr  br    kc    k          525  100    0 Ad Qs
+Quick     798854838  7  3 f   -     -     -          425    0    0 
+Quick     798854897 10  2 Bc  kc    kf    -          425   60    0 
+Quick     798855010  9  1 Bf  Q     -     -          365    5    0 
+Quick     799021036  9  7 c   kf    -     -          360   10    0 
+Quick     799021109  9  6 c   kc    k     f          350   20    0 
+Quick     799021180  8  4 f   -     -     -          330    0    0 
+Quick     799021239  7  3 f   -     -     -          330    0    0 
+Quick     799021283  7  2 Bk  b     bc    kc         330   80    0 Ad 5c
+Quick     799021331  7  1 Br  bc    bc    kc         250  110    0 As Jc
+Quick     799021415  7  7 r   c     k     f          140   40    0 
+Quick     799021502  7  6 c   c     c     k          100   40    0 8h 3h
+Quick     799021545  7  5 c   r     b     k           60   50    0 9h As
+Quick     799021605  7  4 f   -     -     -           10    0    0 
+Quick     799021668  7  3 cA  -     -     -           10   10   35 5d 9d
+Quick     799021708  7  2 Bk  f     -     -           35   10    0 
+Quick     799021765  9  1 Bc  kf    -     -           25   20    0 
+Quick     799021830 10  9 f   -     -     -            5    0    0 
+Quick     799021916 10  8 f   -     -     -            5    0    0 
+Quick     799021986 10  6 f   -     -     -            5    0    0 
+Quick     799022046 10  5 cA  -     -     -            5    5    0 Ks 8s
+Quick     799022216 11  3 cc  kc    kc    b         1000   80    0 As 9c
+Quick     799022279 11  2 Bc  f     -     -          920   40    0 
+Quick     799022343 11  1 Bf  -     -     -          880    5    0 
+Quick     799022412 11 11 c   k     b     b          875   50    0 Ks Td
+Quick     799022486 11 10 f   -     -     -          825    0    0 
+Quick     799022562 11  9 c   r     b     -          825   50  105 
+Quick     799022696 11  8 f   -     -     -          880    0    0 
+Quick     799022767 12  7 c   bc    kc    c          880   80  188 Jc Ts
+Quick     799022916 12  6 f   -     -     -          988    0    0 
+Quick     799022979 12  5 r   b     r     k          988   70  145 Ad Ac
+Quick     799023030 12  4 f   -     -     -         1063    0    0 
+Quick     799023085 12  3 f   -     -     -         1063    0    0 
+Quick     799023153 11  2 Bf  -     -     -         1063   10    0 
+Quick     799023272 11  1 Bc  kc    kc    kr        1053   90  250 4d Qd
+Quick     799023360 11 11 c   f     -     -         1213   20    0 
+Quick     799023425 11 10 c   f     -     -         1193   10    0 
+Quick     799023548 11  9 f   -     -     -         1183    0    0 
+Quick     799023589 10  7 c   f     -     -         1183   10    0 
+Quick     799023641 10  6 c   f     -     -         1173   10    0 
+Quick     799023720  9  4 f   -     -     -         1163    0    0 
+Quick     799023821  9  3 f   -     -     -         1163    0    0 
+Quick     799023890  9  2 Bc  kf    -     -         1163   20    0 
+Quick     799023970  8  1 Bc  b     kf    -         1143   20    0 
+Quick     799024044 10 10 c   c     rr    b         1123  140    0 Qc Jd
+Quick     799024128 11 10 f   -     -     -          983    0    0 
+Quick     799024194 11  9 c   k     f     -          983   20    0 
+Quick     799024265 11  8 r   r     b     b          963   80  255 Ac Kd
+Quick     799024314 11  7 f   -     -     -         1138    0    0 
+Quick     799024441 11  6 r   b     -     -         1138   30   65 
+Quick     799024506 10  4 c   kf    -     -         1173   10    0 
+Quick     799024546  9  3 c   c     f     -         1163   20    0 
+Quick     799024614  9  2 Bk  kf    -     -         1143   10    0 
+Quick     799024646  8  1 Bc  kf    -     -         1133   10    0 
+Quick     799024735  8  8 c   c     cc    f         1123   60    0 
+Quick     799024824  8  7 c   c     f     -         1063   40    0 
+Quick     799024885  7  5 f   -     -     -         1023    0    0 
+Quick     799024913  7  4 c   c     c     c         1023   60    0 Jd 8d
+Quick     799024953  8  3 c   kf    -     -          963   10    0 
+Quick     799025000  9  3 c   c     c     b          953   60  180 
+Quick     799025064  9  2 Bc  b     bc    b         1073   90  200 2d Jd
+Quick     799025120 10  1 Bc  kf    -     -         1183   20    0 
+Quick     799025176 10 10 f   -     -     -         1163    0    0 
+Quick     799025246 10  9 c   f     -     -         1163   20    0 
+Quick     799025315 10  8 r   b     b     -         1143   50   95 
+Quick     799025373 10  7 c   k     f     -         1188   10    0 
+Quick     799025489 10  6 f   -     -     -         1178    0    0 
+Quick     799025585  9  4 c   f     -     -         1178   10    0 
+Quick     799025673  9  3 f   -     -     -         1168    0    0 
+Quick     799025713  9  2 Bk  kc    kf    -         1168   20    0 
+Quick     799025804 10  1 Br  b     b     bc        1148   90    0 As Jd
+Quick     799026033  8  8 c   c     c     k         1058   50    0 5s 6s
+Quick     799026096  8  8 c   r     b     k         1008   50    0 6c Kc
+Quick     799026178  8  7 f   -     -     -          958    0    0 
+Quick     799026269  9  7 f   -     -     -          958    0    0 
+Quick     799026330  9  6 c   cf    -     -          958   20    0 
+Quick     799026506  9  6 f   -     -     -          938    0    0 
+Quick     799026561  8  5 f   -     -     -          938    0    0 
+Quick     799026653  9  4 c   kc    kc    kf         938   40    0 
+Quick     799026803  9  3 f   -     -     -          898    0    0 
+Quick     799027036  5  2 Bk  k     b     k          898   30   65 3c 7s
+Quick     799027077  6  1 Bc  b     b     kf         933   40    0 
+Quick     799027126  6  6 c   k     c     f          893   30    0 
+Quick     799027166  5  4 cc  c     f     -          863   30    0 
+Quick     799027231  5  3 f   -     -     -          833    0    0 
+Quick     799027284  5  2 Bc  bc    kc    kf         833   80    0 
+Quick     799027358  6  1 BQ  -     -     -          753    5    0 

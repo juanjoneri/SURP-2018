@@ -1,0 +1,36 @@
+perdita   797222481 12  7 f   -     -     -         1000    0    0 
+perdita   797222565 12  6 cc  c     c     f         1000   50    0 
+perdita   797222666 12  5 f   -     -     -          950    0    0 
+perdita   797222832 12  4 f   -     -     -          950    0    0 
+perdita   797222965 12  3 cc  cc    cc    k          950  100    0 As Kd
+perdita   797223124 12  2 Bf  -     -     -          850   10    0 
+perdita   797223241 12  1 Bc  bc    bc    b          840   90  390 Js Qh
+perdita   797223393 10  4 Q   -     -     -         1140    0    0 
+perdita   798182993  9  7 c   f     -     -         1140   10    0 
+perdita   798183054  9  6 f   -     -     -         1130    0    0 
+perdita   798183161  9  5 f   -     -     -         1130    0    0 
+perdita   798183224  9  4 f   -     -     -         1130    0    0 
+perdita   798183292  9  3 KQ  -     -     -         1130    0    0 
+perdita   798259568  5  5 f   -     -     -         1130    0    0 
+perdita   798259604  5  4 c   b     b     b         1130   60  110 
+perdita   798259647  5  3 f   -     -     -         1180    0    0 
+perdita   798259674  5  2 Bf  -     -     -         1180   10    0 
+perdita   798259683  5  1 Bc  kf    -     -         1170   10    0 
+perdita   798259722  5  5 f   -     -     -         1160    0    0 
+perdita   798259739  5  4 f   -     -     -         1160    0    0 
+perdita   798259786  5  3 f   -     -     -         1160    0    0 
+perdita   798259812  5  2 Bk  c     b     b         1160   60  120 Kd Ac
+perdita   798259857  5  1 Bf  -     -     -         1220    5    0 
+perdita   798259895  5  5 f   -     -     -         1215    0    0 
+perdita   798259903  5  4 f   -     -     -         1215    0    0 
+perdita   798259913  6  3 f   -     -     -         1215    0    0 
+perdita   798259959  6  2 Bf  -     -     -         1215   10    0 
+perdita   798260010  7  1 Bc  k     b     -         1205   30   50 
+perdita   798260080  6  6 c   f     -     -         1225   10    0 
+perdita   798260108  6  6 c   b     b     r         1215   80  165 Td Qs
+perdita   798260169  6  5 c   f     -     -         1300   20    0 
+perdita   798260217  6  4 f   -     -     -         1280    0    0 
+perdita   798260256  6  3 f   -     -     -         1280    0    0 
+perdita   798260273  6  2 Bf  -     -     -         1280   10    0 
+perdita   798260329  6  1 Bc  b     bc    kf        1270   70    0 
+perdita   798260382  6  6 f   -     -     Q         1200    0    0 

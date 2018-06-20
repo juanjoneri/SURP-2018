@@ -1,0 +1,393 @@
+Raybould  797225717 11  7 f   -     -     -         1000    0    0 
+Raybould  797225838 11  6 c   f     -     -         1000   20    0 
+Raybould  797225902 11  5 c   kc    b     bc         980   90    0 5h 4s
+Raybould  797225995 11  4 cc  kc    c     kc         890  100    0 Ks Th
+Raybould  797226170 10  3 rc  k     k     k          790   30   75 Ac 8c
+Raybould  797226229 10  2 Bk  kf    -     -          835   10    0 
+Raybould  797226330  8  1 Bf  -     -     -          825    5    0 
+Raybould  797226388  8  8 f   -     -     -          820    0    0 
+Raybould  797226543  8  7 f   -     -     -          820    0    0 
+Raybould  797226674  9  7 c   cc    kf    -          820   30    0 
+Raybould  797226786 10  7 cc  kf    -     -          790   30    0 
+Raybould  797226892  9  5 c   c     k     f          760   30    0 
+Raybould  797227012  8  5 cc  cc    kf    -          730   50    0 
+Raybould  797227131  9  4 c   cc    kc    kf         680   70    0 
+Raybould  797227283  9  3 f   -     -     -          610    0    0 
+Raybould  797227367  9  2 Bc  kcc   k     f          610   50    0 
+Raybould  797227530  7  1 Bc  kf    -     -          560   20    0 
+Raybould  797227677  8  8 c   k     f     -          540   10    0 
+Raybould  797227730  6  6 c   b     b     k          530   40  100 7s Kh
+Raybould  797227822  6  5 cc  k     f     -          590   20    0 
+Raybould  797227929  6  4 c   bc    bc    f          570   70    0 
+Raybould  797228001  6  3 rc  f     -     -          500   30    0 
+Raybould  797228026  6  2 Brc c     c     k          470   70    0 Ac 6c
+Raybould  797228088  6  1 Bc  k     bc    bc         400   90  260 6c Kh
+Raybould  797228149  6  6 cc  c     f     -          570   40    0 
+Raybould  797228197  5  4 c   f     -     -          530   10    0 
+Raybould  797228283  5  3 c   cc    kc    k          520   50  155 Qc Qd
+Raybould  797228333  5  2 Bf  -     -     -          625   10    0 
+Raybould  797228399  5  1 Bc  kc    kf    -          615   20    0 
+Raybould  797228458  5  5 r   k     f     -          595   20    0 
+Raybould  797228513  5  5 f   -     -     -          575    0    0 
+Raybould  797228539  4  3 c   k     b     -          575   30   45 
+Raybould  797228610  4  2 Bc  k     k     k          590   20    0 5s Js
+Raybould  797228652  2  1 Bc  k     bQ    -          570   30   40 
+Raybould  797360295  2  2 B   -     -     -          580   10   15 
+Raybould  797360301  2  1 Br  bc    kc    k          585   60    0 4c Th
+Raybould  797360325  2  2 Bf  -     -     -          525   10    0 
+Raybould  797360330  2  1 Bcc kc    kf    -          515   30    0 
+Raybould  797360351  2  2 Bc  b     b     -          485   50   80 
+Raybould  797360369  2  1 Bc  k     k     b          515   30   40 
+Raybould  797360388  2  2 B   -     -     -          525   10   15 
+Raybould  797360390  2  1 Bf  -     -     -          530    5    0 
+Raybould  797360394  2  2 Bc  c     f     -          525   30    0 
+Raybould  797360410  2  1 Bf  -     -     -          495    5    0 
+Raybould  797360413  2  2 Br  -     -     -          490   20   30 
+Raybould  797360420  2  1 Bcc bc    bc    k          500   80    0 3s Jd
+Raybould  797360447  2  2 Bk  k     k     b          420   30   40 
+Raybould  797360471  2  1 Bf  -     -     -          430    5    0 
+Raybould  797360474  2  2 Bc  c     f     -          425   30    0 
+Raybould  797360489  2  1 Bf  -     -     -          395    5    0 
+Raybould  797360494  2  2 Bk  k     k     k          390   10   20 Ts 5s
+Raybould  797360509  2  1 Bc  b     -     -          400   20   30 
+Raybould  797360517  2  2 B   -     -     -          410   10   15 
+Raybould  797360520  2  1 Bf  -     -     -          415    5    0 
+Raybould  797360523  2  2 Bk  k     c     f          410   30    0 
+Raybould  797360556  2  1 Br  -     -     -          380   20   30 
+Raybould  797360560  2  2 Bk  b     -     -          390   20   30 
+Raybould  797360573  2  1 Bf  -     -     -          400    5    0 
+Raybould  797360576  2  2 B   -     -     -          395   10   15 
+Raybould  797360578  2  1 Bc  b     -     -          400   20   30 
+Raybould  797360590  2  2 B   -     -     -          410   10   15 
+Raybould  797360592  2  1 Bcc kf    -     -          415   20    0 
+Raybould  797360610  2  2 Bk  k     k     k          395   10    0 Ts 3c
+Raybould  797360629  3  1 Bc  kf    -     -          385   10    0 
+Raybould  797360646  3  3 f   -     -     -          375    0    0 
+Raybould  797360652  3  2 Bc  f     -     -          375   20    0 
+Raybould  797360672  3  1 Bf  -     -     -          355    5    0 
+Raybould  797360676  3  3 r   r     c     c          350   80  170 As 2h
+Raybould  797360710  3  2 Bk  k     kf    -          440   10    0 
+Raybould  797360743  3  1 Bc  krc   brc   b          430  150  330 Qs Kh
+Raybould  797360797  3  3 c   k     f     -          610   10    0 
+Raybould  797360867  4  2 Bk  kc    k     k          600   20    0 5s As
+Raybould  797360927  4  1 Bf  -     -     -          580    5    0 
+Raybould  797360998  4  4 c   k     b     b          575   50   90 
+Raybould  797361056  4  3 c   kf    -     -          615   10    0 
+Raybould  797361125  4  2 Bk  k     b     k          605   30   70 Jh 8h
+Raybould  797361166  3  1 Bc  k     k     b          645   30   60 9s 8s
+Raybould  797361202  4  4 c   bc    f     -          675   40    0 
+Raybould  797361275  4  3 c   k     c     k          635   30    0 6d 9d
+Raybould  797361333  4  2 Bk  kc    kf    -          605   20    0 
+Raybould  797361381  5  1 Bc  k     k     k          585   20    0 Ad 8c
+Raybould  797361459  5  5 c   k     f     -          565   10    0 
+Raybould  797361505  5  4 f   -     -     -          555    0    0 
+Raybould  797361575  5  3 cc  kf    -     -          555   20    0 
+Raybould  797361646  5  2 Bk  b     k     bc         535   60  140 Jh 7s
+Raybould  797361717  5  1 Bf  -     -     -          615    5    0 
+Raybould  797361771  5  5 f   -     -     -          610    0    0 
+Raybould  797361831  5  4 f   -     -     -          610    0    0 
+Raybould  797361876  5  3 c   kc    f     -          610   20    0 
+Raybould  797361919  6  2 Bk  b     kc    kc         590   60    0 7d 3c
+Raybould  797361969  6  1 Bf  -     -     -          530    5    0 
+Raybould  797362049  6  6 c   c     c     f          525   50    0 
+Raybould  797362129  6  5 r   k     kc    f          475   40    0 
+Raybould  797362198  6  4 c   k     b     k          435   30   38 2h Kh
+Raybould  797362251  6  3 cc  k     k     kc         443   60    0 2s Ts
+Raybould  797362327  6  2 Bk  k     kf    -          383   10    0 
+Raybould  797362380  6  1 Bf  -     -     -          373    5    0 
+Raybould  797362434  6  6 f   -     -     -          368    0    0 
+Raybould  797362505  6  5 f   -     -     -          368    0    0 
+Raybould  797362616  6  4 f   -     -     -          368    0    0 
+Raybould  797362678  6  3 f   -     -     -          368    0    0 
+Raybould  797362752  7  2 Bf  -     -     -          368   10    0 
+Raybould  797362810  7  1 Bc  kf    -     -          358   10    0 
+Raybould  797362874  7  7 c   k     f     -          348   10    0 
+Raybould  797362939  7  6 f   -     -     -          338    0    0 
+Raybould  797363011  7  5 f   -     -     -          338    0    0 
+Raybould  797363116  7  4 cc  k     kf    -          338   20    0 
+Raybould  797363225  8  4 c   k     f     -          318   10    0 
+Raybould  797363306  9  4 r   c     b     b          308   70  195 Ks Kc
+Raybould  797363381  9  3 c   k     kc    c          433   50    0 As 2s
+Raybould  797363454 10  2 Bk  kc    k     kc         383   40  150 8c 9h
+Raybould  797363520  9  1 Bf  -     -     -          493    5    0 
+Raybould  797363641  8  8 f   -     -     -          488    0    0 
+Raybould  797363707  8  7 cc  k     c     c          488   80  300 Ac 3h
+Raybould  797363783  8  6 f   -     -     -          708    0    0 
+Raybould  797363833  8  5 c   k     b     k          708   30   90 2h 9h
+Raybould  797363895  8  4 c   b     b     k          768   40  160 Js 8c
+Raybould  797363970  8  3 f   -     -     -          888    0    0 
+Raybould  797364013  8  2 Bk  kf    -     -          888   10    0 
+Raybould  797364066  7  1 Bf  -     -     -          878    5    0 
+Raybould  797364128  7  7 c   c     c     f          873   50    0 
+Raybould  797364180  8  7 f   -     -     -          823    0    0 
+Raybould  797364221  7  5 f   -     -     -          823    0    0 
+Raybould  797364282  7  4 f   -     -     -          823    0    0 
+Raybould  797364328  7  3 c   k     kf    -          823   10    0 
+Raybould  797364380  7  2 Bk  kc    b     b          813   60  150 6d 9d
+Raybould  797364426  7  1 Bc  k     k     kf         903   10    0 
+Raybould  797364475  7  7 f   -     -     -          893    0    0 
+Raybould  797364559  7  6 rc  b     c     c          893   80  135 Ac Kc
+Raybould  797364627  6  5 f   -     -     -          948    0    0 
+Raybould  797364651  6  4 c   f     -     -          948   10    0 
+Raybould  797364690  6  3 f   -     -     -          938    0    0 
+Raybould  797364722  6  2 Bk  k     k     kf         938   10    0 
+Raybould  797364766  6  1 Bc  k     k     kf         928   10    0 
+Raybould  797364850  6  6 f   -     -     -          918    0    0 
+Raybould  797364872  5  4 f   -     -     -          918    0    0 
+Raybould  797364899  5  4 f   -     -     -          918    0    0 
+Raybould  797364940  5  3 cc  c     c     c          918   70    0 3c 5c
+Raybould  797364980  5  2 Bk  cc    k     r          848   70  170 Qh Kd
+Raybould  797365031  6  1 Bc  kc    k     kf         948   20    0 
+Raybould  797365083  6  6 c   k     f     -          928   10    0 
+Raybould  797365138  6  5 c   c     f     -          918   20    0 
+Raybould  797365170  6  4 c   c     c     r          898   90  225 6s Ts
+Raybould  797365219  6  3 f   -     -     -         1033    0    0 
+Raybould  797365286  5  2 Bk  kc    kf    -         1033   20    0 
+Raybould  797365365  5  1 Bc  b     b     k         1013   40  110 3d As
+Raybould  797365416  5  5 c   k     k     f         1083   10    0 
+Raybould  797365459  5  4 c   b     -     -         1073   20   50 
+Raybould  797365494  5  3 c   k     c     f         1103   30    0 
+Raybould  797365538  5  2 Bk  b     k     k         1073   20   40 Ad 2h
+Raybould  797365568  5  1 Bf  -     -     -         1093    5    0 
+Raybould  797365614  5  5 c   k     k     k         1088   10   30 5s 7s
+Raybould  797365658  5  4 f   -     -     -         1108    0    0 
+Raybould  797365674  5  3 c   cc    f     -         1108   40    0 
+Raybould  797365736  5  2 Bk  k     kf    -         1068   10    0 
+Raybould  797365779  6  1 Bf  -     -     -         1058    5    0 
+Raybould  797365821  5  5 c   f     -     -         1053   10    0 
+Raybould  797365866  5  4 c   f     -     -         1043   20    0 
+Raybould  797365893  5  3 rc  c     c     c         1023   80    0 9c 9d
+Raybould  797365932  5  2 Bk  k     k     k          943   10    0 5h 6h
+Raybould  797365993  6  1 BfQ -     -     -          933    5    0 
+Raybould  797488075  4  4 c   c     c     c          928   60  130 Tc Jc
+Raybould  797488117  4  3 f   -     -     -          998    0    0 
+Raybould  797488142  4  2 Bf  -     -     -          998   10    0 
+Raybould  797488157  3  1 Bc  kc    kf    -          988   20    0 
+Raybould  797488184  3  3 f   -     -     -          968    0    0 
+Raybould  797488207  3  2 B   -     -     -          968   10   15 
+Raybould  797488215  3  1 Bc  bc    kf    -          973   40    0 
+Raybould  797488271  3  3 c   c     c     f          933   40    0 
+Raybould  797488330  3  2 B   -     -     -          893   10   15 
+Raybould  797488337  3  1 Bc  kc    kf    -          898   30    0 
+Raybould  797488397  3  3 f   -     -     -          868    0    0 
+Raybould  797488401  3  2 Bk  k     b     -          868   30   40 
+Raybould  797488421  3  1 Bc  b     b     kf         878   40    0 
+Raybould  797488452  3  3 c   k     f     -          838   10    0 
+Raybould  797488477  4  3 r   b     b     -          828   50   90 
+Raybould  797488508  4  2 B   -     -     -          868   10   15 
+Raybould  797488515  4  1 Bc  kc    kc    kf         873   60    0 
+Raybould  797488583  4  4 c   f     -     -          813   20    0 
+Raybould  797488601  4  3 c   c     f     -          793   20    0 
+Raybould  797488628  4  2 Bf  -     -     -          773   10    0 
+Raybould  797488638  4  1 B   -     -     -          763    5   15 
+Raybould  797488654  3  3 c   b     -     -          773   20   30 
+Raybould  797488674  3  3 r   -     -     -          783   20   35 
+Raybould  797488682  3  2 Bc  c     c     f          798   50    0 
+Raybould  797488713  3  1 Bc  b     kc    kc         748   60    0 3s Ad
+Raybould  797488749  3  3 f   -     -     -          688    0    0 
+Raybould  797488785  3  2 Br  c     f     -          688   30    0 
+Raybould  797488810  3  1 Bcc bc    k     kf         658   40    0 
+Raybould  797488851  3  3 c   k     k     f          618   10    0 
+Raybould  797488891  4  2 Bk  kf    -     -          608   10    0 
+Raybould  797488956  4  1 Bc  b     b     -          598   40   70 
+Raybould  797489001  4  4 r   c     f     -          628   30    0 
+Raybould  797489023  4  3 f   -     -     -          598    0    0 
+Raybould  797489058  4  2 Bk  kf    -     -          598   10    0 
+Raybould  797489079  4  1 Bc  b     b     b          588   60  120 Qc Qs
+Raybould  797489102  4  4 f   -     -     -          648    0    0 
+Raybould  797489132  4  3 f   -     -     -          648    0    0 
+Raybould  797489153  4  2 B   -     -     -          648   10   15 
+Raybould  797489158  3  1 Bf  -     -     -          653    5    0 
+Raybould  797489170  3  3 r   -     -     -          648   20   35 
+Raybould  797489177  4  2 Bk  kc    kf    -          663   20    0 
+Raybould  797489209  4  1 Br  b     b     b          643   70  230 As 6s
+Raybould  797489250  4  4 c   k     k     k          803   10   25 5h Kc
+Raybould  797489289  4  3 c   b     -     -          818   20   35 
+Raybould  797489319  5  2 Bf  -     -     -          833   10    0 
+Raybould  797489328  5  1 Bf  -     -     -          823    5    0 
+Raybould  797489349  5  5 rc  c     c     b          818   80  160 
+Raybould  797489392  5  4 c   c     f     -          898   20    0 
+Raybould  797489438  6  3 rrc bc    bc    kc         878  130  275 Kh Kc
+Raybould  797489479  7  2 Bc  c     b     k         1023   50    0 Ad 3d
+Raybould  797489518  7  1 Bc  kc    kf    -          973   30    0 
+Raybould  797489560  7  7 c   r     -     -          943   30   70 
+Raybould  797489603  7  6 cc  c     c     c          983   80    0 Ad 8d
+Raybould  797489689  7  5 rc  kc    kc    k          903   70  270 8s 8c
+Raybould  797489791  7  4 f   -     -     -         1103    0    0 
+Raybould  797489863  8  3 f   -     -     -         1103    0    0 
+Raybould  797489929  8  2 Bc  c     k     rc        1103   90   90 9s 7s
+Raybould  797489974  5  1 Bc  k     k     k         1103   20    0 4d Kd
+Raybould  797490005  5  5 f   -     -     -         1083    0    0 
+Raybould  797490037  5  4 f   -     -     -         1083    0    0 
+Raybould  797490071  5  3 cc  k     c     cf        1083   60    0 
+Raybould  797490119  6  2 Bc  b     b     k         1023   60  165 9c Js
+Raybould  797490189  5  1 Bc  kc    kc    b         1128   60    0 Jh 6h
+Raybould  797490257  4  4 c   k     k     k         1068   10    0 2c 7c
+Raybould  797490289  4  3 r   -     -     -         1058   20   45 
+Raybould  797490313  4  2 Bk  b     b     kf        1083   40    0 
+Raybould  797490359  4  1 Bf  -     -     -         1043    5    0 
+Raybould  797490382  4  4 c   k     c     f         1038   30    0 
+Raybould  797490433  3  2 rc  b     r     c         1008  100    0 Ad Td
+Raybould  797490491  3  2 Br  k     k     b          908   40    0 Qc Jc
+Raybould  797490555  4  1 Bc  k     k     kf         868   10    0 
+Raybould  797490606  5  5 r   c     c     c          858   90    0 Tc Qs
+Raybould  797490681  6  4 f   -     Q     -          768    0    0 
+Raybould  797618382 10  7 c   f     -     -          768   10    0 
+Raybould  797618471  9  6 r   kc    kf    -          758   30    0 
+Raybould  797618532  8  4 f   -     -     -          728    0    0 
+Raybould  797618614  9  3 c   k     k     f          728   10    0 
+Raybould  797618670 10  2 Bk  bc    kc    kc         718   70  215 4h 6c
+Raybould  797618764 11  1 Bc  kc    kc    k          863   40    0 2d Ac
+Raybould  797618876 12 12 f   -     -     -          823    0    0 
+Raybould  797618934 11 10 f   -     -     -          823    0    0 
+Raybould  797619009 12  9 f   -     -     -          823    0    0 
+Raybould  797619077 12  8 c   c     c     f          823   40    0 
+Raybould  797619191 12  7 f   -     -     -          783    0    0 
+Raybould  797619295 12  6 c   kf    -     -          783   10    0 
+Raybould  797619416 12  5 c   f     -     -          773   10    0 
+Raybould  797619481 12  4 f   -     -     -          763    0    0 
+Raybould  797619599 11  2 Bk  kc    kc    kf         763   40    0 
+Raybould  797619702 11  1 Bc  k     kc    kf         723   30    0 
+Raybould  797619840 12 12 c   rc    c     c          693   80  190 Jc Ad
+Raybould  797619894 12 11 c   f     -     -          803   10    0 
+Raybould  797619965 12 10 c   f     Q     -          793   10    0 
+Raybould  797642805  6  5 c   f     -     -          783   10    0 
+Raybould  797642869  7  4 r   br    b     b          773   90  190 
+Raybould  797642928  7  3 f   -     -     -          873    0    0 
+Raybould  797642961  7  2 Bc  kcc   kf    -          873   40    0 
+Raybould  797643026  7  1 Bc  b     kc    kf         833   50    0 
+Raybould  797643083 10 10 f   -     -     -          783    0    0 
+Raybould  797643125 10  9 c   c     k     c          783   40    0 3h 8h
+Raybould  797643174 10  8 c   c     f     -          743   30    0 
+Raybould  797643261 10  8 c   k     k     k          713   10   35 9d Ac
+Raybould  797643308 10  6 f   -     -     -          738    0    0 
+Raybould  797643361  9  5 c   f     -     -          738   10    0 
+Raybould  797643450  8  4 f   -     -     -          728    0    0 
+Raybould  797643496  9  3 c   bc    brc   bc         728  150  460 8h 9s
+Raybould  797643586  9  2 Bk  k     b     k         1038   30  155 Js Td
+Raybould  797643664  9  1 Bf  -     -     -         1163    5    0 
+Raybould  797643719  9  9 cc  c     c     k         1158   50    0 Qs Jc
+Raybould  797643788 10  9 c   k     k     c         1108   30    0 Kc 7h
+Raybould  797643869 10 10 f   -     -     -         1078    0    0 
+Raybould  797643921 10  8 f   -     -     -         1078    0    0 
+Raybould  797643992 10  7 c   k     f     -         1078   20    0 
+Raybould  797644095 11  6 r   kcc   kf    -         1058   50    0 
+Raybould  797644223 11  5 c   k     k     k         1008   10    0 Kd 4d
+Raybould  797644295 10  4 f   -     -     -          998    0    0 
+Raybould  797644392 10  3 f   -     -     -          998    0    0 
+Raybould  797644446 10  2 Bc  kf    -     -          998   20    0 
+Raybould  797644540 10  1 Bf  -     -     -          978    5    0 
+Raybould  797644613  9  9 f   -     -     -          973    0    0 
+Raybould  797644690  9  8 c   f     -     -          973   10    0 
+Raybould  797644739  9  7 f   -     -     -          963    0    0 
+Raybould  797644821 11  7 cc  kc    kf    -          963   30    0 
+Raybould  797644881 11  6 cc  kf    -     -          933   20    0 
+Raybould  797644940 11  5 rc  b     bc    k          913  100    0 7h Qh
+Raybould  797645035 12  5 c   k     r     b          813   70  175 Tc Jc
+Raybould  797645111 12  4 c   kc    bc    k          918   80    0 Tc Jh
+Raybould  797645214 12  3 fQ  -     -     -          838    0    0 
+Raybould  797723492  9  3 c   kc    kf    -          838   20    0 
+Raybould  797723564  9  2 Bf  -     -     -          818   10    0 
+Raybould  797723612 10  1 Bf  -     -     -          808    5    0 
+Raybould  797723681 10 10 c   k     f     -          803   10    0 
+Raybould  797723744 10  9 r   b     bc    c          793  110  355 Qd 6d
+Raybould  797723834 10  7 cc  kf    -     -         1038   20    0 
+Raybould  797723965 10  7 cc  kc    kf    -         1018   30    0 
+Raybould  797724041  9  6 c   k     b     c          988   50    0 8d 2d
+Raybould  797724105  9  4 ccc kc    b     b          938   80  310 8s Kd
+Raybould  797724218  9  3 r   b     b     kc        1168   70  240 Ks Qh
+Raybould  797724305 10  2 Bf  -     -     -         1338   10    0 
+Raybould  797724432  8  1 Bc  b     bc    b         1328   80  170 6h Jh
+Raybould  797724484  6  6 c   r     b     c         1418   80    0 8d 8s
+Raybould  797724621  6  5 f   -     -     -         1338    0    0 
+Raybould  797724665  6  4 c   kc    kc    kf        1338   40    0 
+Raybould  797724741  6  3 r   b     -     -         1298   30   65 
+Raybould  797724780  7  2 Bk  b     br    b         1333  100    0 Th 3h
+Raybould  797724838  7  1 Bc  kc    kf    -         1233   20    0 
+Raybould  797724886  7  7 r   c     c     f         1213   50    0 
+Raybould  797724939  6  5 c   b     bc    b         1163   80  170 Ac Tc
+Raybould  797724992  8  5 f   -     -     -         1253    0    0 
+Raybould  797725045  9  5 c   c     k     rc        1253  100    0 Qs Ad
+Raybould  797725130 11  6 c   c     c     c         1153   90    0 Qh Js
+Raybould  797725214  9  3 c   k     c     k         1063   30   95 6d Qh
+Raybould  797725318  8  2 Bk  c     f     Q         1128   20    0 
+Raybould  797725894  9  5 f   -     -     -         1108    0    0 
+Raybould  797725976  9  4 c   c     c     c         1108   60    0 Kh 6s
+Raybould  797726024  8  2 Bk  k     kf    Q         1048   10    0 
+Raybould  797826072 12 12 c   f     -     -         1038   10    0 
+Raybould  797826168 12 11 c   c     c     c         1028   70  205 Ks Th
+Raybould  797826226 12 10 f   -     -     -         1163    0    0 
+Raybould  797826320 12  9 c   c     f     -         1163   20    0 
+Raybould  797826412 12  8 f   -     -     -         1143    0    0 
+Raybould  797826527 11  7 cc  k     f     -         1143   20    0 
+Raybould  797826633 11  6 c   kc    kc    kf        1123   40    0 
+Raybould  797826735 11  5 f   -     -     -         1083    0    0 
+Raybould  797826818 12  4 c   kc    kf    -         1083   20    0 
+Raybould  797826953 10  2 Bk  b     kc    kf        1063   40    0 
+Raybould  797827041 11  1 Bc  b     bc    kf        1023   60    0 
+Raybould  797827124 11 11 c   f     -     -          963   10    0 
+Raybould  797827245  9  9 c   c     c     f          953   50    0 
+Raybould  797827321  9  9 r   cc    f     -          903   60    0 
+Raybould  797827419  8  7 r   c     f     -          843   30    0 
+Raybould  797827529  8  6 c   f     -     -          813   20    0 
+Raybould  797827647  9  6 r   cc    c     c          793  100    0 8c 8h
+Raybould  797827764 10  6 cc  f     -     Q          693   40    0 
+Raybould  797831119  9  7 f   -     -     -          653    0    0 
+Raybould  797831208 10  6 cc  kc    kc    kf         653   70    0 
+Raybould  797831328 12  5 f   -     -     -          583    0    0 
+Raybould  797831413  8  2 rc  bc    kc    kc         583   90  330 Ad Qd
+Raybould  797831607  5  2 Bk  rr    rc    b          823  130  330 4h 3h
+Raybould  797831698  5  1 Bc  b     kc    b         1023   70  160 
+Raybould  797831767  4  4 cc  rr    k     c         1113   80    0 Th Qc
+Raybould  797831872  4  3 cc  k     b     kc        1033   60    0 7h 7d
+Raybould  797831977  4  2 Bc  kc    kf    -          973   30    0 
+Raybould  797832033  4  1 Bcc kc    kc    k          943   50  100 6d Ah
+Raybould  797832096  4  4 c   c     c     f          993   60    0 
+Raybould  797832175  4  3 f   -     -     -          933    0    0 
+Raybould  797832191  4  2 Bf  -     -     -          933   10    0 
+Raybould  797832237  4  1 Bc  k     k     k          923   10   20 Kc Js
+Raybould  797832278  4  4 cc  k     b     k          933   40    0 Kh 6c
+Raybould  797832330  4  3 f   -     -     -          893    0    0 
+Raybould  797832342  4  2 Br  k     c     b          893   60  140 
+Raybould  797832409  4  1 Bc  b     -     -          973   20   40 
+Raybould  797832429  4  4 r   -     -     -          993   20   35 
+Raybould  797832460  4  3 cc  c     c     c         1008   80    0 9c Jc
+Raybould  797832494  4  2 Bk  kc    kc    kf         928   40    0 
+Raybould  797832540  4  1 Bc  krc   b     b          888   80  140 
+Raybould  797832579  4  4 f   -     -     -          948    0    0 
+Raybould  797832636  4  3 c   kc    kc    kc         948   60  135 Td 9s
+Raybould  797832694  4  2 Bk  k     kf    -         1023   10    0 
+Raybould  797832745  4  1 Bc  b     kc    kf        1013   50    0 
+Raybould  797832806  4  4 c   k     b     k          963   40    0 2h 9s
+Raybould  797832863  4  3 f   -     -     -          923    0    0 
+Raybould  797832883  4  2 Bk  k     k     kc         923   30   70 8h Qc
+Raybould  797832935  4  1 Bf  -     -     -          963    5    0 
+Raybould  797832955  4  4 c   k     f     -          958   10    0 
+Raybould  797833011  4  3 f   -     -     -          948    0    0 
+Raybould  797833047  4  2 Bk  kf    -     -          948   10    0 
+Raybould  797833104  4  1 Bc  b     b     k          938   40  100 9d Js
+Raybould  797833165  4  4 f   -     -     -          998    0    0 
+Raybould  797833228  4  3 f   -     -     -          998    0    0 
+Raybould  797833307  4  2 B   -     -     -          998   10   15 
+Raybould  797833354  4  1 Bf  -     -     -         1003    5    0 
+Raybould  797833394  6  4 c   rc    b     brc        998  150    0 Ts Jh
+Raybould  797833511  5  3 cc  kc    c     f          848   60    0 
+Raybould  797833614  6  2 B   -     -     -          788   10   15 
+Raybould  797833626  6  1 Bf  -     -     -          793    5    0 
+Raybould  797833701  6  6 c   f     -     -          788   10    0 
+Raybould  797833734  7  6 f   -     -     -          778    0    0 
+Raybould  797833768  7  6 c   f     -     -          778   10    0 
+Raybould  797833804  6  4 c   k     k     b          768   30   45 
+Raybould  797833849  6  3 c   k     b     -          783   30   60 
+Raybould  797833917  7  2 Bk  b     k     kc         813   40    0 Kc Jc
+Raybould  797834082 11  1 BQ  -     -     -          773    5    0 
+Raybould  797912415 12  9 f   -     -     -          768    0    0 
+Raybould  797912525 10  6 cc  c     f     -          768   30    0 
+Raybould  797912587 10  6 f   -     -     -          738    0    0 
+Raybould  797912666 10  5 f   -     -     -          738    0    0 
+Raybould  797912729 10  4 rc  kc    kf    -          738   60    0 
+Raybould  797912869 10  2 cc  kc    kc    kf         678   60    0 
+Raybould  797912949 10  2 Bk  b     b     kc         618   60    0 Jh Qd
+Raybould  797913106 11  1 Bc  k     k     kf         558   20    0 
+Raybould  797913179 11 11 c   f     -     -          538   10    0 
+Raybould  797913251 11  4 Q   -     -     -          528    0    0 

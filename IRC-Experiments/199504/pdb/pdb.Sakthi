@@ -1,0 +1,290 @@
+Sakthi    798500736 11  5 rrc kc    br    b         1000  140  295 Ts 6s
+Sakthi    798501556 11  7 r   b     k     k         1455   30    0 Qd Td
+Sakthi    798501643  8  4 f   -     -     -         1425    0    0 
+Sakthi    798501718  8  3 r   b     -     -         1425   30   85 
+Sakthi    798501758  8  2 Br  b     -     -         1480   30   70 
+Sakthi    798501806  8  1 Bf  -     -     -         1520    5    0 
+Sakthi    798501881  8  8 f   -     -     -         1515    0    0 
+Sakthi    798502079  8  7 r   b     k     f         1515   30    0 
+Sakthi    798502134  8  7 f   -     -     -         1485    0    0 
+Sakthi    798502192  7  5 r   k     b     k         1485   50  115 Ad Jh
+Sakthi    798502256  7  4 rc  f     -     -         1550   30    0 
+Sakthi    798502363  9  4 c   cc    kc    kf        1520   50    0 
+Sakthi    798502507  8  3 r   rc    r     k         1470   90    0 Qh 5h
+Sakthi    798502569  8  2 Br  b     -     -         1380   30   55 
+Sakthi    798502618  8  1 Bc  bc    bc    kc        1405  100  260 Ad Qs
+Sakthi    798502681  8  8 f   -     -     -         1565    0    0 
+Sakthi    798502744  9  7 f   -     -     -         1565    0    0 
+Sakthi    798502792  8  5 r   b     kc    kc        1565   70    0 9h Ts
+Sakthi    798502850  9  5 f   -     -     -         1495    0    0 
+Sakthi    798502905  9  4 r   b     c     rf        1495   90    0 
+Sakthi    798502998 10  4 f   -     -     -         1405    0    0 
+Sakthi    798503089 10  3 rc  rr    k     k         1405   70    0 4s 5c
+Sakthi    798503188  9  1 Bk  krr   b     b         1335   90  210 
+Sakthi    798503254  8  1 Brr br    k     b         1455   90  260 Qs Qh
+Sakthi    798503302  8  8 f   -     -     -         1625    0    0 
+Sakthi    798503365  7  6 r   bc    kf    -         1625   40    0 
+Sakthi    798503418  7  5 rc  f     -     -         1585   30    0 
+Sakthi    798503455  7  3 c   r     k     f         1555   30    0 
+Sakthi    798503555  7  2 Bc  k     k     f         1525   20    0 
+Sakthi    798503679  6  1 Bc  k     kf    -         1505   10    0 
+Sakthi    798503733  6  6 r   k     bc    b         1495   90  195 3c Qc
+Sakthi    798503773  7  5 r   b     b     k         1600   50    0 9h Kh
+Sakthi    798503838  7  4 r   b     k     b         1550   50  105 
+Sakthi    798503873  7  3 f   -     -     -         1605    0    0 
+Sakthi    798503914  7  2 Bc  c     c     f         1605   50    0 
+Sakthi    798503956  8  1 Bf  -     -     -         1555    5    0 
+Sakthi    798504076  9  9 r   k     k     k         1550   20    0 2d 2c
+Sakthi    798504176 10  9 r   rc    f     -         1530   50    0 
+Sakthi    798504265 10  8 r   b     b     c         1480   70    0 8s As
+Sakthi    798504403 10  7 rc  bc    kf    -         1410   60    0 
+Sakthi    798504548 10  6 r   b     b     kc        1350   70    0 9h 7s
+Sakthi    798504646  7  3 r   b     b     b         1280   70  155 
+Sakthi    798504698  7  2 B   -     -     -         1365   10   15 
+Sakthi    798504721  7  1 Brc kc    kc    kf        1370   60    0 
+Sakthi    798504828  7  7 f   -     -     -         1310    0    0 
+Sakthi    798504909  8  6 r   b     b     -         1310   50   90 
+Sakthi    798504940  8  5 f   -     -     -         1350    0    0 
+Sakthi    798505005  8  4 f   -     -     -         1350    0    0 
+Sakthi    798505084  9  4 c   b     b     kr        1350   80  230 Ad Ah
+Sakthi    798505167  9  3 r   b     k     b         1500   50   85 
+Sakthi    798505210 10  3 r   -     -     -         1535   20   35 
+Sakthi    798505229 10  2 Bk  kf    -     -         1550   10    0 
+Sakthi    798505297 10  1 Bc  k     b     k         1540   30    0 Tc 7c
+Sakthi    798505355 10 10 r   rr    r     cc        1510  140    0 Qd Jh
+Sakthi    798505489 10  9 f   -     -     -         1370    0    0 
+Sakthi    798505571 10  8 rr  cQ    -     -         1370   60    0 
+Sakthi    798704389  9  5 r   b     b     b         1310   70  195 As 5s
+Sakthi    798704445  9  5 r   f     -     -         1435   20    0 
+Sakthi    798704511  5  2 rr  rc    cc    kc        1415  140  420 8h 8d
+Sakthi    798704596  5  2 Bk  bc    k     f         1695   30    0 
+Sakthi    798704671  6  1 Bc  bc    kc    kc        1665   70    0 Jc Qs
+Sakthi    798704753  6  6 r   b     k     k         1595   30    0 5h Kh
+Sakthi    798704824  6  5 r   b     b     b         1565   70  175 8c 5c
+Sakthi    798704921  5  3 f   -     -     -         1670    0    0 
+Sakthi    798705048  5  2 B   -     -     -         1670   10   15 
+Sakthi    798705062  3  1 Bc  bc    bc    kc        1675   90    0 5c Js
+Sakthi    798705134  3  3 r   b     -     -         1585   30   55 
+Sakthi    798705170  2  2 Bf  -     -     -         1610   10    0 
+Sakthi    798705182  2  1 Bc  kr    b     b         1600   70  140 Ac Qd
+Sakthi    798705218  2  2 Bk  k     f     -         1670   10    0 
+Sakthi    798705248  2  1 Bc  -     -     -         1660   10   20 
+Sakthi    798705254  2  2 Bk  b     c     c         1670   60    0 7c 2c
+Sakthi    798705288  2  1 Br  b     kc    kc        1610   70    0 2d As
+Sakthi    798705323  2  2 Br  b     -     -         1540   30   50 
+Sakthi    798705349  2  1 Bcr bc    kc    kc        1560   90    0 4h 4s
+Sakthi    798705377  2  2 Br  b     -     -         1470   30   50 
+Sakthi    798705401  2  1 Bf  -     -     -         1490    5    0 
+Sakthi    798705404  2  2 Br  b     k     k         1485   30   60 Kd Qd
+Sakthi    798705438  2  1 Bf  -     -     -         1515    5    0 
+Sakthi    798705442  2  2 B   -     -     -         1510   10   15 
+Sakthi    798705451  2  1 Bcc kc    k     k         1515   30   60 3c Kc
+Sakthi    798705478  2  2 Bk  b     -     -         1545   20   30 
+Sakthi    798705496  2  1 Bcrc k     kc    kc        1555   80    0 Ac Jh
+Sakthi    798705525  2  2 Bc  f     -     -         1475   20    0 
+Sakthi    798705546  2  1 Br  -     -     -         1455   20   30 
+Sakthi    798705551  2  2 Bf  -     -     -         1465   10    0 
+Sakthi    798705556  2  1 Bf  -     -     -         1455    5    0 
+Sakthi    798705559  2  2 Br  b     -     -         1450   30   50 
+Sakthi    798705578  2  1 Bf  -     -     -         1470    5    0 
+Sakthi    798705581  2  2 Bf  -     -     -         1465   10    0 
+Sakthi    798705588  2  1 Bf  -     -     -         1455    5    0 
+Sakthi    798705590  2  2 Bf  -     -     -         1450   10    0 
+Sakthi    798705594  2  1 Bf  -     -     -         1440    5    0 
+Sakthi    798705596  2  2 Bf  -     -     -         1435   10    0 
+Sakthi    798705602  2  1 Bf  -     -     -         1425    5    0 
+Sakthi    798705604  2  2 Bf  -     -     -         1420   10    0 
+Sakthi    798705608  2  1 Br  -     -     -         1410   20   30 
+Sakthi    798705618  2  2 Bc  c     r     k         1420   70    0 Kd 3s
+Sakthi    798705650  2  1 Bcr b     b     -         1350   60  100 
+Sakthi    798705676  2  2 Bf  -     -     -         1390   10    0 
+Sakthi    798705686  2  1 Br  b     -     -         1380   30   50 
+Sakthi    798705698  2  2 Bf  -     -     -         1400   10    0 
+Sakthi    798705705  2  1 Bf  -     -     -         1390    5    0 
+Sakthi    798705708  2  2 Bk  k     b     -         1385   30   40 
+Sakthi    798705728  2  1 Bc  krc   k     b         1395   60  120 3c Kc
+Sakthi    798705758  2  2 B   -     -     -         1455   10   15 
+Sakthi    798705771  2  1 Bf  -     -     -         1460    5    0 
+Sakthi    798705774  2  2 Bk  k     b     b         1455   50   80 
+Sakthi    798705807  2  1 Bf  -     -     -         1485    5    0 
+Sakthi    798705809  2  2 Br  b     -     -         1480   30   50 
+Sakthi    798705833  3  1 Bc  kr    b     kc        1500   70    0 Jh Tc
+Sakthi    798705874  3  3 r   b     -     -         1430   30   55 
+Sakthi    798705905  3  2 B   -     -     -         1455   10   15 
+Sakthi    798705920  4  1 Bf  -     -     -         1460    5    0 
+Sakthi    798705948  4  4 r   bf    -     -         1455   30    0 
+Sakthi    798705996  4  3 r   b     b     b         1425   70  145 Tc 7c
+Sakthi    798706050  3  2 Bk  b     -     -         1500   20   30 
+Sakthi    798706090  3  1 Bf  -     -     -         1510    5    0 
+Sakthi    798706098  3  3 r   f     -     -         1505   20    0 
+Sakthi    798706128  3  2 Br  b     b     b         1485   70  140 Qd 6d
+Sakthi    798706171  3  1 Brr b     b     bc        1555  110    0 Jc Js
+Sakthi    798706209  3  3 r   -     -     -         1445   20   45 
+Sakthi    798706228  3  2 Bk  c     rc    rc        1470  140  290 9d Th
+Sakthi    798706275  3  1 Bf  -     -     -         1620    5    0 
+Sakthi    798706318  3  3 c   r     b     b         1615   70  190 Jc Ac
+Sakthi    798706376  4  2 Bc  f     -     -         1735   20    0 
+Sakthi    798706418  4  1 Bf  -     -     -         1715    5    0 
+Sakthi    798706433  5  5 r   k     k     f         1710   20    0 
+Sakthi    798706518  5  4 f   -     -     -         1690    0    0 
+Sakthi    798706607  5  3 f   -     -     -         1690    0    0 
+Sakthi    798706651  5  2 Bf  -     -     -         1690   10    0 
+Sakthi    798706708  5  1 Bf  -     -     -         1680    5    0 
+Sakthi    798706799  4  4 f   -     -     -         1675    0    0 
+Sakthi    798706861  3  2 Br  b     -     -         1675   30   55 
+Sakthi    798706897  2  1 Bf  -     -     -         1700    5    0 
+Sakthi    798706907  2  2 Bk  f     -     -         1695   10    0 
+Sakthi    798706930  2  1 Bf  -     -     -         1685    5    0 
+Sakthi    798706933  2  2 Bc  f     -     -         1680   20    0 
+Sakthi    798706946  2  1 Bf  -     -     -         1660    5    0 
+Sakthi    798706949  2  2 Br  b     k     k         1655   40    0 Ad 4h
+Sakthi    798706978  2  1 Bf  -     -     -         1615    5    0 
+Sakthi    798706983  2  2 B   -     -     -         1610   10   15 
+Sakthi    798706989  2  1 Bc  kc    b     k         1615   40   80 5d Kd
+Sakthi    798707012  2  2 Br  b     b     k         1655   50    0 Js 7s
+Sakthi    798707045  2  1 Bf  -     -     -         1605    5    0 
+Sakthi    798707052  2  2 Bc  f     -     -         1600   20    0 
+Sakthi    798707064  2  1 Bcr b     -     -         1580   40   70 
+Sakthi    798707081  2  2 Br  b     b     b         1610   70  140 4d Ah
+Sakthi    798707109  2  1 Bf  -     -     -         1680    5    0 
+Sakthi    798707115  2  2 Bf  -     -     -         1675   10    0 
+Sakthi    798707118  2  1 Bf  -     -     -         1665    5    0 
+Sakthi    798707122  2  2 Bc  rf    -     -         1660   40    0 
+Sakthi    798707141  2  1 Bf  -     -     -         1620    5    0 
+Sakthi    798707144  2  2 Bc  f     -     -         1615   20    0 
+Sakthi    798707156  2  1 Bf  -     -     -         1595    5    0 
+Sakthi    798707159  2  2 Bc  f     -     -         1590   20    0 
+Sakthi    798707169  2  1 Bf  -     -     -         1570    5    0 
+Sakthi    798707171  2  2 Bf  -     -     -         1565   10    0 
+Sakthi    798707176  2  1 Bc  bc    kc    kc        1555   70    0 Ts 7c
+Sakthi    798707198  2  2 B   -     -     -         1485   10   15 
+Sakthi    798707204  2  1 Br  -     -     -         1490   20   30 
+Sakthi    798707210  2  2 Bk  c     c     c         1500   60    0 4s 8d
+Sakthi    798707236  2  1 Bf  -     -     -         1440    5    0 
+Sakthi    798707243  2  2 Bk  k     b     -         1435   30   40 
+Sakthi    798707259  2  1 Bcc kc    kr    b         1445   90  180 Tc Jh
+Sakthi    798707288  2  2 Bf  -     -     -         1535   10    0 
+Sakthi    798707303  2  1 Bcc kc    krc   k         1525   90  180 7c 8s
+Sakthi    798707330  2  2 Bk  b     -     -         1615   20   30 
+Sakthi    798707346  2  1 Bf  -     -     -         1625    5    0 
+Sakthi    798707349  2  2 Bk  k     b     k         1620   30   60 7s 8s
+Sakthi    798707372  2  1 Bf  -     -     -         1650    5    0 
+Sakthi    798707377  2  2 Bk  k     b     k         1645   30    0 Qh 5s
+Sakthi    798707397  2  1 Bf  -     -     -         1615    5    0 
+Sakthi    798707401  2  2 Br  b     -     -         1610   30   50 
+Sakthi    798707423  2  1 Bc  -     -     -         1630   10   20 
+Sakthi    798707428  2  2 Br  b     b     b         1640   70  140 Td 8d
+Sakthi    798707467  2  1 Bf  -     -     -         1710    5    0 
+Sakthi    798707472  2  2 Bk  f     -     -         1705   10    0 
+Sakthi    798707482  2  1 Bc  kc    kf    -         1695   20    0 
+Sakthi    798707504  2  2 Br  c     rrc   r         1675  180  360 Qh As
+Sakthi    798707558  2  1 Bcc kc    kc    kf        1855   50    0 
+Sakthi    798707596  2  2 Bf  -     -     -         1805   10    0 
+Sakthi    798707606  2  1 Bf  -     -     -         1795    5    0 
+Sakthi    798707608  2  2 Brc rc    rQ    -         1790  110  200 
+Sakthi    798755738 10  9 rc  c     b     f         1880   70    0 
+Sakthi    798755861 11  9 f   -     -     -         1810    0    0 
+Sakthi    798755952 11  8 rc  b     Q     -         1810   50    0 
+Sakthi    798756336 10 10 r   cc    f     -         1760   40    0 
+Sakthi    798756437 11  9 rc  r     c     c         1720  100    0 8d As
+Sakthi    798756526 10  7 rc  b     b     b         1620   90    0 7c 9c
+Sakthi    798756656  9  7 r   r     k     k         1530   40    0 Ah 3s
+Sakthi    798756728  8  4 rr  br    rc    c         1490  180    0 Kh Ad
+Sakthi    798756977 11  4 rr  b     r     b         1310  110  595 Ts 3s
+Sakthi    798757142 11  3 rc  kf    -     -         1795   30    0 
+Sakthi    798757235 10  2 Bk  kf    -     -         1765   10    0 
+Sakthi    798757270 10  1 Bc  kr    kf    -         1755   30    0 
+Sakthi    798757365 10 10 r   b     k     f         1725   30    0 
+Sakthi    798757475 10  9 rc  c     c     f         1695   70    0 
+Sakthi    798757567 10  8 r   c     br    f         1625  110    0 
+Sakthi    798757751 10  7 f   -     -     -         1515    0    0 
+Sakthi    798757861  9  6 f   -     -     -         1515    0    0 
+Sakthi    798757938 10  4 rr  br    brc   f         1515  160    0 
+Sakthi    798758087  9  2 Brc br    bc    kf        1355  110    0 
+Sakthi    798758249 10  1 Br  bcc   kf    -         1245   60    0 
+Sakthi    798758490 11 11 r   r     b     b         1185   80  195 2s Jh
+Sakthi    798758608  9  9 f   -     -     -         1300    0    0 
+Sakthi    798758687  9  8 r   r     f     -         1300   60    0 
+Sakthi    798758863 10  7 f   -     -     -         1240    0    0 
+Sakthi    798758932 10  7 rr  bc    k     k         1240   60    0 6h 9s
+Sakthi    798758989 10  6 r   b     b     b         1180   70    0 9d 6c
+Sakthi    798759072 10  5 r   b     b     -         1110   50  135 
+Sakthi    798759122 10  4 r   bc    bc    b         1195  100  295 Qd 7s
+Sakthi    798759207 10  3 r   bc    bc    kc        1390  100    0 Ac 4s
+Sakthi    798759273 10  2 Br  b     b     -         1290   50  115 
+Sakthi    798759368 10  1 Bc  k     bf    -         1355   30    0 
+Sakthi    798759449 10 10 r   b     c     rf        1325   90    0 
+Sakthi    798759529 10  9 r   rc    f     -         1235   60    0 
+Sakthi    798759638 11  9 r   b     b     bc        1175   90    0 7c Td
+Sakthi    798759782 12  8 cc  f     -     -         1085   40    0 
+Sakthi    798759962 12  8 rr  f     -     -         1045   40    0 
+Sakthi    798760141 10  5 rc  kr    b     b         1005  100  405 5c Jc
+Sakthi    798760294 10  5 r   b     b     k         1310   50    0 9d 5c
+Sakthi    798760361 12  4 r   bc    kc    kc        1260   80    0 8s 7h
+Sakthi    798760499 12  3 rr  bc    kf    -         1180   60    0 
+Sakthi    798760593 12  2 Bk  kf    -     -         1120   10    0 
+Sakthi    798760741 12  1 Bc  k     b     -         1110   30   60 
+Sakthi    798760901  6  6 r   -     -     -         1140   20   35 
+Sakthi    798760918  6  5 rrrrrc c     c     f         1155  140    0 
+Sakthi    798760974  6  4 r   c     f     -         1015   30    0 
+Sakthi    798761024  7  4 r   b     b     b          985   70  155 Ah Qc
+Sakthi    798761069  7  3 f   -     -     -         1070    0    0 
+Sakthi    798761195  5  2 Br  rc    c     c         1070   90  180 5d Ad
+Sakthi    798761243  4  1 Br  b     -     -         1160   30   50 
+Sakthi    798761269  4  4 rc  k     c     c         1180   70    0 8c 2c
+Sakthi    798761310  5  3 r   k     f     -         1110   20    0 
+Sakthi    798761347  5  2 Brrr rrr   rrrr  b         1090  310  620 Th 9h
+Sakthi    798761453  5  1 Bf  -     -     -         1400    5    0 
+Sakthi    798761484  5  5 r   b     b     c         1395   70  150 Qc 4c
+Sakthi    798761543  6  5 r   b     b     b         1475   70  170 3d 5c
+Sakthi    798761602  6  4 f   -     -     -         1575    0    0 
+Sakthi    798761641  7  4 r   bc    kc    k         1575   60  135 Ts 6s
+Sakthi    798761689  7  3 f   Q     -     -         1650    0    0 
+Sakthi    798762243  9  8 r   c     f     -         1650   30    0 
+Sakthi    798762428 10  7 f   -     -     -         1620    0    0 
+Sakthi    798762430 10  6 r   f     -     -         1620   20    0 
+Sakthi    798762465 10  5 f   -     -     -         1600    0    0 
+Sakthi    798762560 10  4 r   br    b     b         1600   90  325 
+Sakthi    798762705 10  3 f   -     -     -         1835    0    0 
+Sakthi    798762828 11  2 Br  b     b     k         1835   50    0 Th Kh
+Sakthi    798762927 10  1 Brc kc    kc    kf        1785   70    0 
+Sakthi    798763084  8  3 Q   -     -     -         1715    0    0 
+Sakthi    798772183 10  5 r   bf    -     -         1715   30    0 
+Sakthi    798772284 10  4 f   -     -     -         1685    0    0 
+Sakthi    798772401 11  3 r   b     b     b         1685   70  250 
+Sakthi    798772497 11  2 Bk  b     b     k         1865   40    0 8d 5h
+Sakthi    798772584 10  1 Br  b     b     k         1825   50    0 6s 6h
+Sakthi    798772676 10 10 r   Q     -     -         1775   40    0 
+Sakthi    798854730  7  6 rc  rf    -     -         1735   60    0 
+Sakthi    798854838  7  5 r   b     c     c         1675   80    0 9s Kh
+Sakthi    798854897 10  4 rc  bc    kc    bf        1595  100    0 
+Sakthi    798855010  9  3 r   b     b     kf        1495   50    0 
+Sakthi    798855065  9  2 Br  b     kr    f         1445  100    0 
+Sakthi    798855143  9  1 Br  b     b     k         1345   50  160 3h Th
+Sakthi    798855260  8  8 c   f     -     -         1455   10    0 
+Sakthi    798855376  9  8 r   rr    r     k         1445  110    0 5h 3c
+Sakthi    798855475  9  7 r   c     c     c         1335   70  185 Jh Td
+Sakthi    798855536 10  7 r   br    brc   krc       1450  210    0 5h 6c
+Sakthi    798855668 10  6 rQ  -     -     -         1240   30    0 
+Sakthi    798922812 11 10 r   brc   c     r         1210  120    0 8s 6s
+Sakthi    798922993 12 10 r   c     r     f         1090   70    0 
+Sakthi    798923121 12  9 rc  k     f     -         1020   40    0 
+Sakthi    798923268 12  8 f   -     -     -          980    0    0 
+Sakthi    798923420  9  5 rc  r     r     kf         980  100    0 
+Sakthi    798923513 11  6 rc  rc    f     -          880   90    0 
+Sakthi    798923648 10  5 rr  brc   r     k          790  140    0 9s 5c
+Sakthi    798923934 11  4 rr  b     bc    kc         650  110  385 2c 5s
+Sakthi    798924109 11  3 r   b     b     kc         925   70    0 6s Td
+Sakthi    798924303  9  2 Bk  bc    b     kc         855   70  150 6d Tc
+Sakthi    798924379  9  1 Bc  krc   f     -          935   60    0 
+Sakthi    798924501  9  9 f   -     -     -          875    0    0 
+Sakthi    798924560  9  8 rc  rc    f     -          875   80    0 
+Sakthi    798924729 10  8 r   rc    r     rr         795  210    0 9c As
+Sakthi    798924844 11  8 rc  r     c     f          585   90    0 
+Sakthi    798925005 11  7 r   rc    bc    b          495  120  340 Ac 9h
+Sakthi    798925204  8  4 r   b     k     f          715   30    0 
+Sakthi    798925310  9  4 r   rc    r     k          685  100    0 Ah 6s
+Sakthi    798925414  9  3 f   -     -     -          585    0    0 
+Sakthi    798925568 10  3 c   r     br    c          585  130    0 Js Jd
+Sakthi    798925672 11  2 Bk  b     b     b          455   60  170 4c Jd
+Sakthi    798925766 11  1 Br  kc    f     Q          565   60    0 

@@ -1,0 +1,183 @@
+JBeers    797221631  8  5 c   kf    -     -         1000   10    0 
+JBeers    797221872  8  4 Q   -     -     -          990    0    0 
+JBeers    797404178  6  5 r   k     k     f          930   20    0 
+JBeers    797404240  6  3 Q   -     -     -          910    0    0 
+JBeers    797457250  4  4 f   -     -     -          910    0    0 
+JBeers    797457288  4  3 f   -     -     -          910    0    0 
+JBeers    797457324  4  2 Bk  kf    -     -          910   10    0 
+JBeers    797457350  4  1 Br  b     k     k          900   30   30 Ah 6s
+JBeers    797457382  4  4 f   -     -     -          900    0    0 
+JBeers    797457394  4  3 f   -     -     -          900    0    0 
+JBeers    797457402  4  2 Bk  kc    b     b          900   60  125 Th 3h
+JBeers    797457443  4  1 Bcc kc    kc    k          965   50  100 Ac 4h
+JBeers    797457478  4  4 f   -     -     -         1015    0    0 
+JBeers    797457514  4  3 cc  f     -     -         1015   20    0 
+JBeers    797457533  4  2 Bf  -     -     -          995   10    0 
+JBeers    797457577  4  1 Bc  k     kf    -          985   10    0 
+JBeers    797457608  4  4 r   c     k     c          975   50    0 6h Ah
+JBeers    797457665  4  3 f   -     -     -          925    0    0 
+JBeers    797457689  4  2 Bc  kf    -     -          925   20    0 
+JBeers    797457717  4  1 Bcc kf    -     -          905   20    0 
+JBeers    797457760  4  4 f   -     -     -          885    0    0 
+JBeers    797457787  4  3 f   -     -     -          885    0    0 
+JBeers    797457812  4  2 Bk  r     b     b          885   70  150 9h 5h
+JBeers    797457857  4  1 Bf  -     -     -          965    5    0 
+JBeers    797457894  4  4 r   -     -     -          960   20   35 
+JBeers    797457922  4  3 f   -     -     -          975    0    0 
+JBeers    797457962  4  2 Bf  -     -     -          975   10    0 
+JBeers    797458008  4  1 Bf  -     -     -          965    5    0 
+JBeers    797458054  4  4 f   -     -     -          960    0    0 
+JBeers    797458068  4  3 f   -     -     -          960    0    0 
+JBeers    797458089  5  3 r   c     r     -          960   70  130 
+JBeers    797458118  6  2 Bk  k     kf    -         1020   10    0 
+JBeers    797458161  6  1 Br  -     -     -         1010   20   30 
+JBeers    797458187  6  6 r   b     b     -         1020   50   85 
+JBeers    797458218  6  5 f   -     -     -         1055    0    0 
+JBeers    797458238  6  4 r   c     c     k         1055   50    0 Ac Ts
+JBeers    797458278  6  3 cc  f     -     -         1005   20    0 
+JBeers    797458325  6  2 Br  b     b     c          985   90    0 Ah As
+JBeers    797458369  6  1 Bf  -     -     -          895    5    0 
+JBeers    797458398  6  6 f   -     -     -          890    0    0 
+JBeers    797458429  6  5 cc  bc    k     b          890   60  145 
+JBeers    797458504  6  4 c   c     c     b          975   60  120 
+JBeers    797458553  6  3 f   -     -     -         1035    0    0 
+JBeers    797458598  7  2 Bc  Q     -     -         1035   20    0 
+JBeers    797487130  6  3 c   kf    -     -         1015   10    0 
+JBeers    797487185  5  1 Bf  -     -     -         1005   10    0 
+JBeers    797487219  5  1 Bf  -     -     -          995    5    0 
+JBeers    797487271  5  5 r   b     b     -          990   50  100 
+JBeers    797487316  5  4 f   -     -     -         1040    0    0 
+JBeers    797487366  5  3 r   b     -     -         1040   30   65 
+JBeers    797487397  5  2 Bk  r     b     b         1075   70    0 9d 4c
+JBeers    797487465  5  1 Bf  -     -     -         1005    5    0 
+JBeers    797487527  5  5 f   -     -     -         1000    0    0 
+JBeers    797487613  5  4 r   -     -     -         1000   20   35 
+JBeers    797487630  5  3 f   -     -     -         1015    0    0 
+JBeers    797487653  5  2 B   -     -     -         1015   10   15 
+JBeers    797487705  5  1 Bc  kf    -     -         1020   10    0 
+JBeers    797487739  4  4 r   k     r     k         1010   60  130 5c Ah
+JBeers    797487773  4  3 fQ  -     -     -         1080    0    0 
+JBeers    797668143 10  2 Bf  -     -     -         1080   10    0 
+JBeers    797668261  9  1 Bf  -     Q     -         1070    5    0 
+JBeers    797668747 12  4 ccc c     c     c         1065   90    0 3s Ac
+JBeers    797668845 12  3 f   -     -     -          975    0    0 
+JBeers    797668972 11  2 Bf  -     -     -          975   10    0 
+JBeers    797669086 12  1 Bc  kf    -     -          965   10    0 
+JBeers    797669166 12 12 cc  k     b     b          955   80  260 
+JBeers    797669275 11 10 f   -     -     -         1135    0    0 
+JBeers    797669462 11  9 f   -     -     -         1135    0    0 
+JBeers    797669628 11  8 f   -     -     -         1135    0    0 
+JBeers    797669722 12  8 f   -     -     -         1135    0    0 
+JBeers    797669800 12  7 cc  rc    ccc   ccc       1135  240    0 Jc Qh
+JBeers    797669990 12  6 fQ  -     -     -          895    0    0 
+JBeers    797835890 10  6 cc  c     c     bc         895  100  290 4c Ac
+JBeers    797835970 10  5 cc  kc    k     b         1085   70  340 6d 6s
+JBeers    797836109 11  4 f   -     -     -         1355    0    0 
+JBeers    797836247 11  3 cc  k     k     k         1355   20    0 Tc Qh
+JBeers    797836324 12  2 Bf  -     -     -         1335   10    0 
+JBeers    797836380 12  1 Bf  -     -     -         1325    5    0 
+JBeers    797836462 12 12 f   -     -     -         1320    0    0 
+JBeers    797836507 12 11 f   -     -     -         1320    0    0 
+JBeers    797836611 11  9 f   -     -     -         1320    0    0 
+JBeers    797836674 11  8 f   -     -     -         1320    0    0 
+JBeers    797836736 11  7 c   k     k     k         1320   10    0 6d As
+JBeers    797836948 10  6 f   -     -     -         1310    0    0 
+JBeers    797836993 11  5 c   r     b     k         1310   50  125 Qd 3d
+JBeers    797837078 11  4 rr  c     c     c         1385   90    0 Js Ac
+JBeers    797837180 10  3 f   -     -     -         1295    0    0 
+JBeers    797837269 10  2 Bk  bc    c     k         1295   50    0 5s 3d
+JBeers    797837404 10  1 Br  kc    kf    -         1245   30    0 
+JBeers    797837541 10 10 f   -     -     -         1215    0    0 
+JBeers    797837589 10  9 f   -     -     -         1215    0    0 
+JBeers    797837656 11  9 f   -     -     -         1215    0    0 
+JBeers    797837721 10  7 c   k     f     -         1215   10    0 
+JBeers    797837790 10  6 f   -     -     -         1205    0    0 
+JBeers    797837850 11  6 c   c     f     -         1205   20    0 
+JBeers    797837958 10  4 f   -     -     -         1185    0    0 
+JBeers    797838031 10  3 fQ  -     -     -         1185    0    0 
+JBeers    797913935 10  6 f   -     -     -         1185    0    0 
+JBeers    797914008 10  5 f   -     -     -         1185    0    0 
+JBeers    797914131 10  4 c   c     kf    -         1185   30    0 
+JBeers    797914256  8  2 Bc  c     k     b         1155   50  110 
+JBeers    797914311  8  1 Bf  -     -     -         1215    5    0 
+JBeers    797914378  9  9 c   f     -     -         1210   10    0 
+JBeers    797914519  9  8 f   -     -     -         1200    0    0 
+JBeers    797914563 10  8 f   -     -     -         1200    0    0 
+JBeers    797914649 10  8 c   f     -     -         1200   10    0 
+JBeers    797914699 11  7 f   -     -     -         1190    0    0 
+JBeers    797914752 12  6 f   -     -     -         1190    0    0 
+JBeers    797914912 12  5 f   -     -     -         1190    0    0 
+JBeers    797915043 10  3 f   -     -     -         1190    0    0 
+JBeers    797915094 10  2 Bf  -     -     -         1190   10    0 
+JBeers    797915154 11  1 Bcf -     -     -         1180   10    0 
+JBeers    797915265 11 11 rc  rc    cc    c         1170  170    0 Jd Js
+JBeers    797915416 11 10 fQ  -     -     -         1000    0    0 
+JBeers    798161338  3  1 B   -     -     -         1000   10   10 
+JBeers    798161348  3  1 Bc  bf    -     -         1000   20    0 
+JBeers    798161385  3  3 fQ  -     -     -          980    0    0 
+JBeers    798689125 10  8 f   -     -     -          980    0    0 
+JBeers    798689198 10  7 rc  rc    r     bc         980  140    0 Jc Js
+JBeers    798689281 11  6 f   -     -     -          840    0    0 
+JBeers    798689338 11  5 f   -     -     -          840    0    0 
+JBeers    798689452 11  4 f   -     -     Q          840    0    0 
+JBeers    798703067  6  4 f   -     -     -          840    0    0 
+JBeers    798703122  6  3 cc  bc    b     b          840   80  185 
+JBeers    798703188  6  2 Bk  kf    -     -          945   10    0 
+JBeers    798703260  6  1 Bf  -     -     -          935    5    0 
+JBeers    798703317  7  7 r   r     b     b          930   80  270 
+JBeers    798703414  7  6 f   -     -     -         1120    0    0 
+JBeers    798703482  7  5 f   -     -     -         1120    0    0 
+JBeers    798703576  8  4 c   bc    kc    kf        1120   50    0 
+JBeers    798703668  8  3 f   -     -     -         1070    0    0 
+JBeers    798703741  8  2 Bc  bc    c     k         1070   60  240 4c 6c
+JBeers    798703808  7  1 Bc  k     kf    -         1250   10    0 
+JBeers    798703886  7  7 f   -     -     -         1240    0    0 
+JBeers    798703986  7  6 f   -     -     -         1240    0    0 
+JBeers    798704062  7  5 f   -     -     -         1240    0    0 
+JBeers    798704119  7  4 f   -     -     -         1240    0    0 
+JBeers    798704179  7  3 c   k     k     k         1240   10    0 6c Kc
+JBeers    798704293  7  2 Bk  kf    -     -         1230   10    0 
+JBeers    798704389  9  1 Bf  -     -     -         1220    5    0 
+JBeers    798704445  9  3 Q   -     -     -         1215    0    0 
+JBeers    798705833  3  2 Bk  bc    c     b         1215   70  190 8s Kc
+JBeers    798705874  3  1 Bf  -     -     -         1335    5    0 
+JBeers    798705905  3  3 f   -     -     -         1330    0    0 
+JBeers    798705920  4  2 Bf  -     -     -         1330   10    0 
+JBeers    798705948  4  1 Bc  kr    -     -         1320   40  100 
+JBeers    798705996  4  4 f   -     -     -         1380    0    0 
+JBeers    798706050  3  3 f   -     -     -         1380    0    0 
+JBeers    798706090  3  2 B   -     -     -         1380   10   15 
+JBeers    798706098  3  1 Bc  kc    kf    -         1385   30    0 
+JBeers    798706128  3  3 f   -     -     -         1355    0    0 
+JBeers    798706171  3  2 Brc c     c     r         1355  110  230 Ah Ks
+JBeers    798706209  3  1 Bf  -     -     -         1475    5    0 
+JBeers    798706228  3  3 c   f     -     -         1470   10    0 
+JBeers    798706275  3  2 Br  b     k     b         1460   50  105 Ac 5d
+JBeers    798706318  3  1 Bc  bc    kc    kf        1515   50    0 
+JBeers    798706376  4  3 r   rc    c     c         1465   90    0 3c Ac
+JBeers    798706418  4  2 Bf  -     -     -         1375   10    0 
+JBeers    798706433  5  1 Bc  k     k     b         1365   40  140 9d Ks
+JBeers    798706518  5  5 c   b     b     k         1465   40    0 6c Qc
+JBeers    798706607  5  4 f   -     -     -         1425    0    0 
+JBeers    798706651  5  3 rc  bc    c     c         1425   90   95 9h Ks
+JBeers    798706708  5  2 Br  b     k     bc        1430   70    0 As Ah
+JBeers    798706799  4  1 Bc  k     k     f         1360   10    0 
+JBeers    798706861  3  3 cc  Q     -     -         1350   20    0 
+JBeers    798784952  6  2 Bc  kf    -     -         1330   20    0 
+JBeers    798785018  6  1 Bc  kf    -     -         1310   10    0 
+JBeers    798785065  5  5 f   -     -     -         1300    0    0 
+JBeers    798785127  5  4 c   b     -     -         1300   20   50 
+JBeers    798785159  4  2 Bk  b     -     -         1330   20   35 
+JBeers    798785181  4  1 Bc  bc    bc    bc        1345  120    0 Qc Qs
+JBeers    798785220  5  5 c   f     -     -         1225   10    0 
+JBeers    798785271  5  4 Q   -     -     -         1215    0    0 
+JBeers    799134715  2  2 c   -     -     -         1215   10   20 
+JBeers    799136043  2  2 B   -     -     -         1225   10   15 
+JBeers    799136048  2  1 B   -     -     -         1230    5   15 
+JBeers    799136072  2  2 B   -     -     -         1240   10   15 
+JBeers    799136078  2  1 Br  b     -     -         1245   30   50 
+JBeers    799136116  2  2 B   -     -     -         1265   10   15 
+JBeers    799136123  2  1 Brrc b     -     -         1270   60  110 
+JBeers    799136193  2  2 Br  -     -     -         1320   30   70 
+JBeers    799137653  2  2 Bf  -     -     -         1360   10    0 
+JBeers    799137686  2  1 BQ  -     -     -         1350    5    0 

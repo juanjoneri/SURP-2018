@@ -1,0 +1,208 @@
+ElDave    799044641  2  2 Bf  -     -     -         1000   10    0 
+ElDave    799044649  2  1 Bc  b     -     -          990   20   30 
+ElDave    799044666  3  2 Bf  -     -     -         1000   10    0 
+ElDave    799044696  3  1 Bc  kf    -     -          990   20    0 
+ElDave    799044720  3  3 f   -     -     -          970    0    0 
+ElDave    799044743  3  2 Bk  c     b     cc         970   80    0 8s Ac
+ElDave    799044802  5  1 Bf  -     -     -          890    5    0 
+ElDave    799044812  5  5 f   -     -     -          885    0    0 
+ElDave    799044878  5  4 c   c     k     c          885   50    0 2h Ah
+ElDave    799044943  5  3 f   -     -     -          835    0    0 
+ElDave    799044988  5  2 Bc  b     -     -          835   30   50 
+ElDave    799045032  5  1 Bc  k     b     b          855   50  100 
+ElDave    799045091  4  4 c   b     -     -          905   20   45 
+ElDave    799045118  4  3 c   b     -     -          930   20   35 
+ElDave    799045139  4  2 Bc  kc    kc    bc         945   90    0 Jh Th
+ElDave    799045199  5  1 Bf  -     -     -          855    5    0 
+ElDave    799045224  5  5 f   -     -     -          850    0    0 
+ElDave    799045236  5  4 c   k     f     -          850   20    0 
+ElDave    799045288  5  3 c   k     k     f          830   10    0 
+ElDave    799045365  5  2 B   -     -     -          820   10   15 
+ElDave    799045376  5  1 Bf  -     -     -          825    5    0 
+ElDave    799045406  5  5 r   b     b     -          820   50  100 
+ElDave    799045460  5  4 cc  f     -     -          870   20    0 
+ElDave    799045510  5  3 f   -     -     -          850    0    0 
+ElDave    799045565  5  2 Bc  b     -     -          850   30   55 
+ElDave    799045591  5  1 Bf  -     -     -          875    5    0 
+ElDave    799045612  5  5 c   b     -     -          870   20   35 
+ElDave    799045636  5  4 f   -     -     -          885    0    0 
+ElDave    799045679  5  3 c   r     k     f          885   30    0 
+ElDave    799045735  5  2 Bf  -     -     -          855   10    0 
+ElDave    799045749  5  1 Bf  -     -     -          845    5    0 
+ElDave    799045781  5  5 c   r     c     f          840   50    0 
+ElDave    799045814  5  4 c   f     -     -          790   10    0 
+ElDave    799045839  5  3 f   -     -     -          780    0    0 
+ElDave    799045895  5  2 Br  b     b     -          780   50  130 
+ElDave    799045955  5  1 Bf  -     -     -          860    5    0 
+ElDave    799045964  5  5 f   -     -     -          855    0    0 
+ElDave    799045990  5  4 cc  kf    -     -          855   30    0 
+ElDave    799046038  5  3 f   -     -     -          825    0    0 
+ElDave    799046055  6  2 Bc  kc    kf    -          825   30    0 
+ElDave    799046092  6  1 Bc  k     kf    -          795   10    0 
+ElDave    799046177  7  7 c   c     b     k          785   40    0 4d Kd
+ElDave    799046263  5  5 f   -     -     -          745    0    0 
+ElDave    799046284  5  5 f   -     -     -          745    0    0 
+ElDave    799046316  5  4 c   c     k     k          745   20   25 Qd 4d
+ElDave    799046349  5  3 f   -     -     -          750    0    0 
+ElDave    799046367  5  2 Bk  k     k     k          750   10   30 6s 4c
+ElDave    799046416  5  1 Bf  -     -     -          770    5    0 
+ElDave    799046462  5  5 c   c     f     -          765   20    0 
+ElDave    799046507  5  4 f   -     -     -          745    0    0 
+ElDave    799046554  5  3 c   kf    -     -          745   10    0 
+ElDave    799046607  5  2 Bk  brc   b     b          735   90  240 4h Ks
+ElDave    799046664  5  1 Bf  -     -     -          885    5    0 
+ElDave    799046694  5  5 f   -     -     -          880    0    0 
+ElDave    799046728  5  4 f   -     -     -          880    0    0 
+ElDave    799046776  5  3 c   k     b     b          880   50  100 
+ElDave    799046835  6  2 Bk  b     bc    f          930   60    0 
+ElDave    799046897  6  1 Bf  -     -     -          870    5    0 
+ElDave    799046984  6  6 f   -     -     -          865    0    0 
+ElDave    799047039  7  5 c   f     -     -          865   10    0 
+ElDave    799047081  7  4 c   kf    -     -          855   10    0 
+ElDave    799047107  6  3 cc  kf    -     -          845   20    0 
+ElDave    799047153  6  2 Br  b     -     -          825   30   70 
+ElDave    799047195  6  1 Bc  k     b     kc         865   50    0 Qd Qs
+ElDave    799047240  6  6 c   f     -     -          815   10    0 
+ElDave    799047269  6  5 c   c     c     c          805   60    0 Ah Jd
+ElDave    799047321  6  4 f   -     -     -          745    0    0 
+ElDave    799047379  6  3 c   k     k     k          745   10    0 7c Kd
+ElDave    799047426  6  2 Bc  kf    -     -          735   20    0 
+ElDave    799047505  6  1 Br  b     -     -          715   40  140 
+ElDave    799047552  6  6 f   -     -     -          815    0    0 
+ElDave    799047611  6  5 c   b     b     k          815   40    0 4h Kc
+ElDave    799047661  6  4 f   -     -     -          775    0    0 
+ElDave    799047689  6  3 c   k     b     -          775   30   55 
+ElDave    799047732  6  2 Bc  rc    kc    f          800   90    0 
+ElDave    799047853  7  1 Br  b     -     -          710   30   50 
+ElDave    799047922  6  6 cc  rc    r     b          730  110  320 Qh Th
+ElDave    799047992  6  5 cc  c     c     k          940   50  125 6d 5s
+ElDave    799048042  6  4 fQ  -     -     -         1015    0    0 
+ElDave    799273339  6  2 Bk  kc    kc    kc        1015   60    0 Kd 2d
+ElDave    799273377  5  1 Bf  -     -     -          955    5    0 
+ElDave    799273450  5  5 cc  rr    c     c          950  100    0 Qc Ts
+ElDave    799273509  6  4 f   -     -     -          850    0    0 
+ElDave    799273575  6  3 c   c     c     f          850   40    0 
+ElDave    799273638  6  2 Bk  b     bc    kc         810   80    0 3h Jd
+ElDave    799273715  5  1 Bc  b     br    k          730   80    0 Ah 7h
+ElDave    799273790  5  5 c   k     k     c          650   30   85 Qc Kd
+ElDave    799273838  5  4 c   f     -     -          705   10    0 
+ElDave    799273883  5  3 f   -     -     -          695    0    0 
+ElDave    799273931  5  2 Bk  kf    -     -          695   10    0 
+ElDave    799273967  5  1 Br  bc    kc    kc         685   80  210 Ah Kd
+ElDave    799274028  5  5 c   c     f     -          815   20    0 
+ElDave    799274079  5  4 c   c     f     -          795   20    0 
+ElDave    799274136  5  3 f   -     -     -          775    0    0 
+ElDave    799274188  4  2 Bk  kf    -     -          775   10    0 
+ElDave    799274215  4  1 Bc  b     kc    kc         765   60    0 9s Jh
+ElDave    799274266  4  4 c   b     -     -          705   20   45 
+ElDave    799274303  4  3 f   -     -     -          730    0    0 
+ElDave    799274359  4  2 Bk  c     c     c          730   60    0 7h 4s
+ElDave    799274400  4  1 Bf  -     -     -          670    5    0 
+ElDave    799274429  4  4 f   -     -     -          665    0    0 
+ElDave    799274467  4  3 c   b     k     k          665   20   70 4h 4c
+ElDave    799274531  4  2 B   -     -     -          715   10   15 
+ElDave    799274542  4  1 Bc  kf    -     -          720   20    0 
+ElDave    799274578  4  4 f   -     -     -          700    0    0 
+ElDave    799274608  4  4 c   b     -     -          700   20   40 
+ElDave    799274644  3  2 Bc  r     k     k          720   40   80 3h 6h
+ElDave    799274692  3  1 Bf  -     -     -          760    5    0 
+ElDave    799274728  3  3 f   -     -     -          755    0    0 
+ElDave    799274758  3  2 Bk  b     -     -          755   20   40 
+ElDave    799274783  3  1 Bc  k     kc    kf         775   30    0 
+ElDave    799274835  3  3 c   k     c     f          745   30    0 
+ElDave    799274868  2  1 Bc  kc    kc    kc         715   70  140 4d 9d
+ElDave    799274908  2  1 Bc  kf    -     -          785   10    0 
+ElDave    799274928  2  2 B   -     -     -          775   10   15 
+ElDave    799274937  2  1 Bc  kc    kc    kc         780   60    0 Td Kc
+ElDave    799274970  2  2 Bf  -     -     -          720   10    0 
+ElDave    799274979  2  1 Br  b     b     k          710   50    0 Ah Qc
+ElDave    799275010  2  2 Bf  -     -     -          660   10    0 
+ElDave    799275019  2  1 Bcf -     -     -          650   10    0 
+ElDave    799275032  2  2 Bk  k     b     -          640   30   40 
+ElDave    799275050  2  1 Bc  k     k     k          650   10   20 Tc Qd
+ElDave    799275082  2  2 Bk  k     b     -          660   30   40 
+ElDave    799275107  2  1 Bc  bf    -     -          670   20    0 
+ElDave    799275129  2  2 Bk  c     c     b          650   60  100 
+ElDave    799275163  2  1 Bc  k     k     kf         690   10    0 
+ElDave    799275192  2  2 Bc  k     k     k          680   20    0 Jd 4d
+ElDave    799275214  2  1 Bc  kc    k     k          660   20   40 9d 8h
+ElDave    799275245  2  2 Bk  k     k     f          680   10    0 
+ElDave    799275271  2  1 Bc  k     k     k          670   10   20 Kh 7s
+ElDave    799275301  2  2 Bk  k     c     k          680   30    0 Kh 8s
+ElDave    799275328  2  1 Bf  -     -     -          650    5    0 
+ElDave    799275339  2  2 Bk  c     k     k          645   20   40 6d 6s
+ElDave    799275362  2  1 Bf  -     -     -          665    5    0 
+ElDave    799275374  2  2 Bk  b     -     -          660   20   30 
+ElDave    799275397  2  1 Bf  -     -     -          670    5    0 
+ElDave    799275404  2  2 Bk  c     c     f          665   40    0 
+ElDave    799275435  2  1 Bcc kc    k     b          625   50   80 
+ElDave    799275475  2  2 B   -     -     -          655   10   15 
+ElDave    799275485  2  1 Bf  -     -     -          660    5    0 
+ElDave    799275492  2  2 Bk  c     r     b          655   80  160 4c Ah
+ElDave    799275533  2  1 Bc  bc    kc    k          735   50  100 Qs Qc
+ElDave    799275571  2  2 Bk  k     c     b          785   50   80 
+ElDave    799275612  2  1 Bc  k     k     k          815   10   20 Kd Qd
+ElDave    799275642  2  2 Bk  c     c     c          825   60    0 7d Kd
+ElDave    799275672  2  1 Bf  -     -     -          765    5    0 
+ElDave    799275682  2  2 Br  b     -     -          760   40   70 
+ElDave    799275707  2  1 Bf  -     -     -          790    5    0 
+ElDave    799275715  2  2 Bk  b     -     -          785   20   30 
+ElDave    799275733  2  1 Bc  kc    k     k          795   20    0 Jd 9d
+ElDave    799275772  2  2 Bk  f     -     -          775   10    0 
+ElDave    799275798  2  1 Bcc kf    -     -          765   20    0 
+ElDave    799275815  2  2 Bk  k     k     k          745   10   20 Ah 8s
+ElDave    799275840  2  1 Bc  kf    -     -          755   10    0 
+ElDave    799275860  2  2 Bk  f     -     -          745   10    0 
+ElDave    799275875  2  1 Bf  -     -     -          735    5    0 
+ElDave    799275883  2  2 Bk  b     -     -          730   20   30 
+ElDave    799275900  2  1 Bcc kc    k     k          740   30   60 Kc 9d
+ElDave    799275932  2  2 Bk  k     b     -          770   30   40 
+ElDave    799275962  2  1 Bf  -     -     -          780    5    0 
+ElDave    799275969  2  2 Bk  k     b     -          775   30   40 
+ElDave    799275993  2  1 Bf  -     -     -          785    5    0 
+ElDave    799276006  2  2 Bk  k     k     k          780   10    0 2s 7h
+ElDave    799276032  2  1 Bc  k     k     b          770   30   40 
+ElDave    799276072  2  2 Bk  k     k     k          780   10   20 Ks 2s
+ElDave    799276099  2  1 Bcc kf    -     -          790   20    0 
+ElDave    799276119  2  2 Bf  -     -     -          770   10    0 
+ElDave    799276125  2  1 Bf  -     -     -          760    5    0 
+ElDave    799276132  2  2 Bk  k     b     k          755   30    0 5d 9s
+ElDave    799276167  2  1 Bc  k     b     b          725   50   80 
+ElDave    799276206  2  2 Bk  c     c     c          755   60  120 Qc Jc
+ElDave    799276229  2  1 Bc  b     b     b          815   60  120 9d 9h
+ElDave    799276256  2  2 Bk  k     c     k          875   30   60 Kc Ts
+ElDave    799276294  2  1 Bc  b     b     b          905   60  120 Ad 5c
+ElDave    799276320  2  2 Bk  b     -     -          965   20   30 
+ElDave    799276337  2  1 Bc  kc    kf    -          975   20    0 
+ElDave    799276364  2  2 Bk  k     k     k          955   10   20 Kh 3d
+ElDave    799276395  2  1 Bc  b     -     -          965   20   30 
+ElDave    799276416  2  2 Bk  k     c     c          975   50   50 7c 4c
+ElDave    799276446  2  1 Bc  k     kf    -          975   10    0 
+ElDave    799276477  2  2 Bk  k     k     k          965   10   20 5c Kc
+ElDave    799276507  2  1 Bf  -     -     -          975    5    0 
+ElDave    799276516  2  2 Bk  c     k     k          970   20   20 Qc 9h
+ElDave    799276543  2  1 Bf  -     -     -          970    5    0 
+ElDave    799276553  2  2 Bk  f     -     -          965   10    0 
+ElDave    799276566  2  1 Bf  -     -     -          955    5    0 
+ElDave    799276573  2  2 Bk  f     -     -          950   10    0 
+ElDave    799276584  2  1 Bf  -     -     -          940    5    0 
+ElDave    799276592  2  2 Bk  b     -     -          935   20   30 
+ElDave    799276612  2  1 Bc  k     k     b          945   30   40 
+ElDave    799276641  2  2 B   -     -     -          955   10   15 
+ElDave    799276649  2  1 Bc  b     -     -          960   20   30 
+ElDave    799276671  2  2 Bk  c     k     k          970   20    0 7c 9d
+ElDave    799276695  2  1 Bc  kc    kc    kc         950   60    0 7h 7d
+ElDave    799276738  2  2 Bk  c     c     c          890   60  120 4d 3s
+ElDave    799276771  2  1 Bc  b     -     -          950   20   30 
+ElDave    799276791  2  2 Bk  b     -     -          960   20   30 
+ElDave    799276811  2  1 Bc  b     b     b          970   60  100 
+ElDave    799276839  2  2 Bk  c     c     c         1010   60  120 9d 9c
+ElDave    799276868  2  1 Br  -     -     -         1070   20   30 
+ElDave    799276883  2  2 Bk  c     c     c         1080   60    0 6h Kc
+ElDave    799276912  2  1 Bc  k     k     k         1020   10   20 Ks 5c
+ElDave    799276943  2  2 Bk  b     -     -         1030   20   30 
+ElDave    799276966  2  1 Bc  kc    kf    -         1040   20    0 
+ElDave    799276988  2  2 Bk  c     f     -         1020   20    0 
+ElDave    799277006  2  1 Bc  k     k     kf        1000   10    0 
+ElDave    799277035  2  2 B   -     -     -          990   10   15 
+ElDave    799278121  3  3 Q   -     -     -          995    0    0 

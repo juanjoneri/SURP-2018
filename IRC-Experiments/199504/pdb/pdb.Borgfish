@@ -1,0 +1,255 @@
+Borgfish  798005919  5  3 c   k     k     k         1000   10   35 As 4h
+Borgfish  798006044  5  2 Bk  c     f     -         1025   20    0 
+Borgfish  798006150  6  1 Bc  k     kf    -         1005   10    0 
+Borgfish  798006216  6  6 f   -     -     -          995    0    0 
+Borgfish  798006303  6  5 cc  b     -     -          995   30  110 
+Borgfish  798006505  8  5 rr  b     k     bc        1075   90    0 3c 3s
+Borgfish  798006615  7  3 ccc kf    -     -          985   30    0 
+Borgfish  798006767  7  2 Bc  kQ    -     -          955   20    0 
+Borgfish  798092937  5  3 cc  k     c     f          935   40    0 
+Borgfish  798092995  6  2 Bc  kc    krc   kcc        895  150    0 6h 9c
+Borgfish  798093071  5  1 Bcc kf    -     -          745   20    0 
+Borgfish  798093107  5  5 c   f     -     -          725   10    0 
+Borgfish  798093137  4  3 c   f     -     -          715   10    0 
+Borgfish  798093162  4  2 Bc  c     c     f          705   50    0 
+Borgfish  798093197  4  1 Bc  k     k     k          655   10   10 3c Js
+Borgfish  798093237  3  3 c   f     -     -          655   10    0 
+Borgfish  798093258  3  2 Bk  k     f     -          645   10    0 
+Borgfish  798093296  5  1 Bc  kf    -     -          635   10    0 
+Borgfish  798093328  5  5 c   b     k     k          625   30    0 5s 6s
+Borgfish  798093373  5  4 c   c     c     r          595   80  185 As Qd
+Borgfish  798093420  5  3 c   c     c     c          700   60  135 5s Kc
+Borgfish  798093461  5  2 Bk  kf    -     -          775   10    0 
+Borgfish  798093506  5  1 Bc  bc    kc    kc         765   70    0 Kc 5h
+Borgfish  798093557  5  5 cc  cc    c     f          695   90    0 
+Borgfish  798093606  5  4 c   bc    kc    kc         605   70  155 Tc Jd
+Borgfish  798093658  4  2 cc  kc    b     k          690   50  150 5s 6c
+Borgfish  798093711  4  2 Bk  b     -     -          790   20   45 
+Borgfish  798093731  4  1 Br  -     -     -          815   20   30 
+Borgfish  798093745  4  4 r   k     k     k          825   20   65 Ac 3d
+Borgfish  798093781  5  4 c   c     c     c          870   60    0 5h 7d
+Borgfish  798093828  5  3 ccc f     -     -          810   40    0 
+Borgfish  798093899  5  2 Bk  ccc   kc    k          770   70    0 Tc Ks
+Borgfish  798093960  5  1 Bc  kc    kf    -          700   20    0 
+Borgfish  798094007  4  4 f   -     -     -          680    0    0 
+Borgfish  798094016  4  4 c   c     c     f          680   40    0 
+Borgfish  798094058  5  4 rc  k     kf    -          640   30    0 
+Borgfish  798094130  5  3 c   k     b     -          610   30   45 
+Borgfish  798094160  4  2 Bc  k     b     -          625   40   60 
+Borgfish  798094180  4  1 Bc  br    kc    kc         645   80    0 5d Ad
+Borgfish  798094245  4  4 rc  c     c     c          565   90    0 3s 3h
+Borgfish  798094296  4  3 cc  cc    f     -          475   50    0 
+Borgfish  798094346  4  2 Bc  kc    kc    kc         425   90    0 3c Qh
+Borgfish  798094396  5  1 Bc  f     -     -          335   10    0 
+Borgfish  798094427  5  5 f   -     -     -          325    0    0 
+Borgfish  798094444  5  4 c   Q     -     -          325   20    0 
+Borgfish  798135885  5  5 cc  f     -     -          305   20    0 
+Borgfish  798135913  5  4 c   k     c     k          285   50    0 4s 3c
+Borgfish  798135955  5  3 c   k     c     k          235   30    0 2s 2c
+Borgfish  798136003  5  2 Bk  k     k     k          205   10   25 7d Ac
+Borgfish  798136037  5  1 Bc  kf    -     -          220   10    0 
+Borgfish  798136070  4  4 r   r     -     -          210   40   80 
+Borgfish  798136098  4  3 r   -     -     -          250   20   35 
+Borgfish  798136112  4  2 Bc  b     b     kc         265   70    0 Qh 9h
+Borgfish  798136162  4  1 Bc  kf    -     -          195   10    0 
+Borgfish  798136179  4  4 c   f     -     -          185   10    0 
+Borgfish  798136230  5  3 cc  c     b     b          175   80  195 5s Ah
+Borgfish  798136284  5  2 Bc  br    k     k          290   50  135 Ac 2h
+Borgfish  798136323  6  1 Bcr kc    kc    k          375   60  120 8c As
+Borgfish  798136413  7  7 f   -     -     -          435    0    0 
+Borgfish  798136447  7  6 c   f     -     -          435   20    0 
+Borgfish  798136490  7  5 c   b     k     c          415   50    0 4d Ah
+Borgfish  798136555  7  4 r   -     -     -          365   20   35 
+Borgfish  798136574  7  3 c   f     -     -          380   10    0 
+Borgfish  798136631  6  2 Bk  b     -     -          370   20   35 
+Borgfish  798136682  6  1 Bc  krc   k     k          385   40    0 9c Jh
+Borgfish  798136752  8  8 cc  c     c     f          345   70    0 
+Borgfish  798136845  8  7 c   bc    kc    kf         275   70    0 
+Borgfish  798136915  8  6 cc  kc    kf    -          205   30    0 
+Borgfish  798136966  8  5 c   c     f     -          175   30    0 
+Borgfish  798137009  9  5 cc  f     -     -          145   20    0 
+Borgfish  798137072  9  4 cc  c     c     c          125   70  230 Kc 4c
+Borgfish  798137181  8  2 Bc  k     k     b          285   40   60 
+Borgfish  798137236  8  1 Bc  kf    -     -          305   10    0 
+Borgfish  798137288  8  8 c   f     -     -          295   10    0 
+Borgfish  798137329  8  8 c   c     c     k          285   50    0 Ad 6h
+Borgfish  798137381  7  6 cc  c     c     f          235   50    0 
+Borgfish  798137440  6  3 Q   -     -     -          185    0    0 
+Borgfish  798176125 12  9 cc  cc    c     f          185   70    0 
+Borgfish  798176210 12  8 c   cc    k     c          115   50    0 6c 4h
+Borgfish  798176355 12  8 cc  c     c     f           65   50    0 
+Borgfish  798176443 10  5 c   cA    -     -           15   15   85 As 8h
+Borgfish  798176533 12  5 cc  br    b     bA          85   85  193 Qc 2h
+Borgfish  798176685 11  5 c   rc    c     kf         193   60    0 
+Borgfish  798176784  8  2 cc  brc   brcA  -          133  133  356 7h Ts
+Borgfish  798176867  8  2 Bc  kf    -     -          356   20    0 
+Borgfish  798176952  8  1 Bc  kc    k     kf         336   20    0 
+Borgfish  798177017  8  8 c   f     -     -          316   20    0 
+Borgfish  798177084  8  7 c   kc    kc    f          296   60    0 
+Borgfish  798177187  7  5 r   b     b     c          236   70  195 4h Ac
+Borgfish  798177259  8  5 cc  kc    kc    kf         361   50    0 
+Borgfish  798177365  9  5 r   -     -     -          311   20   35 
+Borgfish  798177384  9  4 cc  kc    k     k          326   30    0 7c Th
+Borgfish  798177449  9  3 c   kc    kf    -          296   20    0 
+Borgfish  798177511 10  2 Bc  b     br    b          276  110  260 5s 5c
+Borgfish  798177574 10  1 Bc  kc    kc    kc         426   90    0 Qs Kh
+Borgfish  798177707 10 10 c   k     k     f          336   10    0 
+Borgfish  798177781 10  9 rc  c     cc    ccc        326  210    0 3c Ac
+Borgfish  798178009 10  8 c   k     c     f          116   30    0 
+Borgfish  798410763 11  7 c   f     -     -          835   20    0 
+Borgfish  798410882 11  6 c   cQ    -     -          815   20    0 
+Borgfish  798766168 11  8 cc  kc    kc    kf         795   50    0 
+Borgfish  798766296  8  6 cc  kc    fQ    -          745   30    0 
+Borgfish  798781024  6  5 c   c     c     f          715   40    0 
+Borgfish  798781090  6  4 f   -     -     -          675    0    0 
+Borgfish  798781128  5  3 c   b     b     -          675   40   80 
+Borgfish  798781181  5  2 Bk  kc    kc    k          715   40    0 9d 2h
+Borgfish  798781245  6  1 Bc  kc    k     k          675   30    0 8h 3h
+Borgfish  798781289  7  7 f   -     -     -          645    0    0 
+Borgfish  798781339  7  6 cc  c     c     kf         645   50    0 
+Borgfish  798781434  7  5 c   c     c     c          595   70    0 4c Ad
+Borgfish  798781501  7  5 c   kc    kf    -          525   30    0 
+Borgfish  798781571  6  3 c   k     c     k          495   30    0 Ac 3s
+Borgfish  798781745  6  2 Bk  kc    kc    br         465  120  330 Qh 8c
+Borgfish  798781836  8  1 Bc  k     kf    Q          675   10    0 
+Borgfish  798785220  5  4 c   c     b     k          665   40  100 7s 7c
+Borgfish  798785271  5  3 c   c     c     c          725   60    0 8h Qh
+Borgfish  798785319  4  2 Bk  kr    b     b          665   70  125 
+Borgfish  798785384  4  1 Bc  k     k     k          720   10    0 8s Qs
+Borgfish  798785438  4  4 f   -     -     -          710    0    0 
+Borgfish  798785458  4  3 c   kf    -     -          710   10    0 
+Borgfish  798785505  4  2 Br  b     -     -          700   30   55 
+Borgfish  798785547  4  1 Bc  kc    kf    -          725   20    0 
+Borgfish  798785579  4  4 c   c     k     f          705   20    0 
+Borgfish  798785623  4  3 c   c     c     k          685   50    0 5c Td
+Borgfish  798785686  4  2 Bk  kc    kf    -          635   20    0 
+Borgfish  798785723  4  1 Bc  b     -     -          615   20   30 
+Borgfish  798785756  4  4 c   k     k     k          625   10    0 Jh 8d
+Borgfish  798785809  4  3 c   k     b     k          615   30    0 Kd 3s
+Borgfish  798785864  4  2 Bk  cc    kf    -          585   30    0 
+Borgfish  798785922  4  1 Bc  kfQ   -     -          555   10    0 
+Borgfish  798867290  6  4 c   c     k     f          545   30    0 
+Borgfish  798867372  7  3 cc  kc    kf    -          515   30    0 
+Borgfish  798867454  7  2 Bc  kc    kc    k          485   50  155 Ac 8d
+Borgfish  798867506  7  1 Bcc b     bc    bc         590  130    0 4c Kh
+Borgfish  798867573  8  8 cc  c     c     c          460   90  365 Td Js
+Borgfish  798867653  8  7 cc  c     c     c          735   90  380 4s Ks
+Borgfish  798867745  8  6 f   -     -     -         1025    0    0 
+Borgfish  798867804  9  5 cc  kf    -     -         1025   30    0 
+Borgfish  798867886 10  4 cc  c     cc    c          995  100    0 7c 7d
+Borgfish  798868053 11  3 cc  kc    kc    f          895   60    0 
+Borgfish  798868172 11  2 Bc  kc    k     kc         835   60    0 4h 8s
+Borgfish  798868249 10  1 Bcc kf    -     -          775   20    0 
+Borgfish  798868346  8  8 c   r     k     b          755   50  140 9d Td
+Borgfish  798868444  7  6 cc  k     f     -          845   20    0 
+Borgfish  798868493  7  5 c   c     f     -          825   30    0 
+Borgfish  798868567  7  4 c   cc    f     -          795   40    0 
+Borgfish  798868623  8  3 cc  f     -     -          755   20    0 
+Borgfish  798868702  8  2 Bk  b     bc    bc         735  100  295 9s Ts
+Borgfish  798868779  8  1 Bc  bc    kc    f          930   60    0 
+Borgfish  798868862  8  8 cc  c     c     f          870   60    0 
+Borgfish  798868939  8  7 cc  c     r     r          810  110  260 3c Qc
+Borgfish  798869029  7  5 cc  bc    k     r          960   80  215 Kc Ah
+Borgfish  798869119  7  4 c   c     b     bc        1095   80    0 7s As
+Borgfish  798869184  7  3 cc  b     kf    -         1015   30    0 
+Borgfish  798869265  8  3 cc  br    bc    kc         985  110    0 3d 3s
+Borgfish  798869338  8  2 Bc  kf    -     -          875   20    0 
+Borgfish  798869409  8  1 Bc  k     k     b          855   30   90 Jd 4d
+Borgfish  798869481  7  7 c   cf    -     -          915   30    0 
+Borgfish  798869533  5  4 c   f     -     -          885   10    0 
+Borgfish  798869555  4  4 cc  c     f     -          875   30    0 
+Borgfish  798869588  3  2 Bk  c     c     c          845   60    0 8d 8c
+Borgfish  798869620  3  1 Bc  k     k     kf         785   10    0 
+Borgfish  798869654  3  3 c   k     b     -          775   30   50 
+Borgfish  798869683  3  2 Bk  kf    -     -          795   10    0 
+Borgfish  798869705  3  1 Bc  b     b     k          785   40    0 2s 4s
+Borgfish  798869739  3  3 c   r     b     k          745   50    0 5c 5d
+Borgfish  798869785  3  2 Bk  fQ    -     -          695   10    0 
+Borgfish  799218444  6  6 c   k     b     -          685   30   45 
+Borgfish  799218493  6  5 c   c     c     f          700   60    0 
+Borgfish  799218618  6  4 c   f     -     -          640   10    0 
+Borgfish  799218706  7  3 c   kc    kc    b          630   60  185 8c 8s
+Borgfish  799218785  8  2 Bc  kc    kf    -          755   30    0 
+Borgfish  799218834  8  1 Bc  bc    bc    kc         725   90    0 9s 2d
+Borgfish  799218911  8  8 c   f     -     -          635   10    0 
+Borgfish  799218981  8  7 c   k     k     k          625   10    0 9s 3h
+Borgfish  799219046  8  6 c   f     -     -          615   10    0 
+Borgfish  799219130  8  6 c   b     b     -          605   40   80 
+Borgfish  799219259  6  3 c   f     -     -          645   10    0 
+Borgfish  799219335  7  2 Bk  k     b     -          635   30   60 
+Borgfish  799219379  7  1 Bc  b     k     k          665   30    0 6h 9h
+Borgfish  799219425  7  7 c   c     f     -          635   30    0 
+Borgfish  799219482  7  6 c   c     f     -          605   20    0 
+Borgfish  799219557  7  5 cc  kr    kc    f          585   60    0 
+Borgfish  799219643  7  4 f   -     -     -          525    0    0 
+Borgfish  799219701  7  3 cc  b     k     b          525   60  140 
+Borgfish  799219773  7  2 Bk  r     b     b          605   70  160 4d Kh
+Borgfish  799219830  7  1 Bc  kf    -     -          695   20    0 
+Borgfish  799219886  7  7 c   r     b     b          675   70  160 
+Borgfish  799219986  7  6 c   c     bc    kc         765   90    0 Ad 8c
+Borgfish  799220091  8  5 c   k     c     c          675   50    0 9s 8c
+Borgfish  799220189  8  4 cc  f     -     -          625   20    0 
+Borgfish  799220267  7  3 c   cc    kf    -          605   40    0 
+Borgfish  799220339  8  2 Bc  b     brc   kc         565  140    0 Kd Tc
+Borgfish  799220441  8  1 Bc  kf    -     -          425   10    0 
+Borgfish  799220479  8  8 c   c     k     k          415   20    0 Qs 7c
+Borgfish  799220549  9  8 f   -     -     -          395    0    0 
+Borgfish  799220602 10  9 cc  c     r     b          395  100  270 
+Borgfish  799220680  8  6 cc  kf    -     -          565   20    0 
+Borgfish  799220777  7  4 cc  cc    rr    c          545  150  365 5s 4d
+Borgfish  799220870  7  3 cc  kf    -     -          760   20    0 
+Borgfish  799220956  7  2 Bc  kc    b     k          740   50  150 7c 4s
+Borgfish  799221010  6  1 Bc  kf    -     -          840   10    0 
+Borgfish  799221073  6  6 c   f     -     -          830   10    0 
+Borgfish  799221103  6  5 c   k     k     f          820   10    0 
+Borgfish  799221176  6  4 cc  c     c     c          810   70    0 6h Qc
+Borgfish  799221238  6  3 c   kf    -     -          740   10    0 
+Borgfish  799221300  6  2 Bc  kf    -     -          730   20    0 
+Borgfish  799221331  6  1 Bc  k     kf    -          710   10    0 
+Borgfish  799221380  6  6 c   k     k     c          700   30    0 7h 7s
+Borgfish  799221425  6  5 cc  kc    kf    -          670   30    0 
+Borgfish  799221476  5  3 c   c     c     b          640   60  210 Th Jh
+Borgfish  799221530  5  2 Bk  c     c     k          790   40    0 Tc Qs
+Borgfish  799221581  5  1 Bf  -     -     -          750    5    0 
+Borgfish  799221601  5  5 c   f     -     -          745   20    0 
+Borgfish  799221659  5  4 f   -     -     -          725    0    0 
+Borgfish  799221694  5  3 cc  kc    kf    -          725   30    0 
+Borgfish  799221751  5  2 B   -     -     -          695   10   15 
+Borgfish  799221756  5  1 Bc  b     k     k          700   30    0 9d Kc
+Borgfish  799221816  5  5 f   -     -     -          670    0    0 
+Borgfish  799221844  5  4 c   k     b     b          670   50   90 
+Borgfish  799221882  5  3 c   f     -     -          710   10    0 
+Borgfish  799221916  5  2 Bc  c     c     k          700   50  140 2d 2s
+Borgfish  799221965  5  1 Bf  -     -     -          790    5    0 
+Borgfish  799221987  5  5 c   r     k     c          785   50    0 2s Ac
+Borgfish  799222019  5  4 f   -     -     -          735    0    0 
+Borgfish  799222038  5  3 cc  kf    -     -          735   30    0 
+Borgfish  799222088  5  2 Bk  k     k     k          705   10   30 Qs Ks
+Borgfish  799222127  5  1 Bc  k     kf    -          725   10    0 
+Borgfish  799222185  5  5 c   b     c     c          715   70    0 Kh Qs
+Borgfish  799222232  5  4 c   k     b     -          645   30   50 
+Borgfish  799222272  5  3 c   kc    k     bc         665   60  135 8s 9c
+Borgfish  799222320  5  2 Bc  c     f     -          740   30    0 
+Borgfish  799222384  5  1 Bf  -     -     -          710    5    0 
+Borgfish  799222405  5  5 c   c     c     c          705   60    0 Ac Qd
+Borgfish  799222437  5  4 f   -     -     -          645    0    0 
+Borgfish  799222464  5  3 cc  f     -     -          645   20    0 
+Borgfish  799222488  5  2 Bc  f     -     -          625   20    0 
+Borgfish  799222520  5  1 Bf  -     -     -          605    5    0 
+Borgfish  799222557  5  5 c   k     k     k          600   10    0 2s Js
+Borgfish  799222625  5  4 c   f     -     -          590   10    0 
+Borgfish  799222662  5  3 cc  kf    -     -          580   20    0 
+Borgfish  799222686  5  2 Bk  kf    -     -          560   10    0 
+Borgfish  799222707  5  1 Bc  kr    b     k          550   50    0 2d Ad
+Borgfish  799222754  5  5 f   -     -     -          500    0    0 
+Borgfish  799222793  5  4 c   k     k     f          500   10    0 
+Borgfish  799222829  5  3 f   -     -     -          490    0    0 
+Borgfish  799222854  5  2 Bk  k     b     -          490   30   60 
+Borgfish  799222886  6  1 Bc  kf    -     -          520   10    0 
+Borgfish  799222950  6  6 c   f     -     -          510   10    0 
+Borgfish  799222994  6  4 cc  c     k     f          500   30    0 
+Borgfish  799223033  6  3 c   c     k     f          470   20    0 
+Borgfish  799223076  6  2 Bc  c     f     -          450   40    0 
+Borgfish  799223114  6  1 Bcc kf    -     -          410   20    0 
+Borgfish  799223147  6  6 c   c     f     -          390   20    0 
+Borgfish  799223177  6  5 cc  f     Q     -          370   20    0 

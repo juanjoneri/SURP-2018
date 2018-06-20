@@ -1,0 +1,369 @@
+Kurtz     798095106  7  4 f   -     -     -         1000    0    0 
+Kurtz     798095131  7  3 f   -     -     -         1000    0    0 
+Kurtz     798095168  7  2 Bk  kc    kf    -         1000   30    0 
+Kurtz     798095230  7  1 Bc  kf    -     -          970   20    0 
+Kurtz     798095286  7  7 f   -     -     -          950    0    0 
+Kurtz     798095311  7  6 f   -     -     -          950    0    0 
+Kurtz     798095366  7  5 f   -     -     -          950    0    0 
+Kurtz     798095407  7  4 f   -     -     -          950    0    0 
+Kurtz     798095447  8  4 f   -     -     -          950    0    0 
+Kurtz     798095498  7  3 c   kf    -     -          950   10    0 
+Kurtz     798095540  7  2 Bf  -     -     -          940   10    0 
+Kurtz     798095603  7  1 Bcc kf    -     -          930   20    0 
+Kurtz     798095638  7  7 c   c     rc    b          910  100  240 Jd 8d
+Kurtz     798095712  7  6 c   k     c     f         1050   30    0 
+Kurtz     798095763  8  6 f   -     -     -         1020    0    0 
+Kurtz     798095807  8  5 cc  rr    bf    -         1020   80    0 
+Kurtz     798095860  8  4 c   k     f     -          940   10    0 
+Kurtz     798095898  8  3 f   -     -     -          930    0    0 
+Kurtz     798095960  8  2 Bk  k     kf    -          930   10    0 
+Kurtz     798096024  8  1 Bc  kf    -     -          920   10    0 
+Kurtz     798096072  8  8 f   -     -     -          910    0    0 
+Kurtz     798096138  8  7 c   b     -     -          910   20   70 
+Kurtz     798096174  8  6 c   kf    -     -          960   10    0 
+Kurtz     798096237  8  5 f   -     -     -          950    0    0 
+Kurtz     798096274  7  3 f   -     -     -          950    0    0 
+Kurtz     798096337  8  2 Br  k     kr    b          950  100    0 Ac Kd
+Kurtz     798096419  8  1 Bf  -     -     -          850    5    0 
+Kurtz     798096495  8  8 f   -     -     -          845    0    0 
+Kurtz     798096578  8  7 f   -     -     -          845    0    0 
+Kurtz     798096708  9  6 f   -     -     -          845    0    0 
+Kurtz     798096773  8  5 f   -     -     -          845    0    0 
+Kurtz     798096781  8  4 c   c     c     k          845   40   85 Ac 9c
+Kurtz     798096842  8  3 f   -     -     -          890    0    0 
+Kurtz     798096897 10  2 Bk  kf    -     -          890   10    0 
+Kurtz     798096936  9  1 Bf  -     -     -          880    5    0 
+Kurtz     798096983  8  8 f   -     -     -          875    0    0 
+Kurtz     798097023  9  8 c   ccc   r     b          875  110  390 Qc 6s
+Kurtz     798097147 11  8 f   -     -     -         1155    0    0 
+Kurtz     798097246 12  7 c   c     r     b         1155   80  230 2s Qs
+Kurtz     798097303 12  6 f   -     -     -         1305    0    0 
+Kurtz     798097392 12  5 c   cc    f     -         1305   30    0 
+Kurtz     798097461 12  4 fQ  -     -     -         1275    0    0 
+Kurtz     798182570  7  1 Bk  k     kf    -         1275   10    0 
+Kurtz     798182608  7  1 Bc  kf    -     -         1265   10    0 
+Kurtz     798182645  7  7 c   b     bc    c         1255   80    0 Jc Ac
+Kurtz     798182703  7  6 f   -     -     -         1175    0    0 
+Kurtz     798182770  7  4 f   -     -     -         1175    0    0 
+Kurtz     798182805  7  3 f   -     -     -         1175    0    0 
+Kurtz     798182860  8  2 Bf  -     -     -         1175   10    0 
+Kurtz     798182927  8  1 Bc  kf    -     -         1165   10    0 
+Kurtz     798182993  9  9 f   -     -     -         1155    0    0 
+Kurtz     798183054  9  8 f   -     -     -         1155    0    0 
+Kurtz     798183161  9  7 f   -     -     -         1155    0    0 
+Kurtz     798183224  9  6 r   br    bc    kc        1155  110    0 As Ah
+Kurtz     798183292  9  5 f   -     -     -         1045    0    0 
+Kurtz     798183365  8  3 f   -     -     -         1045    0    0 
+Kurtz     798183393  8  2 B   -     -     -         1045   10   15 
+Kurtz     798183421  8  1 Bc  k     b     -         1050   30   60 
+Kurtz     798183485  8  8 c   cc    c     c         1080   70    0 Jh Ah
+Kurtz     798183556  8  7 c   f     -     -         1010   10    0 
+Kurtz     798183633  8  6 f   -     -     -         1000    0    0 
+Kurtz     798183687  8  5 f   -     -     -         1000    0    0 
+Kurtz     798183729  8  4 c   kf    -     -         1000   10    0 
+Kurtz     798183775  8  3 c   b     -     -          990   20   70 
+Kurtz     798183809  8  2 Bk  kf    -     -         1040   10    0 
+Kurtz     798183871  8  1 Bc  k     kr    bf        1030   70    0 
+Kurtz     798183953  8  8 f   -     -     -          960    0    0 
+Kurtz     798184002  8  7 c   kc    kr    b          960   80  210 Ts Kd
+Kurtz     798184102  9  7 c   k     f     -         1090   10    0 
+Kurtz     798184194  8  5 f   -     -     -         1080    0    0 
+Kurtz     798184270  8  4 f   -     -     -         1080    0    0 
+Kurtz     798184340  7  2 B   -     -     -         1080   10   15 
+Kurtz     798184359  7  1 Bc  kc    kc    kc        1085   80    0 Ad 9d
+Kurtz     798184475  7  7 f   -     -     -         1005    0    0 
+Kurtz     798184531  7  6 f   -     -     -         1005    0    0 
+Kurtz     798184630  7  5 c   r     b     -         1005   50   95 
+Kurtz     798184683  7  4 f   -     -     -         1050    0    0 
+Kurtz     798184761  7  3 f   -     -     -         1050    0    0 
+Kurtz     798184841  7  2 Bc  k     k     kc        1050   40    0 Ah 9s
+Kurtz     798184924  6  1 Bc  k     kf    -         1010   10    0 
+Kurtz     798185011  6  6 f   -     -     -         1000    0    0 
+Kurtz     798185063  6  5 f   -     -     -         1000    0    0 
+Kurtz     798185122  6  4 c   kf    -     -         1000   10    0 
+Kurtz     798185176  6  3 cc  k     f     -          990   20    0 
+Kurtz     798185243  6  2 Bc  kf    -     -          970   20    0 
+Kurtz     798185305  7  1 Bc  kf    -     -          950   10    0 
+Kurtz     798185387  6  6 cc  c     c     k          940   50  105 9d Td
+Kurtz     798185434  6  5 c   c     c     c          995   80    0 Qc As
+Kurtz     798185492  6  4 r   c     c     r          915   90    0 5h 5c
+Kurtz     798185555  6  3 c   f     -     -          825   10    0 
+Kurtz     798185600  6  2 Bc  kc    kc    k          815   50  105 As Qd
+Kurtz     798185651  7  1 Bc  b     kr    b          870   80  170 Ac 3h
+Kurtz     798185704  7  7 f   -     -     -          960    0    0 
+Kurtz     798185734  7  6 c   c     c     f          960   50    0 
+Kurtz     798185803  7  5 c   r     c     f          910   50    0 
+Kurtz     798185900  7  4 f   -     -     -          860    0    0 
+Kurtz     798185957  7  3 f   -     -     -          860    0    0 
+Kurtz     798186023  7  2 Bk  b     b     -          860   40   85 
+Kurtz     798186086  7  1 Bc  kf    -     -          905   10    0 
+Kurtz     798186119  6  6 c   b     r     b          895   90  235 Td Th
+Kurtz     798186194  6  5 Q   -     -     -         1040    0    0 
+Kurtz     798187246  4  2 Br  bcc   kc    kc        1040  100  285 Kd Ad
+Kurtz     798187301  4  1 Bf  -     -     -         1225    5    0 
+Kurtz     798187335  4  4 c   b     f     -         1220   20    0 
+Kurtz     798187379  4  3 c   f     -     -         1200   10    0 
+Kurtz     798187425  4  2 Br  kc    kc    kc        1190   70    0 Tc Th
+Kurtz     798187484  4  1 Bc  kf    -     -         1120   10    0 
+Kurtz     798187511  4  4 c   b     -     -         1110   20   40 
+Kurtz     798187527  4  3 cc  c     bc    b         1130   90    0 As 3d
+Kurtz     798187579  4  2 Bk  kf    -     -         1040   10    0 
+Kurtz     798187636  4  1 Bc  kf    -     -         1030   10    0 
+Kurtz     798187677  4  4 c   c     c     r         1020   80  180 Jc Ts
+Kurtz     798187727  4  3 f   -     -     -         1120    0    0 
+Kurtz     798187769  4  2 Bk  kc    b     b         1120   60  130 8s 8d
+Kurtz     798187838  4  1 Bc  b     -     -         1190   20   40 
+Kurtz     798187887  5  4 c   c     b     -         1210   40   80 
+Kurtz     798187920  5  3 cr  br    b     b         1250  100  215 Js Jd
+Kurtz     798187959  5  2 Bk  k     b     -         1365   30   55 
+Kurtz     798188010  5  1 Bc  kc    kf    -         1390   20    0 
+Kurtz     798188053  5  5 r   b     r     k         1370   70    0 As Jc
+Kurtz     798188091  5  4 r   f     -     -         1300   20    0 
+Kurtz     798188139  5  3 f   -     -     -         1280    0    0 
+Kurtz     798188209  5  2 Bk  cc    k     f         1280   30    0 
+Kurtz     798188261  5  1 Bc  k     bf    -         1250   30    0 
+Kurtz     798188299  5  5 c   f     Q     -         1220   10    0 
+Kurtz     798269470  8  8 c   r     b     f         1210   50    0 
+Kurtz     798269549  8  7 f   -     -     -         1160    0    0 
+Kurtz     798269611  7  5 c   k     f     -         1160   10    0 
+Kurtz     798269650  7  4 f   -     -     -         1150    0    0 
+Kurtz     798269748  7  3 f   -     -     -         1150    0    0 
+Kurtz     798269805  7  2 Bc  kf    -     -         1150   30    0 
+Kurtz     798269869  7  1 Bc  k     kr    b         1120   70  150 
+Kurtz     798269930  8  8 c   rr    r     r         1200  130  410 2h Qh
+Kurtz     798270018  8  7 f   -     -     -         1480    0    0 
+Kurtz     798270109  6  4 f   -     -     -         1480    0    0 
+Kurtz     798270123  6  3 cc  f     -     -         1480   20    0 
+Kurtz     798270188  6  2 Bf  -     -     -         1460   10    0 
+Kurtz     798270231  6  1 Bc  kc    kr    b         1450   80  220 7s 8d
+Kurtz     798270280  6  6 f   -     -     -         1590    0    0 
+Kurtz     798270327  6  5 f   -     -     -         1590    0    0 
+Kurtz     798270349  6  4 cc  r     b     b         1590   90    0 4h Kd
+Kurtz     798270404  6  3 f   -     -     -         1500    0    0 
+Kurtz     798270478  6  2 Bc  f     -     -         1500   20    0 
+Kurtz     798270517  5  1 Bc  kc    kc    kc        1480   90    0 9h 9c
+Kurtz     798270565  5  5 r   b     b     -         1390   50  130 
+Kurtz     798270625  5  4 f   -     -     -         1470    0    0 
+Kurtz     798270661  5  3 cc  kf    -     -         1470   20    0 
+Kurtz     798270711  5  2 Bc  b     bc    kc        1450   90    0 Qs 5s
+Kurtz     798270773  5  1 Bf  -     -     -         1360    5    0 
+Kurtz     798270826  6  5 f   -     -     -         1355    0    0 
+Kurtz     798270873  6  4 f   -     -     -         1355    0    0 
+Kurtz     798270944  6  3 c   f     -     -         1355   10    0 
+Kurtz     798270997  6  2 Br  b     bc    kr        1345  120  300 As Ks
+Kurtz     798271045  6  1 Bcc kf    -     -         1525   30    0 
+Kurtz     798271100  6  6 f   -     -     -         1495    0    0 
+Kurtz     798271146  6  5 r   b     b     k         1495   50   67 Qs Ks
+Kurtz     798271194  6  4 c   f     -     -         1512   10    0 
+Kurtz     798271255  6  3 f   -     -     -         1502    0    0 
+Kurtz     798271307  6  2 Bf  -     -     -         1502   10    0 
+Kurtz     798271374  6  1 Bc  kf    -     -         1492   10    0 
+Kurtz     798271402  6  6 f   -     -     -         1482    0    0 
+Kurtz     798271423  6  5 f   -     -     -         1482    0    0 
+Kurtz     798271480  6  4 cr  c     rc    c         1482  130    0 Jd Jc
+Kurtz     798271562  6  3 f   -     -     -         1352    0    0 
+Kurtz     798271653  6  2 Br  krr   b     b         1352  100  265 
+Kurtz     798271739  6  1 Bf  -     -     -         1517    5    0 
+Kurtz     798271783  6  6 Q   -     -     -         1512    0    0 
+Kurtz     798271873  6  4 f   -     -     -         1512    0    0 
+Kurtz     798271931  6  3 c   f     -     -         1512   10    0 
+Kurtz     798271967  6  2 Bf  -     -     -         1502   10    0 
+Kurtz     798272029  6  1 Br  k     kc    b         1492   60  120 
+Kurtz     798272083  6  6 c   cc    f     -         1552   40    0 
+Kurtz     798272142  6  5 c   f     -     -         1512   10    0 
+Kurtz     798272200  6  4 c   b     r     b         1502   80  170 
+Kurtz     798272261  6  3 f   -     -     -         1592    0    0 
+Kurtz     798272302  6  2 Bcf -     -     -         1592   20    0 
+Kurtz     798272380  6  1 Bc  br    b     b         1572   80    0 9d 2c
+Kurtz     798272433  5  5 f   -     -     -         1492    0    0 
+Kurtz     798272490  6  5 f   -     -     -         1492    0    0 
+Kurtz     798272521  6  4 cc  c     f     -         1492   30    0 
+Kurtz     798272611  6  3 f   -     -     -         1462    0    0 
+Kurtz     798272675  6  2 Bc  bc    b     b         1462   80  205 
+Kurtz     798272724  6  1 Bcc kr    b     k         1587   60  190 Ac 7h
+Kurtz     798272790  6  6 f   -     -     -         1717    0    0 
+Kurtz     798272843  5  5 r   -     -     -         1717   20   35 
+Kurtz     798272860  5  4 f   -     -     -         1732    0    0 
+Kurtz     798272939  5  3 f   -     -     -         1732    0    0 
+Kurtz     798272972  5  2 Bk  c     c     r         1732   80   80 Kh 9s
+Kurtz     798273019  5  1 Bc  kc    b     b         1732   60  150 2h 5d
+Kurtz     798273075  5  5 f   -     -     -         1822    0    0 
+Kurtz     798273124  5  4 f   -     -     -         1822    0    0 
+Kurtz     798273177  5  3 c   f     -     -         1822   10    0 
+Kurtz     798273217  5  2 Bk  c     k     f         1812   20    0 
+Kurtz     798273270  5  1 Bc  b     -     -         1792   30   70 
+Kurtz     798273301  5  5 c   r     b     b         1832   70  130 
+Kurtz     798273340  5  4 c   b     -     -         1892   20   35 
+Kurtz     798273361  5  3 cc  c     k     r         1907   80    0 7c 7h
+Kurtz     798273449  5  2 Bf  -     -     -         1827   10    0 
+Kurtz     798273495  5  1 Bc  br    kc    kf        1817   60    0 
+Kurtz     798273559  5  5 f   -     -     -         1757    0    0 
+Kurtz     798273590  5  4 c   k     f     -         1757   10    0 
+Kurtz     798273626  4  3 f   -     -     -         1747    0    0 
+Kurtz     798273682  5  2 Bk  k     c     k         1747   30    0 Jh 5s
+Kurtz     798273725  5  1 Bf  -     -     -         1717    5    0 
+Kurtz     798273765  5  5 r   c     c     c         1712   70    0 Js Qc
+Kurtz     798273803  5  4 cc  r     r     b         1642  100    0 6c 6s
+Kurtz     798273868  5  3 f   -     -     -         1542    0    0 
+Kurtz     798273900  5  2 Bk  c     r     b         1542   80  170 Jc 7d
+Kurtz     798273939  5  1 Bc  kc    br    b         1632  100  220 
+Kurtz     798274070  4  4 c   c     r     -         1752   60  115 
+Kurtz     798274107  3  3 c   r     b     b         1807   70  150 3d Ad
+Kurtz     798274164  3  2 Bk  f     -     -         1887   10    0 
+Kurtz     798274196  3  1 Bc  krr   b     b         1877  100  210 2s 2h
+Kurtz     798274241  3  3 c   k     c     rr        1987  110    0 Ks 5s
+Kurtz     798274304  3  2 Bk  b     -     -         1877   20   30 
+Kurtz     798274351  3  1 Bc  b     -     -         1887   20   30 
+Kurtz     798274371  3  3 f   -     -     -         1897    0    0 
+Kurtz     798274400  4  2 Br  b     -     -         1897   30   50 
+Kurtz     798274419  4  1 Bc  kc    bc    kc        1917   80  170 2d 8d
+Kurtz     798274453  4  4 c   c     k     c         2007   50    0 Qd Jh
+Kurtz     798274508  4  3 r   c     c     c         1957   70    0 Js Jd
+Kurtz     798274538  4  2 Bk  f     -     -         1887   10    0 
+Kurtz     798274574  4  1 Br  b     -     -         1877   30   80 
+Kurtz     798274593  4  4 f   -     -     -         1927    0    0 
+Kurtz     798274608  4  3 f   -     -     -         1927    0    0 
+Kurtz     798274628  4  2 Bk  kf    -     -         1927   10    0 
+Kurtz     798274668  5  1 Bf  -     -     -         1917    5    0 
+Kurtz     798274744  5  5 c   r     b     b         1912   70    0 9s Jh
+Kurtz     798274796  5  4 c   rr    r     b         1842  120  127 Ts Ah
+Kurtz     798274846  5  3 f   -     -     -         1849    0    0 
+Kurtz     798274898  5  2 Bc  kf    -     -         1849   20    0 
+Kurtz     798275014  5  1 Bf  -     -     -         1829    5    0 
+Kurtz     798275040  5  5 cc  c     r     b         1824  100    0 Ts Ks
+Kurtz     798275130  5  4 f   -     -     -         1724    0    0 
+Kurtz     798275151  5  3 f   -     -     -         1724    0    0 
+Kurtz     798275199  4  1 Bf  Q     -     -         1724   10    0 
+Kurtz     798356368 10  7 c   f     -     -         1714   20    0 
+Kurtz     798356413 10  6 c   f     -     -         1694   10    0 
+Kurtz     798356530 10  5 f   -     -     -         1684    0    0 
+Kurtz     798356578 11  4 cc  b     b     k         1684   50  220 Ad 9c
+Kurtz     798356650 11  3 f   -     -     -         1854    0    0 
+Kurtz     798356706 11  2 Bf  -     -     -         1854   10    0 
+Kurtz     798356775 10  1 Bc  k     kc    k         1844   50    0 Jh Ad
+Kurtz     798356858 10 10 f   -     -     -         1794    0    0 
+Kurtz     798356905 10  9 f   -     -     -         1794    0    0 
+Kurtz     798356971 10  8 c   f     -     -         1794   10    0 
+Kurtz     798357046 10  7 f   -     -     -         1784    0    0 
+Kurtz     798357111 10  6 c   b     b     b         1784   70  155 Ts Ah
+Kurtz     798357159 10  5 c   f     -     -         1869   10    0 
+Kurtz     798357249 10  4 f   -     -     -         1859    0    0 
+Kurtz     798357320 10  3 f   -     -     -         1859    0    0 
+Kurtz     798357384 10  2 Bk  kr    b     b         1859   70  175 
+Kurtz     798357474 10  1 Bc  kf    -     -         1964   20    0 
+Kurtz     798357578 10 10 f   -     -     -         1944    0    0 
+Kurtz     798357641 10  9 f   -     -     -         1944    0    0 
+Kurtz     798357729  9  7 f   -     -     -         1944    0    0 
+Kurtz     798357805  9  6 f   -     -     -         1944    0    0 
+Kurtz     798357906  9  5 f   -     -     -         1944    0    0 
+Kurtz     798357941  9  4 c   kf    -     -         1944   10    0 
+Kurtz     798358020  9  3 f   -     -     -         1934    0    0 
+Kurtz     798358074  9  2 Bk  k     k     b         1934   30    0 Kh Td
+Kurtz     798358164  9  1 Bc  kf    -     -         1904   10    0 
+Kurtz     798358218  9  9 c   k     k     k         1894   10    0 Ad 3h
+Kurtz     798358273  9  4 Q   -     -     -         1884    0    0 
+Kurtz     798447403  8  8 c   f     -     -         1884   10    0 
+Kurtz     798447462  7  6 f   -     -     -         1874    0    0 
+Kurtz     798447549  7  5 f   -     -     -         1874    0    0 
+Kurtz     798447654  7  3 Q   -     -     -         1874    0    0 
+Kurtz     798448051  6  5 f   -     -     -         1874    0    0 
+Kurtz     798448130  6  4 cc  c     f     -         1874   30    0 
+Kurtz     798448177  6  3 r   r     b     -         1844   60  130 
+Kurtz     798448269  6  2 Bf  -     -     -         1914   10    0 
+Kurtz     798448311  6  1 Bc  kf    -     -         1904   20    0 
+Kurtz     798448364  5  5 fQ  -     -     -         1884    0    0 
+Kurtz     798449006  5  3 cc  f     -     -         1884   20    0 
+Kurtz     798449086  5  2 Bf  -     -     -         1864   10    0 
+Kurtz     798449176  5  1 Br  b     b     bc        1854   90    0 Tc As
+Kurtz     798449248  5  5 f   -     -     -         1764    0    0 
+Kurtz     798449306  5  4 c   f     -     -         1764   20    0 
+Kurtz     798449408  5  3 f   -     -     -         1744    0    0 
+Kurtz     798449481  5  2 Bc  k     kr    -         1744   60  140 
+Kurtz     798449659  5  1 Bc  k     k     b         1824   30   40 
+Kurtz     798449700  5  5 f   -     -     -         1834    0    0 
+Kurtz     798449763  5  4 f   -     -     -         1834    0    0 
+Kurtz     798449817  5  3 r   k     k     b         1834   40   70 
+Kurtz     798449873  5  2 Bk  kf    -     -         1864   10    0 
+Kurtz     798449912  5  1 Bcc kf    -     -         1854   40    0 
+Kurtz     798450154  4  4 f   -     -     -         1814    0    0 
+Kurtz     798450248  4  3 f   -     -     -         1814    0    0 
+Kurtz     798450292  4  2 Bk  c     b     b         1814   60  130 7s 3d
+Kurtz     798450340  4  1 Bc  k     kr    -         1884   50   80 
+Kurtz     798450381  4  4 f   -     -     -         1914    0    0 
+Kurtz     798450386  4  3 f   -     -     -         1914    0    0 
+Kurtz     798450397  4  2 Br  b     -     -         1914   40  100 
+Kurtz     798450434  6  1 Bf  -     -     -         1974    5    0 
+Kurtz     798450511  6  6 f   -     -     -         1969    0    0 
+Kurtz     798450587  6  5 f   -     -     -         1969    0    0 
+Kurtz     798450671  6  4 f   -     -     -         1969    0    0 
+Kurtz     798450733  6  3 f   -     -     -         1969    0    0 
+Kurtz     798450801  6  2 Bc  b     b     -         1969   50   85 
+Kurtz     798450839  6  1 Bc  k     kf    -         2004   10    0 
+Kurtz     798450883  6  4 Q   -     -     -         1994    0    0 
+Kurtz     799054591  2  2 Bk  c     r     b         1994   80    0 Jc 6s
+Kurtz     799054624  2  1 Bf  -     -     -         1914    5    0 
+Kurtz     799054630  2  2 Bk  k     b     -         1909   30   40 
+Kurtz     799054654  2  1 Br  -     -     -         1919   20   30 
+Kurtz     799054658  3  2 B   -     -     -         1929   10   15 
+Kurtz     799054668  3  1 Bf  -     -     -         1934    5    0 
+Kurtz     799054679  3  3 f   -     -     -         1929    0    0 
+Kurtz     799054719  3  2 Bc  bc    b     b         1929   80  165 Jh 7h
+Kurtz     799054758  3  1 Bc  bc    kc    b         2014   70    0 9s Td
+Kurtz     799054802  3  3 f   -     -     -         1944    0    0 
+Kurtz     799054821  3  2 Bc  kf    -     -         1944   20    0 
+Kurtz     799054845  3  1 Bcc kc    k     b         1924   50  100 As 4d
+Kurtz     799054888  3  3 cr  b     b     b         1974   80  170 Jc Js
+Kurtz     799054937  3  2 B   -     -     -         2064   10   15 
+Kurtz     799054949  3  1 BQ  -     -     -         2069    5    0 
+Kurtz     799059079  5  4 rr  c     c     f         1474   70    0 
+Kurtz     799059147  5  3 c   f     -     -         1404   10    0 
+Kurtz     799059204  5  2 Bf  -     -     -         1394   10    0 
+Kurtz     799059226  5  1 BQ  -     -     -         1384    5    0 
+Kurtz     799138218  3  2 Bc  c     c     c         1379   70  140 5d Kd
+Kurtz     799138242  3  1 Bf  -     -     -         1449    5    0 
+Kurtz     799138267  3  3 rc  c     c     c         1444   90    0 5h 5d
+Kurtz     799138309  3  2 Bc  c     c     rrrrrrr   1354  330  655 Tc 6s
+Kurtz     799138335  2  1 Br  br    k     k         1679   50    0 Td 6s
+Kurtz     799138384  3  3 f   -     -     -         1629    0    0 
+Kurtz     799138389  2  2 Bc  f     -     -         1629   20    0 
+Kurtz     799138404  2  1 Bcc brrrrrrc b     brc       1609  260    0 5h 6h
+Kurtz     799138435  2  2 Bc  rc    c     rrrrrrrrrrrrrrrrrrrc   1349  850 1700 7s 5s
+Kurtz     799138490  2  1 Bcc kf    -     -         2199   20    0 
+Kurtz     799138504  2  2 Bc  c     f     -         2179   30    0 
+Kurtz     799138512  2  1 Bf  -     -     -         2149    5    0 
+Kurtz     799138514  2  2 Bc  c     c     f         2144   50    0 
+Kurtz     799138528  2  1 Bcc kc    f     -         2094   30    0 
+Kurtz     799138540  2  2 Bc  c     f     -         2064   30    0 
+Kurtz     799138554  2  1 Bf  -     -     -         2034    5    0 
+Kurtz     799138559  2  2 Bc  c     c     c         2029   70    0 8c As
+Kurtz     799138572  2  1 Bcc kc    kc    krrrrc    1959  230    0 9d 9s
+Kurtz     799138601  2  2 Bf  -     -     -         1729   10    0 
+Kurtz     799138606  2  1 Bf  -     -     -         1719    5    0 
+Kurtz     799138609  2  2 Bc  c     c     f         1714   50    0 
+Kurtz     799138619  2  1 Bf  -     -     -         1664    5    0 
+Kurtz     799138622  2  2 Bc  f     -     -         1659   20    0 
+Kurtz     799138631  2  1 Bcc kc    kc    kc        1639   70  140 5d Ac
+Kurtz     799138648  2  2 Bc  f     -     -         1709   20    0 
+Kurtz     799138657  2  1 Bcc kc    f     -         1689   30    0 
+Kurtz     799138667  2  2 Bc  c     c     c         1659   70    0 Ts 5s
+Kurtz     799138680  2  1 Bcc kc    kc    brrrrrrc   1589  330  660 8s Ts
+Kurtz     799138711  2  2 Bf  -     -     -         1919   10    0 
+Kurtz     799138716  2  1 Bf  -     -     -         1909    5    0 
+Kurtz     799138718  2  2 Bc  c     c     f         1904   50    0 
+Kurtz     799138732  2  1 Bcc kc    kc    brc       1854  130  260 Ad 2d
+Kurtz     799138756  2  2 Bf  -     -     -         1984   10    0 
+Kurtz     799138760  2  1 Bf  -     -     -         1974    5    0 
+Kurtz     799138763  2  2 Bf  -     -     -         1969   10    0 
+Kurtz     799138766  2  1 Bcc kc    f     -         1959   30    0 
+Kurtz     799138778  2  2 Bf  -     -     -         1929   10    0 
+Kurtz     799138781  2  1 Bcc kc    kc    kc        1919   70    0 7d Ac
+Kurtz     799138796  2  2 Bf  -     -     -         1849   10    0 
+Kurtz     799138802  2  1 Bcc kc    kc    kc        1839   70    0 7h Qc
+Kurtz     799138819  2  2 Bc  c     c     c         1769   70    0 2s 2d
+Kurtz     799138841  2  1 Brc kc    brrrc brrrr     1699  380  760 Kc Ac
+Kurtz     799138867  2  2 Brc f     -     -         2079   40    0 
+Kurtz     799138882  2  1 Bcc brrc  kc    kc        2039  120  240 9c Jd
+Kurtz     799138906  2  2 Bc  c     c     c         2159   70    0 8d Kd
+Kurtz     799138922  2  1 Bf  -     -     -         2089    5    0 
+Kurtz     799138928  2  2 Bc  c     c     c         2084   70    0 3s Ah
+Kurtz     799138941  2  1 Bcc kc    kc    brrrrrrrrrrrrrrQ   2014  630 1250 Jh 6h

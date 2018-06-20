@@ -1,0 +1,94 @@
+Elvis     798186194  6  2 c   b     b     kf        1000   40    0 
+Elvis     798186241  5  2 Bk  k     b     b          960   50   85 
+Elvis     798186281  5  1 Bc  kc    bc    b          995   80    0 8h Ac
+Elvis     798186345  4  4 c   b     k     b          915   40   85 
+Elvis     798186399  4  3 c   k     b     -          960   30   50 
+Elvis     798186455  4  2 Bk  cc    cc    f          980   70    0 
+Elvis     798186518  4  1 Bc  b     -     -          910   20   40 
+Elvis     798186539  4  4 r   r     b     b          930   80    0 6h 2c
+Elvis     798186588  4  3 c   k     c     c          850   50  110 Th 7s
+Elvis     798186616  4  2 Bk  kc    krc   f          910   80    0 
+Elvis     798186655  4  1 Bc  k     k     b          830   30   40 
+Elvis     798186673  4  4 c   k     b     -          840   30   60 
+Elvis     798186718  4  3 c   k     b     -          870   30   45 
+Elvis     798186752  4  2 Br  b     b     -          885   60  135 
+Elvis     798186780  4  1 Bc  b     -     -          960   20   40 
+Elvis     798186799  4  4 cc  b     -     -          980   30   60 
+Elvis     798186816  4  3 c   -     -     -         1010   10   25 
+Elvis     798186831  4  2 B   -     -     -         1025   10   15 
+Elvis     798186841  4  1 Bc  kc    kr    bf        1030   80    0 
+Elvis     798186882  3  3 c   k     k     c          950   30    0 8h Qd
+Elvis     798186903  3  3 c   c     c     r          920   80  170 Td 9h
+Elvis     798186932  3  2 Bc  b     bc    bc        1010  110    0 Js 7s
+Elvis     798186954  3  1 Bc  bc    bc    f          900   70    0 
+Elvis     798187007  2  2 B   -     -     -          830   10   15 
+Elvis     798187013  2  1 Brc kc    krc   kr         835  140    0 Qc Ac
+Elvis     798187040  2  2 Bk  f     -     -          695   10    0 
+Elvis     798187058  2  1 Bcc kc    kr    b          685   90  160 
+Elvis     798187079  2  2 B   -     -     -          755   10   15 
+Elvis     798187083  2  1 Bc  kc    kf    -          760   20    0 
+Elvis     798187098  2  2 B   -     -     -          740   10   15 
+Elvis     798187105  2  1 Bc  b     -     -          745   20   30 
+Elvis     798187113  3  2 Bk  kc    kc    f          755   40    0 
+Elvis     798187152  3  1 Bc  kc    bc    kc         715   80    0 Ac 7d
+Elvis     798187186  3  3 c   c     k     c          635   40    0 3d Jh
+Elvis     798187246  4  3 cc  cr    b     b          595  100    0 5d 3d
+Elvis     798187301  4  2 Bc  bc    krc   kc         495  120  245 9c 8d
+Elvis     798187335  4  1 Bc  kf    -     -          620   10    0 
+Elvis     798187379  4  4 c   c     c     r          610   90  110 Tc 2c
+Elvis     798187425  4  3 cc  b     b     b          630   70  175 Qh 7s
+Elvis     798187484  4  2 Bk  b     b     -          735   40   70 
+Elvis     798187511  4  1 Bc  kf    -     -          765   10    0 
+Elvis     798187527  4  4 cc  c     cc    f          755   70    0 
+Elvis     798187579  4  3 c   b     b     bc         685   80    0 Jc 3h
+Elvis     798187636  4  2 Bk  b     -     -          605   20   40 
+Elvis     798187677  4  1 Bc  b     b     bc         625   80    0 5s As
+Elvis     798187727  4  4 c   c     b     f          545   40    0 
+Elvis     798187769  4  3 c   b     c     c          505   60    0 Jd 3d
+Elvis     798187838  4  2 Bk  f     -     -          445   10    0 
+Elvis     798187887  5  1 Bc  b     f     -          435   20    0 
+Elvis     798187920  5  5 rc  rc    c     c          415  100    0 5s Ah
+Elvis     798187959  5  4 c   f     -     -          315   10    0 
+Elvis     798188010  5  3 c   b     b     b          305   60  130 
+Elvis     798188053  5  2 Bc  kc    bc    k          375   70  145 Qs 8d
+Elvis     798188091  5  1 Bc  b     -     -          450   30   90 
+Elvis     798188139  5  5 c   b     b     -          510   40   70 
+Elvis     798188209  5  4 c   r     k     c          540   50    0 2s Ad
+Elvis     798188261  5  3 c   k     f     -          490   10    0 
+Elvis     798188299  5  2 Bk  bc    kc    b          480   70  185 
+Elvis     798188351  4  1 Bc  bc    kc    kc         595   70  150 9s 7c
+Elvis     798188376  4  4 c   b     b     c          675   60    0 As 9h
+Elvis     798188405  4  3 c   c     c     c          615   60    0 4d 5d
+Elvis     798188433  4  2 Bk  b     b     -          555   40   65 
+Elvis     798188466  4  1 Br  bc    k     b          580   60  140 
+Elvis     798188503  4  4 c   b     c     r          660   80  150 
+Elvis     798188539  4  3 c   r     c     c          730   70    0 2d Js
+Elvis     798188565  4  2 Bk  b     b     b          660   60  115 
+Elvis     798188591  4  1 Bc  k     k     b          715   30   60 Ah 9h
+Elvis     798188618  4  4 c   f     -     -          745   10    0 
+Elvis     798188639  4  3 rc  kc    krc   b          735  120  255 
+Elvis     798188675  4  2 Bc  kc    krc   f          870   90    0 
+Elvis     798188695  4  1 Bc  k     kc    krrrc      780  170    0 As Ks
+Elvis     798188745  4  4 c   b     -     -          610   20   35 
+Elvis     798188772  4  3 r   -     -     -          625   20   35 
+Elvis     798188778  4  2 Bk  kc    k     bc         640   60    0 Qs 8d
+Elvis     798188803  4  1 Bcc bc    krc   f          580  100    0 
+Elvis     798188830  4  4 c   f     -     -          480   20    0 
+Elvis     798188860  4  3 c   c     bc    kc         460   80  230 Td 7h
+Elvis     798188914  4  2 Bk  c     c     c          610   60    0 Kd 6h
+Elvis     798188934  4  1 Bc  bc    kc    f          550   50    0 
+Elvis     798188957  5  5 c   cc    c     f          500   70    0 
+Elvis     798189056  5  4 c   cr    bc    k          430   90    0 Jh Th
+Elvis     798189142  5  3 cc  rc    c     f          340   70    0 
+Elvis     798189188  5  2 Bc  k     c     c          270   60    0 Kd Kh
+Elvis     798189252  5  1 Bc  kf    -     -          210   10    0 
+Elvis     798189285  5  5 c   k     c     c          200   50  105 Jh 8c
+Elvis     798189330  5  4 cc  k     f     -          255   20    0 
+Elvis     798189380  4  2 Bc  r     b     bf         235  100    0 
+Elvis     798189449  5  1 Br  bc    kr    b          135  100  230 Ts Td
+Elvis     798189524  5  5 c   r     c     f          265   60    0 
+Elvis     798189598  6  5 cr  bc    bc    f          205  100    0 
+Elvis     798189690  6  4 c   b     -     -          105   20   40 
+Elvis     798189747  7  3 rr  f     -     -          125   40    0 
+Elvis     798189832  7  2 Br  br    b     f           85   80    0 
+Elvis     798189931  7  1 BA  -     -     -            5    5    0 5d 9d

@@ -1,0 +1,708 @@
+Schween   797223464  9  4 r   b     brc   kc        1355  130  385 As Ah
+Schween   797223546  9  3 c   bc    b     b         1610   70  240 
+Schween   797223703 10  2 Bc  kf    -     -         1780   20    0 
+Schween   797223851  9  1 Bf  -     -     -         1760    5    0 
+Schween   797224020  9  9 c   f     -     -         1755   20    0 
+Schween   797224110 10  9 f   -     -     -         1735    0    0 
+Schween   797224208 12  9 f   -     -     -         1735    0    0 
+Schween   797224283 12  8 f   -     -     -         1735    0    0 
+Schween   797224374 11  7 f   -     -     -         1735    0    0 
+Schween   797224477 11  6 f   -     -     -         1735    0    0 
+Schween   797224575 11  5 f   -     -     -         1735    0    0 
+Schween   797224650 11  4 f   -     -     -         1735    0    0 
+Schween   797224724 11  3 fQ  -     -     -         1735    0    0 
+Schween   798170462  8  4 f   -     -     -         1735    0    0 
+Schween   798170587  8  3 cc  b     kc    kc        1735   70  240 3s Ad
+Schween   798170705  8  2 Bk  kf    -     -         1905   10    0 
+Schween   798170782  8  1 Bc  bf    -     -         1895   30    0 
+Schween   798170851  7  6 c   f     -     -         1865   10    0 
+Schween   798170986  8  6 f   -     -     -         1855    0    0 
+Schween   798171086  8  5 cc  b     b     b         1855   70  165 Js 8s
+Schween   798171159  8  5 f   -     -     -         1950    0    0 
+Schween   798171297  8  4 f   -     -     -         1950    0    0 
+Schween   798171374  8  3 f   -     -     -         1950    0    0 
+Schween   798171454  8  2 Bk  f     -     -         1950   10    0 
+Schween   798171523  8  1 Bf  -     -     -         1940    5    0 
+Schween   798171588  8  8 c   c     c     k         1935   40    0 Qc Th
+Schween   798171688  8  7 cc  f     -     -         1895   30    0 
+Schween   798171773  8  6 ccc kc    kc    kf        1865   70    0 
+Schween   798171896  8  5 f   -     -     -         1795    0    0 
+Schween   798172027  8  4 f   -     -     -         1795    0    0 
+Schween   798172127  8  3 f   -     -     -         1795    0    0 
+Schween   798172260  9  2 Bc  brc   kc    k         1795   80  320 Ah Ts
+Schween   798172378  9  1 Bf  -     -     -         2035    5    0 
+Schween   798172522 10 10 f   -     -     -         2030    0    0 
+Schween   798172630  9  8 c   f     -     -         2030   20    0 
+Schween   798172713  8  6 cc  f     -     Q         2010   20    0 
+Schween   798173583  9  5 r   b     bc    bc        1990  110    0 Tc Td
+Schween   798173655  9  5 cc  kf    -     -         1880   20    0 
+Schween   798173716 10  4 rc  kc    kc    k         1860   60  165 Ad Qc
+Schween   798173791 11  3 c   b     -     -         1965   20   35 
+Schween   798173832 12  2 Bc  b     br    b         1980  110  325 Td Qd
+Schween   798173920 12  1 Bf  -     -     -         2195    5    0 
+Schween   798174013 12 12 f   -     -     -         2190    0    0 
+Schween   798174114 10  9 f   -     -     -         2190    0    0 
+Schween   798174160 10  8 r   k     c     k         2190   60    0 Ks Jd
+Schween   798174247 10  7 c   rc    f     -         2130   50    0 
+Schween   798174343 10  6 r   c     c     f         2080   50    0 
+Schween   798174406 10  5 f   -     -     -         2030    0    0 
+Schween   798174477 12  4 f   -     -     Q         2030    0    0 
+Schween   798182770  7  6 f   -     -     -         2030    0    0 
+Schween   798182805  7  5 f   -     -     -         2030    0    0 
+Schween   798182860  8  4 f   -     -     -         2030    0    0 
+Schween   798182927  8  3 f   -     -     -         2030    0    0 
+Schween   798182993  9  2 Bk  b     b     b         2030   60  130 
+Schween   798183054  9  1 Bcc kf    -     -         2100   20    0 
+Schween   798183161  9  9 rc  b     -     -         2080   40  110 
+Schween   798183224  9  8 c   f     -     -         2150   20    0 
+Schween   798183292  9  7 f   -     -     -         2130    0    0 
+Schween   798183365  8  5 f   -     -     -         2130    0    0 
+Schween   798183393  8  4 f   -     -     -         2130    0    0 
+Schween   798183421  8  3 f   -     -     -         2130    0    0 
+Schween   798183485  8  2 Bk  kr    b     b         2130   70  225 8h Ad
+Schween   798183556  8  1 Bc  kf    -     -         2285   10    0 
+Schween   798183633  8  8 r   r     k     k         2275   40    0 9h 9d
+Schween   798183687  8  7 f   -     -     -         2235    0    0 
+Schween   798183729  8  6 c   b     b     -         2235   40   90 
+Schween   798183775  8  5 c   f     -     -         2285   10    0 
+Schween   798183809  8  4 c   b     b     b         2275   60  150 Ad Ah
+Schween   798183871  8  3 f   -     -     -         2365    0    0 
+Schween   798183953  8  2 Bc  br    b     -         2365   70  145 
+Schween   798184002  8  1 Bc  kf    -     -         2440   10    0 
+Schween   798184102  9  9 c   k     r     br        2430  110  270 Ks 4s
+Schween   798184194  8  7 f   -     -     -         2590    0    0 
+Schween   798184270  8  6 f   -     -     -         2590    0    0 
+Schween   798184340  7  4 f   -     -     -         2590    0    0 
+Schween   798184359  7  3 r   bc    kc    kc        2590   80    0 7s 7h
+Schween   798184475  7  2 Bc  b     b     -         2510   50   85 
+Schween   798184531  7  1 Bcc kc    kf    -         2545   50    0 
+Schween   798184630  7  7 f   -     -     -         2495    0    0 
+Schween   798184683  7  6 c   brc   kc    krc       2495  130    0 9s Ad
+Schween   798184761  7  5 f   -     -     -         2365    0    0 
+Schween   798184841  7  4 cc  k     k     b         2365   40  100 6h Kh
+Schween   798184924  6  3 f   -     -     -         2425    0    0 
+Schween   798185011  6  2 Bc  kf    -     -         2425   20    0 
+Schween   798185063  6  1 Bc  k     b     -         2405   30   50 
+Schween   798185122  6  6 c   r     -     -         2425   30   80 
+Schween   798185176  6  5 r   k     c     r         2475   80  220 As Jc
+Schween   798185243  6  4 r   brf   -     -         2615   50    0 
+Schween   798185305  7  3 c   b     -     -         2565   20   40 
+Schween   798185387  6  2 Br  b     b     k         2585   50    0 Ad Qh
+Schween   798185434  6  1 Bc  b     b     bf        2535   60    0 
+Schween   798185492  6  6 f   -     -     -         2475    0    0 
+Schween   798185555  6  5 f   -     -     -         2475    0    0 
+Schween   798185600  6  4 r   b     b     k         2475   50    0 Jh Qs
+Schween   798185651  7  3 f   -     -     -         2425    0    0 
+Schween   798185704  7  2 Bf  -     -     -         2425   10    0 
+Schween   798185734  7  1 Bc  bc    kf    -         2415   30    0 
+Schween   798185803  7  7 c   c     c     f         2385   50    0 
+Schween   798185900  7  6 f   -     -     -         2335    0    0 
+Schween   798185957  7  5 f   -     -     -         2335    0    0 
+Schween   798186023  7  4 f   -     -     -         2335    0    0 
+Schween   798186086  7  4 f   -     -     -         2335    0    0 
+Schween   798186119  6  2 Bc  kf    -     Q         2335   20    0 
+Schween   798188957  5  3 r   rc    f     -         2315   50    0 
+Schween   798189056  5  2 Bk  f     -     -         2265   10    0 
+Schween   798189142  5  1 Br  br    b     b         2255   90  180 
+Schween   798189188  5  5 cc  k     c     f         2345   40    0 
+Schween   798189252  5  4 c   b     -     -         2305   20   40 
+Schween   798189285  5  3 f   -     -     -         2325    0    0 
+Schween   798189330  5  2 Bc  k     k     k         2325   20    0 8c 6c
+Schween   798189380  4  1 Br  bc    kc    kf        2305   80    0 
+Schween   798189449  5  4 f   -     -     -         2225    0    0 
+Schween   798189524  5  3 r   cc    c     f         2225   60    0 
+Schween   798189598  6  2 Bcf -     -     -         2165   20    0 
+Schween   798189690  6  1 Bc  kf    -     -         2145   10    0 
+Schween   798189747  7  7 cc  b     b     b         2135   90  290 
+Schween   798189832  7  6 f   -     -     -         2335    0    0 
+Schween   798189931  7  5 f   -     -     -         2335    0    0 
+Schween   798190003  6  4 cc  f     -     -         2335   20    0 
+Schween   798190058  6  3 c   kQ    -     -         2315   10    0 
+Schween   798235007 11 11 f   -     -     -         2305    0    0 
+Schween   798235057 12 11 f   -     -     -         2305    0    0 
+Schween   798235150 12 10 f   -     -     -         2305    0    0 
+Schween   798235271 12  9 r   c     c     rr        2305  140  385 Ad Kh
+Schween   798235392 12  8 f   -     -     -         2550    0    0 
+Schween   798235635 11  6 KQ  -     -     -         2550    0    0 
+Schween   798241752 12 12 c   c     r     k         2550   70    0 9c Qd
+Schween   798241929 12 11 f   -     -     -         2480    0    0 
+Schween   798242066  9  9 f   -     -     -         2480    0    0 
+Schween   798242179  9  8 c   f     -     -         2480   10    0 
+Schween   798242266 10  8 f   -     -     -         2470    0    0 
+Schween   798242370 10  7 f   -     -     -         2470    0    0 
+Schween   798242472  9  6 f   -     -     -         2470    0    0 
+Schween   798242597  7  4 r   b     -     -         2470   30   60 
+Schween   798242641  7  3 f   -     -     -         2500    0    0 
+Schween   798242732  9  2 Bk  k     k     kf        2500   10    0 
+Schween   798242811  9  1 Bc  kf    -     -         2490   10    0 
+Schween   798242857 10  9 f   -     -     -         2480    0    0 
+Schween   798242935 10  8 rc  r     b     k         2480   80  270 Qs Qh
+Schween   798243039 10  6 c   r     b     k         2670   60  235 8s Ah
+Schween   798243127 11  6 r   b     k     kc        2845   50  160 Kd Kc
+Schween   798243202 10  5 r   bc    b     bc        2955  100  250 Qc Kc
+Schween   798243306  8  3 cc  c     f     -         3105   30    0 
+Schween   798243437 11  2 Bc  kf    -     -         3075   20    0 
+Schween   798243508 11  1 Bf  -     -     -         3055    5    0 
+Schween   798243633 11 11 c   rc    c     c         3050   90  225 8s Ks
+Schween   798243712 12 11 f   -     -     -         3185    0    0 
+Schween   798243820 12 10 f   -     -     -         3185    0    0 
+Schween   798243944 12  9 f   -     -     -         3185    0    0 
+Schween   798244023 11  8 c   f     -     -         3185   10    0 
+Schween   798244096 10  6 cc  kc    f     -         3175   40    0 
+Schween   798244221 10  6 f   -     -     -         3135    0    0 
+Schween   798244286  9  4 f   -     -     -         3135    0    0 
+Schween   798244384  9  3 f   -     -     -         3135    0    0 
+Schween   798244452  9  2 Bk  kr    f     -         3135   30    0 
+Schween   798244599  9  1 Bc  b     b     -         3105   40   90 
+Schween   798244660  9  9 f   -     -     -         3155    0    0 
+Schween   798244705  9  8 c   f     -     -         3155   20    0 
+Schween   798244776  9  7 r   b     bc    kc        3135   90    0 Ad Ac
+Schween   798244911  9  5 f   -     -     -         3045    0    0 
+Schween   798244955  9  4 cc  k     kr    b         3045   80  175 As Th
+Schween   798245039  9  3 cc  f     -     -         3140   20    0 
+Schween   798245142  9  2 Bc  kf    -     -         3120   20    0 
+Schween   798245219 10  1 Bc  kf    -     -         3100   20    0 
+Schween   798245264  7  7 f   -     -     -         3080    0    0 
+Schween   798245285  8  7 f   -     -     -         3080    0    0 
+Schween   798245365  8  6 c   f     -     -         3080   10    0 
+Schween   798245423  7  4 cc  rr    bc    bc        3070  140  210 6c Kh
+Schween   798245545  7  3 r   b     k     c         3140   50    0 Ac Ts
+Schween   798245622  7  2 Bk  kf    -     -         3090   10    0 
+Schween   798245666  6  1 Bc  b     b     k         3080   50    0 9c Kc
+Schween   798245728  6  6 f   -     -     -         3030    0    0 
+Schween   798245753  6  5 r   f     -     -         3030   20    0 
+Schween   798245823  6  4 f   -     -     -         3010    0    0 
+Schween   798245849  6  3 Q   -     -     -         3010    0    0 
+Schween   798257554  4  2 Bf  -     -     -         3010   10    0 
+Schween   798257610  4  1 Br  b     k     k         3000   30    0 Jc Ad
+Schween   798257668  5  4 f   -     -     -         2970    0    0 
+Schween   798257707  5  3 Q   -     -     -         2970    0    0 
+Schween   798337109 11  9 c   r     f     -         2970   40    0 
+Schween   798337252 12  9 f   -     -     -         2930    0    0 
+Schween   798337353 12  8 f   -     -     -         2930    0    0 
+Schween   798337492 12  7 f   -     -     -         2930    0    0 
+Schween   798337621 11  7 r   b     k     k         2930   30   95 Ks Jh
+Schween   798337700 10  4 f   -     -     -         2995    0    0 
+Schween   798337784  8  3 f   -     -     -         2995    0    0 
+Schween   798337965  8  2 Bk  kc    kf    -         2995   20    0 
+Schween   798338039 10  1 Bc  bf    -     -         2975   20    0 
+Schween   798338115 10 10 c   rc    br    rr        2955  180  545 Qd 9h
+Schween   798338233 10  9 c   f     -     -         3320   10    0 
+Schween   798338344  9  7 f   -     -     -         3310    0    0 
+Schween   798338407  9  6 c   b     -     -         3310   20   35 
+Schween   798338450  8  4 f   -     -     -         3325    0    0 
+Schween   798338575  8  2 r   -     -     -         3325   20   30 
+Schween   798338592  8  2 Bk  bc    kf    -         3335   30    0 
+Schween   798338651  8  1 Bc  k     kf    -         3305   10    0 
+Schween   798338741  8  8 r   b     -     -         3295   30   65 
+Schween   798338787  8  8 f   -     -     -         3330    0    0 
+Schween   798338837  8  7 cc  f     -     -         3330   20    0 
+Schween   798338944  8  6 f   -     -     -         3310    0    0 
+Schween   798338991  7  4 f   -     -     -         3310    0    0 
+Schween   798339054  7  3 r   b     -     -         3310   30   65 
+Schween   798339091  7  2 Bk  k     b     k         3345   30    0 Kd 2c
+Schween   798339160  7  1 Bc  bc    bc    k         3315   70  170 8c 7s
+Schween   798339228  7  7 r   f     -     -         3415   30    0 
+Schween   798339324  7  6 cc  kf    -     -         3385   20    0 
+Schween   798339458  7  5 f   -     -     -         3365    0    0 
+Schween   798339543  8  4 r   b     b     b         3365   70  135 
+Schween   798339631  8  3 f   -     -     -         3430    0    0 
+Schween   798339667  8  2 Bk  kc    kf    -         3430   20    0 
+Schween   798339788  8  1 Bc  kc    kf    -         3410   30    0 
+Schween   798339857  8  8 f   -     -     -         3380    0    0 
+Schween   798339937  8  7 c   k     k     f         3380   20    0 
+Schween   798340006  8  6 cc  kc    f     -         3360   30    0 
+Schween   798340116  9  6 c   bf    -     -         3330   20    0 
+Schween   798340199  8  5 f   -     -     -         3310    0    0 
+Schween   798340257  8  4 f   -     -     -         3310    0    0 
+Schween   798340370  8  3 f   -     -     -         3310    0    0 
+Schween   798340423  7  1 Bk  k     k     b         3310   30   40 
+Schween   798340473  7  1 Bf  -     -     -         3320    5    0 
+Schween   798340535  7  7 r   b     -     -         3315   40   85 
+Schween   798340573  7  6 f   -     -     -         3360    0    0 
+Schween   798340626  7  5 r   b     -     -         3360   30   55 
+Schween   798340674  7  4 f   -     -     -         3385    0    0 
+Schween   798340751  7  3 c   b     -     -         3385   20   45 
+Schween   798340822  6  1 Bc  kf    -     -         3410   20    0 
+Schween   798340868  6  1 Bf  -     -     -         3390    5    0 
+Schween   798340897  6  6 r   r     k     k         3385   40    0 As Td
+Schween   798340962  6  5 f   -     -     -         3345    0    0 
+Schween   798340999  6  4 f   -     -     -         3345    0    0 
+Schween   798341074  6  3 f   -     -     -         3345    0    0 
+Schween   798341126  6  2 Bc  kc    kf    -         3345   30    0 
+Schween   798341218  8  1 Bf  -     -     -         3315    5    0 
+Schween   798341293  8  8 r   b     c     k         3310   60    0 Ac Th
+Schween   798341372  9  8 r   r     b     k         3250   70  175 Kc Jc
+Schween   798341455  9  7 f   -     -     -         3355    0    0 
+Schween   798341535  8  5 f   -     -     -         3355    0    0 
+Schween   798341600  8  4 c   k     c     f         3355   30    0 
+Schween   798341661  8  3 fQ  -     -     -         3325    0    0 
+Schween   798347608  7  4 f   -     -     -         3325    0    0 
+Schween   798347681  7  3 c   kf    -     -         3325   10    0 
+Schween   798347741  7  2 Bk  f     -     -         3315   10    0 
+Schween   798347781  7  1 Br  b     k     k         3305   30   60 Qc 8d
+Schween   798347840  7  7 c   k     f     -         3335   10    0 
+Schween   798347894  7  6 c   r     r     b         3325   90  260 8d Ac
+Schween   798348015  9  5 cc  f     -     -         3495   20    0 
+Schween   798348137  9  4 r   kc    kc    krc       3475  140  205 Kd Qd
+Schween   798348269  9  3 f   -     -     -         3540    0    0 
+Schween   798348389  9  2 Bk  kf    -     -         3540   10    0 
+Schween   798348488  9  1 Bc  k     b     -         3530   30   70 
+Schween   798348570  9  9 r   b     -     -         3570   30   65 
+Schween   798348668  8  7 cc  f     -     -         3605   20    0 
+Schween   798348738  7  6 f   -     -     -         3585    0    0 
+Schween   798348811  8  5 cc  kf    -     -         3585   20    0 
+Schween   798348903  8  4 f   -     -     -         3565    0    0 
+Schween   798349005  8  3 f   -     -     -         3565    0    0 
+Schween   798349061  8  2 Bk  kf    -     -         3565   10    0 
+Schween   798349119  9  1 Bf  -     -     -         3555    5    0 
+Schween   798349241 10 10 c   c     c     f         3550   40    0 
+Schween   798349368 10  9 rc  f     -     -         3510   30    0 
+Schween   798349472 10  8 c   r     k     b         3480   50  160 5s Qs
+Schween   798349581 10  7 r   b     b     b         3590   70  230 Kh Kc
+Schween   798349689 11  6 cc  kc    f     -         3750   40    0 
+Schween   798349845 12  5 f   -     -     -         3710    0    0 
+Schween   798349958 12  3 Q   -     -     -         3710    0    0 
+Schween   798396741  9  6 f   -     -     -         3710    0    0 
+Schween   798396784  9  5 f   -     -     -         3710    0    0 
+Schween   798396817  9  4 f   -     -     -         3710    0    0 
+Schween   798396924  9  3 r   b     k     kf        3710   30    0 
+Schween   798397089  8  2 Bf  -     -     -         3680   10    0 
+Schween   798397169  8  1 Bc  k     k     k         3670   10    0 8d 6c
+Schween   798397231  8  8 f   -     -     -         3660    0    0 
+Schween   798397293  8  7 f   -     -     -         3660    0    0 
+Schween   798397360  6  4 f   -     -     -         3660    0    0 
+Schween   798397389  6  5 r   bf    -     -         3660   30    0 
+Schween   798397468  5  3 c   r     c     k         3630   50  105 Ad 9d
+Schween   798397513  5  2 Bc  kf    -     -         3685   20    0 
+Schween   798397570  5  1 Bf  -     -     -         3665    5    0 
+Schween   798397639  5  5 f   -     -     -         3660    0    0 
+Schween   798397710  5  4 cc  kf    -     -         3660   20    0 
+Schween   798397779  5  3 f   -     -     -         3640    0    0 
+Schween   798397859  6  2 Bc  kf    -     -         3640   20    0 
+Schween   798397901  6  1 Bf  -     -     -         3620    5    0 
+Schween   798397958  6  6 f   -     -     -         3615    0    0 
+Schween   798398033  6  5 f   Q     -     -         3615    0    0 
+Schween   798398230  7  5 f   -     -     -         3615    0    0 
+Schween   798398300  7  4 f   -     -     -         3615    0    0 
+Schween   798398354  7  3 f   -     -     -         3615    0    0 
+Schween   798398419  7  2 B   -     -     -         3615   10   15 
+Schween   798398446  6  1 Bf  -     -     -         3620    5    0 
+Schween   798398507  6  6 c   b     bf    -         3615   40    0 
+Schween   798398616  7  5 r   b     b     -         3575   50   95 
+Schween   798398682  8  4 Q   -     -     -         3620    0    0 
+Schween   798408460  5  4 f   -     -     -         3620    0    0 
+Schween   798408514  5  3 c   b     b     b         3620   60  150 4d Jh
+Schween   798408576  5  2 Bc  f     -     -         3710   20    0 
+Schween   798408642  5  1 Bf  -     -     -         3690    5    0 
+Schween   798408707  5  5 c   k     c     f         3685   30    0 
+Schween   798408811  7  5 r   b     b     bc        3655   90    0 6d Ac
+Schween   798408894  7  4 Q   -     -     -         3565    0    0 
+Schween   798423320  9  8 c   r     b     c         3565   70  165 Js 5s
+Schween   798423419  9  7 r   bc    c     f         3660   60    0 
+Schween   798423582  9  6 f   -     -     -         3600    0    0 
+Schween   798423657  8  5 r   br    r     cc        3600  130    0 Jc Ac
+Schween   798423776  8  4 c   b     rc    k         3470   80  340 Td Qs
+Schween   798423885  8  3 f   -     -     -         3730    0    0 
+Schween   798423972  8  2 Bk  b     b     c         3730   60  180 7s 7h
+Schween   798424048  8  1 Bc  k     b     b         3850   60  130 
+Schween   798424142  7  7 c   rc    cc    f         3920  140    0 
+Schween   798424304  8  7 c   bc    c     f         3780   50    0 
+Schween   798424441  8  6 c   k     c     f         3730   30    0 
+Schween   798424524  8  5 cc  cc    c     rc        3700  180  575 Kc 2c
+Schween   798424687  8  4 c   kf    -     -         4095   10    0 
+Schween   798424796  8  2 c   kf    -     -         4085   10    0 
+Schween   798424940  9  2 Bc  kf    -     -         4075   20    0 
+Schween   798425022 10  1 Bc  kf    -     -         4055   20    0 
+Schween   798425113 12 12 f   -     -     -         4035    0    0 
+Schween   798425172 12 11 c   r     kf    -         4035   30    0 
+Schween   798425261 12 10 f   -     -     -         4005    0    0 
+Schween   798425380 11  8 Q   -     -     -         4005    0    0 
+Schween   798431803  7  6 f   -     -     -         4005    0    0 
+Schween   798431856  7  5 c   f     -     -         4005   10    0 
+Schween   798431928  9  4 f   -     -     -         3995    0    0 
+Schween   798431988  9  3 f   -     -     -         3995    0    0 
+Schween   798432088  6  1 Bk  br    bf    -         3995   60    0 
+Schween   798432135  4  1 Bc  -     -     -         3935   10   20 
+Schween   798432168  3  3 c   b     -     -         3945   20   35 
+Schween   798432218  4  3 f   -     -     -         3960    0    0 
+Schween   798432302  3  2 Bk  b     -     -         3960   20   30 
+Schween   798432331  3  1 Br  -     -     -         3970   20   30 
+Schween   798432348  3  3 f   -     -     -         3980    0    0 
+Schween   798432366  3  2 B   -     -     -         3980   10   15 
+Schween   798432378  3  1 Bc  kc    kf    -         3985   20    0 
+Schween   798432416  3  3 f   -     -     -         3965    0    0 
+Schween   798432432  2  2 Br  b     -     -         3965   30   50 
+Schween   798432457  2  1 Bf  -     -     -         3985    5    0 
+Schween   798432467  2  2 B   -     -     -         3980   10   15 
+Schween   798432475  2  1 Br  b     bc    kf        3985   70    0 
+Schween   798432513  2  2 Bk  k     rc    c         3915   90    0 6h 7d
+Schween   798432556  2  1 Br  -     -     -         3825   20   30 
+Schween   798432579  4  4 rc  k     k     f         3835   30    0 
+Schween   798432644  4  3 f   -     -     -         3805    0    0 
+Schween   798432673  4  2 Bc  kr    b     b         3805   80  165 Jc 4d
+Schween   798432720  4  1 Bc  k     -     -         3890   10   30 
+Schween   798432746  5  5 rr  k     k     k         3910   40  120 8h Ad
+Schween   798432821  5  4 r   b     -     -         3990   30   70 
+Schween   798432865  5  3 cc  f     -     -         4030   20    0 
+Schween   798432929  5  2 Br  k     b     -         4010   40   60 
+Schween   798432969  5  1 Bf  -     -     -         4030    5    0 
+Schween   798433045  5  5 f   -     -     -         4025    0    0 
+Schween   798433095  7  6 r   b     -     -         4025   30  100 
+Schween   798433149  7  5 f   -     -     -         4095    0    0 
+Schween   798433221  8  4 f   -     -     -         4095    0    0 
+Schween   798433301  8  3 c   r     b     b         4095   70  180 
+Schween   798433370  8  2 Bk  k     k     k         4205   10    0 Ts Kd
+Schween   798433440  8  1 Bc  kf    -     -         4195   10    0 
+Schween   798433563  6  6 c   f     -     -         4185   10    0 
+Schween   798433638  7  7 r   b     b     -         4175   50   95 
+Schween   798433704  8  6 f   -     -     -         4220    0    0 
+Schween   798433753  8  5 rr  r     b     k         4220   80  170 Qc Kd
+Schween   798433821  9  4 cc  k     c     k         4310   40    0 Ts Qs
+Schween   798434050  7  2 Bc  kf    -     -         4270   20    0 
+Schween   798434164  5  1 Bc  kf    -     -         4250   20    0 
+Schween   798434276  6  6 rc  c     c     k         4230   70    0 Kh 9s
+Schween   798434392  6  5 c   c     k     c         4160   40    0 As 4s
+Schween   798434459  6  4 f   -     -     -         4120    0    0 
+Schween   798434513  6  3 rc  f     -     -         4120   30    0 
+Schween   798434604  6  2 Br  b     -     -         4090   30   50 
+Schween   798434717  8  1 Br  br    k     k         4110   50  140 Ad Qd
+Schween   798434854  5  5 f   -     -     -         4200    0    0 
+Schween   798434952  4  3 r   -     -     -         4200   20   10 5c As
+Schween   798434977  4  2 Br  c     c     f         4190   50    0 
+Schween   798435044  4  1 Br  -     -     -         4140   20   30 
+Schween   798435062  4  4 c   r     -     -         4150   30   75 Kh 9c
+Schween   798435114  3  3 cc  f     -     -         4195   20    0 
+Schween   798435153  4  2 Bc  kf    -     -         4175   20    0 
+Schween   798435223  5  1 Br  k     b     -         4155   40   80 
+Schween   798435271  5  5 c   k     f     -         4195   10    0 
+Schween   798435323  5  4 f   -     -     -         4185    0    0 
+Schween   798435365  5  3 cc  f     -     -         4185   20    0 
+Schween   798435440  6  3 f   -     -     -         4165    0    0 
+Schween   798435518  6  2 Bf  -     -     -         4165   10    0 
+Schween   798435566  6  1 Bc  kc    k     kf        4155   20    0 
+Schween   798435643  6  6 f   -     -     -         4135    0    0 
+Schween   798435658  6  5 f   -     -     -         4135    0    0 
+Schween   798435759  8  5 fQ  -     -     -         4135    0    0 
+Schween   798443570  6  2 Bf  -     -     -         4135   10    0 
+Schween   798443600  6  1 Bc  bf    -     -         4125   20    0 
+Schween   798443639  6  6 r   b     rc    c         4105  110    0 As Kc
+Schween   798443759  5  4 f   -     -     -         3995    0    0 
+Schween   798443796  5  4 f   -     -     -         3995    0    0 
+Schween   798443852  5  3 f   -     -     -         3995    0    0 
+Schween   798443889  5  2 Br  b     b     -         3995   50   80 
+Schween   798443929  5  1 Br  b     -     -         4025   30   50 
+Schween   798443961  5  5 c   rc    c     c         4045   80  170 Ah 3s
+Schween   798444001  5  4 f   -     -     -         4135    0    0 
+Schween   798444049  5  3 cc  kf    -     -         4135   20    0 
+Schween   798444105  4  2 Bf  -     -     -         4115   10    0 
+Schween   798444145  4  1 Bc  k     b     k         4105   30   70 5c Qc
+Schween   798444193  4  4 f   -     -     -         4145    0    0 
+Schween   798444214  4  3 r   -     -     -         4145   20   35 
+Schween   798444236  4  2 Br  k     b     bc        4160   80    0 Ks Kc
+Schween   798444287  4  1 Bf  -     -     -         4080    5    0 
+Schween   798444307  4  4 r   rr    b     b         4075  100  230 9c Kc
+Schween   798444357  4  3 r   b     -     -         4205   30   55 
+Schween   798444387  4  2 B   -     -     -         4230   10   15 
+Schween   798444391  4  1 Bf  -     -     -         4235    5    0 
+Schween   798444432  4  4 r   -     -     -         4230   20   35 
+Schween   798444448  4  3 rr  kc    kc    k         4245   70    0 Td Th
+Schween   798444516  5  2 Bk  kc    kc    krc       4175  100    0 Jc 7c
+Schween   798444615  5  1 Br  b     -     -         4075   30   50 
+Schween   798444654  5  5 f   -     -     -         4095    0    0 
+Schween   798444713  5  4 f   -     -     -         4095    0    0 
+Schween   798444774  5  3 f   -     -     -         4095    0    0 
+Schween   798444841  5  2 Bc  kf    -     -         4095   20    0 
+Schween   798444950  5  1 Bc  b     b     k         4075   40    0 9d Js
+Schween   798445026  5  5 c   r     c     k         4035   50   90 7c Kd
+Schween   798445130  5  4 f   -     -     -         4075    0    0 
+Schween   798445169  5  3 f   -     -     -         4075    0    0 
+Schween   798445260  5  2 Bk  b     b     -         4075   40   75 
+Schween   798445314  6  1 Bc  b     b     kc        4110   60  140 Ad 5c
+Schween   798445373  6  6 f   -     -     -         4190    0    0 
+Schween   798445431  8  5 f   -     -     -         4190    0    0 
+Schween   798445486  8  4 c   b     k     b         4190   40  105 
+Schween   798445576  8  3 cc  krc   b     k         4255   80  275 2c 2d
+Schween   798445687  7  1 Bk  kf    -     -         4450   10    0 
+Schween   798445750  7  1 Bc  k     kf    -         4440   10    0 
+Schween   798445855  7  7 f   -     -     -         4430    0    0 
+Schween   798445983  7  6 f   -     -     -         4430    0    0 
+Schween   798446112  8  6 rc  f     -     -         4430   40    0 
+Schween   798446261  8  5 cc  f     -     -         4390   20    0 
+Schween   798446381  8  4 r   b     k     k         4370   30    0 Qd Kc
+Schween   798446470  8  3 cc  kc    kc    b         4340   70  225 9h Th
+Schween   798446575  8  2 Bk  kr    b     kc        4495   70    0 6s Ad
+Schween   798446638  8  1 Bc  k     kf    -         4425   10    0 
+Schween   798446734  8  8 f   -     -     -         4415    0    0 
+Schween   798446796  8  7 f   -     -     -         4415    0    0 
+Schween   798446842  8  6 f   -     -     -         4415    0    0 
+Schween   798446965  8  5 f   -     -     -         4415    0    0 
+Schween   798447069  8  4 f   -     -     -         4415    0    0 
+Schween   798447143  8  3 cc  k     br    brr       4415  180  355 
+Schween   798447234  8  2 Bk  k     f     -         4590   10    0 
+Schween   798447306  7  1 Bc  kc    kc    kr        4580   90  240 8d Qd
+Schween   798447403  8  7 c   f     -     -         4730   10    0 
+Schween   798447462  7  5 c   k     k     k         4720   10    0 Kh 7d
+Schween   798447549  7  4 f   -     -     -         4710    0    0 
+Schween   798447654  7  4 f   Q     -     -         4710    0    0 
+Schween   798509626 10  7 f   -     -     -         4710    0    0 
+Schween   798509754 10  6 cc  b     rc    f         4710   90    0 
+Schween   798509918 11  6 cc  k     k     f         4620   20    0 
+Schween   798510035 11  5 f   -     -     -         4600    0    0 
+Schween   798510350 10  4 fQ  -     -     -         4600    0    0 
+Schween   798517519  8  6 c   f     -     -         4600   10    0 
+Schween   798517568  8  5 f   -     -     -         4590    0    0 
+Schween   798517604  8  5 c   k     f     -         4590   10    0 
+Schween   798517666  7  3 f   -     -     -         4580    0    0 
+Schween   798517715  7  2 Bc  kf    -     -         4580   20    0 
+Schween   798517750  7  1 Br  -     -     -         4560   20   30 
+Schween   798517774  6  6 f   -     -     -         4570    0    0 
+Schween   798517832  6  5 r   -     -     -         4570   20   35 
+Schween   798517868  6  4 f   -     -     -         4585    0    0 
+Schween   798517950  6  3 cc  kc    k     b         4585   50  130 7s Qs
+Schween   798518011  7  2 Bk  k     f     -         4665   10    0 
+Schween   798518055  7  1 Bc  b     -     -         4655   20   40 
+Schween   798518089  8  8 r   f     -     -         4675   30    0 
+Schween   798518148  8  7 f   -     -     -         4645    0    0 
+Schween   798518222  8  6 r   b     b     -         4645   50   90 
+Schween   798518276  8  5 f   -     -     -         4685    0    0 
+Schween   798518338  8  4 f   -     -     -         4685    0    0 
+Schween   798518404  8  3 f   -     -     -         4685    0    0 
+Schween   798518521  8  2 Bk  kf    -     -         4685   10    0 
+Schween   798518597  8  1 Bc  b     -     -         4675   20   30 
+Schween   798518634  8  8 f   -     -     -         4685    0    0 
+Schween   798518689  8  7 r   c     c     b         4685   80  155 
+Schween   798518777  8  7 c   k     f     -         4760   10    0 
+Schween   798518847  7  5 cc  f     -     -         4750   20    0 
+Schween   798518914  6  3 f   -     -     -         4730    0    0 
+Schween   798518981  8  2 Bk  b     b     kf        4730   40    0 
+Schween   798519065  8  1 Bc  b     b     k         4690   40  100 Kd 9d
+Schween   798519121  8  8 f   -     -     -         4750    0    0 
+Schween   798519178  8  7 f   -     -     -         4750    0    0 
+Schween   798519307  7  6 f   -     -     -         4750    0    0 
+Schween   798519370  6  4 c   k     c     k         4750   30    0 9c Qd
+Schween   798519422  7  3 f   -     -     -         4720    0    0 
+Schween   798519462  7  2 Br  bf    -     -         4720   30    0 
+Schween   798519500  7  1 Bc  b     -     -         4690   20   40 
+Schween   798519534  7  7 f   -     -     -         4710    0    0 
+Schween   798519569  6  5 f   -     -     -         4710    0    0 
+Schween   798519620  6  4 f   -     -     -         4710    0    0 
+Schween   798519675  6  3 f   -     -     -         4710    0    0 
+Schween   798519706  6  2 Br  b     -     -         4710   30   50 
+Schween   798519786  6  1 Bc  kf    -     -         4730   20    0 
+Schween   798519853  6  4 Q   -     -     -         4710    0    0 
+Schween   798765404 11  2 Bk  b     bc    kc        4710   80  195 Td Jd
+Schween   798765478 11  1 Bc  kc    kf    -         4825   20    0 
+Schween   798765596 11 11 c   b     b     c         4805   70  260 Jh Ac
+Schween   798765713  9  8 f   -     -     -         4995    0    0 
+Schween   798765851  9  7 c   f     -     -         4995   10    0 
+Schween   798765958 11  8 f   -     -     -         4985    0    0 
+Schween   798766054  9  6 cf  -     -     -         4985   10    0 
+Schween   798766168 11  4 f   Q     -     -         4975    0    0 
+Schween   798780768  8  7 f   -     -     -         4975    0    0 
+Schween   798780894  8  6 f   -     -     -         4975    0    0 
+Schween   798780975  7  5 f   -     -     -         4975    0    0 
+Schween   798781024  6  4 f   -     -     -         4975    0    0 
+Schween   798781090  6  3 r   b     -     -         4975   30   55 
+Schween   798781128  5  2 Bk  kf    -     -         5000   10    0 
+Schween   798781181  5  1 Bc  kf    -     -         4990   10    0 
+Schween   798781245  6  6 r   b     k     k         4980   30   70 2c 6c
+Schween   798781289  7  6 c   k     f     -         5020   10    0 
+Schween   798781339  7  5 cc  f     -     -         5010   20    0 
+Schween   798781434  7  4 r   b     b     b         4990   70  215 7c 7h
+Schween   798781501  7  4 r   kc    kf    -         5135   30    0 
+Schween   798781571  6  2 Bk  k     b     k         5105   30    0 2h Th
+Schween   798781745  6  1 Bc  kf    -     -         5075   10    0 
+Schween   798781836  8  8 c   k     c     c         5065   50  200 Qd 3d
+Schween   798781928  7  7 c   f     -     -         5215   20    0 
+Schween   798781970  6  6 f   -     -     -         5195    0    0 
+Schween   798782015  6  5 r   b     -     -         5195   30   85 
+Schween   798782060  7  4 c   b     b     b         5250   60  120 
+Schween   798782206  7  3 c   f     -     -         5310   10    0 
+Schween   798782282  8  2 Bc  k     k     b         5300   40  105 5h 5s
+Schween   798782342  7  1 Bc  k     kf    -         5365   10    0 
+Schween   798782405  7  7 f   -     -     -         5355    0    0 
+Schween   798782493  6  5 c   f     -     -         5355   20    0 
+Schween   798782542  5  5 f   -     -     -         5335    0    0 
+Schween   798782589  6  4 f   -     -     -         5335    0    0 
+Schween   798782649  6  3 r   kc    b     -         5335   50   95 
+Schween   798782698  6  2 Bc  kf    -     -         5380   20    0 
+Schween   798782741  6  1 Bc  k     k     k         5360   10   40 2d 4s
+Schween   798782816  5  5 c   b     bf    -         5390   40    0 
+Schween   798782877  5  5 c   k     k     k         5350   10    0 7c Kd
+Schween   798782949  5  4 r   k     k     k         5340   20    0 Jd Td
+Schween   798782997  5  3 cc  kf    -     -         5320   20    0 
+Schween   798783052  5  2 Br  br    b     kc        5300  100    0 Kc Ad
+Schween   798783104  5  1 Bc  b     -     -         5200   20   40 
+Schween   798783137  5  5 f   -     -     -         5220    0    0 
+Schween   798783169  5  4 c   k     k     f         5220   10    0 
+Schween   798783229  5  3 f   -     -     -         5210    0    0 
+Schween   798783275  5  2 Bk  k     k     k         5210   10    0 8d Jh
+Schween   798783340  5  1 Bc  k     kf    -         5200   10    0 
+Schween   798783394  5  5 r   k     b     -         5190   40  105 
+Schween   798783458  5  4 r   b     b     k         5255   50  105 Kc As
+Schween   798783511  5  2 Bk  k     k     k         5310   10    0 5c 3h
+Schween   798783589  5  1 Bc  kf    -     -         5300   10    0 
+Schween   798783650  5  5 c   k     k     k         5290   10    0 Jd 9s
+Schween   798783724  5  4 f   -     -     -         5280    0    0 
+Schween   798783758  5  3 c   b     b     k         5280   40    0 5d Kd
+Schween   798783847  5  2 Bk  k     f     -         5240   10    0 
+Schween   798783890  5  1 Bc  b     k     k         5230   20    0 Qc 7h
+Schween   798783934  5  5 f   -     -     -         5210    0    0 
+Schween   798783971  5  5 c   f     -     -         5210   30    0 
+Schween   798784022  6  4 r   b     b     b         5180   70  107 Kh 5c
+Schween   798784107  6  3 c   Q     -     -         5217   10    0 
+Schween   798784239  7  2 Bk  kf    -     -         5207   10    0 
+Schween   798784315  7  1 Br  b     b     kc        5197   70  230 Qs Ks
+Schween   798784387  7  7 f   -     -     -         5357    0    0 
+Schween   798784443  7  6 r   b     b     -         5357   50  110 
+Schween   798784498  7  5 cf  -     -     -         5417   10    0 
+Schween   798784550  7  4 Q   Q     -     -         5407    0    0 
+Schween   798940126  8  4 f   -     -     -         5697    0    0 
+Schween   798940262  8  3 f   -     -     -         5697    0    0 
+Schween   798940326  9  3 f   Q     -     -         5697    0    0 
+Schween   798951004  5  3 cc  f     -     -         5697   20    0 
+Schween   798951075  5  2 Bk  k     k     k         5677   10    0 7h 6h
+Schween   798951120  4  1 Bc  k     b     -         5667   30   40 
+Schween   798951152  4  4 f   -     -     -         5677    0    0 
+Schween   798951165  4  3 r   -     -     -         5677   20   35 
+Schween   798951186  4  2 Br  b     c     r         5692   90  210 Ad 8c
+Schween   798951237  4  1 Br  k     k     k         5812   20    0 Qd Jc
+Schween   798951308  4  4 c   k     k     k         5792   10    0 2c Qh
+Schween   798951349  4  3 r   f     -     -         5782   20    0 
+Schween   798951396  4  2 Br  bc    k     k         5762   40  110 Qs Kc
+Schween   798951447  4  1 Bc  kf    -     -         5832   10    0 
+Schween   798951488  4  4 f   -     -     -         5822    0    0 
+Schween   798951518  4  3 r   kc    kc    b         5822   70  155 Ac Qh
+Schween   798951571  3  1 Bk  kf    -     -         5907   10    0 
+Schween   798951598  3  1 Bf  -     -     -         5897    5    0 
+Schween   798951624  3  3 r   -     -     -         5892   20   35 
+Schween   798951643  3  2 Bc  kf    -     -         5907   20    0 
+Schween   798951672  4  1 Bc  k     b     kc        5887   50    0 Ac Ts
+Schween   798951716  4  4 f   -     -     -         5837    0    0 
+Schween   798951756  4  3 r   b     -     -         5837   30   60 
+Schween   798951809  4  2 Bf  -     -     -         5867   10    0 
+Schween   798951844  5  1 Bc  bc    kc    k         5857   50    0 Ad 9h
+Schween   798951926  5  5 r   k     k     b         5807   40   90 Td Js
+Schween   798951963  5  4 f   -     -     -         5857    0    0 
+Schween   798952019  5  3 c   b     bc    c         5857   80  180 Ad Ah
+Schween   798952109  5  2 Bc  kc    k     kf        5957   30    0 
+Schween   798952190  5  1 Bc  kc    kf    -         5927   30    0 
+Schween   798952250  6  6 r   -     -     -         5897   20   35 
+Schween   798952274  6  5 c   kf    -     -         5912   10    0 
+Schween   798952346  6  4 f   -     -     -         5902    0    0 
+Schween   798952372  6  3 cc  kc    k     k         5902   30    0 Qd 9s
+Schween   798952423  6  2 Br  c     b     b         5872   70  170 
+Schween   798952495  6  1 Bc  k     k     k         5972   10    0 3s Tc
+Schween   798952542  6  6 c   brc   c     c         5962   90  240 3h Ks
+Schween   798952626  6  5 r   k     c     k         6112   40    0 Jc Ac
+Schween   798952692  6  4 f   -     -     -         6072    0    0 
+Schween   798952736  6  3 f   -     -     -         6072    0    0 
+Schween   798952765  6  2 Br  k     kc    b         6072   60    0 6d 6s
+Schween   798952826  6  1 Bf  -     -     -         6012    5    0 
+Schween   798952857  6  6 c   f     -     -         6007   10    0 
+Schween   798952950  7  6 f   -     -     -         5997    0    0 
+Schween   798952987  7  5 c   f     -     -         5997   10    0 
+Schween   798953032  7  4 r   -     -     -         5987   20   35 
+Schween   798953059  7  3 cc  b     b     k         6002   50  150 7c 6c
+Schween   798953125  7  2 Bf  -     -     -         6102   10    0 
+Schween   798953200  7  1 Bc  kf    -     -         6092   10    0 
+Schween   798953261  7  7 c   r     bc    f         6082   70    0 
+Schween   798953349  7  6 c   r     k     f         6012   40    0 
+Schween   798953442  8  6 f   -     -     -         5972    0    0 
+Schween   798953490  8  6 cc  kf    -     -         5972   20    0 
+Schween   798953537  7  4 f   -     -     -         5952    0    0 
+Schween   798953610  7  3 f   -     -     -         5952    0    0 
+Schween   798953647  7  2 Bf  -     -     -         5952   10    0 
+Schween   798953760  7  1 Bc  k     bf    -         5942   40    0 
+Schween   798953806  7  7 f   -     -     -         5902    0    0 
+Schween   798953848  7  6 f   -     -     -         5902    0    0 
+Schween   798953906  7  5 cc  kf    -     -         5902   20    0 
+Schween   798953992  7  4 c   b     b     k         5882   40   95 4h 4d
+Schween   798954056  7  3 r   k     c     r         5937   80  170 5s As
+Schween   798954112  7  2 Bc  kf    -     -         6027   20    0 
+Schween   798954150  7  1 Bc  kc    kc    kf        6007   60    0 
+Schween   798954242  7  7 c   k     k     b         5947   30   50 
+Schween   798954337  7  6 c   r     f     -         5967   30    0 
+Schween   798954398  8  6 f   -     -     -         5937    0    0 
+Schween   798954429  7  4 f   -     -     -         5937    0    0 
+Schween   798954520  7  3 r   rc    c     c         5937   90  205 Kh 8h
+Schween   798954582  7  2 Bc  f     -     -         6052   20    0 
+Schween   798954697  5  1 Br  b     b     b         6032   80    0 Kh Td
+Schween   798954745  6  5 f   -     -     -         5952    0    0 
+Schween   798954792  5  4 f   -     -     -         5952    0    0 
+Schween   798954835  5  3 r   k     kf    -         5952   20    0 
+Schween   798954898  5  2 Bc  kf    -     -         5932   20    0 
+Schween   798954973  5  1 Br  kc    kc    k         5912   50  150 Qd Tc
+Schween   798955059  5  5 f   -     -     -         6012    0    0 
+Schween   798955100  5  4 f   -     -     -         6012    0    0 
+Schween   798955157  5  3 f   -     -     -         6012    0    0 
+Schween   798955201  5  2 Bk  c     f     -         6012   20    0 
+Schween   798955242  5  1 Br  b     -     -         5992   30   50 
+Schween   798955270  5  5 f   -     -     -         6012    0    0 
+Schween   798955343  6  4 f   -     -     -         6012    0    0 
+Schween   798955428  6  3 f   Q     -     -         6012    0    0 
+Schween   799040349  3  3 r   -     -     -         6012   20   35 
+Schween   799040386  2  1 Bk  k     k     b         6027   30   40 
+Schween   799040430  3  1 Bc  k     kQ    -         6037   10    0 
+Schween   799116415  6  3 f   -     -     -         6027    0    0 
+Schween   799116457  6  2 Bk  k     f     -         6027   10    0 
+Schween   799116496  6  1 Bc  kf    -     -         6017   10    0 
+Schween   799116536  4  4 rc  c     r     b         6007  100  205 Qs 2c
+Schween   799116586  3  2 B   -     -     -         6112   10   15 
+Schween   799116596  3  1 Bc  b     -     -         6117   20   30 
+Schween   799116624  3  3 f   -     -     -         6127    0    0 
+Schween   799116634  3  2 Bc  kf    -     -         6127   20    0 
+Schween   799116665  3  1 Bf  -     -     -         6107    5    0 
+Schween   799116695  4  4 f   -     -     -         6102    0    0 
+Schween   799116740  4  3 c   b     k     f         6102   20    0 
+Schween   799116805  4  2 Br  kc    kr    -         6082  100  245 
+Schween   799116861  4  1 Bc  kc    kc    b         6227   70  150 Ac Js
+Schween   799116906  4  4 cf  -     -     -         6307   10    0 
+Schween   799116955  4  3 f   -     -     -         6297    0    0 
+Schween   799116982  4  2 Bc  b     bf    -         6297   50    0 
+Schween   799117026  3  1 Br  k     b     b         6247   60  120 Qd 6c
+Schween   799117063  3  3 c   br    -     -         6307   40   75 
+Schween   799117101  3  2 Br  k     c     b         6342   60  120 9s Qd
+Schween   799117155  3  1 Br  b     -     -         6402   30   60 
+Schween   799117186  3  3 f   -     -     -         6432    0    0 
+Schween   799117203  3  2 Bc  kf    -     -         6432   20    0 
+Schween   799117248  3  1 Bcf -     -     -         6412   10    0 
+Schween   799117269  3  3 r   -     -     -         6402   20   35 
+Schween   799117285  3  2 Bc  kf    -     -         6417   20    0 
+Schween   799117317  3  1 Bc  br    b     kc        6397   80  170 2s Ts
+Schween   799117362  3  3 r   b     b     b         6487   70  150 Ac Kh
+Schween   799117410  3  2 Bc  kc    bc    kc        6567   90  210 Ac Th
+Schween   799117465  3  1 Brc kf    -     -         6687   30    0 
+Schween   799117519  3  3 f   -     -     -         6657    0    0 
+Schween   799117529  3  2 Bc  bf    -     -         6657   30    0 
+Schween   799117553  3  1 Bf  -     -     -         6627    5    0 
+Schween   799117565  3  3 c   f     -     -         6622   10    0 
+Schween   799117590  3  2 Bc  c     r     b         6612   90  230 
+Schween   799117647  3  1 Bc  kf    -     -         6752   10    0 
+Schween   799117690  3  3 r   br    b     -         6742   70  130 
+Schween   799117733  3  2 Bc  k     r     b         6802   80  160 
+Schween   799117785  3  1 Bc  b     -     -         6882   20   40 
+Schween   799117820  3  3 rr  b     k     k         6902   50    0 Ts As
+Schween   799117862  3  2 Bf  -     -     -         6852   10    0 
+Schween   799117941  4  1 Bcc kf    -     -         6842   20    0 
+Schween   799117990  4  4 c   c     k     k         6822   30    0 Ad 9s
+Schween   799118036  4  3 f   -     -     -         6792    0    0 
+Schween   799118089  4  2 Br  k     c     r         6792   80  160 Ad Qd
+Schween   799118143  5  1 Bf  -     -     -         6872    5    0 
+Schween   799118258  4  4 f   -     -     -         6867    0    0 
+Schween   799118326  4  4 f   -     -     -         6867    0    0 
+Schween   799118367  4  3 f   -     -     -         6867    0    0 
+Schween   799118413  6  3 f   -     -     -         6867    0    0 
+Schween   799118454  6  2 Bc  kf    -     -         6867   20    0 
+Schween   799118512  6  1 Br  b     bc    kf        6847   80    0 
+Schween   799118576  6  6 f   -     -     -         6767    0    0 
+Schween   799118654  6  5 f   -     -     -         6767    0    0 
+Schween   799118717  7  4 Q   -     -     -         6767    0    0 
+Schween   799119425  5  3 rc  kc    kc    f         6767   60    0 
+Schween   799119516  5  2 Bc  b     bc    krc       6707  130    0 3c 5s
+Schween   799119588  6  1 Bc  kf    -     -         6577   20    0 
+Schween   799119675  6  6 f   -     -     -         6557    0    0 
+Schween   799119738  7  6 cc  f     -     -         6557   20    0 
+Schween   799119793  7  5 r   b     b     b         6537   70    0 Ts Th
+Schween   799119851  7  4 Q   -     -     -         6467    0    0 

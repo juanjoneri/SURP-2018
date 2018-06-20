@@ -1,0 +1,203 @@
+neoncap   797307750  7  3 f   -     -     -         1000    0    0 
+neoncap   797307806  8  2 BQ  -     -     -         1000   10    0 
+neoncap   797416216  6  3 f   -     -     -          990    0    0 
+neoncap   797416268  6  2 Bk  k     kf    -          990   10    0 
+neoncap   797416334  6  1 Bf  -     -     -          980    5    0 
+neoncap   797416383  6  6 f   -     -     -          975    0    0 
+neoncap   797416421  6  5 c   k     k     f          975   10    0 
+neoncap   797416474  6  4 f   -     -     -          965    0    0 
+neoncap   797416533  6  3 f   -     -     -          965    0    0 
+neoncap   797416599  6  2 Bk  k     f     -          965   10    0 
+neoncap   797416647  6  1 Bf  -     -     -          955    5    0 
+neoncap   797416701  6  6 rc  c     r     b          950  110  275 As Kd
+neoncap   797416765  6  5 c   f     -     -         1115   20    0 
+neoncap   797416815  5  3 cc  f     -     -         1095   20    0 
+neoncap   797416896  5  2 Bk  rf    -     -         1075   30    0 
+neoncap   797416963  5  1 Bf  -     -     -         1045    5    0 
+neoncap   797417010  5  5 r   c     r     c         1040  100    0 Ks As
+neoncap   797417095  5  4 f   -     -     -          940    0    0 
+neoncap   797417148  5  3 c   rrrc  f     -          940   80    0 
+neoncap   797417196  5  2 Bk  r     brc   c          860  130    0 Ad 5s
+neoncap   797417242  5  1 Bc  kf    -     -          730   10    0 
+neoncap   797417277  5  5 f   -     -     -          720    0    0 
+neoncap   797417301  5  4 f   -     -     -          720    0    0 
+neoncap   797417358  5  3 f   -     -     -          720    0    0 
+neoncap   797417376  5  2 Bc  k     kf    -          720   20    0 
+neoncap   797417434  5  1 Bf  -     -     -          700    5    0 
+neoncap   797417518  5  5 f   -     -     -          695    0    0 
+neoncap   797417564  5  4 f   -     -     -          695    0    0 
+neoncap   797417573  5  3 f   -     -     -          695    0    0 
+neoncap   797417648  5  2 Bf  -     -     -          695   10    0 
+neoncap   797417691  5  1 Bf  -     -     -          685    5    0 
+neoncap   797417797  5  5 f   -     -     -          680    0    0 
+neoncap   797417864  5  4 f   -     -     -          680    0    0 
+neoncap   797417908  5  3 f   -     -     -          680    0    0 
+neoncap   797417935  5  2 Bk  k     kf    -          680   10    0 
+neoncap   797417987  5  1 Bc  k     k     k          670   10   20 5s Ad
+neoncap   797418036  5  5 f   -     -     -          680    0    0 
+neoncap   797418097  5  4 f   -     -     -          680    0    0 
+neoncap   797418123  5  3 c   rc    c     f          680   70    0 
+neoncap   797418191  5  2 Bf  -     -     -          610   10    0 
+neoncap   797418248  5  1 Bc  k     bc    k          600   60   65 9s Ts
+neoncap   797418305  5  5 r   b     f     -          605   30    0 
+neoncap   797418371  5  4 f   -     -     -          575    0    0 
+neoncap   797418422  5  3 f   -     -     -          575    0    0 
+neoncap   797418487  5  2 Bk  k     r     b          575   70  160 Jh 9c
+neoncap   797418546  5  1 Bf  -     -     -          665    5    0 
+neoncap   797418607  5  5 f   -     -     -          660    0    0 
+neoncap   797418662  5  4 f   -     -     -          660    0    0 
+neoncap   797418697  5  3 f   -     -     -          660    0    0 
+neoncap   797418728  5  2 Bk  b     kf    -          660   20    0 
+neoncap   797418819  5  1 Bc  b     b     -          640   40   90 
+neoncap   797418881  5  5 f   -     -     -          690    0    0 
+neoncap   797418952  5  4 r   b     b     -          690   50  115 
+neoncap   797418987  5  3 f   -     -     -          755    0    0 
+neoncap   797419021  5  2 Bk  kf    -     -          755   10    0 
+neoncap   797419072  5  1 Bc  kf    -     -          745   10    0 
+neoncap   797419115  5  5 f   -     -     -          735    0    0 
+neoncap   797419160  5  4 f   -     -     -          735    0    0 
+neoncap   797419189  5  3 Q   -     -     -          735    0    0 
+neoncap   797843289 10  4 f   -     -     -          735    0    0 
+neoncap   797843371  8  2 Bk  f     -     -          735   10    0 
+neoncap   797843418  9  1 Bc  b     b     k          725   40  100 Ks Td
+neoncap   797843501  9  9 f   -     -     -          785    0    0 
+neoncap   797843599  9  8 f   -     -     -          785    0    0 
+neoncap   797843691  8  7 c   k     f     -          785   20    0 
+neoncap   797843747  8  6 cf  -     -     -          765   20    0 
+neoncap   797843866  8  5 f   -     -     -          745    0    0 
+neoncap   797843959  9  4 f   -     -     -          745    0    0 
+neoncap   797844038  9  3 f   -     -     -          745    0    0 
+neoncap   797844112  9  2 Bc  b     b     -          745   50  105 
+neoncap   797844166  8  1 Bf  -     -     -          800    5    0 
+neoncap   797844280  8  8 c   cc    f     -          795   60    0 
+neoncap   797844451  8  7 cc  rc    f     -          735   50    0 
+neoncap   797844528  8  6 c   rc    k     f          685   50    0 
+neoncap   797844633  8  5 f   -     -     -          635    0    0 
+neoncap   797844727  9  3 Q   -     -     -          635    0    0 
+neoncap   797903613 11  4 rc  f     -     -          635   50    0 
+neoncap   797903765 11  3 f   -     -     -          585    0    0 
+neoncap   797903868 11  2 Bf  -     -     -          585   10    0 
+neoncap   797904044 10  1 Bc  kf    -     -          575   20    0 
+neoncap   797904148 11 11 f   -     -     -          555    0    0 
+neoncap   797904218  8  7 f   -     -     -          555    0    0 
+neoncap   797904291  5  4 f   -     -     -          555    0    0 
+neoncap   797904307  4  2 rc  f     -     -          555   30    0 
+neoncap   797904362  4  2 Bk  k     b     kc         525   50    0 3c Kd
+neoncap   797904397  5  1 Bf  -     -     -          475    5    0 
+neoncap   797904409  5  5 c   f     -     -          470   20    0 
+neoncap   797904455  5  4 r   b     k     b          450   50    0 Tc Jh
+neoncap   797904541  5  3 f   -     -     -          400    0    0 
+neoncap   797904556  6  3 f   -     -     -          400    0    0 
+neoncap   797904588  7  3 f   -     -     -          400    0    0 
+neoncap   797904619  7  2 Bk  kf    -     -          400   10    0 
+neoncap   797904648  7  1 Bf  -     -     -          390    5    0 
+neoncap   797904711  7  7 f   -     -     -          385    0    0 
+neoncap   797904759  7  6 f   -     -     -          385    0    0 
+neoncap   797904801  7  5 r   br    b     b          385   90  175 
+neoncap   797904869  7  4 r   f     -     -          470   20    0 
+neoncap   797904900  7  4 c   kf    -     -          450   10    0 
+neoncap   797904972  6  2 Bf  -     -     -          440   10    0 
+neoncap   797905044  6  1 Bc  krr   kc    kf         430   80    0 
+neoncap   797905133  6  6 f   -     -     -          350    0    0 
+neoncap   797905184  6  5 r   b     -     -          350   30   75 
+neoncap   797905224  6  4 f   -     -     -          395    0    0 
+neoncap   797905243  6  3 f   -     -     -          395    0    0 
+neoncap   797905276  6  2 Bk  k     k     k          395   10   40 3d 3h
+neoncap   797905322  6  1 Br  b     b     k          425   50    0 Td Ts
+neoncap   797905393  6  6 f   Q     -     -          375    0    0 
+neoncap   797907456 10  6 cc  br    b     -          375   70  195 
+neoncap   797907541  9  5 f   -     -     -          500    0    0 
+neoncap   797907629  9  4 f   -     -     -          500    0    0 
+neoncap   797907661  9  3 f   -     -     -          500    0    0 
+neoncap   797907718 10  2 Bc  f     -     -          500   20    0 
+neoncap   797907810 11  1 Bc  kf    -     -          480   10    0 
+neoncap   797907930 12 12 f   -     -     -          470    0    0 
+neoncap   797908050 12 11 c   f     -     -          470   20    0 
+neoncap   797908219 12 10 f   -     -     -          450    0    0 
+neoncap   797908299 11  8 fQ  -     -     -          450    0    0 
+neoncap   797992461  7  6 f   -     -     -          450    0    0 
+neoncap   797992577  8  5 c   b     b     -          450   40   85 
+neoncap   797992644  7  4 f   -     -     -          495    0    0 
+neoncap   797992760  8  3 f   -     -     -          495    0    0 
+neoncap   797992818  8  2 Bf  -     -     -          495   10    0 
+neoncap   797992914  8  1 Bf  -     -     -          485    5    0 
+neoncap   797992963  8  8 f   -     -     -          480    0    0 
+neoncap   797993051  7  7 f   -     -     -          480    0    0 
+neoncap   797993134  6  5 f   -     -     -          480    0    0 
+neoncap   797993200  7  5 f   -     -     -          480    0    0 
+neoncap   797993308  7  4 f   -     -     -          480    0    0 
+neoncap   797993396  7  3 f   -     -     -          480    0    0 
+neoncap   797993490  7  2 Bf  -     -     -          480   10    0 
+neoncap   797993574  7  1 Bf  -     -     -          470    5    0 
+neoncap   797993643  7  7 f   -     -     -          465    0    0 
+neoncap   797993693  7  6 f   -     -     -          465    0    0 
+neoncap   797993753  7  5 f   -     -     -          465    0    0 
+neoncap   797993811  7  4 f   -     -     -          465    0    0 
+neoncap   797993882  7  3 f   -     -     -          465    0    0 
+neoncap   797993986  7  2 Bk  bc    kf    -          465   30    0 
+neoncap   797994081  7  1 Bc  kf    -     -          435   20    0 
+neoncap   797994134  7  7 f   -     -     -          415    0    0 
+neoncap   797994201  7  6 f   -     -     -          415    0    0 
+neoncap   797994280  9  5 f   -     -     -          415    0    0 
+neoncap   797994377  8  4 c   k     k     k          415   10    0 Qh Jc
+neoncap   797994464  8  3 rr  b     b     kc         405   90    0 Kd Ad
+neoncap   797994527  8  2 Bf  -     -     -          315   10    0 
+neoncap   797994592  8  1 Bcc kc    kf    -          305   30    0 
+neoncap   797994666  9  9 f   -     -     -          275    0    0 
+neoncap   797994785  9  8 f   -     -     -          275    0    0 
+neoncap   797994891  6  5 c   k     f     -          275   10    0 
+neoncap   797994975  6  4 r   k     f     -          265   20    0 
+neoncap   797995077  6  3 f   -     -     -          245    0    0 
+neoncap   797995170  8  2 Bf  -     -     -          245   10    0 
+neoncap   797995288  8  1 Bf  -     -     -          235    5    0 
+neoncap   797995345  6  6 f   -     -     -          230    0    0 
+neoncap   797995396  6  5 rr  br    cf    -          230  100    0 
+neoncap   797995473  6  4 rc  f     -     -          130   30    0 
+neoncap   797995523  6  3 r   brc   k     bcA        100  100  163 8d Ah
+neoncap   797995587  8  2 Bc  kf    -     -          163   20    0 
+neoncap   797995705  9  1 Bf  -     -     -          143    5    0 
+neoncap   797995781  8  8 r   k     f     -          138   30    0 
+neoncap   797995891  9  8 KQ  -     -     -          108    0    0 
+neoncap   797997541 10  9 f   -     -     -          108    0    0 
+neoncap   797997679 10  8 f   -     -     -          108    0    0 
+neoncap   797997733  8  6 f   -     -     -          108    0    0 
+neoncap   797997836  9  5 f   -     -     -          108    0    0 
+neoncap   797998003  8  3 rc  br    bA    -          108  108  446 Kd Kc
+neoncap   797998106  8  2 Bf  -     -     -          446   10    0 
+neoncap   797998242  9  1 Bf  -     -     -          436    5    0 
+neoncap   797998337  8  8 f   -     -     -          431    0    0 
+neoncap   797998448  9  7 f   -     -     -          431    0    0 
+neoncap   797998531 10  5 f   -     -     -          431    0    0 
+neoncap   797998577 10  4 c   c     c     rc         431  120  620 Qd Jh
+neoncap   797998663 11  3 f   -     -     -          931    0    0 
+neoncap   797998822 10  2 Bk  f     -     -          931   10    0 
+neoncap   797998948 10  1 Bf  -     -     -          921    5    0 
+neoncap   797999027 11 11 c   r     r     rr         916  160  605 Kc As
+neoncap   797999171 11 11 f   -     -     -         1361    0    0 
+neoncap   797999261 10  9 f   -     -     -         1361    0    0 
+neoncap   797999395 10  8 f   -     -     -         1361    0    0 
+neoncap   797999644 12  8 c   kf    -     -         1361   10    0 
+neoncap   797999748 10  6 f   -     -     -         1351    0    0 
+neoncap   797999872 10  5 f   -     -     -         1351    0    0 
+neoncap   797999969  9  4 f   -     -     -         1351    0    0 
+neoncap   798000033  8  2 Br  b     -     -         1351   30   70 
+neoncap   798000079  8  1 BQ  -     -     -         1391    5    0 
+neoncap   798065228  8  3 rc  kf    -     -         1386   40    0 
+neoncap   798065283  8  2 Brc b     k     b         1346   70  180 Ad Ah
+neoncap   798065341  8  1 Bf  -     -     -         1456    5    0 
+neoncap   798065411  8  8 f   -     -     -         1451    0    0 
+neoncap   798065470  8  7 f   -     -     -         1451    0    0 
+neoncap   798065560  8  6 f   -     -     -         1451    0    0 
+neoncap   798065688  8  5 f   -     -     -         1451    0    0 
+neoncap   798065809  8  4 f   -     -     -         1451    0    0 
+neoncap   798065906  9  3 f   -     -     -         1451    0    0 
+neoncap   798066012  8  2 Bf  -     -     -         1451   10    0 
+neoncap   798066088  8  1 Bc  bc    kc    b         1441   70  160 8s Ts
+neoncap   798066199  6  6 f   -     -     -         1531    0    0 
+neoncap   798066249  6  5 f   -     -     -         1531    0    0 
+neoncap   798066384  7  4 f   -     -     -         1531    0    0 
+neoncap   798066455  6  2 Br  bf    -     -         1531   30    0 
+neoncap   798066530  6  1 Bc  kf    -     -         1501   10    0 
+neoncap   798066599  6  6 f   -     -     -         1491    0    0 
+neoncap   798066609  6  5 r   b     -     -         1491   30   75 
+neoncap   798066665  6  4 Q   -     -     -         1536    0    0 

@@ -1,0 +1,885 @@
+DanSal    797450429  4  3 f   -     -     -         1000    0    0 
+DanSal    797450498  4  2 B   -     -     -         1000   10   15 
+DanSal    797450506  3  1 Brr b     br    b         1005  130  260 Jd Qd
+DanSal    797450717  3  3 c   k     k     k         1135   10    0 5c 6c
+DanSal    797450830  3  2 Bf  -     -     -         1125   10    0 
+DanSal    797450848  3  1 Bc  k     k     f         1115   20    0 
+DanSal    797450970  3  3 f   Q     -     -         1095    0    0 
+DanSal    797451102  3  3 f   -     -     -         1095    0    0 
+DanSal    797451153  3  2 Bk  k     k     k         1095   10    0 9h 5c
+DanSal    797451304  6  1 Br  b     brr   b         1085  150    0 9s 8s
+DanSal    797451474  7  7 f   -     -     -          935    0    0 
+DanSal    797451547  7  6 f   -     -     -          935    0    0 
+DanSal    797451607  7  5 f   -     -     -          935    0    0 
+DanSal    797451699  8  5 f   -     -     -          935    0    0 
+DanSal    797451779  8  4 f   -     Q     -          935    0    0 
+DanSal    797535236 10  4 c   f     -     -          935   10    0 
+DanSal    797535336  9  2 Bk  f     -     -          925   10    0 
+DanSal    797535394 10  1 Bf  -     -     -          915    5    0 
+DanSal    797535496 10 10 f   -     -     -          910    0    0 
+DanSal    797535613 11 10 cc  f     -     -          910   20    0 
+DanSal    797535718  8  7 f   -     -     -          890    0    0 
+DanSal    797535809  8  6 cc  bc    bc    c          890  100    0 As Qh
+DanSal    797535906  9  6 f   -     Q     -          790    0    0 
+DanSal    797562916  8  4 f   -     -     -          790    0    0 
+DanSal    797562990  8  3 f   -     -     -          790    0    0 
+DanSal    797563067  8  2 Bf  -     -     -          790   10    0 
+DanSal    797563208  8  1 Br  kr    kc    kc         780   90    0 8s 8h
+DanSal    797563313  9  9 f   -     -     -          690    0    0 
+DanSal    797563363  9  7 f   -     -     -          690    0    0 
+DanSal    797563451 10  7 cc  kc    f     -          690   30    0 
+DanSal    797563561  9  5 f   -     -     -          660    0    0 
+DanSal    797563615 10  5 c   c     c     b          660   60    0 9h 6h
+DanSal    797563693 10  4 c   b     b     kcc        600  120    0 5h Kh
+DanSal    797563829  9  3 r   br    k     kc         480   70    0 9s 8s
+DanSal    797563930 10  2 Br  b     b     b          410   70  175 As Ah
+DanSal    797563999 10  1 Br  b     brc   k          515  120    0 6s Ks
+DanSal    797564075 11 10 c   k     k     f          395   10    0 
+DanSal    797564139 12 10 c   f     -     -          385   10    0 
+DanSal    797564220 12  9 f   -     -     -          375    0    0 
+DanSal    797564344 10  6 c   k     f     -          375   20    0 
+DanSal    797564448  8  5 f   -     -     -          355    0    0 
+DanSal    797564517  6  2 cc  kc    kc    kf         355   50    0 
+DanSal    797564616  6  1 Bf  -     -     -          305   10    0 
+DanSal    797564656  8  1 Bc  kc    b     b          295   60    0 5s 6h
+DanSal    797564744  9  9 f   -     -     -          235    0    0 
+DanSal    797564859  9  8 Q   -     -     -          235    0    0 
+DanSal    797565605 11  7 f   -     -     -          235    0    0 
+DanSal    797565663 11  6 f   -     -     -          235    0    0 
+DanSal    797565749 11  5 f   -     -     -          235    0    0 
+DanSal    797565809 10  3 f   -     -     -          235    0    0 
+DanSal    797565842 10  2 Bc  kc    kc    kf         235   50    0 
+DanSal    797565982  9  1 Bc  kc    kc    br         185  110    0 Th 3h
+DanSal    797566036  8  8 f   -     -     -           75    0    0 
+DanSal    797566090  8  7 f   -     -     -           75    0    0 
+DanSal    797566125  8  6 f   -     -     -           75    0    0 
+DanSal    797566173  9  5 c   b     b     -           75   40   90 
+DanSal    797566233  9  4 rr  b     rrA   -          125  125    0 Tc Ts
+DanSal    797566373  8  4 cc  kc    bc    b         1000   90  220 Ah 5d
+DanSal    797566440  9  3 cc  kc    f     -         1130   30    0 
+DanSal    797566521  9  2 Br  b     -     -         1100   30   55 
+DanSal    797566585  9  1 Bf  -     -     -         1125    5    0 
+DanSal    797566620  9  9 cc  rc    b     b         1120  100    0 5d Js
+DanSal    797566718  9  8 f   -     -     -         1020    0    0 
+DanSal    797566763  9  7 f   -     -     -         1020    0    0 
+DanSal    797566822  9  6 f   -     -     -         1020    0    0 
+DanSal    797566871  9  5 f   -     -     -         1020    0    0 
+DanSal    797566938  8  4 f   -     -     -         1020    0    0 
+DanSal    797566961  8  3 c   f     -     -         1020   10    0 
+DanSal    797567027  8  2 Bk  k     kf    -         1010   10    0 
+DanSal    797567075  7  1 Bf  -     -     -         1000    5    0 
+DanSal    797567121  7  7 f   -     -     -          995    0    0 
+DanSal    797567169  7  6 f   -     -     -          995    0    0 
+DanSal    797567187  7  5 crc br    kr    b          995  130  425 
+DanSal    797567278  7  4 cc  c     c     c         1290   90    0 2d Qd
+DanSal    797567331  7  3 c   k     b     -         1200   30   55 
+DanSal    797567393  8  2 Bf  -     -     -         1225   10    0 
+DanSal    797567441  8  1 Br  bc    br    brrrrrr   1215  360  390 Th As
+DanSal    797567529  8  8 f   -     -     -         1245    0    0 
+DanSal    797567598  8  7 c   k     k     k         1245   10    0 2h 2d
+DanSal    797567643  8  6 f   -     -     -         1235    0    0 
+DanSal    797567663  8  5 f   -     -     -         1235    0    0 
+DanSal    797567705  8  4 c   f     -     -         1235   10    0 
+DanSal    797567760  8  3 f   -     -     -         1225    0    0 
+DanSal    797567798  8  2 Bc  kc    f     -         1225   30    0 
+DanSal    797567852  8  1 Brc bc    kc    k         1195   80    0 9s 9h
+DanSal    797567929  8  8 c   r     r     b         1115   90  200 9c 7c
+DanSal    797567972  8  7 f   -     -     -         1225    0    0 
+DanSal    797568022  9  7 f   -     -     -         1225    0    0 
+DanSal    797568035  9  6 c   rr    r     rrc       1225  190    0 Kd 3d
+DanSal    797568097  9  5 c   c     r     r         1035  110    0 Tc Kh
+DanSal    797568180  8  3 f   -     -     -          925    0    0 
+DanSal    797568267  8  2 Bc  kc    bf    -          925   50    0 
+DanSal    797568375  7  1 BQ  -     -     -          875    5    0 
+DanSal    797572625 12  9 rr  rc    c     b          870  110  370 Jh Jd
+DanSal    797572755  8  5 f   -     -     -         1130    0    0 
+DanSal    797572861  8  4 f   -     -     -         1130    0    0 
+DanSal    797572957  9  4 f   -     -     -         1130    0    0 
+DanSal    797573046  9  3 f   -     -     -         1130    0    0 
+DanSal    797573076  9  2 Bk  kc    br    c         1130  100    0 Ts 9c
+DanSal    797573186  9  1 Bc  kc    br    b         1030  120  300 
+DanSal    797573322  9  9 f   -     -     -         1210    0    0 
+DanSal    797573403  9  8 f   -     -     -         1210    0    0 
+DanSal    797573468 10  8 c   f     -     -         1210   10    0 
+DanSal    797573547  9  6 r   r     b     -         1200   60  105 
+DanSal    797573612 10  5 f   -     -     -         1245    0    0 
+DanSal    797573713 10  4 cc  c     c     r         1245   90  200 Tc Qd
+DanSal    797573796 10  3 f   -     -     -         1355    0    0 
+DanSal    797573989 10  2 Bc  f     -     -         1355   20    0 
+DanSal    797574069 10  1 Bc  br    b     b         1335   90  240 Jd Kh
+DanSal    797574167 10 10 cc  f     -     -         1485   20    0 
+DanSal    797574279  8  7 c   f     -     -         1465   20    0 
+DanSal    797574356  7  5 r   rr    b     k         1445   80  180 Ks 9s
+DanSal    797574410  7  4 f   -     -     -         1545    0    0 
+DanSal    797574465  7  3 f   -     -     -         1545    0    0 
+DanSal    797574534  8  2 Bf  -     -     -         1545   10    0 
+DanSal    797574632  8  1 Brr kcc   kc    bc        1535  120    0 3s As
+DanSal    797574814 10 10 cc  f     -     -         1415   20    0 
+DanSal    797574944 10 10 r   b     b     b         1395   70  135 
+DanSal    797575040 10  8 c   b     b     b         1460   60  160 
+DanSal    797575119 10  8 cc  r     b     rrc       1560  170  445 Jc 3c
+DanSal    797575216 10  7 f   -     -     -         1835    0    0 
+DanSal    797575357 10  6 f   -     -     -         1835    0    0 
+DanSal    797575467 10  5 rc  brc   bc    kc        1835  140    0 5h 5c
+DanSal    797575605  9  4 f   -     -     -         1695    0    0 
+DanSal    797575674  8  3 cc  bc    br    b         1695  120    0 2s 2h
+DanSal    797575754  7  2 Bf  -     -     -         1575   10    0 
+DanSal    797575839  7  1 Bc  kc    kc    b         1565   70  100 Ah 7d
+DanSal    797575895  7  6 r   rr    rc    b         1595  150    0 7d 7s
+DanSal    797576000  7  6 c   f     -     -         1445   10    0 
+DanSal    797576094  7  5 f   -     -     -         1435    0    0 
+DanSal    797576182  7  4 r   b     b     br        1435  110  285 Qh Kc
+DanSal    797822354 12  6 f   -     -     -         1580    0    0 
+DanSal    797822442 12  5 c   b     b     -         1580   40  115 
+DanSal    797822500 12  4 r   r     r     b         1655  100    0 8c 9c
+DanSal    797822558 12  3 rr  b     c     r         1555  110    0 Ah Jh
+DanSal    797822638 12  2 Bf  -     -     -         1445   10    0 
+DanSal    797822681 12  1 Bc  f     -     -         1435   10    0 
+DanSal    797822782 12 12 f   -     -     -         1425    0    0 
+DanSal    797822873 12 11 c   b     b     k         1425   50    0 Jc 3c
+DanSal    797822955 12 10 f   -     -     -         1375    0    0 
+DanSal    797822993 12  9 r   c     c     c         1375   80    0 8h 8d
+DanSal    797823054 12  8 r   f     -     -         1295   30    0 
+DanSal    797823120 12  7 f   -     -     -         1265    0    0 
+DanSal    797823198 12  6 cc  f     -     -         1265   20    0 
+DanSal    797823309 12  5 f   -     -     -         1245    0    0 
+DanSal    797823381 12  4 cc  cc    kf    -         1245   40    0 
+DanSal    797823518 12  3 f   -     -     -         1205    0    0 
+DanSal    797823594 12  2 Bk  kc    k     f         1205   20    0 
+DanSal    797823761 11  1 Bc  kc    kc    b         1185   60    0 Qd Tc
+DanSal    797823876 10 10 f   -     -     -         1125    0    0 
+DanSal    797823975 11 10 f   -     -     -         1125    0    0 
+DanSal    797824075 11  9 c   r     c     r         1125  100    0 9h Tc
+DanSal    797824151 12  9 c   k     f     -         1025   10    0 
+DanSal    797824190 12  8 cc  c     k     c         1015   50    0 6h 6c
+DanSal    797824259 12  7 c   b     r     r          965  110    0 9c 5c
+DanSal    797824378 12  6 cc  b     b     -          855   50  135 
+DanSal    797824480 12  5 f   -     -     -          940    0    0 
+DanSal    797824605 12  4 cc  f     -     -          940   20    0 
+DanSal    797824665 12  3 f   -     -     -          920    0    0 
+DanSal    797824731 12  2 Bk  kc    k     f          920   20    0 
+DanSal    797824876 10  1 Bc  b     b     kf         900   40    0 
+DanSal    797824971  8  8 f   -     -     -          860    0    0 
+DanSal    797825039  7  7 c   f     -     -          860   10    0 
+DanSal    797825076  7  6 f   -     -     -          850    0    0 
+DanSal    797825104  7  5 r   -     -     -          850   20   35 
+DanSal    797825120  6  3 r   f     -     -          865   20    0 
+DanSal    797825162  6  2 Br  rr    brc   bc         845  180    0 Qd Qs
+DanSal    797825269  6  1 Bc  b     kc    kc         665   80    0 3d Jc
+DanSal    797825343  8  8 c   f     -     -          585   10    0 
+DanSal    797825396 10  7 c   k     b     -          575   30   55 
+DanSal    797825503 11  6 ccf -     -     -          600   20    0 
+DanSal    797825615 11  5 c   f     -     -          580   10    0 
+DanSal    797825681 11  4 r   b     b     b          570   70  250 Th Ts
+DanSal    797825778 10  3 c   bc    c     r          750  100    0 8c Ah
+DanSal    797825849 10  2 Bf  -     -     -          650   10    0 
+DanSal    797825903 10  1 Bc  bc    kf    -          640   50    0 
+DanSal    797826020 11 10 c   f     -     -          590   20    0 
+DanSal    797826072 12  9 f   -     -     -          570    0    0 
+DanSal    797826168 12  8 f   -     -     -          570    0    0 
+DanSal    797826226 12  7 f   -     -     -          570    0    0 
+DanSal    797826320 12  6 f   -     -     -          570    0    0 
+DanSal    797826412 12  5 cc  kc    k     bc         570  120    0 Tc Qs
+DanSal    797826527 11  3 f   -     -     -          450    0    0 
+DanSal    797826633 11  3 f   -     -     -          450    0    0 
+DanSal    797826735 11  2 Bk  f     -     -          450   10    0 
+DanSal    797826818 12  1 Bc  f     -     -          440   10    0 
+DanSal    797826953 10 10 c   c     b     b          430   60  165 Kd 8h
+DanSal    797827041 11 10 c   f     -     -          535   10    0 
+DanSal    797827124 11  9 c   c     r     b          525   80  290 
+DanSal    797827245  9  7 c   f     -     -          735   20    0 
+DanSal    797827321  9  7 cc  rc    c     f          715  100    0 
+DanSal    797827419  8  6 cc  b     r     b          615   90    0 6d 7h
+DanSal    797827529  8  5 r   rc    rc    bc         525  150    0 Js Ac
+DanSal    797827647  9  4 cc  rr    b     b          375  100  165 Jd 2h
+DanSal    797827764 10  3 rr  rrc   c     c          440  130  325 3s 4s
+DanSal    797827841  9  2 Bf  -     -     -          635   10    0 
+DanSal    797827946  9  1 Br  kf    -     -          625   40    0 
+DanSal    797828056  8  8 c   f     -     -          585   10    0 
+DanSal    797828117  7  7 c   f     -     -          575   20    0 
+DanSal    797828188  7  6 c   Q     -     -          555   10    0 
+DanSal    797914699 11  9 c   f     -     -          545   10    0 
+DanSal    797914752 12  9 f   -     -     -          535    0    0 
+DanSal    797914912 12  8 r   bc    b     bc         535  110    0 Ah 2h
+DanSal    797915043 10  5 r   f     -     -          425   20    0 
+DanSal    797915094 10  4 f   -     -     -          405    0    0 
+DanSal    797915154 11  4 f   -     -     -          405    0    0 
+DanSal    797915265 11  3 rc  cc    cc    c          405  170    0 8s 9s
+DanSal    797915416 11  2 Br  cc    c     r          235  110    0 4s Ah
+DanSal    797915557 10  1 Bc  f     -     -          125   10    0 
+DanSal    797915608 10 10 c   r     c     c          115   70    0 Ac 9c
+DanSal    797915691 10  9 c   f     -     -           45   10    0 
+DanSal    797915748 11  9 f   -     -     -           35    0    0 
+DanSal    797915816 11  8 c   f     -     -           35   10    0 
+DanSal    797915919 11  7 f   -     -     -           25    0    0 
+DanSal    797915989 11  6 rA  -     -     -           25   25    0 2s 4c
+DanSal    797916134 11  5 f   -     -     -         1000    0    0 
+DanSal    797916200 11  4 cc  f     -     -         1000   20    0 
+DanSal    797916280 11  3 cc  kf    -     -          980   20    0 
+DanSal    797916421 11  2 Bf  -     -     -          960   10    0 
+DanSal    797916497 11  1 Bf  -     -     -          950    5    0 
+DanSal    797916572 11 11 f   -     -     -          945    0    0 
+DanSal    797916645 11 10 c   f     -     -          945   20    0 
+DanSal    797916715 11  9 f   -     -     -          925    0    0 
+DanSal    797916803 11  7 c   r     f     -          925   30    0 
+DanSal    797916888 12  6 c   kf    -     -          895   10    0 
+DanSal    797917000 12  5 cf  -     -     -          885   10    0 
+DanSal    797917119 12  4 ccc rc    rc    c          875  170    0 Qh Td
+DanSal    797917263 12  3 cc  f     -     -          705   30    0 
+DanSal    797917420 12  2 Bk  b     b     b          675   60  150 
+DanSal    797917487 12  1 Brc b     b     b          765   90  250 
+DanSal    797917580 11 11 f   -     -     -          925    0    0 
+DanSal    797917624 11 10 c   b     b     b          925   60    0 Js Qh
+DanSal    797917692 11  9 r   f     -     -          865   20    0 
+DanSal    797917756 10  7 f   -     -     -          845    0    0 
+DanSal    797917895 12  7 r   rc    c     f          845   70    0 
+DanSal    797917976 12  7 f   -     -     -          775    0    0 
+DanSal    797918175 12  5 rc  kc    kc    bf         775   80    0 
+DanSal    797918275 11  4 cc  b     b     b          695   70  185 5c 8c
+DanSal    797918362 11  3 cc  f     -     -          810   20    0 
+DanSal    797918469 11  2 Bc  f     -     -          790   20    0 
+DanSal    797918619 10  1 Bc  br    bc    kc         770  140    0 Ad Js
+DanSal    797918698 10 10 cc  f     -     -          630   20    0 
+DanSal    797918757 10  9 f   -     -     -          610    0    0 
+DanSal    797918813  9  8 c   f     -     -          610   20    0 
+DanSal    797918936  9  7 c   rc    br    bc         590  150    0 5d 5h
+DanSal    797919031  8  5 cc  f     -     -          440   20    0 
+DanSal    797919071  9  4 c   b     -     -          420   20   40 
+DanSal    797919112  9  3 rr  b     kf    -          440   50    0 
+DanSal    797919209  9  2 Bk  kf    -     -          390   10    0 
+DanSal    797919243 10  1 Bcc f     -     -          380   40    0 
+DanSal    797919374 10 10 c   f     -     -          340   30    0 
+DanSal    797919462 10  9 c   k     b     b          310   50    0 9h Ts
+DanSal    797919510 10  8 c   f     -     -          260   10    0 
+DanSal    797919561 10  8 cc  bc    bc    kf         250   80    0 
+DanSal    797919644  9  6 f   -     -     -          170    0    0 
+DanSal    797919722  9  5 cc  f     -     -          170   20    0 
+DanSal    797919801  9  4 cc  cc    f     -          150   50    0 
+DanSal    797919921  9  3 f   Q     -     -          100    0    0 
+DanSal    797996714 12  8 c   cc    kf    -          210   40    0 
+DanSal    797996827 11  8 cc  c     r     rcA        170  170    0 Ac 7s
+DanSal    797997065 10  3 cc  f     -     -         1000   20    0 
+DanSal    797997147 10  2 Bf  -     -     -          980   10    0 
+DanSal    797997272  8  1 Br  b     kf    -          970   30    0 
+DanSal    797997365  8  8 c   k     k     f          940   10    0 
+DanSal    797997441 10  7 f   -     -     -          930    0    0 
+DanSal    797997541 10  6 c   kc    kf    -          930   20    0 
+DanSal    797997679 10  5 f   -     -     -          910    0    0 
+DanSal    797997733  8  3 f   -     -     -          910    0    0 
+DanSal    797997836  9  2 Bc  br    br    bc         910  190    0 8d 4c
+DanSal    797998003  8  1 Br  f     -     -          720   60    0 
+DanSal    797998106  8  8 f   -     -     -          660    0    0 
+DanSal    797998242  9  7 r   f     -     -          660   20    0 
+DanSal    797998337  8  5 f   -     -     -          640    0    0 
+DanSal    797998448  9  3 r   k     kf    -          640   20    0 
+DanSal    797998531 10  2 Bc  f     -     -          620   20    0 
+DanSal    797998577 10  1 Bc  b     b     kr         600  120    0 9h 3h
+DanSal    797998663 11 10 c   c     r     c          480   80  325 8d 2d
+DanSal    797998822 10  9 f   -     -     -          725    0    0 
+DanSal    797998948 10  8 cc  f     -     -          725   20    0 
+DanSal    797999027 11  8 c   rc    bc    bcc        705  160    0 Ac 6h
+DanSal    797999171 11  8 r   krr   b     b          545  100  255 Ah Qh
+DanSal    797999261 10  5 rc  brc   kc    kc         700  130  460 9s 9c
+DanSal    797999395 10  5 cc  kcc   k     r         1030  110    0 2d Qc
+DanSal    797999644 12  4 c   f     -     -          920   10    0 
+DanSal    797999748 10  3 cc  kQ    -     -          910   20    0 
+DanSal    798057248  4  4 f   -     -     -          890    0    0 
+DanSal    798057257  4  3 c   k     br    kc         890   90    0 3s Qd
+DanSal    798057311  4  1 B   -     -     -          800   10   10 
+DanSal    798057315  4  1 Bf  -     -     -          800    5    0 
+DanSal    798057325  4  4 rr  b     b     -          795   70  125 
+DanSal    798057361  4  3 cc  f     -     -          850   20    0 
+DanSal    798057384  4  2 Bf  -     -     -          830   10    0 
+DanSal    798057412  4  1 Bc  f     -     -          820   20    0 
+DanSal    798057431  4  4 c   f     -     -          800   10    0 
+DanSal    798057452  4  3 c   k     k     k          790   10   25 3d 3c
+DanSal    798057482  4  2 Bf  -     -     -          805   10    0 
+DanSal    798057490  4  1 Bc  kf    -     -          795   10    0 
+DanSal    798057516  4  4 c   c     c     f          785   40    0 
+DanSal    798057537  4  3 c   c     r     b          745   80  170 6d 5h
+DanSal    798057577  4  2 Bf  -     -     -          835   10    0 
+DanSal    798057585  4  1 Bf  -     -     -          825    5    0 
+DanSal    798057619  3  3 c   f     -     -          820   10    0 
+DanSal    798057651  4  3 cc  rc    c     c          810   90    0 2d Kd
+DanSal    798057704  4  2 Bk  kf    -     -          720   10    0 
+DanSal    798057728  4  1 Bf  -     -     -          710    5    0 
+DanSal    798057736  4  4 c   k     b     -          705   30   45 
+DanSal    798057763  4  3 c   b     r     -          720   60  110 
+DanSal    798057805  4  2 Bf  -     -     -          770   10    0 
+DanSal    798057820  4  1 Bc  k     k     kf         760   10    0 
+DanSal    798057865  4  4 f   -     -     -          750    0    0 
+DanSal    798057872  4  3 c   f     -     -          750   10    0 
+DanSal    798057899  4  2 Bk  k     k     f          740   10    0 
+DanSal    798057927  4  1 Bc  bc    k     b          730   50  110 3c Ah
+DanSal    798057975  4  4 c   f     -     -          790   10    0 
+DanSal    798058009  4  3 c   b     -     -          780   20   35 
+DanSal    798058032  4  2 Bf  -     -     -          795   10    0 
+DanSal    798058039  5  1 Bc  b     -     -          785   20   30 
+DanSal    798058067  5  5 c   bc    c     f          795   50    0 
+DanSal    798058112  5  4 c   r     bc    f          745   70    0 
+DanSal    798058154  6  4 r   kc    kc    kf         675   50    0 
+DanSal    798058221  6  3 c   f     -     -          625   10    0 
+DanSal    798058268  6  2 Bc  k     b     -          615   40   80 
+DanSal    798058324  5  1 Bc  kf    -     -          655   10    0 
+DanSal    798058349  5  5 c   f     -     -          645   10    0 
+DanSal    798058381  5  4 c   c     c     f          635   40    0 
+DanSal    798058421  5  3 f   -     -     -          595    0    0 
+DanSal    798058446  4  2 Bk  f     -     -          595   10    0 
+DanSal    798058467  4  1 Bf  -     -     -          585    5    0 
+DanSal    798058495  4  4 cc  b     b     r          580   90  110 3c Ac
+DanSal    798058566  4  3 c   f     -     -          600   10    0 
+DanSal    798058618  4  2 Bc  f     -     -          590   20    0 
+DanSal    798058649  4  1 Bc  k     kf    -          570   20    0 
+DanSal    798058687  4  4 cc  r     b     -          550   60  110 
+DanSal    798058733  4  3 f   -     -     -          600    0    0 
+DanSal    798058781  3  2 Bf  -     -     -          600   10    0 
+DanSal    798058819  3  1 Bc  kf    -     -          590   10    0 
+DanSal    798058841  3  3 r   -     -     -          580   20   35 
+DanSal    798058848  3  2 Bf  -     -     -          595   10    0 
+DanSal    798058891  3  1 Br  bc    b     b          585   80  200 7c Ac
+DanSal    798058936  3  3 r   -     -     -          705   20   35 
+DanSal    798058949  3  2 B   -     -     -          720   10   15 
+DanSal    798058954  3  1 Br  kf    -     -          725   20    0 
+DanSal    798058997  4  3 f   -     -     -          705    0    0 
+DanSal    798059017  4  2 Bk  f     -     -          705   10    0 
+DanSal    798059036  4  1 Bc  b     -     -          695   20   40 
+DanSal    798059062  3  3 c   k     b     -          715   30   45 
+DanSal    798059091  3  2 Bf  -     -     -          730   10    0 
+DanSal    798059129  3  1 Br  -     -     -          720   20   30 
+DanSal    798059142  3  3 cc  f     -     -          730   20    0 
+DanSal    798059158  3  2 Bk  f     -     -          710   10    0 
+DanSal    798059178  3  1 Bc  k     k     kf         700   10    0 
+DanSal    798059204  3  3 c   c     c     b          690   60  105 
+DanSal    798059242  3  2 Bk  f     -     -          735   10    0 
+DanSal    798059266  3  1 Bc  b     b     b          725   60  110 
+DanSal    798059305  3  3 f   -     -     -          775    0    0 
+DanSal    798059315  4  2 Bc  rc    c     c          775   90  200 8d Qs
+DanSal    798059355  4  1 Bc  kf    -     -          885   10    0 
+DanSal    798059422  5  5 f   -     -     -          875    0    0 
+DanSal    798059464  5  4 rr  r     b     c          875  100    0 8d 8c
+DanSal    798059523  5  3 c   k     k     k          775   10   25 Kd 9c
+DanSal    798059558  5  2 Bk  kf    -     -          790   10    0 
+DanSal    798059594  5  1 Br  kcc   kf    -          780   50    0 
+DanSal    798059645  5  5 c   f     -     -          730   10    0 
+DanSal    798059664  5  4 f   -     -     -          720    0    0 
+DanSal    798059693  5  3 cc  c     c     c          720   80  240 9d Ah
+DanSal    798059755  5  2 Bk  kf    -     -          880   10    0 
+DanSal    798059802  5  1 Bc  kc    k     bc         870   60    0 5d Qs
+DanSal    798059871  6  6 c   b     b     -          810   40   80 
+DanSal    798059915  6  5 r   f     -     -          850   20    0 
+DanSal    798059974  6  5 r   b     -     -          830   30   65 
+DanSal    798059999  6  4 f   -     -     -          865    0    0 
+DanSal    798060011  6  3 f   -     -     -          865    0    0 
+DanSal    798060024  6  2 Bf  -     -     -          865   10    0 
+DanSal    798060034  6  1 Bc  kc    kc    kr         855   90    0 6h 7c
+DanSal    798060104  6  6 f   -     -     -          765    0    0 
+DanSal    798060115  6  5 f   -     -     -          765    0    0 
+DanSal    798060146  6  4 cc  c     f     -          765   30    0 
+DanSal    798060192  6  3 rc  bc    bc    kf         735   90    0 
+DanSal    798060248  6  2 Bk  f     -     -          645   10    0 
+DanSal    798060268  6  1 Bf  -     -     -          635    5    0 
+DanSal    798060309  6  6 f   -     -     -          630    0    0 
+DanSal    798060351  6  5 cc  k     r     b          630   80  180 6h 6c
+DanSal    798060407  6  4 c   c     cf    -          730   40    0 
+DanSal    798060476  6  3 f   -     -     -          690    0    0 
+DanSal    798060517  6  2 Br  k     kr    k          690   60  125 Tc Js
+DanSal    798060563  6  1 Bf  -     -     -          755    5    0 
+DanSal    798060612  6  6 r   f     -     -          750   20    0 
+DanSal    798060657  7  5 cc  k     b     -          730   40   70 
+DanSal    798060692  6  4 f   -     -     -          760    0    0 
+DanSal    798060745  6  3 f   Q     -     -          760    0    0 
+DanSal    798060891  7  7 c   rc    c     f          760   80    0 
+DanSal    798060999  8  7 c   k     f     -          680   10    0 
+DanSal    798061061  8  6 f   -     -     -          670    0    0 
+DanSal    798061125  8  5 f   -     -     -          670    0    0 
+DanSal    798061179  8  4 f   -     -     -          670    0    0 
+DanSal    798061245  8  3 f   -     -     -          670    0    0 
+DanSal    798061344  8  2 Bf  -     -     -          670   10    0 
+DanSal    798061430  8  1 Bc  bc    k     b          660   70  250 Tc 7c
+DanSal    798061531  8  8 f   -     -     -          840    0    0 
+DanSal    798061641  8  7 r   c     f     -          840   30    0 
+DanSal    798061729  7  5 c   kc    br    b          810  100  260 9h 7h
+DanSal    798061837  6  3 r   k     kc    kc         970   60    0 9d 9c
+DanSal    798061892  8  3 f   -     -     -          910    0    0 
+DanSal    798061954  8  2 Br  b     b     b          910   70  160 Tc Jc
+DanSal    798062111  9  1 Bc  f     -     -         1000   10    0 
+DanSal    798062144  9  9 fQ  -     -     -          990    0    0 
+DanSal    798343213 12 12 c   f     -     -          990   10    0 
+DanSal    798343276 12 11 cf  -     -     -          980   10    0 
+DanSal    798343383 12 11 c   f     -     -          970   20    0 
+DanSal    798343457 10  8 c   f     -     -          950   10    0 
+DanSal    798343536 10  7 f   -     -     -          940    0    0 
+DanSal    798343599 10  6 f   -     -     -          940    0    0 
+DanSal    798343662 10  5 f   -     -     -          940    0    0 
+DanSal    798343788  9  3 f   -     -     -          940    0    0 
+DanSal    798343818  8  2 Bf  -     -     -          940   10    0 
+DanSal    798343878  8  1 Bc  kc    kc    kc         930   70  210 9s 9c
+DanSal    798343959  8  8 c   r     b     -         1070   50  115 
+DanSal    798344026  8  7 cc  br    b     b         1135   90    0 3d 7d
+DanSal    798344118  8  6 c   c     c     c         1045   70    0 Qh 6h
+DanSal    798344203  7  4 cc  c     k     k          975   30    0 8s Ts
+DanSal    798344258  9  4 f   -     -     -          945    0    0 
+DanSal    798344320  9  3 f   -     -     -          945    0    0 
+DanSal    798344395  9  2 Bc  f     -     -          945   20    0 
+DanSal    798344461  9  1 Bc  kf    -     -          925   10    0 
+DanSal    798344514  9  9 c   c     k     c          915   40   50 Js Kh
+DanSal    798344574  9  8 c   k     c     r          925   70    0 6c Qs
+DanSal    798344650 10  8 c   f     -     -          855   20    0 
+DanSal    798344729 11  8 c   r     b     b          835   70  220 2d Qc
+DanSal    798344814 11  7 f   -     -     -          985    0    0 
+DanSal    798344927 11  6 fQ  -     -     -          985    0    0 
+DanSal    798348015  9  9 f   -     -     -          985    0    0 
+DanSal    798348137  9  8 c   cc    c     cc         985  140    0 2h 2d
+DanSal    798348269  9  7 c   b     c     c          845   70    0 Jd Jh
+DanSal    798348389  9  6 f   -     -     -          775    0    0 
+DanSal    798348488  9  5 f   -     -     -          775    0    0 
+DanSal    798348570  9  4 f   -     -     -          775    0    0 
+DanSal    798348668  8  2 Bf  -     -     -          775   10    0 
+DanSal    798348738  7  1 Bc  b     kf    -          765   30    0 
+DanSal    798348811  8  8 r   bc    c     b          735   80    0 4d Qs
+DanSal    798348903  8  7 f   -     -     -          655    0    0 
+DanSal    798349005  8  6 f   -     -     -          655    0    0 
+DanSal    798349061  8  5 c   b     b     k          655   40    0 2h 9h
+DanSal    798349119  9  5 rc  b     b     bc         615  110    0 Jd Js
+DanSal    798349241 10  5 c   f     -     -          505   10    0 
+DanSal    798349368 10  4 cc  c     c     f          495   60    0 
+DanSal    798349472 10  3 f   -     -     -          435    0    0 
+DanSal    798349581 10  2 Bc  kf    -     -          435   20    0 
+DanSal    798349689 11  1 Br  kc    bc    kc         415  100    0 4h 3h
+DanSal    798349845 12 12 f   -     -     -          315    0    0 
+DanSal    798349958 12 11 f   -     -     -          315    0    0 
+DanSal    798350122 12 10 cc  c     c     f          315   80    0 
+DanSal    798350313 11  8 cc  c     c     f          235   90    0 
+DanSal    798350498 12  9 cc  c     k     rr         145  120  180 9s Qh
+DanSal    798350658 11  8 cc  r     b     b          205   80  210 Js 6h
+DanSal    798350759 10  6 c   k     k     b          335   30    0 Js 6h
+DanSal    798350829 10  5 c   cc    f     -          305   30    0 
+DanSal    798350922 11  4 Q   -     -     -          275    0    0 
+DanSal    798351115 10 10 f   -     -     -          275    0    0 
+DanSal    798351161 10  8 c   c     c     r          275  100  305 Td 7d
+DanSal    798351257 10  7 f   -     -     -          480    0    0 
+DanSal    798351332 10  6 f   -     -     -          480    0    0 
+DanSal    798351411 10  5 f   -     -     -          480    0    0 
+DanSal    798351472 10  4 f   -     -     -          480    0    0 
+DanSal    798351576 10  3 f   -     -     -          480    0    0 
+DanSal    798351655 10  2 Bc  bc    kc    kf         480   60    0 
+DanSal    798351788  9  1 Bf  -     -     -          420    5    0 
+DanSal    798351926  9  9 c   f     -     -          415   10    0 
+DanSal    798352004  9  8 c   c     c     f          405   40    0 
+DanSal    798352155  9  6 c   r     b     b          365   90    0 Ad 5c
+DanSal    798352280  8  5 f   -     -     -          275    0    0 
+DanSal    798352333  8  4 f   -     -     -          275    0    0 
+DanSal    798352400  8  3 c   bc    b     b          275   70  190 Js Jc
+DanSal    798352484  8  2 Bc  kf    -     -          395   20    0 
+DanSal    798352571  8  1 Bc  kf    -     -          375   10    0 
+DanSal    798352644  8  8 f   -     -     -          365    0    0 
+DanSal    798352774  9  8 c   rc    cc    k          365  110  350 Qh Qd
+DanSal    798352933  8  6 c   b     b     -          605   40   90 
+DanSal    798353032 10  7 ccc ccc   kf    -          655   80    0 
+DanSal    798353219 11  7 fQ  -     -     -          575    0    0 
+DanSal    798432579  4  2 Bc  k     k     f          575   30    0 
+DanSal    798432644  4  1 Bf  -     -     -          545    5    0 
+DanSal    798432673  4  4 r   bc    c     c          540   80    0 Qh Kh
+DanSal    798432720  4  3 c   f     -     -          460   10    0 
+DanSal    798432746  5  2 Bcc k     k     k          450   40    0 Qs 9c
+DanSal    798432821  5  1 Bc  kf    -     -          410   20    0 
+DanSal    798432865  5  5 f   -     -     -          390    0    0 
+DanSal    798432929  5  4 f   -     -     -          390    0    0 
+DanSal    798432969  5  3 cc  b     b     b          390   70  165 Td Ah
+DanSal    798433045  5  2 Bf  -     -     -          485   10    0 
+DanSal    798433095  7  1 Bc  kf    -     -          475   20    0 
+DanSal    798433149  7  7 r   c     c     c          455   70    0 Qh As
+DanSal    798433221  8  7 c   b     b     b          385   60  140 4d 6d
+DanSal    798433301  8  6 c   f     -     -          465   10    0 
+DanSal    798433370  8  5 f   -     -     -          455    0    0 
+DanSal    798433440  8  4 c   bc    kc    krc        455  110    0 Qd 9c
+DanSal    798433563  6  2 f   -     -     -          345    0    0 
+DanSal    798433638  7  2 Bf  -     -     -          345   10    0 
+DanSal    798433704  8  1 Bc  kc    k     k          335   20   40 9h 8h
+DanSal    798433753  8  8 f   -     -     -          355    0    0 
+DanSal    798433821  9  8 f   -     -     -          355    0    0 
+DanSal    798434050  7  6 f   -     -     -          355    0    0 
+DanSal    798434164  5  3 cc  cc    kf    -          355   60    0 
+DanSal    798434276  6  2 Br  c     c     k          295   70    0 Qs Qh
+DanSal    798434392  6  1 Bf  -     -     -          225    5    0 
+DanSal    798434459  6  6 c   f     -     -          220   10    0 
+DanSal    798434513  6  5 f   Q     -     -          210    0    0 
+DanSal    798434717  8  2 Bc  rc    k     k          210   50    0 9c 9h
+DanSal    798434854  5  1 Bc  br    b     brc        160  150    0 3s Ts
+DanSal    798434952  4  4 cA  -     -     -           10   10   35 Jh Jd
+DanSal    798434977  4  3 f   -     -     -           35    0    0 
+DanSal    798435044  4  2 Bf  -     -     -           35   10    0 
+DanSal    798435062  4  1 Bc  bcA   -     -           25   25    0 Kd 6c
+DanSal    798435153  4  4 c   b     b     k         1000   50  150 Ah 5s
+DanSal    798435223  5  3 cc  f     -     -         1100   20    0 
+DanSal    798435271  5  2 Bk  k     c     b         1080   50   90 
+DanSal    798435323  5  1 Bc  k     b     -         1120   30   50 
+DanSal    798435365  5  5 cc  f     -     -         1140   20    0 
+DanSal    798435440  6  5 f   -     -     -         1120    0    0 
+DanSal    798435518  6  4 f   -     -     -         1120    0    0 
+DanSal    798435566  6  3 f   -     -     -         1120    0    0 
+DanSal    798435643  6  2 B   -     -     -         1120   10   15 
+DanSal    798435658  6  1 Bc  bc    kf    -         1125   30    0 
+DanSal    798435759  8  8 r   k     c     f         1095   40    0 
+DanSal    798435851  7  6 cc  k     bc    kc        1055  110    0 5d 5h
+DanSal    798435942  8  6 f   -     -     -          945    0    0 
+DanSal    798435991  7  4 cc  kf    -     -          945   20    0 
+DanSal    798436057  8  3 f   -     -     -          925    0    0 
+DanSal    798436156  8  2 Bk  b     b     b          925   60  130 8d Ks
+DanSal    798436215  8  1 Bc  bc    b     b          995   80    0 7h 6h
+DanSal    798436309  7  7 f   Q     -     -          915    0    0 
+DanSal    798590849  3  2 Bc  kf    -     -          915   20    0 
+DanSal    798590877  3  1 Bc  b     b     -          895   50  100 
+DanSal    798590904  3  3 r   -     -     -          945   20   35 
+DanSal    798590921  3  2 Bk  b     -     -          960   20   30 
+DanSal    798590938  3  1 Bf  -     -     -          970    5    0 
+DanSal    798590959  3  3 f   -     -     -          965    0    0 
+DanSal    798590969  3  2 Brc c     c     c          965   90  180 8d Ac
+DanSal    798591008  3  1 Bf  -     -     -         1055    5    0 
+DanSal    798591021  3  3 f   -     -     -         1050    0    0 
+DanSal    798591030  3  2 B   -     -     -         1050   10   15 
+DanSal    798591037  3  1 Bc  k     k     b         1055   30   40 
+DanSal    798591074  3  3 r   c     c     c         1065   70    0 Qs Th
+DanSal    798591106  3  2 Bf  -     -     -          995   10    0 
+DanSal    798591116  3  1 Br  bc    b     b          985  100  240 
+DanSal    798591179  3  3 f   -     -     -         1125    0    0 
+DanSal    798591218  3  2 Bk  f     -     -         1125   10    0 
+DanSal    798591238  4  1 Bc  f     -     -         1115   10    0 
+DanSal    798591257  4  4 r   -     -     -         1105   20   35 
+DanSal    798591269  4  3 r   br    b     -         1120   70  135 
+DanSal    798591312  4  2 Bk  f     -     -         1185   10    0 
+DanSal    798591334  4  1 Bf  -     -     -         1175    5    0 
+DanSal    798591349  4  4 f   -     -     -         1170    0    0 
+DanSal    798591367  4  3 cc  f     -     -         1170   20    0 
+DanSal    798591398  4  2 Bk  b     -     -         1150   20   40 
+DanSal    798591423  4  1 Brc b     bc    kc        1170  100    0 2h Qd
+DanSal    798591467  4  4 cc  r     c     c         1070   80    0 Kc 5c
+DanSal    798591534  4  3 f   -     -     -          990    0    0 
+DanSal    798591572  4  2 Br  b     -     -          990   30   50 
+DanSal    798591599  3  1 Br  -     -     -         1010   20   30 
+DanSal    798591611  3  3 f   -     -     -         1020    0    0 
+DanSal    798591629  3  2 Bk  kc    k     b         1020   40   70 
+DanSal    798591674  3  1 Bc  k     b     b         1050   60  120 
+DanSal    798591718  3  3 f   -     -     -         1110    0    0 
+DanSal    798591743  3  2 Bf  -     -     -         1110   10    0 
+DanSal    798591754  3  1 Bf  -     -     -         1100    5    0 
+DanSal    798591769  3  3 f   -     -     -         1095    0    0 
+DanSal    798591778  3  2 Bk  k     k     rc        1095   70    0 9c 3s
+DanSal    798591827  3  1 Bc  kf    -     -         1025   10    0 
+DanSal    798591853  4  3 f   -     -     -         1015    0    0 
+DanSal    798591892  4  2 Bf  -     -     -         1015   10    0 
+DanSal    798591941  4  1 Bc  f     -     -         1005   10    0 
+DanSal    798591975  4  4 f   -     -     -          995    0    0 
+DanSal    798592008  4  3 f   -     -     -          995    0    0 
+DanSal    798592045  4  2 Bc  k     b     -          995   40   80 
+DanSal    798592090  6  1 Bf  -     -     -         1035    5    0 
+DanSal    798592114  6  6 f   -     -     -         1030    0    0 
+DanSal    798592176  7  6 f   -     -     -         1030    0    0 
+DanSal    798592190  7  5 cc  c     r     -         1030   70  160 
+DanSal    798592272  6  4 f   Q     -     -         1120    0    0 
+DanSal    798662794  3  3 c   c     r     bc        1120  100    0 Kc 6c
+DanSal    798662939  2  1 Bk  bc    kc    kf        1020   50    0 
+DanSal    798662991  2  1 Bc  b     -     -          970   20   30 
+DanSal    798663021  2  2 Bk  c     f     -          980   20    0 
+DanSal    798663055  2  1 Bf  -     -     -          960    5    0 
+DanSal    798663064  2  2 Bf  -     -     -          955   10    0 
+DanSal    798663083  2  1 Bc  b     b     kc         945   60    0 Qh Kd
+DanSal    798663141  2  2 Bc  b     b     -          885   50   80 
+DanSal    798663179  2  1 Bf  -     -     -          915    5    0 
+DanSal    798663188  2  2 Bk  k     k     b          910   30   40 
+DanSal    798663229  2  1 Bc  b     kr    b          920   80  140 
+DanSal    798663277  2  2 Bf  -     -     -          980   10    0 
+DanSal    798663291  2  1 Bf  -     -     -          970    5    0 
+DanSal    798663306  2  2 Bc  c     k     c          965   50    0 Ah 4d
+DanSal    798663349  2  1 Bc  k     krrc  brrc       915  230    0 9c 9s
+DanSal    798663410  3  3 f   -     -     -          685    0    0 
+DanSal    798663534  3  2 Bk  k     k     b          685   30   50 
+DanSal    798663579  3  1 Bcc kr    krc   k          705  100  200 Kd 9s
+DanSal    798663643  3  3 c   c     c     b          805   60  125 4c 5c
+DanSal    798663697  3  2 Bf  -     -     -          870   10    0 
+DanSal    798663709  3  1 Bc  k     kf    -          860   10    0 
+DanSal    798663749  3  3 rc  rc    c     rc         850  140    0 Qc As
+DanSal    798663814  3  2 Bf  -     -     -          710   10    0 
+DanSal    798663833  3  1 Bf  -     -     -          700    5    0 
+DanSal    798663846  3  3 f   -     -     -          695    0    0 
+DanSal    798663876  3  2 Bk  f     -     -          695   10    0 
+DanSal    798663926  4  1 Bf  -     -     -          685    5    0 
+DanSal    798663972  4  4 c   b     b     k          680   40    0 Qd 5h
+DanSal    798664027  4  3 c   k     f     -          640   10    0 
+DanSal    798664067  4  2 Bcc kcc   kc    f          630  120    0 
+DanSal    798664135  5  1 Br  kr    b     br         510  120  330 Ah 2h
+DanSal    798664228  5  5 f   -     -     -          720    0    0 
+DanSal    798664303  5  4 f   -     -     -          720    0    0 
+DanSal    798664359  5  3 f   -     -     -          720    0    0 
+DanSal    798664388  6  2 Br  bc    kf    -          720   40    0 
+DanSal    798664494  7  1 Bf  -     -     -          680    5    0 
+DanSal    798664535  6  6 f   -     -     -          675    0    0 
+DanSal    798664589  6  5 f   -     -     -          675    0    0 
+DanSal    798664640  7  4 r   b     rrc   b          675  150  175 As 7s
+DanSal    798664749  6  3 c   bc    b     b          700   70  170 Jd Kh
+DanSal    798664843  6  2 Bf  -     -     -          800   10    0 
+DanSal    798664872  6  1 Bc  kf    -     -          790   10    0 
+DanSal    798664973  6  6 c   f     -     -          780   10    0 
+DanSal    798665038  6  5 f   -     -     -          770    0    0 
+DanSal    798665116  6  4 cc  bc    kf    -          770   40    0 
+DanSal    798665197  5  3 f   -     -     -          730    0    0 
+DanSal    798665290  5  2 Bk  kc    kcc   bc         730  120    0 7d As
+DanSal    798665387  5  1 Bc  kf    -     -          610   20    0 
+DanSal    798665435  5  5 c   b     k     k          590   20   55 Ks Jd
+DanSal    798665483  6  4 f   -     -     -          625    0    0 
+DanSal    798665537  6  3 f   -     -     -          625    0    0 
+DanSal    798665623  6  2 Bf  -     -     -          625   10    0 
+DanSal    798665691  5  1 Bf  -     -     -          615    5    0 
+DanSal    798665782  5  5 f   -     -     -          610    0    0 
+DanSal    798665831  5  4 c   k     cc    f          610   50    0 
+DanSal    798665925  5  3 f   -     -     -          560    0    0 
+DanSal    798665963  5  2 Bk  b     b     -          560   40   70 
+DanSal    798666011  5  1 Bf  -     -     -          590    5    0 
+DanSal    798666081  5  5 cc  c     k     k          585   50    0 6c 6d
+DanSal    798666183  5  4 fQ  -     -     -          535    0    0 
+DanSal    798666345  5  5 c   c     c     f          535   40    0 
+DanSal    798666408  5  4 c   k     k     k          495   10   30 8d 9c
+DanSal    798666461  6  3 c   b     -     -          515   20   60 
+DanSal    798666520  6  2 Bf  -     -     -          555   10    0 
+DanSal    798666560  6  1 Bc  b     kc    kf         545   50    0 
+DanSal    798666626  7  7 c   f     -     -          495   20    0 
+DanSal    798666704  8  7 f   -     -     -          475    0    0 
+DanSal    798666814  9  7 f   -     -     -          475    0    0 
+DanSal    798666858  9  6 rc  kc    kf    -          475   40    0 
+DanSal    798666926  9  5 c   f     -     -          435   10    0 
+DanSal    798666978  9  4 c   bc    bc    bc         425  110    0 6d Ad
+DanSal    798667066  9  3 c   kc    kf    -          315   20    0 
+DanSal    798667256  8  2 Bk  b     kc    k          295   40    0 3c 8d
+DanSal    798667336  8  1 Bf  Q     -     -          255    5    0 
+DanSal    798776715  7  4 f   -     -     -          250    0    0 
+DanSal    798776802  6  3 f   -     -     -          250    0    0 
+DanSal    798776863  6  2 Bk  k     k     kc         250   30  100 Qd 6h
+DanSal    798776929  6  1 Bf  -     -     -          320    5    0 
+DanSal    798777003  6  6 c   b     f     -          315   20    0 
+DanSal    798777074  5  5 c   r     b     -          295   70  190 
+DanSal    798777161  5  5 f   -     -     -          415    0    0 
+DanSal    798777197  5  4 f   -     -     -          415    0    0 
+DanSal    798777242  5  3 f   -     -     -          415    0    0 
+DanSal    798777302  5  2 Bf  -     -     -          415   10    0 
+DanSal    798777354  6  1 Bf  -     -     -          405    5    0 
+DanSal    798777422  5  5 f   -     -     -          400    0    0 
+DanSal    798777454  5  4 c   f     -     -          400   10    0 
+DanSal    798777510  5  4 f   -     -     -          390    0    0 
+DanSal    798777555  4  2 Bf  -     -     -          390   10    0 
+DanSal    798777577  4  1 Bf  -     -     -          380    5    0 
+DanSal    798777595  4  4 f   -     -     -          375    0    0 
+DanSal    798777610  4  3 f   -     -     -          375    0    0 
+DanSal    798777642  4  2 Bf  -     -     -          375   10    0 
+DanSal    798777657  3  1 Bc  kc    k     b          365   40   80 Kh 6h
+DanSal    798777706  3  3 c   f     -     -          405   10    0 
+DanSal    798777739  3  2 Bc  k     b     k          395   40  100 Ks 7c
+DanSal    798777793  3  1 Bcc kf    -     -          455   20    0 
+DanSal    798777834  3  3 cc  f     -     -          435   20    0 
+DanSal    798777860  3  2 Bc  bc    kf    -          415   40    0 
+DanSal    798777897  3  1 Bf  -     -     -          375    5    0 
+DanSal    798777908  3  3 cc  b     -     -          370   30   60 
+DanSal    798777943  3  2 Bk  c     c     c          400   60    0 3h Ah
+DanSal    798777983  4  1 Bc  kc    kc    b          340   70    0 3d Kd
+DanSal    798778036  4  4 f   -     -     -          270    0    0 
+DanSal    798778098  4  3 f   -     -     -          270    0    0 
+DanSal    798778120  4  2 Bf  -     -     -          270   10    0 
+DanSal    798778152  4  1 Bf  -     -     -          260    5    0 
+DanSal    798778163  4  4 c   f     -     -          255   20    0 
+DanSal    798778194  4  3 f   -     -     -          235    0    0 
+DanSal    798778250  4  2 Bf  -     -     -          235   10    0 
+DanSal    798778300  4  1 Bc  kr    k     b          225   60  140 9s As
+DanSal    798778361  4  4 f   -     -     -          305    0    0 
+DanSal    798778418  4  3 f   -     -     -          305    0    0 
+DanSal    798778464  4  2 Bc  k     kcc   k          305   60    0 5d Ac
+DanSal    798778681  4  1 Bf  -     -     -          245    5    0 
+DanSal    798778698  4  4 r   bc    b     b          240   80    0 Tc As
+DanSal    798778795  5  3 cc  c     c     c          160   70    0 2s 2d
+DanSal    798778832  5  2 Bk  k     k     b           90   30    0 5s Ts
+DanSal    798778881  5  1 Bf  -     -     -           60    5    0 
+DanSal    798778927  5  5 c   c     rA    -           55   55  175 2d 3h
+DanSal    798779016  7  6 f   -     -     -          175    0    0 
+DanSal    798779076  7  5 f   -     -     -          175    0    0 
+DanSal    798779196  7  4 c   b     -     -          175   20   60 
+DanSal    798779256  7  3 f   -     -     -          215    0    0 
+DanSal    798779274  7  2 Bf  -     -     -          215   10    0 
+DanSal    798779390  8  1 Bf  -     -     -          205    5    0 
+DanSal    798779448  8  8 f   -     -     -          200    0    0 
+DanSal    798779533  9  5 Q   -     -     -          200    0    0 
+DanSal    798865568  5  5 f   -     -     -          200    0    0 
+DanSal    798865608  5  4 f   -     -     -          200    0    0 
+DanSal    798865671  5  3 rc  cc    bc    kc         200  120  345 Ah Ks
+DanSal    798865774  5  2 Bk  kf    -     -          425   10    0 
+DanSal    798865853  5  1 Bc  kf    -     -          415   10    0 
+DanSal    798865911  5  5 f   -     -     -          405    0    0 
+DanSal    798865983  5  4 rc  c     c     c          405   80    0 Js Jh
+DanSal    798866040  5  3 f   -     -     -          325    0    0 
+DanSal    798866088  5  2 Bk  k     b     b          325   50   90 
+DanSal    798866144  5  1 Br  b     kc    kc         365   70    0 Td Ts
+DanSal    798866217  5  5 f   -     -     -          295    0    0 
+DanSal    798866245  5  4 cc  r     c     c          295   80    0 Ts As
+DanSal    798866297  5  3 cc  k     b     b          215   60  160 Kd 8c
+DanSal    798866354  6  2 Bf  -     -     -          315   10    0 
+DanSal    798866493  5  1 Br  kc    kc    kc         305   70  170 Jd Kc
+DanSal    798866568  6  6 cc  r     r     b          405  110  360 6d Qc
+DanSal    798866659  6  5 f   -     -     -          655    0    0 
+DanSal    798866679  6  4 f   -     -     -          655    0    0 
+DanSal    798866739  6  3 f   -     -     -          655    0    0 
+DanSal    798866804  5  2 Bk  c     f     -          655   20    0 
+DanSal    798866854  5  1 Bc  br    krr   br         635  210  730 2h Kh
+DanSal    798866976  5  5 f   -     -     -         1155    0    0 
+DanSal    798867091  4  4 f   -     -     -         1155    0    0 
+DanSal    798867138  5  3 f   -     -     -         1155    0    0 
+DanSal    798867195  6  2 Bf  -     -     -         1155   10    0 
+DanSal    798867290  6  1 Bf  -     -     -         1145    5    0 
+DanSal    798867372  7  7 r   b     b     -         1140   50  150 
+DanSal    798867454  7  6 f   -     -     -         1240    0    0 
+DanSal    798867506  7  5 f   -     -     -         1240    0    0 
+DanSal    798867573  8  5 f   -     -     -         1240    0    0 
+DanSal    798867653  8  4 rr  b     b     b         1240   90    0 Qc Ah
+DanSal    798867745  8  3 r   b     b     k         1150   50    0 Jc Kh
+DanSal    798867804  9  2 Bf  -     -     -         1100   10    0 
+DanSal    798867886 10  1 Br  b     bc    b         1090  100    0 Qs Qc
+DanSal    798868053 11 11 r   r     b     b          990   80  390 Kd Ks
+DanSal    798868172 11 10 f   -     -     -         1300    0    0 
+DanSal    798868249 10  8 cc  r     c     k         1300   70    0 Td Qs
+DanSal    798868346  8  6 f   -     -     -         1230    0    0 
+DanSal    798868444  7  4 f   -     -     -         1230    0    0 
+DanSal    798868493  7  3 r   b     b     -         1230   50  125 
+DanSal    798868567  7  2 Bk  f     -     -         1305   10    0 
+DanSal    798868623  8  1 Bc  br    b     b         1295   90    0 7c As
+DanSal    798868702  8  8 c   c     r     r         1205  100    0 7h Kc
+DanSal    798868779  8  7 f   -     -     -         1105    0    0 
+DanSal    798868862  8  6 rc  c     f     -         1105   40    0 
+DanSal    798868939  8  5 cc  f     -     -         1065   20    0 
+DanSal    798869029  7  3 cc  kc    k     bc        1045   80    0 7d Td
+DanSal    798869119  7  2 Bk  kf    -     -          965   10    0 
+DanSal    798869184  7  1 Br  kf    Q     -          955   20    0 
+DanSal    798948892  9  8 f   -     -     -          935    0    0 
+DanSal    798948936  9  7 c   kf    -     -          935   10    0 
+DanSal    798949020  9  6 cc  k     k     b          925   40  105 
+DanSal    798949096  8  5 rc  cc    k     f          990   60    0 
+DanSal    798949191  8  4 f   -     -     -          930    0    0 
+DanSal    798949273  8  3 rc  kc    kc    b          930   80    0 Qd As
+DanSal    798949330  8  2 Bk  kc    kf    -          850   20    0 
+DanSal    798949392  8  1 Bc  b     -     -          830   20   60 
+DanSal    798949423  8  8 f   -     -     -          870    0    0 
+DanSal    798949466  7  6 f   -     -     -          870    0    0 
+DanSal    798949537  7  5 f   -     -     -          870    0    0 
+DanSal    798949576  7  4 f   -     -     -          870    0    0 
+DanSal    798949630  6  3 f   -     -     -          870    0    0 
+DanSal    798949752  5  2 Bk  k     b     -          870   30   40 
+DanSal    798949863  4  1 Br  b     b     b          880   70    0 Th Jh
+DanSal    798949908  5  5 f   -     -     -          810    0    0 
+DanSal    798949938  5  4 f   -     -     -          810    0    0 
+DanSal    798949970  5  3 f   -     -     -          810    0    0 
+DanSal    798950010  5  2 Bc  kf    -     -          810   20    0 
+DanSal    798950044  5  1 Br  b     b     -          790   60  110 
+DanSal    798950081  5  5 f   -     -     -          840    0    0 
+DanSal    798950130  5  4 c   b     -     -          840   20   35 
+DanSal    798950156  5  3 c   b     b     -          855   40   70 
+DanSal    798950257  4  2 Bk  k     k     k          885   10   20 Jh 3s
+DanSal    798950289  4  1 Bc  b     -     -          895   20   30 
+DanSal    798950329  4  4 c   r     -     -          905   30   60 
+DanSal    798950368  4  3 f   -     -     -          935    0    0 
+DanSal    798950420  4  2 Bc  kf    -     -          935   20    0 
+DanSal    798950451  4  1 Bf  -     -     -          915    5    0 
+DanSal    798950478  3  3 c   f     -     -          910   10    0 
+DanSal    798950496  3  3 r   -     -     -          900   20   35 
+DanSal    798950505  3  2 Br  k     b     -          915   50   80 
+DanSal    798950538  3  1 Br  b     b     -          945   50   80 
+DanSal    798950560  3  3 r   b     -     -          975   30   55 
+DanSal    798950583  3  2 Br  b     b     b         1000   80    0 Kc 2c
+DanSal    798950619  3  1 Bf  -     -     -          920    5    0 
+DanSal    798950631  3  3 r   -     -     -          915   20   35 
+DanSal    798950641  3  2 Br  b     b     -          930   60  105 
+DanSal    798950662  4  1 Br  b     b     b          975   70    0 Js Qd
+DanSal    798950700  4  4 r   brc   c     r          905  120    0 Ts Jh
+DanSal    798950782  5  3 c   b     bc    br         785  120  310 4s Qs
+DanSal    798950856  4  2 Bf  -     -     -          975   10    0 
+DanSal    798950876  4  1 Bcf -     -     -          965   10    0 
+DanSal    798950892  4  4 f   -     -     -          955    0    0 
+DanSal    798950929  4  3 r   b     -     -          955   30   55 
+DanSal    798950956  4  2 Bc  c     k     bc         980   70    0 7d Qc
+DanSal    798951004  5  1 Br  brc   b     b          910  100    0 9h Ad
+DanSal    798951075  5  5 fQ  -     -     -          810    0    0 
+DanSal    799270616  9  5 c   kc    kc    k          810   40    0 Ks 2s
+DanSal    799270696  9  4 r   kc    kf    -          770   30    0 
+DanSal    799270760  9  3 f   -     -     -          740    0    0 
+DanSal    799270795 10  2 Bf  -     -     -          740   10    0 
+DanSal    799270855 10  1 Bc  b     b     bc         730   90    0 5s 5d
+DanSal    799270933 11 11 c   rc    k     f          640   50    0 
+DanSal    799271020 11 10 c   k     k     f          590   10    0 
+DanSal    799271087 11  9 c   c     c     f          580   40    0 
+DanSal    799271148 11  8 c   f     -     -          540   20    0 
+DanSal    799271229 11  7 f   -     -     -          520    0    0 
+DanSal    799271290 12  6 c   r     c     f          520   50    0 
+DanSal    799271385 11  5 cc  kf    -     -          470   20    0 
+DanSal    799271445 11  4 f   -     -     -          450    0    0 
+DanSal    799271484  8  2 Bf  -     -     -          450   10    0 
+DanSal    799271588  7  1 Bc  k     k     b          440   30   50 
+DanSal    799271643  6  6 cc  r     r     b          460  110    0 Kh Td
+DanSal    799271702  6  5 c   b     -     -          350   20   45 
+DanSal    799271748  5  4 f   -     -     -          375    0    0 
+DanSal    799271770  5  3 c   b     -     -          375   20   40 
+DanSal    799271805  5  2 Bk  k     b     k          395   30    0 Jc 5c
+DanSal    799271849  5  1 Bf  -     -     -          365    5    0 
+DanSal    799271867  5  5 f   -     -     -          360    0    0 
+DanSal    799271907  5  4 c   r     b     r          360   90  200 9d Ah
+DanSal    799271954  5  3 f   -     -     -          470    0    0 
+DanSal    799272013  5  2 Bk  kf    -     -          470   10    0 
+DanSal    799272042  5  1 Bf  -     -     -          460    5    0 
+DanSal    799272097  6  6 f   -     -     -          455    0    0 
+DanSal    799272116  6  5 rc  r     r     b          455  120  370 
+DanSal    799272192  6  4 f   -     -     -          705    0    0 
+DanSal    799272245  6  4 f   -     -     -          705    0    0 
+DanSal    799272263  6  2 Bk  k     k     kf         705   10    0 
+DanSal    799272308  6  1 Bc  k     kf    -          695   10    0 
+DanSal    799272355  6  6 f   -     -     -          685    0    0 
+DanSal    799272383  6  5 f   -     -     -          685    0    0 
+DanSal    799272408  6  4 f   -     -     -          685    0    0 
+DanSal    799272450  6  3 cc  bc    kf    -          685   40    0 
+DanSal    799272497  6  2 Bc  f     -     -          645   20    0 
+DanSal    799272552  6  1 Bf  -     -     -          625    5    0 
+DanSal    799272619  6  6 r   b     b     b          620   70  175 2s 3s
+DanSal    799272690  5  5 c   br    b     bc         725  100    0 Qc Qs
+DanSal    799272788  6  5 f   -     -     -          625    0    0 
+DanSal    799272854  6  4 c   b     b     bc         625   80    0 5d Ks
+DanSal    799272929  6  3 cc  bc    kc    k          545   60    0 Td As
+DanSal    799273005  6  2 Bk  bc    b     b          485   70  160 Ad 4c
+DanSal    799273049  6  1 Bf  -     -     -          575    5    0 
+DanSal    799273107  6  6 f   -     -     -          570    0    0 
+DanSal    799273164  6  5 f   -     -     -          570    0    0 
+DanSal    799273209  6  4 f   -     -     -          570    0    0 
+DanSal    799273272  6  3 c   b     b     b          570   60  140 
+DanSal    799273339  6  3 fQ  -     -     -          650    0    0 
+DanSal    799294475  9  5 f   -     -     -          650    0    0 
+DanSal    799294571  9  4 ccc br    b     b          650  110  510 
+DanSal    799294760  9  4 c   b     k     -         1050   20   65 
+DanSal    799294854  8  2 Bk  k     b     -         1095   30   60 
+DanSal    799294931  8  1 Bc  kf    -     -         1125   10    0 
+DanSal    799295026  8  8 c   f     -     -         1115   10    0 
+DanSal    799295141  8  7 f   -     -     -         1105    0    0 
+DanSal    799295220  8  6 f   -     -     -         1105    0    0 
+DanSal    799295281  8  5 f   -     -     -         1105    0    0 
+DanSal    799295393  8  4 f   -     -     -         1105    0    0 
+DanSal    799295513  7  2 Bf  -     -     -         1105   10    0 
+DanSal    799295604  7  1 Bc  b     bc    bc        1095  100    0 Th Kc
+DanSal    799295691  7  7 r   r     b     bf         995   80    0 
+DanSal    799295886  9  8 f   -     -     -          915    0    0 
+DanSal    799295941  8  6 r   -     -     -          915   20   35 
+DanSal    799295968  8  5 r   k     k     k          930   20    0 9c Jd
+DanSal    799296025  6  4 f   -     -     -          910    0    0 
+DanSal    799296087  3  2 Bc  c     b     b          910   70    0 Ks 4d
+DanSal    799296150  3  1 Brc b     bf    -          840   70    0 
+DanSal    799296196  4  3 rc  b     r     k          770   80    0 Ad 4d
+DanSal    799296282  4  2 Bk  r     b     b          690   70    0 Ac 7s
+DanSal    799296348  4  1 Br  k     b     b          620   60  130 
+DanSal    799296403  4  4 f   -     -     -          690    0    0 
+DanSal    799296454  4  3 f   -     -     -          690    0    0 
+DanSal    799296495  4  2 Br  b     b     b          690   70    0 Qs 6h
+DanSal    799296541  4  1 Bf  -     -     -          620    5    0 
+DanSal    799296561  4  4 r   b     b     b          615   70  160 Qd Td
+DanSal    799296624  4  3 r   -     -     -          705   20   35 
+DanSal    799296650  4  2 Br  b     b     b          720   70    0 9c Qs
+DanSal    799296700  5  1 Bc  k     k     kf         650   10    0 
+DanSal    799296758  5  5 fQ  -     -     -          640    0    0 

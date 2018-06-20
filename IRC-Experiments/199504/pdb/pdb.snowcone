@@ -1,0 +1,92 @@
+snowcone  797216672  9  2 c   b     b     b         1000   60    0 5s 4c
+snowcone  797216741  9  2 Bc  kf    -     -          940   20    0 
+snowcone  797216771  9  1 Bc  kf    -     -          920   20    0 
+snowcone  797216828  8  8 f   -     -     -          900    0    0 
+snowcone  797216845  8  7 c   k     k     b          900   30   45 
+snowcone  797216875  7  5 f   -     -     -          915    0    0 
+snowcone  797216919  7  4 c   k     b     -          915   30   55 
+snowcone  797216963  7  3 rc  k     b     -          940   50  115 
+snowcone  797217001  7  2 Bk  cr    k     b         1005   60    0 4d 9s
+snowcone  797217090  7  1 Bc  kf    -     -          945   10    0 
+snowcone  797217160  8  8 f   -     -     -          935    0    0 
+snowcone  797217232  8  7 c   b     k     b          935   40  120 5h 4c
+snowcone  797217326  7  4 c   k     f     -         1015   10    0 
+snowcone  797217385  7  3 fQ  -     -     -         1005    0    0 
+snowcone  797585484  4  2 Bc  brc   kr    b         1005  120  265 Ah 9s
+snowcone  797585527  4  1 Bc  k     b     b         1150   60  140 
+snowcone  797585563  4  4 c   f     -     -         1230   20    0 
+snowcone  797585582  4  3 rc  c     c     b         1210   80  190 3s 3d
+snowcone  797585623  4  2 Bc  k     f     -         1320   20    0 
+snowcone  797585653  4  1 Br  b     kc    kc        1300   70    0 2c 3c
+snowcone  797585689  4  4 c   f     -     -         1230   20    0 
+snowcone  797585705  4  3 c   r     b     b         1210   70  210 8d As
+snowcone  797585746  4  2 Bk  k     k     b         1350   30   50 
+snowcone  797585789  4  1 Bc  b     b     -         1370   50  100 
+snowcone  797585813  4  4 f   -     -     -         1420    0    0 
+snowcone  797585832  3  2 Bc  b     b     b         1420   70  140 8h Jd
+snowcone  797585873  3  1 Bf  -     -     -         1490    5    0 
+snowcone  797585885  3  3 cc  c     c     r         1485   90  185 7s Kd
+snowcone  797585913  3  2 B   -     -     -         1580   10   15 
+snowcone  797585922  3  1 Bc  k     kr    b         1585   70    0 4s Kd
+snowcone  797585957  3  3 f   -     -     -         1515    0    0 
+snowcone  797585964  3  2 B   -     -     -         1515   10   15 
+snowcone  797585971  3  1 Bc  b     b     k         1520   40   80 3h 2c
+snowcone  797585999  3  3 c   k     rr    b         1560  110  230 7h 2c
+snowcone  797586054  3  2 Bk  k     b     -         1680   30   45 
+snowcone  797586070  3  1 Bc  b     -     -         1695   20   30 
+snowcone  797586084  3  3 cc  r     k     k         1705   40   85 8h 9c
+snowcone  797586117  3  2 B   -     -     -         1750   10   15 
+snowcone  797586124  3  1 BQ  -     -     -         1755    5    0 
+snowcone  797966434  9  4 f   -     -     -         1750    0    0 
+snowcone  797966499  9  3 cc  rf    -     -         1750   40    0 
+snowcone  797966564 10  2 Bk  kf    -     -         1710   10    0 
+snowcone  797966637  9  1 Bc  bc    b     b         1700   90  360 Jh 4s
+snowcone  797966782  9  9 r   c     r     b         1970   90  315 Ac Jc
+snowcone  797966902  9  8 c   r     kc    rc        2195  130    0 7d Jc
+snowcone  797967047  7  5 c   k     b     b         2065   50  110 
+snowcone  797967127  7  5 r   b     kc    b         2125   70  175 Ac Kd
+snowcone  797967217  6  3 f   -     -     -         2230    0    0 
+snowcone  797967230  7  2 Bk  b     -     -         2230   20   45 
+snowcone  797967280  8  1 Bc  kf    -     -         2255   20    0 
+snowcone  797967403  8  8 fQ  -     -     -         2235    0    0 
+snowcone  798341218  8  2 Bc  b     b     b         2235   70    0 7h Td
+snowcone  798341293  8  1 Bf  -     -     -         2165    5    0 
+snowcone  798341372  9  9 f   -     -     -         2160    0    0 
+snowcone  798341455  9  8 cr  r     r     b         2160  110    0 As 9c
+snowcone  798341535  8  6 c   f     -     -         2050   10    0 
+snowcone  798341600  8  5 f   -     -     -         2040    0    0 
+snowcone  798341661  8  4 f   -     -     -         2040    0    0 
+snowcone  798341734  7  2 Bc  kc    kr    bc        2040  130    0 4c 6h
+snowcone  798341804  9  1 Br  kc    kr    kc        1910  110    0 Qd Jd
+snowcone  798341879  9  9 f   Q     -     -         1800    0    0 
+snowcone  798535713  5  4 cc  rf    -     -         1800   50    0 
+snowcone  798535864  3  2 f   -     -     -         1750    0    0 
+snowcone  798535907  3  2 Bk  bc    kc    kr        1750   90  190 Tc 6c
+snowcone  798535993  4  1 Bc  b     b     -         1850   50   90 
+snowcone  798536038  4  4 r   b     -     -         1890   30   70 
+snowcone  798536089  4  3 r   k     f     -         1930   20    0 
+snowcone  798536154  4  2 Bc  kf    -     -         1910   20    0 
+snowcone  798536255  4  1 Bc  -     -     -         1890   10   20 
+snowcone  798536272  4  4 c   bc    c     f         1900   50    0 
+snowcone  798536361  4  3 cc  f     -     -         1850   20    0 
+snowcone  798536446  4  2 Bc  c     c     f         1830   50    0 
+snowcone  798536531  3  1 Br  -     -     -         1780   20   30 
+snowcone  798536558  4  4 r   r     b     -         1790   70  135 
+snowcone  798536612  4  3 c   brc   kc    krc       1855  130  280 Ks Tc
+snowcone  798536714  5  2 Brc kc    kcc   bf        2005  130    0 
+snowcone  798536877  5  1 Bc  k     b     b         1875   50   80 
+snowcone  798536954  4  4 c   k     k     k         1905   10   25 9h Qc
+snowcone  798536990  4  3 c   f     Q     -         1920   10    0 
+snowcone  798867195  6  4 cc  kf    -     -         1910   20    0 
+snowcone  798867290  6  3 r   b     k     b         1890   50  135 
+snowcone  798867372  7  2 Bc  kf    -     -         1975   20    0 
+snowcone  798867454  7  1 Bf  -     -     -         1955    5    0 
+snowcone  798867506  7  7 cc  f     -     -         1950   20    0 
+snowcone  798867573  8  7 rc  c     b     f         1930   70    0 
+snowcone  798867653  8  6 f   -     -     -         1860    0    0 
+snowcone  798867745  8  5 f   -     -     -         1860    0    0 
+snowcone  798867804  9  4 f   -     -     -         1860    0    0 
+snowcone  798867886 10  3 f   -     -     -         1860    0    0 
+snowcone  798868053 11  2 Bc  kf    -     -         1860   20    0 
+snowcone  798868172 11  1 Bc  kf    -     -         1840   20    0 
+snowcone  798868249 10 10 fQ  -     -     -         1820    0    0 

@@ -1,0 +1,496 @@
+scrappy   798334931  4  2 Br  b     k     c         1000   50  100 Ks Kh
+scrappy   798335000  5  1 Bc  kf    -     -         1050   10    0 
+scrappy   798335039  5  5 f   -     -     -         1040    0    0 
+scrappy   798335093  5  4 f   -     -     -         1040    0    0 
+scrappy   798335179  7  4 rc  cc    f     -         1040   50    0 
+scrappy   798335240  7  3 cc  f     -     -          990   20    0 
+scrappy   798335313  7  2 Bk  kf    -     -          970   10    0 
+scrappy   798335409  8  1 Bf  -     -     -          960    5    0 
+scrappy   798335452  8  8 c   k     c     c          955   50    0 Th Qd
+scrappy   798335538  9  8 cKQ -     -     -          905   30    0 
+scrappy   798659676  2  2 Bk  r     b     b          875   70  140 5d 6h
+scrappy   798659710  2  1 Bf  -     -     -          945    5    0 
+scrappy   798659719  2  2 B   -     -     -          940   10   15 
+scrappy   798660767  2  2 BKQ -     -     -          945   10    0 
+scrappy   798687801  9  7 cc  kf    -     -          935   20    0 
+scrappy   798687923  8  5 c   cc    kf    -          915   30    0 
+scrappy   798688021  9  5 c   f     -     -          885   10    0 
+scrappy   798688110  9  4 f   -     -     -          875    0    0 
+scrappy   798688235 11  3 cc  kf    -     -          875   30    0 
+scrappy   798688368 11  2 Bk  kc    b     -          845   40  100 
+scrappy   798688488 11  1 Bc  kc    kc    kf         905   50    0 
+scrappy   798688625 11 11 f   -     -     -          855    0    0 
+scrappy   798688689 12 11 c   cc    QQ    -          855   50    0 
+scrappy   798689028  9  4 f   -     -     -          805    0    0 
+scrappy   798689125 10  3 cc  k     k     b          805   40  130 
+scrappy   798689198 10  2 Br  br    bc    kr         895  140  295 Qs Qd
+scrappy   798689281 11  1 Bc  br    b     b         1050   90  230 Ad Tc
+scrappy   798689338 11 11 f   -     -     -         1190    0    0 
+scrappy   798689452 11 10 f   -     -     -         1190    0    0 
+scrappy   798689571 10  8 f   -     -     -         1190    0    0 
+scrappy   798689687 10  8 c   c     b     c         1190   60    0 7c Kd
+scrappy   798689794  9  6 f   -     -     -         1130    0    0 
+scrappy   798689863  9  5 r   b     -     -         1130   30   65 
+scrappy   798689922  9  4 f   -     -     -         1165    0    0 
+scrappy   798689971  9  3 c   c     c     k         1165   40    0 Qc Td
+scrappy   798690044 10  2 Bk  bc    k     kc        1125   50    0 Kd 7s
+scrappy   798690197 10  1 Bc  kc    b     kc        1075   80    0 5h Qs
+scrappy   798690347  9  9 c   k     k     f          995   10    0 
+scrappy   798690457  8  7 cc  k     c     k          985   60  280 8s 9h
+scrappy   798690579  7  5 c   f     -     -         1205   10    0 
+scrappy   798690654  7  4 c   c     bc    rc        1195  130  280 Kh Ac
+scrappy   798690733  7  3 c   f     -     -         1345   10    0 
+scrappy   798690783  8  2 Bf  -     -     -         1335   10    0 
+scrappy   798690896  8  1 Bc  k     kc    k         1325   30   70 5d 5c
+scrappy   798690976  8  8 c   c     c     f         1365   50    0 
+scrappy   798691070  8  7 f   -     -     -         1315    0    0 
+scrappy   798691151  8  6 f   -     -     -         1315    0    0 
+scrappy   798691236  7  4 c   k     k     r         1315   70  220 Qd Ah
+scrappy   798691348  7  3 f   -     -     -         1465    0    0 
+scrappy   798691419  7  2 Bf  Q     -     -         1465   10    0 
+scrappy   798768974  7  6 f   -     -     -         1455    0    0 
+scrappy   798769061  6  4 f   -     -     -         1455    0    0 
+scrappy   798769129  8  3 f   -     -     -         1455    0    0 
+scrappy   798769213  8  3 f   -     -     -         1455    0    0 
+scrappy   798769260  8  2 Bk  cc    kf    -         1455   30    0 
+scrappy   798769333  9  1 Bc  kc    k     b         1425   40   80 
+scrappy   798769384  9  9 c   f     -     -         1465   20    0 
+scrappy   798769490  9  8 f   -     -     -         1445    0    0 
+scrappy   798769614 10  7 c   kc    k     f         1445   20    0 
+scrappy   798769761 10  6 fQ  -     -     -         1425    0    0 
+scrappy   798862025 12 10 f   -     -     -         1425    0    0 
+scrappy   798862124 10  8 c   f     -     -         1425   20    0 
+scrappy   798862184 11  7 f   -     -     -         1405    0    0 
+scrappy   798862263 10  5 f   -     -     -         1405    0    0 
+scrappy   798862398 10  4 f   -     -     -         1405    0    0 
+scrappy   798862532  7  2 f   -     -     -         1405    0    0 
+scrappy   798862692  5  2 Bk  kc    kc    kf        1405   40    0 
+scrappy   798862772  5  1 Bcf -     -     -         1365   10    0 
+scrappy   798862817  5  5 cc  cc    c     f         1355   70    0 
+scrappy   798862898  6  4 cc  c     c     r         1285   90  260 4s Js
+scrappy   798862991  6  3 cc  c     b     f         1455   60    0 
+scrappy   798863099  5  2 Bc  cf    -     -         1395   30    0 
+scrappy   798863185  5  1 Bf  -     -     -         1365    5    0 
+scrappy   798863259  4  4 c   k     f     -         1360   10    0 
+scrappy   798863303  3  2 Bk  kc    k     k         1350   20    0 8c 2c
+scrappy   798863365  4  1 Bc  kf    -     -         1330   10    0 
+scrappy   798863428  3  3 f   -     -     -         1320    0    0 
+scrappy   798863437  3  3 f   -     -     -         1320    0    0 
+scrappy   798863489  3  2 Bk  kf    -     -         1320   10    0 
+scrappy   798863531  3  1 Bc  kc    k     kf        1310   30    0 
+scrappy   798863568  3  3 c   f     -     -         1280   10    0 
+scrappy   798863608  3  2 Bk  k     k     k         1270   10    0 3c 2s
+scrappy   798863632  3  1 Bc  k     k     k         1260   10    0 Tc 7c
+scrappy   798863655  3  3 f   -     -     -         1250    0    0 
+scrappy   798863694  3  2 Bk  k     c     f         1250   30    0 
+scrappy   798863723  4  1 Bc  bc    kc    k         1220   60  180 3c Kd
+scrappy   798863768  4  4 c   f     -     -         1340   10    0 
+scrappy   798863792  4  3 c   f     -     -         1330   10    0 
+scrappy   798863838  5  2 Bc  k     kf    -         1320   20    0 
+scrappy   798863926  5  1 Bc  kf    -     -         1300   10    0 
+scrappy   798863978  5  5 cc  b     k     k         1290   30    0 Qh 3c
+scrappy   798864053  5  4 fQ  -     -     -         1260    0    0 
+scrappy   798864269  5  3 c   f     -     -         1260   10    0 
+scrappy   798864302  5  2 Bk  kc    kf    -         1250   20    0 
+scrappy   798864342  4  1 Bc  k     k     kf        1230   10    0 
+scrappy   798864378  5  5 c   k     k     k         1220   10    0 Kh 7d
+scrappy   798864418  5  4 f   -     -     -         1210    0    0 
+scrappy   798864468  6  4 f   -     -     -         1210    0    0 
+scrappy   798864522  6  3 f   -     -     -         1210    0    0 
+scrappy   798864559  6  2 Bk  f     -     -         1210   10    0 
+scrappy   798864610  6  1 Bc  -     -     -         1200   10   20 
+scrappy   798864647  4  4 f   -     -     -         1210    0    0 
+scrappy   798864679  3  3 cc  c     k     f         1210   21    0 
+scrappy   798864727  2  1 B   -     -     -         1189   10   10 
+scrappy   798864738  4  1 Bc  k     kf    -         1189   10    0 
+scrappy   798864770  4  4 c   k     f     -         1179   10    0 
+scrappy   798864804  4  3 cc  r     b     b         1169   80  180 
+scrappy   798864846  4  2 Bc  kf    -     -         1269   20    0 
+scrappy   798864882  5  1 Bc  kc    kf    -         1249   20    0 
+scrappy   798864939  5  5 c   k     f     -         1229   10    0 
+scrappy   798865008  5  4 f   -     -     -         1219    0    0 
+scrappy   798865069  6  3 f   -     -     -         1219    0    0 
+scrappy   798865118  6  2 Bf  -     -     -         1219   10    0 
+scrappy   798865135  6  1 Bc  k     k     k         1209   10    0 6s Kc
+scrappy   798865187  7  7 c   c     f     -         1199   20    0 
+scrappy   798865248  7  6 c   f     -     -         1179   10    0 
+scrappy   798865288  7  5 f   Q     -     -         1169    0    0 
+scrappy   799192869  6  2 B   -     -     -         1169   10   15 
+scrappy   799192898  6  1 Bc  kc    k     kf        1174   20    0 
+scrappy   799192949  6  6 c   c     cc    f         1154   60    0 
+scrappy   799192993  6  5 f   -     -     -         1094    0    0 
+scrappy   799193036  6  4 f   -     -     -         1094    0    0 
+scrappy   799193076  6  3 c   k     k     k         1094   10   40 Ad Jc
+scrappy   799193126  6  2 Bc  kc    k     k         1124   30    0 Tc 7c
+scrappy   799193169  6  1 Br  kc    kf    -         1094   30    0 
+scrappy   799193239  6  6 f   -     -     -         1064    0    0 
+scrappy   799193277  6  5 c   f     -     -         1064   10    0 
+scrappy   799193382  7  4 cc  c     c     c         1054   80    0 Td Th
+scrappy   799193442  7  3 f   -     -     -          974    0    0 
+scrappy   799193505  7  2 Bf  -     -     -          974   10    0 
+scrappy   799193560  7  1 Bc  kc    kf    -          964   30    0 
+scrappy   799193656  8  8 KQ  -     -     -          934    0    0 
+scrappy   799194215  9  4 c   b     b     -          934   40  110 
+scrappy   799194270 10  3 f   -     -     -         1004    0    0 
+scrappy   799194326 10  2 Bk  k     kf    -         1004   10    0 
+scrappy   799194428 10  1 Bc  k     k     k          994   10   30 8c 5c
+scrappy   799194508 10 10 c   c     r     b         1014   80  180 Kd 7s
+scrappy   799194594 10  9 cc  kc    kf    -         1114   30    0 
+scrappy   799194744  9  7 f   -     -     -         1084    0    0 
+scrappy   799194862 10  7 cc  c     c     f         1084   50    0 
+scrappy   799194959 11  7 c   cc    c     k         1034   70    0 Ac 2c
+scrappy   799195043 10  5 c   kc    k     kf         964   20    0 
+scrappy   799195151  9  3 c   k     k     f          944   10    0 
+scrappy   799195205  8  2 Bk  f     -     -          934   10    0 
+scrappy   799195239  8  1 Bc  kc    k     k          924   20    0 Th 9h
+scrappy   799195321  8  8 f   -     -     -          904    0    0 
+scrappy   799195374  8  7 f   -     -     -          904    0    0 
+scrappy   799195495  8  6 c   f     -     -          904   20    0 
+scrappy   799195577  8  5 f   -     -     -          884    0    0 
+scrappy   799195615  8  4 c   f     -     -          884   10    0 
+scrappy   799195671  8  3 f   -     -     -          874    0    0 
+scrappy   799195776 10  2 Bk  kc    kc    kr         874   80  250 Ts Qc
+scrappy   799195861 10  1 Bc  kc    krc   k         1044  100  280 Ad 9c
+scrappy   799195973 10 10 f   -     -     -         1224    0    0 
+scrappy   799196078  9  9 c   c     c     c         1224   60    0 Jd Ts
+scrappy   799196149  8  7 c   kf    -     -         1164   10    0 
+scrappy   799196202  8  6 c   c     f     -         1154   20    0 
+scrappy   799196292  8  5 f   -     -     -         1134    0    0 
+scrappy   799196345  8  4 c   f     -     -         1134   20    0 
+scrappy   799196431  8  3 f   -     -     -         1114    0    0 
+scrappy   799196473  8  2 Bc  b     b     b         1114   70  230 6d 7s
+scrappy   799196557  8  1 BfQ -     -     -         1274    5    0 
+scrappy   799200378  6  5 c   f     -     -         1269   10    0 
+scrappy   799200447  5  4 f   -     -     -         1259    0    0 
+scrappy   799200501  6  3 cc  c     b     b         1259   70  210 Qd 6s
+scrappy   799200562  6  2 Bf  -     -     -         1399   10    0 
+scrappy   799200610  6  1 Bc  kf    -     -         1389   10    0 
+scrappy   799200670  6  6 c   k     f     -         1379   10    0 
+scrappy   799200724  6  5 f   -     -     -         1369    0    0 
+scrappy   799200806  6  4 f   -     -     -         1369    0    0 
+scrappy   799200858  6  3 f   -     -     -         1369    0    0 
+scrappy   799200910  6  2 Bf  -     -     -         1369   10    0 
+scrappy   799200981  3  1 Bcc k     k     k         1359   20    0 2d Td
+scrappy   799201023  2  2 c   k     k     b         1339   30   40 
+scrappy   799201044  2  2 Bk  k     k     b         1349   30   60 6d 5c
+scrappy   799201065  2  1 Bc  -     -     -         1379   10   20 
+scrappy   799201071  2  2 Bk  c     c     k         1389   40    0 8d 8s
+scrappy   799201091  2  1 Bc  k     k     kf        1349   10    0 
+scrappy   799201114  2  2 Bk  k     k     k         1339   10    0 8h Th
+scrappy   799201135  2  1 Bc  k     b     bc        1329   70    0 Kc Kh
+scrappy   799201154  2  2 Bk  k     k     k         1259   10    0 9s 8d
+scrappy   799201178  2  1 Bc  b     -     -         1249   20   30 
+scrappy   799201187  2  2 B   -     -     -         1259   10   15 
+scrappy   799201190  2  1 Bf  -     -     -         1264    5    0 
+scrappy   799201194  2  2 Bk  c     c     f         1259   40    0 
+scrappy   799201211  2  1 Bc  kf    -     -         1219   10    0 
+scrappy   799201230  3  2 B   -     -     -         1209   10   15 
+scrappy   799201237  3  1 Bc  k     k     k         1214   10   20 6s Qs
+scrappy   799201260  3  3 c   k     k     b         1224   30   45 
+scrappy   799201293  3  2 Br  b     b     bf        1239   70    0 
+scrappy   799201329  3  1 Bc  kf    -     -         1169   10    0 
+scrappy   799201349  3  3 c   b     b     b         1159   60  105 
+scrappy   799201371  3  2 Bk  f     -     -         1204   10    0 
+scrappy   799201389  3  1 Br  -     -     -         1194   20   30 
+scrappy   799201397  3  3 f   -     -     -         1204    0    0 
+scrappy   799201407  3  2 Br  bc    kc    kc        1204   80    0 3h As
+scrappy   799201440  3  1 Bcc k     k     kf        1124   20    0 
+scrappy   799201464  3  3 f   -     -     -         1104    0    0 
+scrappy   799201473  3  2 Bk  kf    -     -         1104   10    0 
+scrappy   799201485  3  1 Bc  kc    kc    kc        1094   60    0 2s 2c
+scrappy   799201510  3  3 c   -     -     -         1034   10   25 
+scrappy   799201517  3  2 Bk  k     f     -         1049   10    0 
+scrappy   799201539  3  1 Bc  kf    -     -         1039   10    0 
+scrappy   799201554  3  3 c   b     -     -         1029   20   40 
+scrappy   799201577  3  2 Bk  k     k     kf        1049   10    0 
+scrappy   799201600  3  1 Bc  k     b     -         1039   30   40 
+scrappy   799201626  3  3 r   -     -     -         1049   20   35 
+scrappy   799201635  3  2 Bk  f     -     -         1064   10    0 
+scrappy   799201649  3  1 Bcc kc    k     k         1054   40    0 8d 8c
+scrappy   799201682  3  3 c   f     -     -         1014   10    0 
+scrappy   799201710  3  2 Bk  k     k     k         1004   10   10 7h 2c
+scrappy   799201739  3  1 Bc  kf    -     -         1004   10    0 
+scrappy   799201770  3  3 c   k     f     -          994   10    0 
+scrappy   799201797  3  2 Bk  k     b     c          984   50   50 5s Kd
+scrappy   799201840  3  1 Bc  bc    kc    kc         984   70   75 Jc Qd
+scrappy   799201870  3  3 c   f     -     -          989   10    0 
+scrappy   799201908  3  2 B   -     -     -          979   10   15 
+scrappy   799201915  3  1 Brc kc    kf    -          984   40    0 
+scrappy   799201951  3  3 f   -     -     -          944    0    0 
+scrappy   799201972  3  2 B   -     -     -          944   10   15 
+scrappy   799201975  3  1 Bc  kc    kf    -          949   30    0 
+scrappy   799202014  3  3 c   f     -     -          919   10    0 
+scrappy   799202034  3  2 Bk  k     b     bc         909   70  145 5s 6d
+scrappy   799202056  3  1 Bc  kf    -     -          984   10    0 
+scrappy   799202096  3  3 c   f     -     -          974   10    0 
+scrappy   799202117  3  2 Br  c     k     kf         964   30    0 
+scrappy   799202157  4  1 Bc  kc    k     k          934   20    0 4s 3d
+scrappy   799202186  4  4 f   -     -     -          914    0    0 
+scrappy   799202213  4  3 c   b     b     -          914   40   80 
+scrappy   799202246  4  2 Bf  -     -     -          954   10    0 
+scrappy   799202274  4  1 Bc  kf    -     -          944   10    0 
+scrappy   799202324  4  4 f   -     -     -          934    0    0 
+scrappy   799202353  4  3 cc  kc    kf    -          934   30    0 
+scrappy   799202386  3  1 B   -     -     -          904   10   10 
+scrappy   799202395  2  1 Bf  -     -     -          904    5    0 
+scrappy   799202400  2  2 Bf  -     -     -          899   10    0 
+scrappy   799202416  3  1 Br  b     -     -          889   40   80 
+scrappy   799202434  3  3 f   -     -     -          929    0    0 
+scrappy   799202441  3  2 Bk  k     k     br         929   70  120 
+scrappy   799202467  3  1 Bc  kc    k     k          979   20    0 5h 4d
+scrappy   799202502  3  3 cc  r     b     b          959   80  170 Ah Qc
+scrappy   799202537  3  2 Bk  k     kc    k         1049   30   65 3d 4h
+scrappy   799202567  3  1 Bcc k     kc    k         1084   40   80 Td Ah
+scrappy   799202599  3  3 f   -     -     -         1124    0    0 
+scrappy   799202611  3  2 Bk  k     b     b         1124   50   85 
+scrappy   799202634  3  1 Bc  kf    -     -         1159   10    0 
+scrappy   799202655  3  3 c   k     b     -         1149   30   50 
+scrappy   799202692  3  2 Bk  b     -     -         1169   20   30 
+scrappy   799202708  4  1 Bc  kf    -     -         1179   10    0 
+scrappy   799202729  4  4 f   -     -     -         1169    0    0 
+scrappy   799202749  4  3 c   c     f     -         1169   20    0 
+scrappy   799202769  4  2 Bk  f     -     -         1149   10    0 
+scrappy   799202803  4  1 Bc  b     b     -         1139   40   60 
+scrappy   799202841  5  5 f   -     -     -         1159    0    0 
+scrappy   799202898  5  4 f   -     -     -         1159    0    0 
+scrappy   799202932  5  3 c   f     -     -         1159   10    0 
+scrappy   799202955  5  2 Bk  f     -     -         1149   10    0 
+scrappy   799202999  5  1 Bf  -     -     -         1139    5    0 
+scrappy   799203030  5  5 f   -     -     -         1134    0    0 
+scrappy   799203087  7  6 f   -     -     -         1134    0    0 
+scrappy   799203125  7  5 f   -     -     -         1134    0    0 
+scrappy   799203172  7  4 f   -     -     -         1134    0    0 
+scrappy   799203226  7  3 c   kc    kc    kf        1134   40    0 
+scrappy   799203315  8  3 c   c     c     f         1094   40    0 
+scrappy   799203399  9  3 c   c     cc    f         1054  100    0 
+scrappy   799203455  5  3 c   c     c     f          954   40    0 
+scrappy   799203499  5  2 Bc  c     f     -          914   30    0 
+scrappy   799203530  4  1 Bf  -     -     -          884    5    0 
+scrappy   799203571  4  4 f   -     -     -          879    0    0 
+scrappy   799203614  4  3 f   -     -     -          879    0    0 
+scrappy   799203654  4  2 Bc  kf    -     -          879   20    0 
+scrappy   799203681  4  1 Bc  kc    k     kc         859   50    0 As 6d
+scrappy   799203722  3  3 c   c     k     b          809   40   65 
+scrappy   799203754  3  2 Bk  kf    -     -          834   10    0 
+scrappy   799203777  3  1 Bc  kf    -     -          824   20    0 
+scrappy   799203795  3  3 f   -     -     -          804    0    0 
+scrappy   799203819  3  2 B   -     -     -          804   10   15 
+scrappy   799203833  3  1 Bc  kf    -     -          809   20    0 
+scrappy   799203853  3  3 f   -     -     -          789    0    0 
+scrappy   799203857  3  2 Bc  bc    k     k          789   40  100 4d 7d
+scrappy   799203891  3  1 Bc  k     k     b          849   30   40 
+scrappy   799203944  3  3 c   c     f     -          859   20    0 
+scrappy   799203969  3  2 Bf  -     -     -          839   10    0 
+scrappy   799204016  3  1 Bf  -     -     -          829    5    0 
+scrappy   799204028  3  3 c   b     -     -          824   20   40 
+scrappy   799204069  3  2 Br  b     -     -          844   40  100 
+scrappy   799204097  3  1 Bc  kf    -     -          904   10    0 
+scrappy   799204112  3  3 c   f     -     -          894   10    0 
+scrappy   799204129  3  2 Bf  -     -     -          884   10    0 
+scrappy   799204139  3  1 Bc  kc    kc    kr         874   90  190 2c Kc
+scrappy   799204179  3  3 c   b     -     -          974   20   40 
+scrappy   799204212  3  2 Bf  -     -     -          994   10    0 
+scrappy   799204218  3  1 Bf  -     -     -          984    5    0 
+scrappy   799204243  3  3 f   -     -     -          979    0    0 
+scrappy   799204267  3  2 Bc  b     -     -          979   30   70 
+scrappy   799204300  3  1 Bc  kf    -     -         1019   10    0 
+scrappy   799204318  3  3 cc  c     c     c         1009   70  150 Ah 3h
+scrappy   799204340  3  2 Bf  -     -     -         1089   10    0 
+scrappy   799204359  3  1 Bc  kc    kc    kc        1079   70    0 Ad 7h
+scrappy   799204429  3  3 c   c     k     k         1009   20   50 Kc Ah
+scrappy   799204484  3  2 Bc  f     -     -         1039   20    0 
+scrappy   799204511  3  1 Bcc kc    k     k         1019   30   60 Kh 2d
+scrappy   799204544  3  3 f   -     -     -         1049    0    0 
+scrappy   799204551  3  2 Bc  k     k     k         1049   20    0 9d 8d
+scrappy   799204575  3  1 Bcc k     kc    k         1029   40    0 Qc Tc
+scrappy   799204613  3  3 cc  f     -     -          989   20    0 
+scrappy   799204639  3  2 Bf  -     -     -          969   10    0 
+scrappy   799204672  3  1 Bc  kc    k     kr         959   60    0 Ac 4d
+scrappy   799204705  3  3 f   -     -     -          899    0    0 
+scrappy   799204723  3  2 B   -     -     -          899   10   15 
+scrappy   799204730  3  1 Bf  -     -     -          904    5    0 
+scrappy   799204739  3  3 f   -     -     -          899    0    0 
+scrappy   799204742  3  2 Bf  -     -     -          899   10    0 
+scrappy   799204769  3  1 Bcc kc    kf    -          889   30    0 
+scrappy   799204791  3  3 c   k     b     -          859   30   50 
+scrappy   799204816  3  2 Bf  -     -     -          879   10    0 
+scrappy   799204823  3  1 Bc  bc    b     -          869   60  110 
+scrappy   799204851  3  3 cc  c     c     b          919   70  140 
+scrappy   799204881  3  2 Bf  -     -     -          989   10    0 
+scrappy   799204900  3  1 Bc  k     b     k          979   30   60 Qd 7c
+scrappy   799204930  3  3 c   k     c     b         1009   50   85 
+scrappy   799204958  3  2 Bk  k     k     b         1044   30   50 
+scrappy   799204986  3  1 Bf  -     -     -         1064    5    0 
+scrappy   799205017  3  3 f   -     -     -         1059    0    0 
+scrappy   799205041  3  2 Bf  -     -     -         1059   10    0 
+scrappy   799205049  3  1 Bcc kc    k     b         1049   50   80 
+scrappy   799205075  3  3 c   k     k     b         1079   30   45 
+scrappy   799205101  3  2 B   -     -     -         1094   10   15 
+scrappy   799205108  3  1 Bf  -     -     -         1099    5    0 
+scrappy   799205120  3  3 c   k     f     -         1094   10    0 
+scrappy   799205140  3  2 Bk  k     k     f         1084   10    0 
+scrappy   799205162  3  1 Bc  kc    k     kf        1074   40    0 
+scrappy   799205212  3  3 c   k     k     k         1034   10    0 Th Ks
+scrappy   799205248  3  2 Bk  k     kf    -         1024   10    0 
+scrappy   799205277  3  1 Bc  k     kc    k         1014   30   60 Kd Jd
+scrappy   799205299  3  3 f   -     -     -         1044    0    0 
+scrappy   799205307  3  2 Bc  c     k     k         1044   30   60 8d 9d
+scrappy   799205336  3  1 Bf  -     -     -         1074    5    0 
+scrappy   799205346  3  3 f   -     -     -         1069    0    0 
+scrappy   799205355  3  2 Bf  -     -     -         1069   10    0 
+scrappy   799205362  3  1 Bf  -     -     -         1059    5    0 
+scrappy   799205370  3  3 cc  c     c     b         1054   70  190 As Jh
+scrappy   799205414  3  2 Bc  kc    kf    -         1174   30    0 
+scrappy   799205444  3  1 Bcc kf    -     -         1144   30    0 
+scrappy   799205477  3  3 c   k     k     k         1114   10   25 3d Kc
+scrappy   799205526  3  2 Bc  c     f     -         1129   30    0 
+scrappy   799205548  3  1 Bf  -     -     -         1099    5    0 
+scrappy   799205573  3  3 f   -     -     -         1094    0    0 
+scrappy   799205578  3  2 Bk  k     k     k         1094   10   20 Kd 5s
+scrappy   799205602  3  1 Bf  -     -     -         1104    5    0 
+scrappy   799205612  3  3 f   -     -     -         1099    0    0 
+scrappy   799205619  3  2 Bf  -     -     -         1099   10    0 
+scrappy   799205631  3  1 Bc  kf    -     -         1089   10    0 
+scrappy   799205648  3  3 cc  c     k     k         1079   30    0 7s 9s
+scrappy   799205684  3  2 Bk  f     -     -         1049   10    0 
+scrappy   799205702  3  1 Bf  -     -     -         1039    5    0 
+scrappy   799205734  3  3 f   -     -     -         1034    0    0 
+scrappy   799205741  3  2 Bc  c     c     b         1034   70  140 Ad Qs
+scrappy   799205780  3  1 Bf  -     -     -         1104    5    0 
+scrappy   799205796  3  3 c   c     c     c         1099   60  140 Js Jd
+scrappy   799205853  3  2 Bk  k     k     k         1179   10   10 5c 8h
+scrappy   799205901  3  1 Bf  -     -     -         1179    5    0 
+scrappy   799205912  3  3 c   k     k     b         1174   30   50 
+scrappy   799205949  3  2 Bk  k     k     k         1194   10   25 Kc 8h
+scrappy   799206117  3  1 Bf  -     -     -         1209    5    0 
+scrappy   799206147  3  3 f   -     -     -         1204    0    0 
+scrappy   799206155  3  2 Bf  -     -     -         1204   10    0 
+scrappy   799206162  3  1 Bcf -     -     -         1194   10    0 
+scrappy   799206191  3  3 c   k     f     -         1184   10    0 
+scrappy   799206277  3  2 Bf  -     -     -         1174   10    0 
+scrappy   799206349  3  1 Bf  -     -     -         1164    5    0 
+scrappy   799206392  3  3 cc  f     -     -         1159   30    0 
+scrappy   799206480  3  2 Bk  f     -     -         1129   10    0 
+scrappy   799206521  3  1 Bcc k     k     kf        1119   20    0 
+scrappy   799206596  3  3 f   -     -     -         1099    0    0 
+scrappy   799206624  3  2 Bk  f     -     -         1099   10    0 
+scrappy   799206646  3  1 Bf  -     -     -         1089    5    0 
+scrappy   799206662  3  3 f   -     -     -         1084    0    0 
+scrappy   799206668  3  2 Bf  -     -     -         1084   10    0 
+scrappy   799206702  3  1 Bc  k     b     -         1074   40   80 
+scrappy   799206731  3  3 f   -     -     -         1114    0    0 
+scrappy   799206750  3  2 Bf  -     -     -         1114   10    0 
+scrappy   799206772  3  1 Bf  -     -     -         1104    5    0 
+scrappy   799206801  3  3 f   -     -     -         1099    0    0 
+scrappy   799206849  3  2 B   -     -     -         1099   10   15 
+scrappy   799206860  3  1 Bf  -     -     -         1104    5    0 
+scrappy   799206868  3  3 f   -     -     -         1099    0    0 
+scrappy   799206872  3  2 Bk  f     -     -         1099   10    0 
+scrappy   799206899  3  1 Bc  kc    kc    k         1089   40   80 5h 4c
+scrappy   799207044  4  4 c   f     -     -         1129   20    0 
+scrappy   799207068  4  3 f   -     -     -         1109    0    0 
+scrappy   799207090  4  2 Bk  k     br    -         1109   70  125 
+scrappy   799207135  4  1 Bc  kf    -     -         1164   10    0 
+scrappy   799207151  4  4 c   c     k     c         1154   40  100 Kh Ac
+scrappy   799207188  5  4 f   -     -     -         1214    0    0 
+scrappy   799207224  5  3 f   -     -     -         1214    0    0 
+scrappy   799207262  5  2 Bc  k     k     k         1214   20   80 7s Ks
+scrappy   799207309  5  1 BfQ -     -     -         1274    5    0 
+scrappy   799283728  4  3 cc  kc    kc    k         1269   50  115 Ks Qs
+scrappy   799283756  4  2 Bk  f     -     -         1334   10    0 
+scrappy   799283785  5  1 Bc  kf    -     -         1324   10    0 
+scrappy   799283825  6  6 c   c     f     -         1314   20    0 
+scrappy   799283874  7  6 f   -     -     -         1294    0    0 
+scrappy   799283914  6  5 f   -     -     -         1294    0    0 
+scrappy   799283942  6  4 f   -     -     -         1294    0    0 
+scrappy   799283982  6  3 f   -     -     -         1294    0    0 
+scrappy   799283992  6  2 B   -     -     -         1294   10   15 
+scrappy   799284002  6  1 Bf  -     -     -         1299    5    0 
+scrappy   799284031  6  6 f   -     -     -         1294    0    0 
+scrappy   799284067  6  5 f   -     -     -         1294    0    0 
+scrappy   799284132  6  4 cc  f     -     -         1294   20    0 
+scrappy   799284209  6  3 c   kf    -     -         1274   10    0 
+scrappy   799284241  6  2 Bk  k     kf    -         1264   10    0 
+scrappy   799284264  6  1 Bc  k     kf    -         1254   10    0 
+scrappy   799284302  6  6 f   -     -     -         1244    0    0 
+scrappy   799284343  6  5 f   -     -     -         1244    0    0 
+scrappy   799284410  6  4 c   k     k     k         1244   20    0 Kd 9d
+scrappy   799284454  6  3 f   -     -     -         1224    0    0 
+scrappy   799284480  6  2 Bk  kc    kc    bc        1224   80    0 Ks 5d
+scrappy   799284522  6  1 Bf  -     -     -         1144    5    0 
+scrappy   799284549  6  6 f   -     -     -         1139    0    0 
+scrappy   799284597  6  5 cc  b     k     kf        1139   30    0 
+scrappy   799284683  6  4 cc  kf    -     -         1109   20    0 
+scrappy   799284721  6  3 f   -     -     -         1089    0    0 
+scrappy   799284759  6  2 Bc  kc    kc    kf        1089   50    0 
+scrappy   799284812  6  1 Bcc kc    kc    kr        1039   90  200 Qs 4s
+scrappy   799284861  6  6 f   -     -     -         1149    0    0 
+scrappy   799284919  6  5 f   -     -     -         1149    0    0 
+scrappy   799284959  6  4 f   -     -     -         1149    0    0 
+scrappy   799285035  5  2 Bf  -     -     -         1149   10    0 
+scrappy   799285064  5  1 Bc  kf    -     -         1139   10    0 
+scrappy   799285141  3  3 c   c     k     c         1129   40   90 3s Qh
+scrappy   799285175  3  3 c   f     -     -         1179   10    0 
+scrappy   799285192  3  2 B   -     -     -         1169   10   15 
+scrappy   799285198  3  1 Bcc b     -     -         1174   30   50 
+scrappy   799285220  3  3 f   -     -     -         1194    0    0 
+scrappy   799285230  3  2 Br  b     b     b         1194   70  125 
+scrappy   799285274  3  1 Bc  kc    b     b         1249   70  150 6s As
+scrappy   799285302  3  3 c   f     -     -         1329   10    0 
+scrappy   799285320  3  2 Bc  b     -     -         1319   30   50 
+scrappy   799285330  3  1 Bcc kf    -     -         1339   20    0 
+scrappy   799285344  3  3 c   b     b     r         1319   80  150 
+scrappy   799285372  3  2 Br  kc    k     b         1389   70  210 Qc Jc
+scrappy   799285408  3  1 Bf  -     -     -         1529    5    0 
+scrappy   799285427  4  3 c   k     k     k         1524   10   30 Qc Ac
+scrappy   799285459  4  2 Bc  cc    f     -         1544   40    0 
+scrappy   799285498  4  1 Bc  -     -     -         1504   10   20 
+scrappy   799285529  4  4 c   c     c     k         1514   40    0 Jh Qs
+scrappy   799285577  4  3 c   b     -     -         1474   20   40 
+scrappy   799285599  4  2 B   -     -     -         1494   10   15 
+scrappy   799285604  4  1 Br  bc    kc    kf        1499   70    0 
+scrappy   799285636  5  5 cc  c     c     c         1429   90    0 7d Kd
+scrappy   799285691  5  4 c   k     k     f         1339   10    0 
+scrappy   799285724  4  3 c   c     c     k         1329   40    0 Jh 5h
+scrappy   799285747  4  2 B   -     -     -         1289   10   15 
+scrappy   799285754  4  1 Bcf -     -     -         1294   10    0 
+scrappy   799285769  4  4 c   c     c     f         1284   50    0 
+scrappy   799285800  4  3 c   k     k     f         1234   10    0 
+scrappy   799285858  4  2 B   -     -     -         1224   10   15 
+scrappy   799285868  4  1 Bc  bc    kc    kc        1229   70    0 Th 5d
+scrappy   799285906  4  4 c   f     -     -         1159   10    0 
+scrappy   799285960  4  3 c   b     -     -         1149   20   50 
+scrappy   799285992  4  2 Bk  k     k     k         1179   10   35 3c Qd
+scrappy   799286038  4  1 Bcc kf    -     -         1204   20    0 
+scrappy   799286070  4  4 f   -     -     -         1184    0    0 
+scrappy   799286113  5  3 f   -     -     -         1184    0    0 
+scrappy   799286148  5  2 Bf  -     -     -         1184   10    0 
+scrappy   799286161  5  1 Bcc kc    kc    kf        1174   50    0 
+scrappy   799286203  5  5 f   -     -     -         1124    0    0 
+scrappy   799286258  5  4 f   -     -     -         1124    0    0 
+scrappy   799286282  5  3 cr  b     c     f         1124   60    0 
+scrappy   799286330  5  2 Brrrrrrrr brrrr brc   kc        1064  360  363 Ad As
+scrappy   799286521  6  1 Bf  -     -     -         1067    5    0 
+scrappy   799286585  6  6 f   -     -     -         1062    0    0 
+scrappy   799286660  6  5 r   c     f     -         1062   30    0 
+scrappy   799286726  6  4 c   fQ    -     -         1032   10    0 
+scrappy   799294168  7  3 f   -     -     -         1022    0    0 
+scrappy   799294220  7  2 Bk  kf    -     -         1022   10    0 
+scrappy   799294349  7  1 Bc  k     k     k         1012   10    0 4c 9c
+scrappy   799294398  7  7 c   c     f     -         1002   20    0 
+scrappy   799294475  9  8 f   -     -     -          982    0    0 
+scrappy   799294571  9  7 ccc cc    c     f          982   90    0 
+scrappy   799294760  9  7 c   f     -     -          892   10    0 
+scrappy   799294854  8  5 c   k     f     -          882   10    0 
+scrappy   799294931  8  4 c   c     c     f          872   40    0 
+scrappy   799295026  8  3 f   -     -     -          832    0    0 
+scrappy   799295141  8  2 Bk  kc    kc    k          832   40  130 Kc Qd
+scrappy   799295220  8  1 Bf  -     -     -          922    5    0 
+scrappy   799295281  8  8 c   b     k     b          917   40  125 Ah Jc
+scrappy   799295393  8  7 c   f     -     -         1002   10    0 
+scrappy   799295513  7  5 c   r     b     b          992   80  230 3h Ah
+scrappy   799295604  7  4 c   c     f     -         1142   20    0 
+scrappy   799295691  7  3 cc  kf    -     -         1122   20    0 
+scrappy   799295886  9  2 Bf  -     -     -         1102   10    0 
+scrappy   799295941  8  1 Bf  -     -     -         1092    5    0 
+scrappy   799295968  8  8 fQ  -     -     -         1087    0    0 

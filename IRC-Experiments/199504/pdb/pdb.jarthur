@@ -1,0 +1,470 @@
+jarthur   797998531 10 10 f   -     -     -         1000    0    0 
+jarthur   797998577 10  9 f   -     -     -         1000    0    0 
+jarthur   797998663 11  8 f   -     -     -         1000    0    0 
+jarthur   797998822 10  7 c   cc    bcc   br        1000  170  740 Qs Tc
+jarthur   797998948 10  6 f   -     -     -         1570    0    0 
+jarthur   797999027 11  6 f   -     -     -         1570    0    0 
+jarthur   797999171 11  6 cc  kf    -     -         1570   20    0 
+jarthur   797999261 10  3 f   -     -     -         1550    0    0 
+jarthur   797999395 10  3 rc  krc   k     bc        1550  110  461 Kd As
+jarthur   797999644 12  2 Bf  -     -     -         1901   10    0 
+jarthur   797999748 10  1 Bc  kcc   k     kf        1891   50    0 
+jarthur   797999872 10 10 r   c     c     k         1841   50  190 Ts Qs
+jarthur   797999969  9  8 f   -     -     -         1981    0    0 
+jarthur   798000033  8  6 f   -     -     -         1981    0    0 
+jarthur   798000079  8  5 c   crc   kc    kc        1981   90  235 Jd Qs
+jarthur   798000166  6  4 cc  bc    bc    kc        2126  100    0 Th Jc
+jarthur   798000239  7  3 f   -     -     -         2026    0    0 
+jarthur   798000280  7  2 Bk  r     b     b         2026   70  130 
+jarthur   798000328  7  1 Bc  kc    kf    -         2086   30    0 
+jarthur   798000367  7  7 f   -     -     -         2056    0    0 
+jarthur   798000390  7  6 f   -     -     -         2056    0    0 
+jarthur   798000452  7  5 f   -     -     -         2056    0    0 
+jarthur   798000522  7  4 f   -     -     -         2056    0    0 
+jarthur   798000594  7  3 cc  f     -     -         2056   20    0 
+jarthur   798000629  8  2 Bf  -     -     -         2036   10    0 
+jarthur   798000694  8  1 Bc  k     kc    kf        2026   30    0 
+jarthur   798000792  8  5 Q   -     -     -         1996    0    0 
+jarthur   798072965  7  2 Bk  kf    -     -         1996   10    0 
+jarthur   798073001  7  1 Bf  -     -     -         1986    5    0 
+jarthur   798073018  7  7 c   c     f     -         1981   30    0 
+jarthur   798073090  7  6 f   -     -     -         1951    0    0 
+jarthur   798073126  8  6 f   -     -     -         1951    0    0 
+jarthur   798073216 10  7 f   -     -     -         1951    0    0 
+jarthur   798073275 10  6 cc  c     r     b         1951  120    0 Jd Qs
+jarthur   798073357 10  5 cc  kf    -     -         1831   30    0 
+jarthur   798073442 10  5 r   r     b     k         1801   60    0 Qd Qs
+jarthur   798073512 10  4 cc  k     kc    k         1741   40   95 Jd Ah
+jarthur   798073568 11  3 c   kf    -     -         1796   10    0 
+jarthur   798073631 10  2 Bk  k     r     b         1786   70  170 
+jarthur   798073699 10  1 Bc  kf    -     -         1886   20    0 
+jarthur   798073762 10 10 f   -     -     -         1866    0    0 
+jarthur   798073805 10  9 c   k     f     -         1866   10    0 
+jarthur   798073870 10  8 c   k     b     b         1856   60  185 9s Ts
+jarthur   798073948 10  7 f   -     -     -         1981    0    0 
+jarthur   798074039 11  7 f   -     -     -         1981    0    0 
+jarthur   798074127 11  6 f   -     -     -         1981    0    0 
+jarthur   798074223 11  5 cc  kc    kf    -         1981   30    0 
+jarthur   798074307 11  4 f   -     -     -         1951    0    0 
+jarthur   798074357 11  3 f   -     -     -         1951    0    0 
+jarthur   798074487 10  3 cc  kc    kc    k         1951   60    0 9d Td
+jarthur   798074569 11  2 Bf  -     -     -         1891   10    0 
+jarthur   798074673 11  1 Bc  k     b     b         1881   50  150 Js 7d
+jarthur   798074793  9  9 c   k     k     k         1981   10    0 2c Ad
+jarthur   798074843  9  8 c   k     k     k         1971   10    0 Ts 8h
+jarthur   798074924  8  6 cc  kc    kc    kc        1961   80    0 Qd 6c
+jarthur   798075046  8  5 f   -     -     -         1881    0    0 
+jarthur   798075218  7  4 c   k     k     kf        1881   10    0 
+jarthur   798075300  6  3 c   b     k     b         1871   40   95 Js 8d
+jarthur   798075371  6  2 B   -     -     -         1926   10   15 
+jarthur   798075392  6  1 Bc  k     k     k         1931   10    0 Tc 7h
+jarthur   798075480  7  6 f   -     -     -         1921    0    0 
+jarthur   798075514  7  5 f   -     -     -         1921    0    0 
+jarthur   798075593  7  4 f   -     -     -         1921    0    0 
+jarthur   798075707  7  3 Q   -     -     -         1921    0    0 
+jarthur   798075774  6  6 c   k     f     -         1921   10    0 
+jarthur   798075814  6  5 c   kc    kf    -         1911   20    0 
+jarthur   798075858  7  4 f   -     -     -         1891    0    0 
+jarthur   798075958  7  3 f   -     -     -         1891    0    0 
+jarthur   798076021  8  2 Bc  kc    kc    kf        1891   50    0 
+jarthur   798076102  8  1 Bcc kc    kc    k         1841   80    0 Qs 9s
+jarthur   798076155 10 10 r   c     c     f         1761   50    0 
+jarthur   798076250  9  8 f   -     -     -         1711    0    0 
+jarthur   798076300  9  7 f   -     -     -         1711    0    0 
+jarthur   798076379  9  6 f   -     -     -         1711    0    0 
+jarthur   798076465  9  5 cc  f     -     -         1711   20    0 
+jarthur   798076532  9  4 cc  f     -     -         1691   40    0 
+jarthur   798076629  9  3 f   -     -     -         1651    0    0 
+jarthur   798076690  9  2 Bk  kc    k     k         1651   20   35 Qh Jc
+jarthur   798076750  8  1 Bc  krc   kc    b         1666   80    0 5h 9h
+jarthur   798076846  8  8 f   -     -     -         1586    0    0 
+jarthur   798076944  8  7 f   -     -     -         1586    0    0 
+jarthur   798077011  7  5 c   k     c     f         1586   30    0 
+jarthur   798077102  7  4 f   -     -     -         1556    0    0 
+jarthur   798077179  7  3 c   k     k     k         1556   10   25 Ks 6d
+jarthur   798077217  8  3 cc  k     r     b         1571   80  210 As 7h
+jarthur   798077278  9  2 Bc  kc    kc    k         1701   50    0 4h 8h
+jarthur   798077329  9  1 Bc  kc    kc    kc        1651   60  100 As 2d
+jarthur   798077407  8  8 c   c     k     f         1691   20    0 
+jarthur   798077463  7  6 c   k     c     k         1671   40    0 5s Js
+jarthur   798077505  7  5 f   -     -     -         1631    0    0 
+jarthur   798077520  7  4 cc  kc    k     kf        1631   30    0 
+jarthur   798077569  6  2 f   -     -     -         1601    0    0 
+jarthur   798077626  7  2 Bk  k     kf    -         1601   10    0 
+jarthur   798077663  7  1 Bf  -     -     -         1591    5    0 
+jarthur   798077705  7  7 c   rc    c     c         1586   90    0 6h 6d
+jarthur   798077757  7  6 cc  c     f     -         1496   40    0 
+jarthur   798077811  7  5 c   k     k     k         1456   10    0 8c Tc
+jarthur   798077856  7  4 c   f     -     -         1446   10    0 
+jarthur   798077893  7  3 c   k     cf    -         1436   30    0 
+jarthur   798077954  7  2 Bc  kc    b     -         1406   50   85 
+jarthur   798078001  7  1 Bc  kf    -     -         1441   10    0 
+jarthur   798078037  7  7 c   f     -     -         1431   10    0 
+jarthur   798078079  7  6 c   kc    kc    b         1421   60    0 Qd 6c
+jarthur   798078136  7  5 f   -     -     -         1361    0    0 
+jarthur   798078156  7  4 f   -     -     -         1361    0    0 
+jarthur   798078208  7  3 cc  f     -     -         1361   20    0 
+jarthur   798078262  7  2 B   -     -     -         1341   10   15 
+jarthur   798078269  8  1 Bf  -     -     -         1346    5    0 
+jarthur   798078313  8  8 f   -     -     -         1341    0    0 
+jarthur   798078340  8  7 f   -     -     -         1341    0    0 
+jarthur   798078373  8  6 f   -     -     -         1341    0    0 
+jarthur   798078434  8  5 f   -     -     -         1341    0    0 
+jarthur   798078482  8  4 c   k     cc    k         1341   50    0 Jh 5h
+jarthur   798078539  8  3 c   k     cf    -         1291   30    0 
+jarthur   798078588  8  2 Bk  k     kf    -         1261   10    0 
+jarthur   798078621  8  1 Bc  k     kc    kc        1251   50    0 6d 9d
+jarthur   798078673  8  8 c   b     b     -         1201   40   80 
+jarthur   798078711  7  7 f   -     -     -         1241    0    0 
+jarthur   798078748  7  6 cc  k     c     b         1241   70    0 Th 5h
+jarthur   798078799  8  5 f   -     -     -         1171    0    0 
+jarthur   798078896  4  3 fQ  -     -     -         1171    0    0 
+jarthur   798173716 10  9 f   -     -     -         1171    0    0 
+jarthur   798173791 11  9 f   -     -     -         1171    0    0 
+jarthur   798173832 12  9 f   -     -     -         1171    0    0 
+jarthur   798173920 12  8 f   -     -     -         1171    0    0 
+jarthur   798174013 12  7 f   -     -     -         1171    0    0 
+jarthur   798174114 10  4 c   kf    -     -         1171   10    0 
+jarthur   798174160 10  3 f   -     -     -         1161    0    0 
+jarthur   798174247 10  2 Bk  bcc   kcc   kf        1161  110    0 
+jarthur   798174343 10  1 Bc  kc    b     b         1051   70  200 
+jarthur   798174406 10 10 c   r     bc    c         1181  100    0 Th 9c
+jarthur   798174477 12 11 f   -     -     -         1081    0    0 
+jarthur   798174583 11  9 c   kc    c     kf        1081   50    0 
+jarthur   798174656 11  8 c   f     -     -         1031   10    0 
+jarthur   798174712 12  7 f   -     -     -         1021    0    0 
+jarthur   798174838 11  6 f   -     -     -         1021    0    0 
+jarthur   798174897  8  4 c   k     f     -         1021   10    0 
+jarthur   798174943  8  3 c   kc    kf    -         1011   20    0 
+jarthur   798175009  8  2 Bf  -     -     -          991   10    0 
+jarthur   798175054  8  1 Bc  k     k     kc         981   30    0 Jh Kd
+jarthur   798175098  8  8 f   -     -     -          951    0    0 
+jarthur   798175141  8  7 f   -     -     -          951    0    0 
+jarthur   798175194  8  6 c   k     k     k          951   10    0 7h As
+jarthur   798175243  8  5 f   -     -     -          941    0    0 
+jarthur   798175312  8  4 c   bc    bc    rrc        941  170    0 7h 2h
+jarthur   798175376  8  3 c   c     c     k          771   40    0 8d Ks
+jarthur   798175427  8  2 Bk  f     -     -          731   10    0 
+jarthur   798175486  9  1 Bf  -     -     -          721    5    0 
+jarthur   798175522  9  9 c   f     -     -          716   20    0 
+jarthur   798175602 10  9 f   -     -     -          696    0    0 
+jarthur   798175663 11  9 c   f     -     -          696   10    0 
+jarthur   798175703 12  9 c   k     f     -          686   10    0 
+jarthur   798175756 12  8 f   -     -     -          676    0    0 
+jarthur   798175850 12  7 f   -     -     -          676    0    0 
+jarthur   798175920 12  6 c   cf    -     -          676   30    0 
+jarthur   798175997 12  5 c   br    kc    bc         646  110  515 5h Qd
+jarthur   798176125 12  4 cr  bc    b     b         1051   90    0 Jh Jd
+jarthur   798176210 12  3 f   -     -     -          961    0    0 
+jarthur   798176355 12  2 Bc  kc    b     brc        961  130    0 8d Ts
+jarthur   798176443 10  1 Bc  kf    -     -          831   10    0 
+jarthur   798176533 12 12 f   -     -     -          821    0    0 
+jarthur   798176685 11 11 c   r     c     b          821   80  330 
+jarthur   798176784  8  7 cc  ccf   -     -         1071   50    0 
+jarthur   798176867  8  7 cc  cc    kf    -         1021   40    0 
+jarthur   798176952  8  6 c   c     k     f          981   20    0 
+jarthur   798177017  8  5 f   -     -     -          961    0    0 
+jarthur   798177084  8  5 c   kc    kr    b          961   80  235 
+jarthur   798177187  7  3 cc  kc    kc    b         1116   70    0 Jd Jc
+jarthur   798177259  8  3 cc  kc    kf    -         1046   30    0 
+jarthur   798177365  9  2 Bf  -     -     -         1016   10    0 
+jarthur   798177384  9  1 Bc  kc    k     k         1006   30    0 Kc 6d
+jarthur   798177449  9  9 c   f     -     -          976   10    0 
+jarthur   798177511 10  8 f   -     -     -          966    0    0 
+jarthur   798177574 10  7 f   -     -     -          966    0    0 
+jarthur   798177707 10  6 f   -     -     -          966    0    0 
+jarthur   798177781 10  5 ccc kc    kcc   kf         966  130    0 
+jarthur   798178009 10  4 f   -     -     -          836    0    0 
+jarthur   798526107  6  6 f   -     -     -         1121    0    0 
+jarthur   798526159  6  5 cc  f     -     -         1121   20    0 
+jarthur   798526229  6  4 c   kf    -     -         1101   10    0 
+jarthur   798526264  6  3 c   k     b     -         1091   30   55 
+jarthur   798526314  7  2 Bk  c     c     c         1116   60  140 Qd 4s
+jarthur   798526374  7  1 Bc  kf    -     -         1196   20    0 
+jarthur   798526424  7  3 Q   -     -     -         1176    0    0 
+jarthur   798526705  8  4 cc  kf    -     -         1176   20    0 
+jarthur   798526742  9  3 f   -     -     -         1156    0    0 
+jarthur   798526819  9  2 Bk  f     -     -         1156   10    0 
+jarthur   798526925  9  1 Bc  k     kc    kf        1146   30    0 
+jarthur   798527027  9  9 f   -     -     -         1116    0    0 
+jarthur   798527057  9  8 f   -     -     -         1116    0    0 
+jarthur   798527398  9  7 f   -     -     -         1116    0    0 
+jarthur   798674869  8  7 f   -     -     -         1201    0    0 
+jarthur   798675122  7  4 c   k     k     k         1201   10   40 6d Ts
+jarthur   798675199  7  4 cc  k     k     f         1231   20    0 
+jarthur   798675354  6  1 Bk  k     b     kc        1211   50    0 Kc As
+jarthur   798675438  6  1 Bf  -     -     -         1161    5    0 
+jarthur   798675494  6  6 cc  f     -     -         1156   40    0 
+jarthur   798675619  6  5 f   -     -     -         1116    0    0 
+jarthur   798675694  7  4 c   f     -     -         1116   10    0 
+jarthur   798675765  7  3 cc  cc    kc    kf        1106   70    0 
+jarthur   798675862  7  2 Bk  k     c     k         1036   30    0 5s 7d
+jarthur   798675942  6  1 Bcf -     -     -         1006   10    0 
+jarthur   798676082  6  6 f   -     -     -          996    0    0 
+jarthur   798676179  6  5 cc  k     f     -          996   20    0 
+jarthur   798676222  6  4 c   f     -     -          976   10    0 
+jarthur   798676280  6  3 f   -     -     -          966    0    0 
+jarthur   798676360  7  2 Bf  -     -     -          966   10    0 
+jarthur   798676432  7  1 Bf  -     -     -          956    5    0 
+jarthur   798676566 10  9 cc  b     k     k          951   50  255 Qh 8s
+jarthur   798676797  8  6 c   c     b     k         1156   50  130 9h Jd
+jarthur   798676896  7  5 f   -     -     -         1236    0    0 
+jarthur   798677089  6  4 f   -     -     -         1236    0    0 
+jarthur   798677154  6  3 cc  k     bc    b         1236   80  250 Qs 8s
+jarthur   798677261  5  2 Bk  k     kc    k         1406   30    0 4s As
+jarthur   798677352  4  1 Bf  -     -     -         1376    5    0 
+jarthur   798677381  4  4 c   r     k     f         1371   30    0 
+jarthur   798677439  4  3 c   f     -     -         1341   10    0 
+jarthur   798677510  4  2 Bk  k     k     k         1331   10    0 5d 9d
+jarthur   798677583  5  1 Bf  -     -     -         1321    5    0 
+jarthur   798677680  5  5 c   k     k     fQ        1316   10    0 
+jarthur   798777983  4  2 Bf  -     -     -         1306   10    0 
+jarthur   798778036  4  1 Bcc kc    kc    kf        1296   50    0 
+jarthur   798778098  4  4 f   -     -     -         1246    0    0 
+jarthur   798778120  4  3 cc  kc    kf    -         1246   30    0 
+jarthur   798778152  4  2 B   -     -     -         1216   10   15 
+jarthur   798778163  4  1 Bc  kf    -     -         1221   20    0 
+jarthur   798778194  4  4 ccc c     f     -         1201   50    0 
+jarthur   798778250  4  3 cc  krc   b     k         1151   70  155 Td As
+jarthur   798778300  4  2 Bc  kf    -     -         1236   20    0 
+jarthur   798778361  4  1 Bcc krrc  b     b         1216  110  220 Ts Ah
+jarthur   798778418  4  4 cc  f     -     -         1326   20    0 
+jarthur   798778464  4  3 cc  k     kr    k         1306   60  200 Qs Jh
+jarthur   798778681  4  2 Bf  -     -     -         1446   10    0 
+jarthur   798778698  4  1 Bc  kf    -     -         1436   20    0 
+jarthur   798778795  5  5 f   -     -     -         1416    0    0 
+jarthur   798778832  5  4 c   k     k     c         1416   30   65 6h 9h
+jarthur   798778881  5  3 f   -     -     -         1451    0    0 
+jarthur   798778927  5  2 f   -     -     -         1451    0    0 
+jarthur   798779016  7  3 cc  kc    kf    -         1451   30    0 
+jarthur   798779076  7  2 Bf  -     -     -         1421   10    0 
+jarthur   798779196  7  1 Bc  kf    -     -         1411   10    0 
+jarthur   798779256  7  7 f   -     -     -         1401    0    0 
+jarthur   798779274  7  6 cc  krrc  bc    kc        1401  130    0 2c Qd
+jarthur   798779390  8  6 cc  f     -     -         1271   20    0 
+jarthur   798779448  8  5 c   k     f     -         1251   10    0 
+jarthur   798779533  9  4 f   -     -     -         1241    0    0 
+jarthur   798779645  9  4 f   -     -     -         1241    0    0 
+jarthur   798779697  8  3 c   br    b     b         1241   80  320 Kd Kc
+jarthur   798779809  8  3 cc  kc    k     k         1481   30    0 Qh Jd
+jarthur   798779964  9  2 Bf  -     -     -         1451   10    0 
+jarthur   798780080  9  1 Bf  -     -     Q         1441    5    0 
+jarthur   798780461  6  4 f   -     -     -         1436    0    0 
+jarthur   798780504  6  3 c   kc    f     -         1436   20    0 
+jarthur   798780560  6  2 Bk  bc    bcc   kr        1416  150    0 8d Jd
+jarthur   798780650  7  1 Bf  -     -     -         1266    5    0 
+jarthur   798780689  7  7 r   c     c     c         1261   70    0 Kd Tc
+jarthur   798780768  8  6 f   -     -     -         1191    0    0 
+jarthur   798780894  8  5 f   -     -     -         1191    0    0 
+jarthur   798780975  7  4 f   -     -     -         1191    0    0 
+jarthur   798781024  6  3 f   -     -     -         1191    0    0 
+jarthur   798781090  6  2 Bc  kf    -     -         1191   20    0 
+jarthur   798781128  5  1 Bc  kc    kf    -         1171   20    0 
+jarthur   798781181  5  5 c   b     b     k         1151   40   90 6s 6d
+jarthur   798781245  6  5 f   -     -     -         1201    0    0 
+jarthur   798781289  7  5 c   k     f     -         1201   10    0 
+jarthur   798781339  7  4 cc  c     c     kr        1191   90  350 6h Td
+jarthur   798781434  7  3 cc  kc    kf    -         1451   30    0 
+jarthur   798781501  7  2 Bf  -     -     -         1421   10    0 
+jarthur   798781571  6  1 Bc  k     kc    k         1411   30  100 Ad 4s
+jarthur   798781745  6  6 c   b     r     rc        1481  120    0 6h Th
+jarthur   798781836  8  7 c   k     f     -         1361   10    0 
+jarthur   798781928  7  6 f   -     -     -         1351    0    0 
+jarthur   798781970  6  5 f   -     -     -         1351    0    0 
+jarthur   798782015  6  4 cc  kf    -     -         1351   20    0 
+jarthur   798782060  7  3 c   kc    kc    kf        1331   40    0 
+jarthur   798782206  7  2 Bk  c     c     f         1291   40    0 
+jarthur   798782282  8  1 BQ  -     -     -         1251    5    0 
+jarthur   799191800  7  4 f   -     -     -         1246    0    0 
+jarthur   799191860  7  3 f   -     -     -         1246    0    0 
+jarthur   799191905  6  2 Bc  kc    kf    -         1246   30    0 
+jarthur   799191942  7  1 Bc  kc    kr    -         1216   60  100 
+jarthur   799191984  7  7 c   c     c     c         1256   70  165 Ah Ks
+jarthur   799192025  7  6 c   kf    -     -         1351   10    0 
+jarthur   799192056  7  6 f   -     -     -         1341    0    0 
+jarthur   799192313  5  4 f   -     -     -         1341    0    0 
+jarthur   799192344  5  3 c   c     c     f         1341   40    0 
+jarthur   799192440  5  2 B   -     -     -         1301   10   15 
+jarthur   799192447  5  1 Bf  -     -     -         1306    5    0 
+jarthur   799192477  5  5 f   -     -     -         1301    0    0 
+jarthur   799192490  6  4 c   c     f     -         1301   40    0 
+jarthur   799192574  6  3 c   c     b     -         1261   40   75 
+jarthur   799192624  6  2 Bk  b     bc    bc        1296  100    0 2d Qh
+jarthur   799192695  7  1 Bc  k     k     b         1196   30   40 
+jarthur   799192745  7  7 c   k     k     k         1206   10    0 6c Qd
+jarthur   799192788  7  6 r   k     k     f         1196   20    0 
+jarthur   799192843  7  5 c   f     -     -         1176   10    0 
+jarthur   799192869  6  4 f   -     -     -         1166    0    0 
+jarthur   799192898  6  3 c   c     k     c         1166   40    0 3c Tc
+jarthur   799192949  6  2 Bk  kf    -     -         1126   10    0 
+jarthur   799192993  6  1 Bc  kc    k     k         1116   20   25 9h As
+jarthur   799193036  6  6 f   -     -     -         1121    0    0 
+jarthur   799193076  6  5 c   k     k     k         1121   10    0 6d Ks
+jarthur   799193126  6  4 cc  kf    -     -         1111   20    0 
+jarthur   799193169  6  3 cc  kc    kc    k         1091   50  150 Ah Jd
+jarthur   799193239  6  2 Bf  -     -     -         1191   10    0 
+jarthur   799193277  6  1 Bc  krc   kc    kr        1181  100  270 Th 3h
+jarthur   799193382  7  7 f   -     -     -         1351    0    0 
+jarthur   799193442  7  6 f   -     -     -         1351    0    0 
+jarthur   799193505  7  5 f   -     -     -         1351    0    0 
+jarthur   799193560  7  4 cc  c     f     -         1351   30    0 
+jarthur   799193656  8  3 f   -     -     -         1321    0    0 
+jarthur   799193717  6  2 Bk  k     b     k         1321   30    0 Ah 6d
+jarthur   799193765  6  1 Bc  kc    kc    k         1291   50    0 7s 7d
+jarthur   799193820  6  6 c   b     -     -         1241   20   35 
+jarthur   799193846  6  5 cc  r     bc    c         1256  100    0 Kd 9c
+jarthur   799193903  6  4 f   -     -     -         1156    0    0 
+jarthur   799193939  7  4 r   -     -     -         1156   20   35 
+jarthur   799193953  6  2 Bf  -     -     -         1171   10    0 
+jarthur   799194020  8  1 Bc  kc    kc    bc        1161   80    0 Td 9c
+jarthur   799194089  8  8 c   f     -     -         1081   10    0 
+jarthur   799194142  8  7 c   c     cc    f         1071   60    0 
+jarthur   799194215  9  7 f   -     -     -         1011    0    0 
+jarthur   799194270 10  7 cc  r     b     b         1011   80  165 7h As
+jarthur   799194326 10  6 c   k     kc    b         1096   50  125 Ts Ac
+jarthur   799194428 10  5 f   -     -     -         1171    0    0 
+jarthur   799194508 10  4 f   -     -     -         1171    0    0 
+jarthur   799194594 10  3 cc  kf    -     -         1171   20    0 
+jarthur   799194744  9  1 Bk  kf    -     -         1151   10    0 
+jarthur   799194862 10  1 Bcc kc    kf    -         1141   30    0 
+jarthur   799194959 11  5 Q   -     -     -         1111    0    0 
+jarthur   799207044  4  2 Bf  -     -     -         1111   10    0 
+jarthur   799207068  4  1 Bc  kf    -     -         1101   20    0 
+jarthur   799207090  4  4 f   -     -     -         1081    0    0 
+jarthur   799207135  4  3 c   b     -     -         1081   20   40 
+jarthur   799207151  4  2 Bk  c     k     b         1101   40    0 Qc As
+jarthur   799207188  5  1 Bf  -     -     -         1061    5    0 
+jarthur   799207224  5  5 c   f     -     -         1056   10    0 
+jarthur   799207262  5  4 c   k     k     k         1046   20    0 As 7d
+jarthur   799207309  5  3 cc  kc    kc    b         1026   70  155 7d 8d
+jarthur   799207359  4  2 B   -     -     -         1111   10   15 
+jarthur   799207369  4  1 Bf  -     -     -         1116    5    0 
+jarthur   799207410  4  4 f   -     -     -         1111    0    0 
+jarthur   799207423  4  3 c   kc    kf    -         1111   20    0 
+jarthur   799207455  4  2 Bk  f     -     -         1091   10    0 
+jarthur   799207476  4  1 Bf  -     -     -         1081    5    0 
+jarthur   799207509  4  4 cc  f     -     -         1076   20    0 
+jarthur   799207556  4  3 cr  b     -     -         1056   40  110 
+jarthur   799207588  4  2 Bc  kc    bc    kf        1126   80    0 
+jarthur   799207632  3  1 Bf  -     -     -         1046    5    0 
+jarthur   799207638  3  3 f   -     -     -         1041    0    0 
+jarthur   799207650  3  2 Bc  k     k     k         1041   30    0 4c 6c
+jarthur   799207690  3  1 Bc  kf    -     -         1011   20    0 
+jarthur   799207726  4  4 f   -     -     -          991    0    0 
+jarthur   799207791  6  3 f   -     -     -          991    0    0 
+jarthur   799207845  6  2 Bc  krc   kc    kc         991  100    0 Th Ad
+jarthur   799207912  5  1 Bc  bc    b     b          891   70  130 
+jarthur   799207966  5  5 f   -     -     -          951    0    0 
+jarthur   799207995  6  4 c   f     -     -          951   10    0 
+jarthur   799208087  6  3 c   k     r     c          941   70    0 Ks 9d
+jarthur   799208132  6  2 Bk  kf    -     -          871   10    0 
+jarthur   799208162  6  1 Bc  kf    -     -          861   10    0 
+jarthur   799208204  6  6 f   -     -     -          851    0    0 
+jarthur   799208248  6  5 f   -     -     -          851    0    0 
+jarthur   799208305  6  4 cc  c     rrc   r          851  170  175 3c Jd
+jarthur   799208370  6  3 cc  cc    c     c          856   90  225 9c Kd
+jarthur   799208432  6  2 Bf  -     -     -          991   10    0 
+jarthur   799208467  5  1 Bc  kc    b     bc         981   90    0 Ah Kh
+jarthur   799208521  5  5 f   -     -     -          891    0    0 
+jarthur   799208547  5  4 f   -     -     -          891    0    0 
+jarthur   799208597  5  3 f   -     -     -          891    0    0 
+jarthur   799208623  5  2 Bc  f     -     -          891   20    0 
+jarthur   799208656  5  1 Bc  kc    k     bc         871   70    0 As Jc
+jarthur   799208698  5  5 c   k     k     k          801   10   25 Qs Ks
+jarthur   799208733  6  4 cc  c     rc    c          816  120  300 Ks 4h
+jarthur   799208784  8  3 cc  kc    k     k          996   30    0 Td 8d
+jarthur   799208869  7  2 Bc  cc    kc    kc         966   80    0 5s Ts
+jarthur   799208926  9  1 Bc  kf    Q     -          886   20    0 
+jarthur   799269820  8  3 cc  kf    -     -          866   20    0 
+jarthur   799269846  8  2 Bf  -     -     -          846   10    0 
+jarthur   799269892  9  1 Bc  kf    -     -          836   10    0 
+jarthur   799269960  9  9 f   -     -     -          826    0    0 
+jarthur   799270011  9  8 f   -     -     -          826    0    0 
+jarthur   799270056  8  6 f   -     -     -          826    0    0 
+jarthur   799270090  8  5 c   c     kf    -          826   20    0 
+jarthur   799270219  9  3 cc  bc    kc    k          806   90  310 Td Ad
+jarthur   799270292  9  3 c   kf    -     -         1026   10    0 
+jarthur   799270346  9  2 Bk  f     -     -         1016   10    0 
+jarthur   799270382  9  1 Bf  -     -     -         1006    5    0 
+jarthur   799270450  9  9 c   f     -     -         1001   10    0 
+jarthur   799270539  9  8 f   -     -     -          991    0    0 
+jarthur   799270616  9  8 f   -     -     -          991    0    0 
+jarthur   799270696  9  7 c   b     b     -          991   50  125 
+jarthur   799270760  9  6 f   -     -     -         1066    0    0 
+jarthur   799270795 10  5 f   -     -     -         1066    0    0 
+jarthur   799270855 10  4 r   c     c     f         1066   50    0 
+jarthur   799270933 11  3 c   kf    -     -         1016   10    0 
+jarthur   799271020 11  2 Bk  k     k     b         1006   30   65 
+jarthur   799271087 11  1 Bf  -     -     -         1041    5    0 
+jarthur   799271148 11 11 fQ  -     -     -         1036    0    0 
+jarthur   799271290 12  9 f   -     -     -         1036    0    0 
+jarthur   799271385 11  8 f   -     -     -         1036    0    0 
+jarthur   799271445 11  8 f   -     -     -         1036    0    0 
+jarthur   799271484  8  5 cc  kc    b     k         1036   50    0 Ks Th
+jarthur   799271588  7  4 f   -     -     -          986    0    0 
+jarthur   799271643  6  3 f   -     -     -          986    0    0 
+jarthur   799271702  6  2 Bk  kf    -     -          986   10    0 
+jarthur   799271748  5  1 Bc  b     -     -          976   20   40 
+jarthur   799271770  5  5 f   -     -     -          996    0    0 
+jarthur   799271805  5  4 c   k     c     k          996   30   70 Th 9h
+jarthur   799271849  5  3 f   -     -     -         1036    0    0 
+jarthur   799271867  5  2 Bc  kr    b     b         1036   80  185 5h Kc
+jarthur   799271907  5  1 Bc  kf    -     -         1141   10    0 
+jarthur   799271954  5  5 c   c     f     -         1131   20    0 
+jarthur   799272013  5  4 c   b     -     -         1111   20   40 
+jarthur   799272042  5  3 f   -     -     -         1131    0    0 
+jarthur   799272097  6  2 Bf  -     -     -         1131   10    0 
+jarthur   799272116  6  1 Bcf -     -     -         1121   20    0 
+jarthur   799272192  6  6 c   c     k     k         1101   20    0 4d Js
+jarthur   799272245  6  5 f   -     -     -         1081    0    0 
+jarthur   799272263  6  3 f   -     -     -         1081    0    0 
+jarthur   799272308  6  2 Bk  k     b     -         1081   30   70 
+jarthur   799272355  6  1 Bf  -     -     -         1121    5    0 
+jarthur   799272383  6  6 f   -     -     -         1116    0    0 
+jarthur   799272408  6  5 f   -     -     -         1116    0    0 
+jarthur   799272450  6  4 r   r     b     -         1116   60  125 
+jarthur   799272497  6  3 f   -     -     -         1181    0    0 
+jarthur   799272552  6  2 Bc  bc    k     b         1181   60  145 9d Jh
+jarthur   799272619  6  1 Bf  Q     -     -         1266    5    0 
+jarthur   799272788  6  4 cc  c     c     c         1261   70    0 6h Ac
+jarthur   799272854  6  3 f   -     -     -         1191    0    0 
+jarthur   799272929  6  2 Bc  kc    kc    k         1191   60  200 Qc Ks
+jarthur   799273005  6  1 Bc  kf    -     -         1331   10    0 
+jarthur   799273049  6  6 c   f     -     -         1321   10    0 
+jarthur   799273107  6  5 c   k     c     c         1311   50    0 Kc 5h
+jarthur   799273164  6  4 f   -     -     -         1261    0    0 
+jarthur   799273209  6  3 f   -     -     -         1261    0    0 
+jarthur   799273272  6  2 Bk  kf    -     -         1261   10    0 
+jarthur   799273339  6  1 Bf  -     -     -         1251    5    0 
+jarthur   799273377  5  5 c   k     b     b         1246   50  105 
+jarthur   799273450  5  4 cc  ccf   -     -         1301   50    0 
+jarthur   799273509  6  3 c   rc    kc    kf        1251   60    0 
+jarthur   799273575  6  2 Bk  f     -     -         1191   10    0 
+jarthur   799273638  6  1 Bc  kf    -     -         1181   10    0 
+jarthur   799273715  5  5 c   c     f     -         1171   20    0 
+jarthur   799273790  5  4 c   k     k     f         1151   10    0 
+jarthur   799273838  5  3 c   b     -     -         1141   20   60 
+jarthur   799273883  5  2 Bk  bc    b     b         1181   70  125 
+jarthur   799273931  5  1 Bc  kf    -     -         1236   10    0 
+jarthur   799273967  5  5 cc  r     b     b         1226   80    0 Jh Ac
+jarthur   799274028  5  4 f   -     -     -         1146    0    0 
+jarthur   799274079  5  3 c   c     f     -         1146   20    0 
+jarthur   799274136  5  2 Bk  r     k     b         1126   50  100 Qc Jc
+jarthur   799274188  4  1 Bf  -     -     -         1176    5    0 
+jarthur   799274215  4  4 c   c     b     b         1171   60  140 Ac 4s
+jarthur   799274266  4  3 c   kf    -     -         1251   10    0 
+jarthur   799274303  4  2 Bk  b     b     bc        1241   80    0 Qs Qc
+jarthur   799274359  4  1 Bc  b     b     b         1161   60  140 9s 9h
+jarthur   799274400  4  4 c   k     b     -         1241   30   45 
+jarthur   799274429  4  3 cc  b     -     -         1256   30   70 
+jarthur   799274467  4  2 Bk  kc    k     k         1296   20    0 2h Ad
+jarthur   799274531  4  1 Bf  -     -     -         1276    5    0 
+jarthur   799274542  4  4 r   b     -     -         1271   30   60 
+jarthur   799274578  4  3 c   b     -     -         1301   20   35 
+jarthur   799274608  4  2 Bk  kf    -     -         1316   10    0 
+jarthur   799274644  3  1 Br  bc    k     k         1306   40    0 Qs As
+jarthur   799274692  3  3 c   k     k     k         1266   10   25 Jd 2h
+jarthur   799274728  3  2 Bc  f     -     -         1281   20    0 
+jarthur   799274758  3  1 Bc  kf    -     -         1261   10    0 
+jarthur   799274783  3  3 c   k     b     b         1251   50   90 
+jarthur   799274835  3  2 Bk  f     Q     -         1291   10    0 

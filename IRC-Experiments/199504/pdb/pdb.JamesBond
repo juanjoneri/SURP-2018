@@ -1,0 +1,23 @@
+JamesBond 797712617 10  3 r   b     -     -         1000   30  105 
+JamesBond 797712650 10  2 Br  b     bc    kf        1075   70    0 
+JamesBond 797712763 10  1 Bc  b     b     -         1005   50  170 
+JamesBond 797712908  9  9 r   c     r     r         1125  110  255 Kc Tc
+JamesBond 797712973 10  9 c   c     c     c         1270   60    0 Kd 2s
+JamesBond 797713129 12 10 c   c     f     -         1210   20    0 
+JamesBond 797713229 11  8 c   c     r     c         1190   90    0 4c Ac
+JamesBond 797713289 11  7 c   k     c     b         1100   50  160 3s Ks
+JamesBond 797713410 12  6 r   bc    kc    f         1210   80    0 
+JamesBond 797713627 11  5 c   k     f     -         1130   10    0 
+JamesBond 797713809 12  4 cc  b     kc    kc        1120   70    0 2h 7c
+JamesBond 797713866 12  3 cc  kc    kf    -         1050   30    0 
+JamesBond 797714023  9  2 Bc  kc    kc    kc        1020   80    0 Th Js
+JamesBond 797714121  9  1 Bc  bc    kr    bc         940  120    0 3d 4d
+JamesBond 797714195 10 10 c   cc    c     f          820   90    0 
+JamesBond 797714300 10  9 c   c     r     b          730   90  205 Th Jd
+JamesBond 797714360 10  8 c   b     -     -          845   20   70 
+JamesBond 797714451 10  7 cc  kc    b     b          895   70    0 Qs 5h
+JamesBond 797714545 12  8 c   Q     -     -          825   10    0 
+JamesBond 797724105  9  7 cr  f     -     -          815   30    0 
+JamesBond 797724218  9  6 c   c     c     b          785   70    0 5d 9s
+JamesBond 797724305 10  6 Q   -     -     -          715    0    0 
+JamesBond 797724992  8  2 BQ  -     -     -          715   10    0 

@@ -1,0 +1,929 @@
+FishBone  798537543  3  2 Br  -     -     -         1000   20   30 
+FishBone  798537569  4  1 Bc  bc    kf    -         1010   30    0 
+FishBone  798537643  4  4 c   f     -     -          980   20    0 
+FishBone  798537814  3  2 c   k     b     -          960   30   50 
+FishBone  798537865  3  2 Bc  f     -     -          980   20    0 
+FishBone  798537895  4  1 Br  b     b     b          960   70  180 
+FishBone  798537981  4  4 f   -     -     -         1070    0    0 
+FishBone  798538048  4  3 c   b     b     -         1070   40   80 
+FishBone  798538100  4  2 Brc kc    k     kf        1110   40    0 
+FishBone  798538188  4  1 Bc  k     kf    -         1070   20    0 
+FishBone  798538277  4  4 r   r     k     c         1050   60  130 6s 6h
+FishBone  798538321  4  3 f   -     -     -         1120    0    0 
+FishBone  798538405  4  2 Br  b     b     b         1120   80    0 Kc 9c
+FishBone  798538455  4  1 Bc  kf    -     -         1040   20    0 
+FishBone  798538537  4  4 c   f     -     -         1020   10    0 
+FishBone  798538601  4  3 c   k     kf    -         1010   10    0 
+FishBone  798538689  4  2 Bk  c     k     br        1000   80  190 Tc Jd
+FishBone  798538761  4  1 Bcc bc    kf    -         1110   40    0 
+FishBone  798538863  4  4 c   c     f     -         1070   30    0 
+FishBone  798538965  4  3 c   kf    -     -         1040   10    0 
+FishBone  798539016  4  2 Br  bc    kc    kf        1030   70    0 
+FishBone  798539135  4  1 Bc  b     brf   -          960   80    0 
+FishBone  798539283  3  3 r   k     c     b          880   60  130 Ah 8s
+FishBone  798539404  3  2 Bk  c     kc    kc         950   60    0 3d Js
+FishBone  798539497  3  1 Brr b     kc    b          890   90    0 Jd Jh
+FishBone  798539587  3  3 r   -     -     -          800   20   35 
+FishBone  798539601  3  2 Bf  -     -     -          815   10    0 
+FishBone  798539671  3  1 Bc  k     b     -          805   30   50 
+FishBone  798539763  3  3 c   b     k     b          825   40   70 
+FishBone  798539834  3  2 Br  b     -     -          855   30   60 
+FishBone  798539862  3  1 Bf  -     -     -          885    5    0 
+FishBone  798539871  3  3 r   r     r     k          880   80  240 Kd Td
+FishBone  798539937  3  2 Bk  k     k     k         1040   10    0 2h Qs
+FishBone  798539994  3  1 Bc  b     b     br        1030  100  200 Ks Qs
+FishBone  798540031  3  3 f   -     -     -         1130    0    0 
+FishBone  798540060  3  2 Bf  -     -     -         1130   10    0 
+FishBone  798540087  3  1 Bf  -     -     -         1120    5    0 
+FishBone  798540099  3  3 c   k     f     -         1115   10    0 
+FishBone  798540178  3  2 Bk  c     r     f         1105   60    0 
+FishBone  798540221  3  1 Bc  b     br    kf        1045   90    0 
+FishBone  798540261  3  3 c   c     rc    c          955  100  210 2c Tc
+FishBone  798540308  3  2 Bk  b     -     -         1065   20   30 
+FishBone  798540339  3  1 Brc br    b     b         1075  110  270 9c 9s
+FishBone  798540409  3  3 cc  f     -     -         1235   20    0 
+FishBone  798540441  3  2 Bf  -     -     -         1215   10    0 
+FishBone  798540469  3  1 Bf  -     -     -         1205    5    0 
+FishBone  798540478  3  3 cc  k     c     f         1200   40    0 
+FishBone  798540522  3  2 Bk  b     bc    bf        1160   80    0 
+FishBone  798540556  3  1 Bc  k     k     b         1080   30   40 
+FishBone  798540586  3  3 c   r     r     k         1090   70  150 5h As
+FishBone  798540654  3  2 Bk  k     k     k         1170   10    0 2d 3c
+FishBone  798540711  3  1 Bf  -     -     -         1160    5    0 
+FishBone  798540725  3  3 r   -     -     -         1155   20   35 
+FishBone  798540744  2  2 B   -     -     -         1170   10   15 
+FishBone  798540755  2  1 Bf  -     -     -         1175    5    0 
+FishBone  798540761  2  2 Br  b     -     -         1170   30   50 
+FishBone  798540781  2  1 Br  -     -     -         1190   20   30 
+FishBone  798540787  2  2 Bk  f     -     -         1200   10    0 
+FishBone  798540801  2  1 Bf  -     -     -         1190    5    0 
+FishBone  798540808  2  2 Br  k     b     -         1185   50   80 
+FishBone  798540832  2  1 Bf  -     -     -         1215    5    0 
+FishBone  798540838  2  2 B   -     -     -         1210   10   15 
+FishBone  798540845  2  1 Br  br    b     bf        1215   90    0 
+FishBone  798540881  2  2 Br  br    b     -         1125   80  140 
+FishBone  798540932  2  1 Bc  kf    -     -         1185   10    0 
+FishBone  798540948  2  2 Bk  b     -     -         1175   20   30 
+FishBone  798540965  2  1 Bf  -     -     -         1185    5    0 
+FishBone  798540971  2  2 Bf  -     -     -         1180   10    0 
+FishBone  798540986  2  1 Br  b     b     -         1170   50   80 
+FishBone  798541003  2  2 B   -     -     -         1200   10   15 
+FishBone  798541009  2  1 Br  b     -     -         1205   30   50 
+FishBone  798541029  2  2 B   -     -     -         1225   10   15 
+FishBone  798541034  2  1 Bcc kc    kr    b         1230   90  180 Ad Ac
+FishBone  798541079  2  2 Bc  k     f     -         1320   20    0 
+FishBone  798541101  2  1 Bc  kf    -     -         1300   10    0 
+FishBone  798541126  2  2 Br  b     b     k         1290   50  100 4h Ad
+FishBone  798541157  2  1 Bc  b     b     k         1340   40    0 2c 4c
+FishBone  798541196  2  2 Br  r     c     f         1300   70    0 
+FishBone  798541261  2  1 Bf  -     -     -         1230    5    0 
+FishBone  798541274  2  2 B   -     -     -         1225   10   15 
+FishBone  798541282  2  1 Br  k     kf    -         1230   20    0 
+FishBone  798541327  2  2 B   -     -     -         1210   10   15 
+FishBone  798541335  2  1 Bf  -     -     -         1215    5    0 
+FishBone  798541340  2  2 Br  b     b     c         1210   80  160 7d Td
+FishBone  798541389  2  1 Br  -     -     -         1290   20   30 
+FishBone  798541404  2  2 Bk  b     -     -         1300   20   30 
+FishBone  798541442  2  1 Bf  -     -     -         1310    5    0 
+FishBone  798541447  2  2 B   -     -     -         1305   10   15 
+FishBone  798541452  2  1 Br  -     -     -         1310   20   30 
+FishBone  798541469  2  2 Bk  f     -     -         1320   10    0 
+FishBone  798541487  2  1 Bf  -     -     -         1310    5    0 
+FishBone  798541504  2  2 B   -     -     -         1305   10   15 
+FishBone  798541509  2  1 Bc  kc    bc    b         1310   80    0 Ts Kd
+FishBone  798541569  2  2 Bk  k     c     f         1230   30    0 
+FishBone  798541601  2  1 Br  br    b     b         1200   90    0 Kd 6h
+FishBone  798541645  2  2 Bk  k     br    b         1110   90    0 3c 5h
+FishBone  798541688  2  1 Br  b     -     -         1020   30   50 
+FishBone  798541705  2  2 B   -     -     -         1040   10   15 
+FishBone  798541714  2  1 Bcr b     b     b         1045   80  140 
+FishBone  798541759  2  2 B   -     -     -         1105   10   15 
+FishBone  798541779  2  1 Bc  b     b     -         1110   40   60 
+FishBone  798541828  2  2 B   -     -     -         1130   10   15 
+FishBone  798541833  2  1 Br  -     -     -         1135   20   30 
+FishBone  798541840  2  2 Bk  c     c     r         1145   80  140 
+FishBone  798541890  2  1 Bf  -     -     -         1205    5    0 
+FishBone  798541900  2  2 Bf  -     -     -         1200   10    0 
+FishBone  798541909  2  1 Br  -     -     -         1190   20   30 
+FishBone  798541915  2  2 Bk  k     f     -         1200   10    0 
+FishBone  798541949  2  1 BrQ -     -     -         1190   20   30 
+FishBone  798587821  9  8 r   rr    rc    b         1200  160  625 Qh Kc
+FishBone  798587976  9  7 c   f     -     -         1665   20    0 
+FishBone  798588074  9  6 c   b     b     k         1645   40    0 7s Kd
+FishBone  798588155  9  5 c   b     b     k         1605   50    0 8c 6c
+FishBone  798588326  9  6 cc  k     f     -         1555   20    0 
+FishBone  798588491  6  3 c   f     -     -         1535   10    0 
+FishBone  798588512  5  2 Bk  c     f     -         1525   20    0 
+FishBone  798588546  5  1 Br  b     b     kr        1505   90  210 Ac 6c
+FishBone  798588613  5  5 f   -     -     -         1625    0    0 
+FishBone  798588639  5  4 f   -     -     -         1625    0    0 
+FishBone  798588686  7  3 r   r     k     k         1625   40    0 Ac Qs
+FishBone  798588737  7  2 Bc  kf    -     -         1585   20    0 
+FishBone  798588798  6  1 Bf  -     -     -         1565    5    0 
+FishBone  798588878  6  6 r   b     b     bf        1560   70    0 
+FishBone  798588975  6  5 c   kf    -     -         1490   10    0 
+FishBone  798589031  6  4 r   bc    kc    kf        1480   60    0 
+FishBone  798589147  4  2 Bk  k     b     b         1420   50   90 
+FishBone  798589230  3  1 Bf  -     -     -         1460    5    0 
+FishBone  798589264  3  3 c   b     b     k         1455   40    0 9h 2h
+FishBone  798589304  3  2 Bk  b     b     b         1415   60  120 Kc 4d
+FishBone  798589346  3  1 Bc  k     kf    -         1475   10    0 
+FishBone  798589391  3  3 f   -     -     -         1465    0    0 
+FishBone  798589405  3  2 Br  b     -     -         1465   30   50 
+FishBone  798589430  4  1 Bc  b     -     -         1485   20   40 
+FishBone  798589463  4  4 rr  rc    r     b         1505  130  270 7s 8s
+FishBone  798589509  4  3 f   -     -     -         1645    0    0 
+FishBone  798589590  4  2 Br  b     b     bc        1645  100    0 Th 7h
+FishBone  798589703  3  1 Bc  kf    -     -         1545   10    0 
+FishBone  798589735  3  3 r   b     b     -         1535   50   90 
+FishBone  798589765  3  2 Bc  c     c     f         1575   50    0 
+FishBone  798589805  3  1 Bc  k     kf    -         1525   10    0 
+FishBone  798589840  3  3 f   -     -     -         1515    0    0 
+FishBone  798589869  3  2 Bf  -     -     -         1515   10    0 
+FishBone  798589892  4  1 Bc  b     -     -         1505   20   30 
+FishBone  798589919  5  5 f   -     -     -         1515    0    0 
+FishBone  798589933  5  4 f   -     -     -         1515    0    0 
+FishBone  798590010  5  3 f   -     -     -         1515    0    0 
+FishBone  798590031  5  2 Bk  b     -     -         1515   20   50 
+FishBone  798590051  5  1 Brrc k     kr    b         1545  120  230 
+FishBone  798590107  5  5 c   k     k     k         1655   20    0 2h 4h
+FishBone  798590162  5  4 rc  c     c     c         1635   90    0 Ac Jh
+FishBone  798590191  5  4 c   b     -     -         1545   20   40 
+FishBone  798590226  4  2 Bf  -     -     -         1565   10    0 
+FishBone  798590266  4  1 Br  brc   b     k         1555   80    0 7h 6h
+FishBone  798590327  4  4 f   -     -     -         1475    0    0 
+FishBone  798590371  4  3 rr  bc    k     b         1475   80  205 5s Ks
+FishBone  798590419  4  2 Bc  kf    -     -         1600   20    0 
+FishBone  798590443  4  1 Bf  -     -     -         1580    5    0 
+FishBone  798590475  4  4 cc  bc    rr    b         1575  140    0 7d 8h
+FishBone  798590584  4  3 f   -     -     -         1435    0    0 
+FishBone  798590612  4  2 Br  k     b     k         1435   50  130 Tc Jc
+FishBone  798590652  4  1 BQ  -     -     -         1515    5    0 
+FishBone  798619807  2  2 Q   -     -     -         1510    0   10 
+FishBone  798669383 10  4 f   -     -     -         1520    0    0 
+FishBone  798669481 10  3 r   b     c     cc        1520  110  405 Ac Tc
+FishBone  798669607 11  2 Bk  k     b     b         1815   50  120 7d 7c
+FishBone  798669713 11  1 Bf  -     -     -         1885    5    0 
+FishBone  798669796 10 10 c   c     f     -         1880   30    0 
+FishBone  798669880 10  9 c   bc    b     -         1850   60  115 
+FishBone  798669952  9  7 c   r     b     k         1905   50    0 Ac 3c
+FishBone  798670036 10  6 f   -     -     -         1855    0    0 
+FishBone  798670089 10  5 c   kc    kr    b         1855   80  175 Kd 9h
+FishBone  798670142 10  4 cc  f     -     -         1950   20    0 
+FishBone  798670253  9  2 Bk  brc   rc    c         1930  130    0 3s 7d
+FishBone  798670548  8  1 Bc  kr    bc    brc       1800  150    0 Js Tc
+FishBone  798670646  8  8 c   Q     -     -         1650   10    0 
+FishBone  798671157  6  6 f   -     -     -         1640    0    0 
+FishBone  798671193  6  5 c   b     b     bc        1640   80    0 7h Kd
+FishBone  798671324  7  4 c   b     k     f         1560   20    0 
+FishBone  798671401  7  3 f   -     -     -         1540    0    0 
+FishBone  798671489  6  2 Bk  b     b     k         1540   40    0 7s 9s
+FishBone  798671566  5  1 Bc  kc    kr    b         1500   90  190 8s Jc
+FishBone  798671753  4  4 c   k     k     k         1600   10    0 5h 6h
+FishBone  798671802  3  3 cc  k     b     b         1590   60  110 
+FishBone  798671880  3  2 Bk  c     f     -         1640   20    0 
+FishBone  798671920  4  1 Bc  b     -     -         1620   20   30 
+FishBone  798671964  4  4 r   b     b     b         1630   70  150 
+FishBone  798672065  3  2 Bk  k     k     k         1710   10    0 5h 2d
+FishBone  798672099  4  1 Bc  k     b     b         1700   50   55 Kc 3c
+FishBone  798672146  5  5 c   k     k     k         1705   10    0 9s Jd
+FishBone  798672206  5  4 c   k     f     -         1695   10    0 
+FishBone  798672270  5  3 f   -     -     -         1685    0    0 
+FishBone  798672329  6  2 Bk  k     k     kf        1685   10    0 
+FishBone  798672409  6  1 Bc  k     k     k         1675   10    0 9s 3s
+FishBone  798672484  6  6 r   b     b     k         1665   50    0 Jh Ad
+FishBone  798672554  6  5 c   k     k     -         1615   10   25 
+FishBone  798672605  6  4 f   -     -     -         1630    0    0 
+FishBone  798672676  6  3 rr  r     b     -         1630   80  145 
+FishBone  798672736  6  2 Bk  kf    -     -         1695   10    0 
+FishBone  798672836  6  1 Bc  kc    kc    kc        1685   60    0 9h Qd
+FishBone  798672949  6  6 f   -     -     -         1625    0    0 
+FishBone  798673007  6  5 c   r     r     c         1625  100    0 8h Kd
+FishBone  798673096  5  3 c   k     b     -         1525   30   50 
+FishBone  798673145  5  2 Bk  kf    -     -         1545   10    0 
+FishBone  798673261  6  1 Br  b     bc    kf        1535   70    0 
+FishBone  798673369  6  6 r   b     b     b         1465   70    0 Td Tc
+FishBone  798673451  6  5 r   br    -     -         1395   50  170 
+FishBone  798673528  7  5 c   b     b     b         1515   60  160 6s 7c
+FishBone  798673681  6  3 f   -     -     -         1615    0    0 
+FishBone  798673753  6  2 Bk  kf    -     -         1615   10    0 
+FishBone  798673875  6  1 Bc  bc    k     k         1605   40    0 5d Kh
+FishBone  798674063  6  6 f   -     -     -         1565    0    0 
+FishBone  798674193  6  6 f   -     -     -         1565    0    0 
+FishBone  798674263  3  3 f   -     -     -         1565    0    0 
+FishBone  798674322  3  2 Br  b     -     -         1565   30   60 
+FishBone  798674354  3  1 Br  -     -     -         1595   20   30 
+FishBone  798674365  3  3 f   -     -     -         1605    0    0 
+FishBone  798674384  3  2 Bk  b     r     k         1605   60  120 Qc 3h
+FishBone  798674442  3  1 Bf  -     -     -         1665    5    0 
+FishBone  798674465  3  3 c   b     -     -         1660   20   40 
+FishBone  798674520  3  2 Br  k     k     k         1680   20    0 6h 5c
+FishBone  798674577  3  1 Bf  -     -     -         1660    5    0 
+FishBone  798674598  4  3 c   f     -     -         1655   10    0 
+FishBone  798674651  4  2 Bc  kc    kr    bc        1645  110    0 2d 5c
+FishBone  798674730  4  1 Bc  k     brc   brc       1535  170    0 9s 8d
+FishBone  798674869  8  3 Q   -     -     -         1365    0    0 
+FishBone  798675354  6  6 c   k     c     b         1365   50  100 8c Jh
+FishBone  798675438  6  6 f   -     -     -         1415    0    0 
+FishBone  798675494  6  5 rr  rc    f     -         1415   70    0 
+FishBone  798675619  6  4 c   k     k     k         1345   10    0 9c Ts
+FishBone  798675694  7  3 f   -     -     -         1335    0    0 
+FishBone  798675765  7  2 Bc  bc    kf    -         1335   50    0 
+FishBone  798675862  7  1 Bc  k     b     k         1285   30   60 4h 6d
+FishBone  798675942  6  6 cc  r     f     -         1315   40    0 
+FishBone  798676082  6  5 rr  br    k     f         1275   70    0 
+FishBone  798676179  6  4 f   -     -     -         1205    0    0 
+FishBone  798676222  6  3 c   b     b     -         1205   40   80 
+FishBone  798676280  6  2 Bk  k     kf    -         1245   10    0 
+FishBone  798676360  7  1 Bc  bc    b     -         1235   70  180 
+FishBone  798676432  7  6 r   br    rr    c         1345  160    0 Ah As
+FishBone  798676566 10  6 rr  kf    -     -         1185   40    0 
+FishBone  798676797  8  3 r   b     kc    k         1145   50    0 Kc Ah
+FishBone  798676896  7  3 c   r     b     b         1095   70  170 Qh 8d
+FishBone  798677089  6  2 Bk  k     k     kc        1195   30    0 Th 6s
+FishBone  798677154  6  1 Bc  k     kf    Q         1165   20    0 
+FishBone  798677583  5  4 r   bc    br    b         1145  120    0 4c Ah
+FishBone  798677680  5  3 c   k     k     kf        1025   10    0 
+FishBone  798677801  4  2 Bk  bc    b     b         1015   70  130 
+FishBone  798677875  3  1 Bc  b     -     -         1075   20   30 
+FishBone  798677914  3  3 f   -     -     -         1085    0    0 
+FishBone  798677934  2  2 Bk  b     b     k         1085   40   80 8c 6s
+FishBone  798677980  2  1 Bf  -     -     -         1125    5    0 
+FishBone  798677986  2  2 B   -     -     -         1120   10   15 
+FishBone  798677988  2  1 Br  -     -     -         1125   20   30 
+FishBone  798678002  2  2 Br  b     bc    r         1135  110  220 7s Js
+FishBone  798678044  2  1 Br  b     b     -         1245   50   80 
+FishBone  798678066  2  2 B   -     -     -         1275   10   15 
+FishBone  798678074  2  1 Bc  k     bf    -         1280   30    0 
+FishBone  798678113  2  2 Bk  b     r     r         1250  100  100 7h 6h
+FishBone  798678147  2  1 Br  -     -     -         1250   20   30 
+FishBone  798678171  2  2 B   -     -     -         1260   10   15 
+FishBone  798678179  2  1 Bf  -     -     -         1265    5    0 
+FishBone  798678182  2  2 B   -     -     -         1260   10   15 
+FishBone  798678190  2  1 Br  b     b     -         1265   50   80 
+FishBone  798678218  3  2 Br  b     b     -         1295   60  105 
+FishBone  798678240  3  1 Bc  kf    -     -         1340   20    0 
+FishBone  798678270  3  3 c   k     c     f         1320   30    0 
+FishBone  798678305  3  2 Bc  kc    kr    b         1290   90  210 Kc 6d
+FishBone  798678342  3  1 Bc  k     kf    -         1410   10    0 
+FishBone  798678373  3  3 cr  bc    f     -         1400   50    0 
+FishBone  798678399  3  2 B   -     -     -         1350   10   15 
+FishBone  798678408  3  1 Bf  -     -     -         1355    5    0 
+FishBone  798678435  4  3 c   kf    -     -         1350   10    0 
+FishBone  798678505  4  2 Bk  f     -     -         1340   10    0 
+FishBone  798678543  5  1 Br  b     kr    b         1330  100    0 Kh Kd
+FishBone  798678583  5  5 rc  f     -     -         1230   40    0 
+FishBone  798678653  5  4 f   -     -     -         1190    0    0 
+FishBone  798678678  5  3 c   k     f     -         1190   10    0 
+FishBone  798678728  6  2 Bc  kcc   bc    kf        1180  120    0 
+FishBone  798678811  6  1 Bf  -     -     -         1060    5    0 
+FishBone  798678887  5  5 f   -     -     -         1055    0    0 
+FishBone  798678956  5  4 cc  f     -     -         1055   40    0 
+FishBone  798679026  5  3 f   -     -     -         1015    0    0 
+FishBone  798679052  5  2 Bc  kf    -     -         1015   20    0 
+FishBone  798679114  5  1 Bc  bc    bf    -          995   60    0 
+FishBone  798679171  5  5 f   -     -     -          935    0    0 
+FishBone  798679229  5  4 f   -     -     -          935    0    0 
+FishBone  798679275  5  3 rrc br    bc    b          935  140    0 8s 4s
+FishBone  798679347  5  2 Bk  bc    kf    -          795   30    0 
+FishBone  798679486  5  1 Bc  b     b     b          765   70    0 9h Tc
+FishBone  798679536  6  6 c   c     f     -          695   20    0 
+FishBone  798679638  6  5 c   kc    kr    b          675   80    0 6s 6d
+FishBone  798679747  6  4 cf  -     -     -          595   10    0 
+FishBone  798679864  7  3 c   k     b     k          585   30  100 Ah Ac
+FishBone  798679944  6  2 Bk  b     bc    kf         655   60    0 
+FishBone  798680009  6  1 Bf  -     -     -          595    5    0 
+FishBone  798680060  6  6 r   b     -     -          590   30   80 
+FishBone  798680102  6  5 f   -     -     -          640    0    0 
+FishBone  798680163  6  4 f   -     -     -          640    0    0 
+FishBone  798680223  5  3 r   b     b     b          640   70    0 6s 9s
+FishBone  798680284  5  2 Bk  b     -     -          570   20   40 
+FishBone  798680326  5  1 Br  b     br    bc         590  130  320 8c As
+FishBone  798680396  5  5 f   -     -     -          780    0    0 
+FishBone  798680460  5  4 r   kc    k     k          780   30    0 9s Qs
+FishBone  798680537  5  3 f   -     -     -          750    0    0 
+FishBone  798680592  5  2 Br  k     r     k          750   60    0 Qs Kh
+FishBone  798680687  5  1 Bc  kf    -     -          690   10    0 
+FishBone  798680742  5  5 c   k     b     b          680   50  145 8h Jd
+FishBone  798680834  6  4 f   -     -     -          775    0    0 
+FishBone  798680897  6  3 c   bc    kf    -          775   30    0 
+FishBone  798680996  6  2 Br  b     b     -          745   50  110 
+FishBone  798681058  6  1 Bc  kf    -     -          805   10    0 
+FishBone  798681143  6  6 c   f     -     -          795   10    0 
+FishBone  798681245  6  5 c   b     b     -          785   40   75 
+FishBone  798681338  6  4 f   -     -     -          820    0    0 
+FishBone  798681469  6  3 f   -     -     -          820    0    0 
+FishBone  798681561  6  2 Br  b     b     kc         820   70    0 9c 9h
+FishBone  798681644  6  1 Brc b     b     b          750   90  320 6h 7h
+FishBone  798681736  6  6 c   k     k     b          980   30   85 7d 5c
+FishBone  798681790  5  4 r   k     b     -         1035   40   70 
+FishBone  798681834  5  3 c   k     k     kf        1065   10    0 
+FishBone  798681921  5  2 Bk  k     kf    -         1055   10    0 
+FishBone  798681969  5  1 Br  b     b     k         1045   50    0 4d 4c
+FishBone  798682023  5  5 rr  r     b     b          995  100  280 
+FishBone  798682098  5  4 f   -     -     -         1175    0    0 
+FishBone  798682168  5  3 f   -     -     -         1175    0    0 
+FishBone  798682230  5  2 Brc c     f     -         1175   50    0 
+FishBone  798682275  5  1 Br  kc    kf    -         1125   30    0 
+FishBone  798682348  5  5 r   k     b     k         1095   40  105 6c 6h
+FishBone  798682410  5  4 f   -     -     -         1160    0    0 
+FishBone  798682423  5  3 f   -     -     -         1160    0    0 
+FishBone  798682471  5  2 Bk  b     b     kc        1160   60  170 4d Qc
+FishBone  798682529  5  1 Bc  kf    -     -         1270   10    0 
+FishBone  798682611  4  4 c   k     f     -         1260   10    0 
+FishBone  798682660  4  3 r   k     k     k         1250   20    0 Jd 9d
+FishBone  798682702  4  2 BQ  -     -     -         1230   10    0 
+FishBone  798683094  5  2 Br  k     k     b         1220   50  105 8d Kh
+FishBone  798683148  6  1 Br  k     k     kf        1275   20    0 
+FishBone  798683220  6  6 f   -     -     -         1255    0    0 
+FishBone  798683257  6  5 c   c     f     -         1255   20    0 
+FishBone  798683333  7  4 c   f     -     -         1235   10    0 
+FishBone  798683400  6  3 rr  b     b     b         1225   90  275 Qd Ks
+FishBone  798683476  5  2 Bk  b     b     k         1410   40   85 Kd 7s
+FishBone  798683598  6  1 Bc  kf    -     -         1455   10    0 
+FishBone  798683721  6  6 f   -     -     -         1445    0    0 
+FishBone  798683772  6  5 c   b     b     -         1445   40   75 
+FishBone  798683811  6  4 c   b     k     k         1480   20    0 9c Ac
+FishBone  798683861  6  3 r   b     b     b         1460   70  135 
+FishBone  798683901  7  2 Bk  f     -     -         1525   10    0 
+FishBone  798683952  6  1 Bc  b     b     b         1515   70  200 9c Tc
+FishBone  798684000  6  6 r   b     b     -         1645   60  135 
+FishBone  798684058  6  5 rc  c     f     -         1720   40    0 
+FishBone  798684141  7  4 c   f     -     -         1680   20    0 
+FishBone  798684190  7  3 f   -     -     -         1660    0    0 
+FishBone  798684258  7  2 Bf  -     -     -         1660   10    0 
+FishBone  798684351  8  1 Brr kc    k     b         1650   70  190 Jc Ad
+FishBone  798684436  8  8 f   -     -     -         1770    0    0 
+FishBone  798684537  8  7 cc  c     b     b         1770   80    0 5c 6h
+FishBone  798684626  9  7 c   c     c     f         1690   50    0 
+FishBone  798684713  9  6 cc  cf    -     -         1640   30    0 
+FishBone  798684807  9  5 c   kc    kf    -         1610   20    0 
+FishBone  798684882  9  4 cc  cc    r     rf        1590  130    0 
+FishBone  798685032 11  4 f   -     -     -         1460    0    0 
+FishBone  798685155 10  2 Bk  cc    kc    kr        1460   90  270 2s 3h
+FishBone  798685231 10  1 Bf  -     -     -         1640    5    0 
+FishBone  798685309  9  9 f   -     -     -         1635    0    0 
+FishBone  798685417  9  8 cc  kc    kQ    -         1635   40    0 
+FishBone  798686614  9  3 c   k     bc    kc        1595   70    0 3s Ah
+FishBone  798686699  9  2 Bc  k     kf    -         1525   20    0 
+FishBone  798686785  9  1 Bc  kc    k     k         1505   30   90 Ks 7d
+FishBone  798686842  9  9 cc  r     k     c         1565   60    0 Ts Qh
+FishBone  798686973  9  8 cc  c     f     -         1505   30    0 
+FishBone  798687107  8  5 fQ  -     -     -         1475    0    0 
+FishBone  798687266  7  3 f   -     -     -         1475    0    0 
+FishBone  798687327  7  2 Bc  c     c     r         1475   90  310 4s 3h
+FishBone  798687413  7  1 Bc  kc    kf    -         1695   20    0 
+FishBone  798687483  7  7 f   -     -     -         1675    0    0 
+FishBone  798687561  8  7 c   k     r     k         1675   50    0 Qh 7c
+FishBone  798687688  8  6 f   -     -     -         1625    0    0 
+FishBone  798687801  9  5 f   -     -     Q         1625    0    0 
+FishBone  798688235 11  7 rc  b     r     b         1625  100    0 Qc Ad
+FishBone  798688368 11  6 f   -     -     -         1525    0    0 
+FishBone  798688488 11  5 f   -     -     -         1525    0    0 
+FishBone  798688625 11  4 f   -     -     -         1525    0    0 
+FishBone  798688689 12  3 c   ccc   f     -         1525   50    0 
+FishBone  798688899  8  2 Brc b     br    kc        1475  130    0 Kh Jh
+FishBone  798689028  9  1 Bcc kc    kc    kf        1345   50    0 
+FishBone  798689125 10 10 f   -     -     -         1295    0    0 
+FishBone  798689198 10  9 f   -     -     -         1295    0    0 
+FishBone  798689281 11  9 r   rc    c     c         1295   90    0 Jh Js
+FishBone  798689338 11  8 c   rr    kc    kf        1205   70    0 
+FishBone  798689452 11  7 f   -     -     -         1135    0    0 
+FishBone  798689571 10  5 cc  rr    b     k         1135   80  200 2c 9c
+FishBone  798689687 10  5 c   f     -     -         1255   10    0 
+FishBone  798689794  9  3 r   b     b     b         1245   70    0 7h 4h
+FishBone  798689863  9  2 Bf  -     -     -         1175   10    0 
+FishBone  798689922  9  1 Bf  -     -     -         1165    5    0 
+FishBone  798689971  9  9 f   -     -     -         1160    0    0 
+FishBone  798690044 10  9 c   r     k     f         1160   30    0 
+FishBone  798690197 10  8 cc  r     c     f         1130   60    0 
+FishBone  798690347  9  7 c   k     k     b         1070   30   70 
+FishBone  798690457  8  5 cr  k     b     k         1110   60    0 2s 2d
+FishBone  798690579  7  3 c   cc    kc    kf        1050   50    0 
+FishBone  798690654  7  2 Bk  r     kr    br        1000  130    0 3c 3s
+FishBone  798690733  7  1 Bc  b     -     -          870   20   50 
+FishBone  798690783  8  8 r   k     r     k          900   80    0 Ac 7s
+FishBone  798690896  8  7 f   -     -     -          820    0    0 
+FishBone  798690976  8  6 cc  kc    f     -          820   30    0 
+FishBone  798691070  8  5 rc  r     brr   b          790  180    0 8c 5c
+FishBone  798691151  8  4 c   b     r     r          610  100    0 Tc Qd
+FishBone  798691236  7  2 Bk  k     k     rc         510   70    0 Ks 9h
+FishBone  798691348  7  1 Bc  b     b     b          440   70  130 
+FishBone  798691419  7  7 f   -     -     -          500    0    0 
+FishBone  798691470  5  4 f   -     -     -          500    0    0 
+FishBone  798691498  5  4 c   kc    kf    -          500   30    0 
+FishBone  798691561  5  3 f   -     -     -          470    0    0 
+FishBone  798691645  5  2 Bk  kc    kf    -          470   20    0 
+FishBone  798691804  5  1 Bc  kf    -     -          450   20    0 
+FishBone  798691826  5  5 c   c     k     f          430   20    0 
+FishBone  798691854  3  3 rr  b     b     -          410   70  170 
+FishBone  798691899  3  2 Bc  f     -     -          510   20    0 
+FishBone  798691912  3  1 Bf  -     -     -          490    5    0 
+FishBone  798691946  3  3 c   k     k     k          485   10    0 9c 7s
+FishBone  798691986  3  2 Bk  b     -     -          475   20   30 
+FishBone  798692011  3  1 Bc  bc    kr    -          485   70  130 
+FishBone  798692055  3  3 f   -     -     -          545    0    0 
+FishBone  798692064  3  2 Bf  -     -     -          545   10    0 
+FishBone  798692070  3  1 Bf  -     -     -          535    5    0 
+FishBone  798692076  3  3 c   k     c     c          530   50    0 9h 7h
+FishBone  798692130  4  2 Bk  kc    k     b          480   40   75 
+FishBone  798692178  3  1 Bc  k     kc    kf         515   40    0 
+FishBone  798692236  3  3 f   -     -     -          475    0    0 
+FishBone  798692266  3  2 Bk  c     b     k          475   40    0 2h 9h
+FishBone  798692316  3  1 Br  k     bf    -          435   40    0 
+FishBone  798692363  3  3 f   -     -     -          395    0    0 
+FishBone  798692371  3  2 Bk  c     f     -          395   20    0 
+FishBone  798692434  3  1 Br  -     -     -          375   20   30 
+FishBone  798692466  4  4 r   b     b     -          385   50  120 
+FishBone  798692537  4  3 cc  rc    c     r          455  120    0 9h Jc
+FishBone  798692618  4  2 Bc  k     f     -          335   20    0 
+FishBone  798692674  3  1 Bf  -     -     -          315    5    0 
+FishBone  798692684  3  3 cc  c     f     -          310   30    0 
+FishBone  798692704  3  2 Bc  c     f     -          280   30    0 
+FishBone  798692722  3  1 Bc  kf    -     -          250   20    0 
+FishBone  798692740  3  3 c   b     -     -          230   20   35 
+FishBone  798692780  3  2 Bk  kf    -     -          245   10    0 
+FishBone  798692807  3  1 Bc  k     kc    kf         235   30    0 
+FishBone  798692843  3  3 f   -     -     -          205    0    0 
+FishBone  798692868  3  2 B   -     -     -          205   10   15 
+FishBone  798692873  3  1 Br  b     b     -          210   60  110 
+FishBone  798692888  3  3 f   -     -     -          260    0    0 
+FishBone  798692904  3  2 Bk  bc    kf    -          260   30    0 
+FishBone  798692926  3  1 Bf  -     -     -          230    5    0 
+FishBone  798692946  3  3 r   -     -     -          225   20   35 
+FishBone  798692953  3  2 Br  b     -     -          240   30   50 
+FishBone  798692977  3  1 Bf  -     -     -          260    5    0 
+FishBone  798692981  3  3 f   -     -     -          255    0    0 
+FishBone  798692988  3  2 Bk  f     -     -          255   10    0 
+FishBone  798693008  3  1 Bc  br    b     b          245   80  160 5h Jh
+FishBone  798693035  3  3 f   -     -     -          325    0    0 
+FishBone  798693060  3  2 B   -     -     -          325   10   15 
+FishBone  798693065  3  1 Bc  k     kf    -          330   20    0 
+FishBone  798693093  3  3 f   -     -     -          310    0    0 
+FishBone  798693120  3  2 Bk  k     b     b          310   50   90 
+FishBone  798693143  3  1 Bf  -     -     -          350    5    0 
+FishBone  798693165  3  3 f   -     -     -          345    0    0 
+FishBone  798693178  3  2 Bf  -     -     -          345   10    0 
+FishBone  798693195  3  1 Brc k     k     b          335   50   80 
+FishBone  798693213  3  3 f   -     -     -          365    0    0 
+FishBone  798693233  3  2 Bk  k     c     f          365   30    0 
+FishBone  798693260  3  1 Bf  -     -     -          335    5    0 
+FishBone  798693264  3  3 c   b     -     -          330   20   35 
+FishBone  798693299  3  2 Bc  kc    f     -          345   40    0 
+FishBone  798693329  3  1 Bf  -     -     -          305    5    0 
+FishBone  798693333  3  3 rr  b     b     b          300   90  200 
+FishBone  798693378  3  2 Bf  -     -     -          410   10    0 
+FishBone  798693385  3  1 Bc  kc    b     -          400   40   60 
+FishBone  798693418  2  2 Brc c     r     k          420   90  180 7c Qs
+FishBone  798693441  2  1 Bf  -     -     -          510    5    0 
+FishBone  798693445  2  2 Brc r     b     r          505  120  240 8h 5h
+FishBone  798693471  2  1 Bc  k     k     k          625   10    0 4d 3s
+FishBone  798693491  2  2 B   -     -     -          615   10   15 
+FishBone  798693496  2  1 Bcc k     b     -          620   40   60 
+FishBone  798693520  2  2 B   -     -     -          640   10   15 
+FishBone  798693523  2  1 Br  k     k     k          645   20    0 8d 3d
+FishBone  798693544  2  2 B   -     -     -          625   10   15 
+FishBone  798693548  2  1 Bc  k     k     k          630   10    0 7h Js
+FishBone  798693567  2  2 Bc  c     c     k          620   50    0 Ts 9s
+FishBone  798693591  2  1 Bf  -     -     -          570    5    0 
+FishBone  798693599  2  2 Bc  k     k     b          565   40   60 
+FishBone  798693622  2  1 Bf  -     -     -          585    5    0 
+FishBone  798693628  2  2 Bc  f     -     -          580   20    0 
+FishBone  798693640  2  1 Bc  kc    k     k          560   20   40 9c 7h
+FishBone  798693682  2  2 Bc  b     -     -          580   30   50 
+FishBone  798693693  2  1 Br  -     -     -          600   20   30 
+FishBone  798693697  2  2 B   -     -     -          610   10   15 
+FishBone  798693702  2  1 Bf  -     -     -          615    5    0 
+FishBone  798693708  2  2 Bf  -     -     -          610   10    0 
+FishBone  798693712  2  1 Bc  b     b     -          600   40   60 
+FishBone  798693723  2  2 Bf  -     -     -          620   10    0 
+FishBone  798693728  2  1 Bf  -     -     -          610    5    0 
+FishBone  798693733  2  2 Bc  r     b     b          605   80  140 
+FishBone  798693752  2  1 Bcf -     -     -          665   10    0 
+FishBone  798693760  2  2 Bk  f     -     -          655   10    0 
+FishBone  798693768  2  1 Brc bc    bc    kr         645  130  260 7d Ad
+FishBone  798693807  2  2 Bc  k     k     k          775   20    0 9h 7s
+FishBone  798693882  2  1 Bc  k     k     k          755   10   20 Qc Ts
+FishBone  798693902  2  2 Bf  -     -     -          765   10    0 
+FishBone  798693909  2  1 Br  b     -     -          755   30   50 
+FishBone  798693916  2  2 Bf  -     -     -          775   10    0 
+FishBone  798693921  2  1 Bc  kc    kf    -          765   20    0 
+FishBone  798693937  2  2 Bc  k     k     k          745   20   40 3s Qh
+FishBone  798693955  2  1 Bcc kc    kf    -          765   30    0 
+FishBone  798694001  2  2 Bk  f     -     -          735   10    0 
+FishBone  798694021  2  1 Bc  b     -     -          725   20   30 
+FishBone  798694037  2  2 Bc  rc    f     -          735   50    0 
+FishBone  798694053  2  1 Bf  -     -     -          685    5    0 
+FishBone  798694058  2  2 B   -     -     -          680   10   15 
+FishBone  798694061  2  1 Br  b     b     b          685   70  140 Kd 5d
+FishBone  798694073  2  2 Bf  -     -     -          755   10    0 
+FishBone  798694079  2  1 Bc  k     k     b          745   30   40 
+FishBone  798694095  2  2 B   -     -     -          755   10   15 
+FishBone  798694098  2  1 Br  b     -     -          760   30   50 
+FishBone  798694110  2  2 Bf  -     -     -          780   10    0 
+FishBone  798694115  2  1 Bf  -     -     -          770    5    0 
+FishBone  798694119  2  2 B   -     -     -          765   10   15 
+FishBone  798694122  2  1 Brc kc    kf    -          770   40    0 
+FishBone  798694145  2  2 B   -     -     -          730   10   15 
+FishBone  798694148  2  1 Bf  -     -     -          735    5    0 
+FishBone  798694151  2  2 B   -     -     -          730   10   15 
+FishBone  798694153  2  1 Br  -     -     -          735   20   30 
+FishBone  798694161  2  2 Br  b     b     bf         745   70    0 
+FishBone  798694199  2  1 Bc  f     -     -          675   10    0 
+FishBone  798694220  2  2 Bc  rc    c     k          665   70    0 6s Td
+FishBone  798694244  2  1 Brr b     b     b          595   90  160 
+FishBone  798694265  3  3 r   c     c     r          665   90  185 Qc Qs
+FishBone  798694303  3  3 c   r     b     b          760   70    0 7h Tc
+FishBone  798694333  3  2 Bk  c     r     k          690   60  120 9d Jc
+FishBone  798694359  3  1 Bcc kc    kf    -          750   30    0 
+FishBone  798694392  3  3 r   r     b     b          720   80  180 4d 4s
+FishBone  798694429  4  2 Bk  k     k     f          820   10    0 
+FishBone  798694479  4  1 Bf  -     -     -          810    5    0 
+FishBone  798694497  4  4 r   b     b     k          805   50    0 Kd Qc
+FishBone  798694555  5  4 c   b     b     -          755   40   90 
+FishBone  798694599  5  3 c   cc    kc    kf         805   70    0 
+FishBone  798694737  4  1 Bk  k     b     -          735   30   50 
+FishBone  798694777  4  1 Bc  k     b     bc         755   70    0 Tc 3c
+FishBone  798694832  4  4 c   b     k     k          685   20    0 As Jd
+FishBone  798694871  4  3 f   -     -     -          665    0    0 
+FishBone  798694907  4  2 Bk  b     b     b          665   60  110 
+FishBone  798694946  4  1 Bc  b     b     br         715  100  105 Jc Td
+FishBone  798694991  4  4 cc  f     -     -          720   20    0 
+FishBone  798695033  4  3 r   b     b     -          700   50  105 
+FishBone  798695067  4  2 Bk  k     k     kf         755   10    0 
+FishBone  798695100  3  1 Br  b     -     -          745   40   80 
+FishBone  798695117  3  3 r   b     k     k          785   30    0 Ah 4c
+FishBone  798695151  3  2 Bf  -     -     -          755   10    0 
+FishBone  798695189  3  1 Brrrrr krr   kr    br         745  250  510 9d 9s
+FishBone  798695266  3  3 c   k     k     k         1005   10    0 6s 3s
+FishBone  798695301  3  2 Bf  -     -     -          995   10    0 
+FishBone  798695338  3  1 Br  b     b     -          985   50   90 
+FishBone  798695360  3  3 r   b     b     -         1025   50   90 
+FishBone  798695396  3  2 Br  b     kf    -         1065   30    0 
+FishBone  798695459  3  1 Bf  -     -     -         1035    5    0 
+FishBone  798695470  3  3 f   -     -     -         1030    0    0 
+FishBone  798695492  3  2 B   -     -     -         1030   10   15 
+FishBone  798695503  3  1 Bc  b     b     b         1035   60  120 Qc 9c
+FishBone  798695532  3  3 c   b     -     -         1095   20   35 
+FishBone  798695549  3  2 B   -     -     -         1110   10   15 
+FishBone  798695555  3  1 Br  b     -     -         1115   30   50 
+FishBone  798695570  3  3 f   -     -     -         1135    0    0 
+FishBone  798695589  3  2 Br  b     b     bf        1135   80    0 
+FishBone  798695637  4  1 Bf  -     -     -         1055    5    0 
+FishBone  798695697  4  4 r   b     -     -         1050   30   80 
+FishBone  798695757  4  3 r   b     b     b         1100   70  175 
+FishBone  798695810  4  2 Br  k     b     b         1205   60    0 Jc 9c
+FishBone  798695863  4  1 Bc  k     k     kf        1145   10    0 
+FishBone  798695949  4  4 c   k     f     -         1135   10    0 
+FishBone  798696040  4  3 cc  f     -     -         1125   20    0 
+FishBone  798696122  5  3 f   -     -     -         1105    0    0 
+FishBone  798696187  5  2 Bk  k     f     -         1105   10    0 
+FishBone  798696234  4  1 Br  b     -     -         1095   30   60 
+FishBone  798696260  4  4 rc  k     f     -         1125   30    0 
+FishBone  798696296  4  3 f   -     -     -         1095    0    0 
+FishBone  798696315  5  2 Bc  r     -     -         1095   40   70 
+FishBone  798696339  5  1 Bc  bc    kr    k         1125   90    0 4d 6h
+FishBone  798696391  5  5 c   c     f     -         1035   20    0 
+FishBone  798696440  5  4 c   c     rrr   b         1015  160    0 Ac As
+FishBone  798696491  5  3 f   -     -     -          855    0    0 
+FishBone  798696563  5  2 Bc  k     k     k          855   20   65 5d 7h
+FishBone  798696615  5  1 Br  b     b     -          900   60  110 
+FishBone  798696649  5  5 c   b     -     -          950   20   35 
+FishBone  798696677  5  4 c   b     b     r          965   80    0 5s Ad
+FishBone  798696735  6  4 f   -     -     -          885    0    0 
+FishBone  798696767  6  3 f   -     -     -          885    0    0 
+FishBone  798696802  6  2 Bk  b     b     b          885   60    0 Th Jc
+FishBone  798696845  6  1 Bc  b     b     -          825   40   80 
+FishBone  798696883  6  6 r   b     b     b          865   70  205 5c Ac
+FishBone  798696940  7  6 r   b     b     -         1000   50  125 
+FishBone  798696997  6  4 c   k     k     c         1075   30   35 5h 6s
+FishBone  798697055  5  3 r   kc    k     b         1080   50    0 Jh Qh
+FishBone  798697111  6  2 Bf  -     -     -         1030   10    0 
+FishBone  798697137  6  1 Br  bf    -     -         1020   30    0 
+FishBone  798697197  6  6 f   -     -     -          990    0    0 
+FishBone  798697249  6  5 c   k     k     k          990   10   10 Th Kc
+FishBone  798697300  7  5 r   b     b     b          990   70    0 8h Qs
+FishBone  798697350  7  4 f   -     -     -          920    0    0 
+FishBone  798697364  7  3 cc  kf    -     -          920   20    0 
+FishBone  798697517  6  2 Bk  b     b     k          900   40   90 Jd 6c
+FishBone  798697573  7  1 Bc  b     b     b          950   70  180 
+FishBone  798697618  7  7 f   -     -     -         1060    0    0 
+FishBone  798697705  7  6 r   b     b     -         1060   50  115 
+FishBone  798697754  7  5 f   -     -     -         1125    0    0 
+FishBone  798697797  7  4 f   -     -     -         1125    0    0 
+FishBone  798697852  7  3 r   b     b     b         1125   70  280 9d Jd
+FishBone  798697948  8  3 cc  b     b     k         1335   50    0 9d 4s
+FishBone  798698039  8  2 Bf  -     -     -         1285   10    0 
+FishBone  798698116  7  1 Bf  -     -     -         1275    5    0 
+FishBone  798698150  7  7 f   -     -     -         1270    0    0 
+FishBone  798698199  7  6 f   -     -     -         1270    0    0 
+FishBone  798698278  7  5 c   f     -     -         1270   10    0 
+FishBone  798698393  7  4 f   -     -     -         1260    0    0 
+FishBone  798698470  7  3 rr  b     b     b         1260   90    0 4c 4s
+FishBone  798698577  8  2 Bk  cc    kc    k         1170   50    0 Kh Js
+FishBone  798698672  8  1 Bf  -     -     -         1120    5    0 
+FishBone  798698716  8  8 r   fQ    -     -         1115   20    0 
+FishBone  798698943  4  4 f   -     -     -         1095    0    0 
+FishBone  798699000  4  3 c   f     -     -         1095   10    0 
+FishBone  798699051  4  2 Bf  -     -     -         1085   10    0 
+FishBone  798699152  4  1 Bc  b     b     b         1075   60    0 5s Qs
+FishBone  798699197  4  4 cf  -     -     -         1015   10    0 
+FishBone  798699251  4  3 f   -     -     -         1005    0    0 
+FishBone  798699272  4  2 Bc  b     bc    f         1005   70    0 
+FishBone  798699326  4  1 Bf  -     -     -          935    5    0 
+FishBone  798699377  4  4 c   k     b     b          930   50   95 
+FishBone  798699479  4  3 rr  b     b     -          975   70  145 
+FishBone  798699549  3  2 Br  k     k     k         1050   20   40 Td Kh
+FishBone  798699588  3  1 Brr b     b     k         1070   80  170 7c 7s
+FishBone  798699644  3  3 r   -     -     -         1160   20   35 
+FishBone  798699657  4  2 Bc  kf    -     -         1175   20    0 
+FishBone  798699721  4  1 Bcc kf    -     -         1155   20    0 
+FishBone  798699774  4  4 f   -     -     -         1135    0    0 
+FishBone  798699820  5  3 f   -     -     -         1135    0    0 
+FishBone  798699852  5  2 Br  brr   bc    kc        1135  140    0 Qc Kc
+FishBone  798699918  5  1 Bcf -     -     -          995   20    0 
+FishBone  798699995  5  5 r   r     k     f          975   50    0 
+FishBone  798700043  5  4 c   f     -     -          925   10    0 
+FishBone  798700093  5  3 cc  f     -     -          915   20    0 
+FishBone  798700149  5  2 Bf  -     -     -          895   10    0 
+FishBone  798700183  6  1 Bc  kr    kc    b          885   80  190 
+FishBone  798700233  5  5 f   -     -     -          995    0    0 
+FishBone  798700264  5  5 c   f     -     -          995   10    0 
+FishBone  798700306  5  4 c   f     -     -          985   10    0 
+FishBone  798700375  5  3 f   -     -     -          975    0    0 
+FishBone  798700437  5  2 Br  kc    kf    -          975   30    0 
+FishBone  798700523  5  1 Bf  -     -     -          945    5    0 
+FishBone  798700574  6  5 f   -     -     -          940    0    0 
+FishBone  798700637  6  4 c   f     -     -          940   10    0 
+FishBone  798700690  5  3 cc  kc    k     k          930   30    0 Ks 8c
+FishBone  798700760  5  2 Br  br    b     b          900  100    0 Jd Ah
+FishBone  798700817  4  1 Bf  -     -     -          800    5    0 
+FishBone  798700852  4  4 c   k     f     -          795   10    0 
+FishBone  798700905  5  3 r   bc    b     k          785   60  145 Kh Kc
+FishBone  798700949  6  2 Brc br    b     b          870  110    0 5d Qd
+FishBone  798701027  5  1 Bc  kf    -     -          760   10    0 
+FishBone  798701098  5  5 rc  c     r     k          750   80  220 Qs Ah
+FishBone  798701166  5  4 cc  f     -     -          890   20    0 
+FishBone  798701211  5  3 f   -     -     -          870    0    0 
+FishBone  798701283  5  2 Bk  b     b     -          870   40   70 
+FishBone  798701347  6  1 Bf  -     -     -          900    5    0 
+FishBone  798701377  6  6 c   rc    rc    c          895  130    0 4c Ts
+FishBone  798701436  6  5 c   k     k     rr         765   90    0 3d 8s
+FishBone  798701534  6  4 cc  b     b     b          675   70    0 Kd Js
+FishBone  798701581  5  3 c   kc    kf    -          605   20    0 
+FishBone  798701720  4  2 Br  b     b     b          585   80    0 5d 5c
+FishBone  798701768  4  1 Bc  b     -     -          505   20   30 
+FishBone  798701791  4  4 r   c     r     b          515   90  185 
+FishBone  798701854  4  3 cc  r     kf    -          610   40    0 
+FishBone  798701914  5  2 Brc br    b     b          570  110  240 
+FishBone  798701975  5  1 Bc  k     k     k          700   10   20 9c Kh
+FishBone  798702016  5  5 f   -     -     -          710    0    0 
+FishBone  798702077  5  4 c   k     kc    k          710   30    0 7h 5c
+FishBone  798702138  5  3 f   -     -     -          680    0    0 
+FishBone  798702181  5  2 Bf  -     -     -          680   10    0 
+FishBone  798702219  5  1 Bcc kc    kr    b          670  100  240 2h Kc
+FishBone  798702282  5  5 cc  c     k     f          810   30    0 
+FishBone  798702340  5  4 f   -     -     -          780    0    0 
+FishBone  798702375  5  3 c   b     -     -          780   20   40 
+FishBone  798702406  5  2 Bk  kf    -     -          800   10    0 
+FishBone  798702486  4  1 Br  b     -     -          790   30   60 
+FishBone  798702509  4  4 f   -     -     -          820    0    0 
+FishBone  798702531  4  3 cc  f     -     -          820   20    0 
+FishBone  798702598  4  2 Bc  b     b     b          800   80  200 
+FishBone  798702656  4  1 Bf  -     -     -          920    5    0 
+FishBone  798702679  5  5 cc  f     -     -          915   40    0 
+FishBone  798702747  5  4 f   -     -     -          875    0    0 
+FishBone  798702787  5  3 c   r     b     k          875   50  130 Qd 3h
+FishBone  798702873  5  2 Br  k     b     k          955   40  100 Jh Kd
+FishBone  798702924  5  1 Bcc kf    -     -         1015   20    0 
+FishBone  798702980  5  5 c   f     -     -          995   10    0 
+FishBone  798703012  5  4 f   -     -     -          985    0    0 
+FishBone  798703067  6  3 f   -     -     -          985    0    0 
+FishBone  798703122  6  2 Bc  kf    -     -          985   20    0 
+FishBone  798703188  6  1 Bc  kf    -     -          965   10    0 
+FishBone  798703260  6  6 r   b     b     b          955   70    0 Kc Jd
+FishBone  798703317  7  6 cc  cc    kf    -          885   40    0 
+FishBone  798703414  7  5 cc  bc    kr    -          845   80  185 
+FishBone  798703482  7  4 c   br    bf    -          950   80    0 
+FishBone  798703576  8  3 f   -     -     -          870    0    0 
+FishBone  798703668  8  2 Bk  kf    -     -          870   10    0 
+FishBone  798703741  8  1 Bc  kc    b     k          860   60    0 5c 2c
+FishBone  798703808  7  7 c   k     rf    -          800   50    0 
+FishBone  798703886  7  6 c   k     k     f          750   10    0 
+FishBone  798703986  7  5 c   f     -     -          740   10    0 
+FishBone  798704062  7  4 r   b     b     -          730   50  105 
+FishBone  798704119  7  3 r   bc    kr    b          785  100    0 Jh Qc
+FishBone  798704179  7  2 Bk  f     -     -          685   10    0 
+FishBone  798704293  7  1 Bc  kc    kr    k          675   60    0 2s 5h
+FishBone  798704389  9  9 c   f     -     -          615   20    0 
+FishBone  798704445  9  9 c   f     -     -          595   20    0 
+FishBone  798704511  5  5 rc  rc    r     b          575  140    0 2s 2h
+FishBone  798704596  5  5 c   c     k     f          435   30    0 
+FishBone  798704671  6  5 f   -     -     -          405    0    0 
+FishBone  798704753  6  4 f   -     -     -          405    0    0 
+FishBone  798704824  6  3 f   -     -     Q          405    0    0 
+FishBone  798769333  9  7 f   -     -     -          405    0    0 
+FishBone  798769384  9  6 cc  kf    -     -          405   20    0 
+FishBone  798769490  9  5 f   -     -     -          385    0    0 
+FishBone  798769614 10  4 f   -     -     -          385    0    0 
+FishBone  798769761 10  4 c   k     c     b          385   50    0 Js 6h
+FishBone  798769847  8  2 Bc  kc    kf    -          335   30    0 
+FishBone  798769978  8  1 Bc  kf    -     -          305   10    0 
+FishBone  798770083  8  8 cc  c     rc    c          295  130    0 Ah 5d
+FishBone  798770180  9  7 f   -     -     -          165    0    0 
+FishBone  798770247  9  6 c   k     b     -          165   30   65 
+FishBone  798770306  9  5 c   k     c     f          200   30    0 
+FishBone  798770386 10  4 cc  b     bc    k          170   70  165 6s 6d
+FishBone  798770449 10  3 c   kc    kr    b          265   90    0 Ac As
+FishBone  798770543 11  2 Bk  c     rc    c          175  100    0 9d 8d
+FishBone  798770693  9  1 Bf  -     -     -           75    5    0 
+FishBone  798770730  8  8 f   -     -     -           70    0    0 
+FishBone  798770778  8  8 f   -     -     -           70    0    0 
+FishBone  798770834 11  7 f   -     -     -           70    0    0 
+FishBone  798770910 10  5 r   b     -     -           70   30   60 
+FishBone  798770964 10  4 f   -     -     -          100    0    0 
+FishBone  798771032 10  3 f   -     -     -          100    0    0 
+FishBone  798771116 10  2 Brr br    bA    -          100  100    0 Ad 3d
+FishBone  798771361  8  6 cc  f     -     -         1000   30    0 
+FishBone  798771524  7  4 r   kc    k     b          970   50  110 
+FishBone  798771595  8  4 r   b     b     k         1030   50  150 Tc Ac
+FishBone  798771676  8  3 c   k     k     b         1130   30   65 9s 8s
+FishBone  798771750  7  2 Bf  -     -     -         1165   10    0 
+FishBone  798771790  7  1 Bc  bc    bc    kf        1155   70    0 
+FishBone  798771877  7  7 f   -     -     -         1085    0    0 
+FishBone  798771933  8  7 f   -     -     -         1085    0    0 
+FishBone  798772025  7  5 c   kc    k     k         1085   30    0 5d 8h
+FishBone  798772183 10  7 c   r     -     -         1055   40  120 
+FishBone  798772284 10  6 f   -     -     -         1135    0    0 
+FishBone  798772401 11  5 c   c     f     -         1135   30    0 
+FishBone  798772497 11  4 f   -     -     -         1105    0    0 
+FishBone  798772584 10  3 cc  c     c     k         1105   50    0 Jd 6d
+FishBone  798772676 10  2 Bf  -     -     -         1055   10    0 
+FishBone  798772902 11  1 Bc  kc    kcc   k         1045   70    0 8c 8s
+FishBone  798773058 11 11 f   -     -     -          975    0    0 
+FishBone  798773132 11 10 f   -     -     -          975    0    0 
+FishBone  798773244 10  8 cc  f     -     -          975   30    0 
+FishBone  798773336  9  6 r   c     f     -          945   40    0 
+FishBone  798773444  9  5 cc  kc    b     kc         905   70    0 9c Td
+FishBone  798773571  9  4 cc  kc    f     -          835   30    0 
+FishBone  798773815  8  3 f   -     -     -          805    0    0 
+FishBone  798773906  8  2 Bk  r     bf    -          805   50    0 
+FishBone  798773969  7  1 Bc  kr    b     k          755   50  120 2s 3s
+FishBone  798774023  8  8 c   r     k     f          825   30    0 
+FishBone  798774117  8  7 c   r     f     -          795   30    0 
+FishBone  798774209  8  6 f   -     -     -          765    0    0 
+FishBone  798774344  7  4 f   -     -     -          765    0    0 
+FishBone  798774468  7  4 cc  c     f     -          765   30    0 
+FishBone  798774547  7  3 f   -     -     -          735    0    0 
+FishBone  798774601  7  2 Br  b     b     b          735   70  160 Kd As
+FishBone  798774698  6  1 Bc  b     -     -          825   20   40 
+FishBone  798774746  6  6 r   k     c     k          845   40    0 Td Qd
+FishBone  798774804  6  5 cc  b     -     -          805   30   65 
+FishBone  798774853  6  4 r   b     -     -          840   30   85 
+FishBone  798774960  6  2 f   -     -     -          895    0    0 
+FishBone  798775010  7  2 Bk  b     bc    kf         895   60    0 
+FishBone  798775091  7  1 Bc  br    kc    kf         835   60    0 
+FishBone  798775177  7  7 c   cc    c     f          775   70    0 
+FishBone  798775300  9  8 c   c     c     r          705   90  265 Ad 3c
+FishBone  798775380  9  7 cc  rc    k     c          880  100  400 3d Td
+FishBone  798775496 10  7 f   -     -     -         1180    0    0 
+FishBone  798775579 11  7 rr  b     brc   c         1180  150    0 Ad Qs
+FishBone  798775731 11  6 f   -     -     -         1030    0    0 
+FishBone  798775791 11  5 f   -     -     -         1030    0    0 
+FishBone  798775950 10  3 r   r     k     f         1030   40    0 
+FishBone  798776024  9  3 cc  kf    -     -          990   20    0 
+FishBone  798776143  9  2 Bk  rc    cc    kf         970   90    0 
+FishBone  798776258  8  1 Bc  kQ    -     -          880   10    0 
+FishBone  798782060  7  5 Q   -     -     -          870    0    0 
+FishBone  798782282  8  4 f   -     -     -          870    0    0 
+FishBone  798782342  7  3 f   -     -     -          870    0    0 
+FishBone  798782405  7  2 BQ  -     -     -          870   10    0 
+FishBone  798782589  6  5 cc  c     c     f          860   50    0 
+FishBone  798782649  6  4 f   -     -     -          810    0    0 
+FishBone  798782698  6  3 f   -     -     -          810    0    0 
+FishBone  798782741  6  2 Bk  Q     -     -          810   10    0 
+FishBone  798783971  5  4 r   b     -     -          800   40  115 
+FishBone  798784022  6  3 f   -     -     -          875    0    0 
+FishBone  798784107  6  2 Bk  br    k     b          875   60  160 As 8d
+FishBone  798784176  6  1 Bc  bc    kc    bf         975   70    0 
+FishBone  798784239  7  7 f   -     -     -          905    0    0 
+FishBone  798784315  7  6 f   -     -     -          905    0    0 
+FishBone  798784387  7  5 f   -     -     -          905    0    0 
+FishBone  798784443  7  4 f   -     -     -          905    0    0 
+FishBone  798784498  7  3 f   -     -     -          905    0    0 
+FishBone  798784550  7  2 Bk  k     k     k          905   10    0 6s Ac
+FishBone  798784620  6  1 Bc  kf    -     -          895   10    0 
+FishBone  798784663  6  6 c   c     r     r          885  100  205 
+FishBone  798784750  5  4 c   Q     -     -          990   10    0 
+FishBone  798784952  6  5 r   b     b     b          980   70  185 Ac Kc
+FishBone  798785018  6  4 f   -     -     Q         1095    0    0 
+FishBone  798853485  7  3 rr  ccc   b     br        1095  160  450 Ah Kc
+FishBone  798853590  7  2 Bf  -     -     -         1385   10    0 
+FishBone  798853714  8  1 Bf  -     -     -         1375    5    0 
+FishBone  798853782  8  8 c   f     -     -         1370   10    0 
+FishBone  798853890  8  7 f   -     -     -         1360    0    0 
+FishBone  798853973  8  6 c   k     f     -         1360   10    0 
+FishBone  798854020  7  5 f   -     -     -         1350    0    0 
+FishBone  798854089  7  4 f   -     -     -         1350    0    0 
+FishBone  798854143  7  3 f   -     -     -         1350    0    0 
+FishBone  798854209  7  2 Bk  kf    -     -         1350   10    0 
+FishBone  798854291  7  1 Bc  kf    -     -         1340   10    0 
+FishBone  798854349  7  7 f   -     -     -         1330    0    0 
+FishBone  798854404  7  6 f   -     -     -         1330    0    0 
+FishBone  798854484  6  4 f   -     -     -         1330    0    0 
+FishBone  798854527  6  3 f   -     -     -         1330    0    0 
+FishBone  798854594  6  2 Bk  k     f     -         1330   10    0 
+FishBone  798854656  5  1 Bc  kc    krc   kf        1320   90    0 
+FishBone  798854730  7  7 cc  rc    b     k         1230  100  460 4d Jd
+FishBone  798854838  7  6 c   f     -     -         1590   30    0 
+FishBone  798854897 10  5 f   -     -     -         1560    0    0 
+FishBone  798855010  9  4 c   c     c     b         1560   70  205 
+FishBone  798855065  9  3 f   -     -     -         1695    0    0 
+FishBone  798855143  9  2 Bc  f     -     -         1695   20    0 
+FishBone  798855260  8  1 Bf  -     -     -         1675    5    0 
+FishBone  798855376  9  9 c   f     -     -         1670   30    0 
+FishBone  798855475  9  8 f   -     -     -         1640    0    0 
+FishBone  798855536 10  8 c   rc    rr    br        1640  210    0 5s 6d
+FishBone  798855668 10  7 fQ  -     -     -         1430    0    0 
+FishBone  798856449 12  5 f   -     -     -         1430    0    0 
+FishBone  798856530 12  4 f   -     -     -         1430    0    0 
+FishBone  798856719 10  3 f   -     -     -         1430    0    0 
+FishBone  798856806  7  2 Bk  cc    f     -         1430   40    0 
+FishBone  798856899  7  1 BQ  -     -     -         1390    5    0 
+FishBone  799058085  4  2 Bc  bc    kf    -         1385   40    0 
+FishBone  799058136  4  1 Bcf -     -     -         1345   20    0 
+FishBone  799058168  4  4 cc  k     k     f         1325   20    0 
+FishBone  799058224  3  3 f   -     -     -         1305    0    0 
+FishBone  799058272  3  2 Bf  -     -     -         1305   10    0 
+FishBone  799058283  3  1 Br  b     b     -         1295   50   80 
+FishBone  799058313  3  3 ccc r     bc    c         1325  120    0 5c Kd
+FishBone  799058367  3  2 Bc  f     -     -         1205   20    0 
+FishBone  799058395  3  1 Bc  bc    kr    b         1185   90  180 4s Td
+FishBone  799058441  3  3 cc  c     f     -         1275   30    0 
+FishBone  799058491  3  2 Bc  kr    kc    kc        1245   80  165 3h Kd
+FishBone  799058550  3  1 Bcc kc    kc    k         1330   50  100 2h 5h
+FishBone  799058582  3  3 cf  -     -     -         1380   10    0 
+FishBone  799058605  3  2 Bc  b     -     -         1370   30   55 
+FishBone  799058631  3  1 Bf  -     -     -         1395    5    0 
+FishBone  799058642  3  3 cc  c     c     r         1390  100  240 9c 6s
+FishBone  799058689  3  2 Bk  f     -     -         1530   10    0 
+FishBone  799058709  3  1 Bc  bc    k     b         1520   60  130 Qh 9s
+FishBone  799058741  3  3 f   -     -     -         1590    0    0 
+FishBone  799058753  3  2 Brc kc    kc    f         1590   80    0 
+FishBone  799058836  3  1 Bf  -     -     -         1510    5    0 
+FishBone  799058849  3  3 r   b     -     -         1505   30   55 
+FishBone  799058873  3  2 Bc  kf    -     -         1530   20    0 
+FishBone  799058930  3  1 Bc  kc    k     k         1510   30    0 Td 8c
+FishBone  799058976  3  3 c   k     k     b         1480   30   45 
+FishBone  799059079  5  2 Brc b     b     b         1495   90  180 
+FishBone  799059147  5  1 Bc  kf    -     -         1585   10    0 
+FishBone  799059204  5  5 f   -     -     -         1575    0    0 
+FishBone  799059226  5  4 f   -     -     -         1575    0    0 
+FishBone  799059246  4  3 f   -     -     -         1575    0    0 
+FishBone  799059283  4  2 Bc  kf    -     -         1575   30    0 
+FishBone  799059368  4  1 Bc  kf    -     -         1545   10    0 
+FishBone  799059413  4  4 r   b     b     b         1535   70  160 Kh Qh
+FishBone  799059468  4  3 cc  f     -     -         1625   20    0 
+FishBone  799059518  5  2 Bk  f     -     -         1605   10    0 
+FishBone  799059559  5  1 Br  b     b     bc        1595  100    0 7h 6h
+FishBone  799059635  5  5 cc  c     c     c         1495   80    0 3d 5c
+FishBone  799059764  5  4 f   -     -     -         1415    0    0 
+FishBone  799059848  5  3 c   k     k     k         1415   10    0 3s 8c
+FishBone  799059996  5  2 Bk  kc    kf    -         1405   30    0 
+FishBone  799060129  5  1 Bf  -     -     -         1375    5    0 
+FishBone  799060187  5  5 c   c     r     r         1370  100  215 9h 5s
+FishBone  799060247  5  4 c   kf    -     -         1485   10    0 
+FishBone  799060298  5  3 r   b     -     -         1475   30   75 
+FishBone  799060323  4  2 Br  b     k     c         1520   50    0 As Qs
+FishBone  799060375  5  1 Bc  kc    b     k         1470   50  110 Ks Tc
+FishBone  799060453  5  5 c   c     rr    b         1530  120  265 Ad 4d
+FishBone  799060517  5  4 c   rr    r     b         1675  110    0 Qc Ks
+FishBone  799060638  5  3 r   c     k     b         1565   50  110 Js As
+FishBone  799060721  5  2 Bc  kf    -     -         1625   20    0 
+FishBone  799060797  5  1 Bcc k     kc    kf        1605   40    0 
+FishBone  799060871  5  5 r   b     k     b         1565   50  100 
+FishBone  799060980  5  4 c   k     k     k         1615   10    0 Jc 8c
+FishBone  799061028  4  2 Bc  c     b     -         1605   50   80 
+FishBone  799061071  4  1 Bc  bf    -     -         1635   30    0 
+FishBone  799061226  3  3 f   -     -     -         1605    0    0 
+FishBone  799061278  3  2 Bc  rc    r     -         1605   90  160 
+FishBone  799061325  3  1 Bc  kc    kc    kf        1675   50    0 
+FishBone  799061359  3  3 rc  r     -     -         1625   50   95 
+FishBone  799061380  3  2 Brc rr    b     k         1670  100  300 Qs Ts
+FishBone  799061467  3  1 Bf  -     -     -         1870    5    0 
+FishBone  799061506  3  3 f   -     -     -         1865    0    0 
+FishBone  799061544  3  2 B   -     -     -         1865   10   15 
+FishBone  799061564  3  1 Bc  kc    kf    -         1870   30    0 
+FishBone  799061623  3  3 cc  c     c     f         1840   50    0 
+FishBone  799061678  3  2 Br  rc    c     f         1790   80    0 
+FishBone  799061712  3  1 Bc  br    b     b         1710  100  280 6d 4d
+FishBone  799061792  3  3 c   k     c     c         1890   50   55 Th Kc
+FishBone  799061858  3  2 Bc  b     b     k         1895   50  120 Jh Ts
+FishBone  799061917  4  1 Bc  k     k     k         1965   10   15 7d 5s
+FishBone  799061988  4  4 cc  rc    c     c         1970  100    0 5h 8c
+FishBone  799062049  4  3 c   c     f     -         1870   20    0 
+FishBone  799062090  4  2 Bk  f     -     -         1850   10    0 
+FishBone  799062111  4  1 Bc  kc    b     kc        1840   70    0 6c Qc
+FishBone  799062159  3  3 rc  r     Q     -         1770   50    0 
+FishBone  799143839  2  1 Brrc krrc  brrrrrrrrrrrrrrrrrr -         1720  840 1660 
+FishBone  799149568  4  4 Q   -     -     -         2540    0    0 

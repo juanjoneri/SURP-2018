@@ -1,0 +1,580 @@
+Borgbug   797534402 10  5 c   c     b     k         1000   40  140 Ac Qd
+Borgbug   797534511 10  4 c   kc    kc    k         1100   50    0 4c Jd
+Borgbug   797534627 10  3 cf  -     -     -         1050   10    0 
+Borgbug   797534694 10  2 Bc  kc    kf    -         1040   40    0 
+Borgbug   797534839 10  1 Bcc kf    -     -         1000   40    0 
+Borgbug   797535083  9  9 rc  c     c     f          960   80    0 
+Borgbug   797535236 10  9 f   -     -     -          880    0    0 
+Borgbug   797535336  9  8 c   c     f     -          880   20    0 
+Borgbug   797535394 10  7 c   b     cc    c          860  110    0 9s Ts
+Borgbug   797535496 10  6 cf  -     -     -          750   10    0 
+Borgbug   797535613 11  5 cc  br    b     b          740   90  335 Js Ks
+Borgbug   797535718  8  3 cc  k     kf    -          985   20    0 
+Borgbug   797535809  8  2 Bc  kf    -     -          965   20    0 
+Borgbug   797535906  9  1 Bf  -     -     -          945    5    0 
+Borgbug   797535944  7  7 f   -     -     -          940    0    0 
+Borgbug   797536013  7  6 cc  f     -     -          940   20    0 
+Borgbug   797536070  7  5 rr  rr    rr    b          920  180    0 8c Ac
+Borgbug   797536243  9  6 f   -     -     -          740    0    0 
+Borgbug   797536322  9  5 f   -     -     -          740    0    0 
+Borgbug   797536380 10  4 c   kc    kc    kc         740   60    0 Kc 9d
+Borgbug   797536459 10  3 f   -     -     -          680    0    0 
+Borgbug   797536530 10  2 Bc  f     -     -          680   20    0 
+Borgbug   797536783  9  1 Bc  k     kf    -          660   10    0 
+Borgbug   797536894  9  9 c   k     c     c          650   60    0 2d 6d
+Borgbug   797536991  9  8 c   f     -     -          590   20    0 
+Borgbug   797537169  9  7 cc  c     c     r          570   90    0 Ts Ac
+Borgbug   797537238  9  6 f   -     -     -          480    0    0 
+Borgbug   797537360 12  7 cc  kc    kc    kc         480   80    0 7s Kh
+Borgbug   797537468 11  6 rc  b     b     b          400   80  300 Ac Td
+Borgbug   797537564 12  5 c   b     k     kc         620   40    0 7d Jd
+Borgbug   797537650 12  4 r   k     kc    kc         580   80    0 Ah 5h
+Borgbug   797537733 12  3 ccc rc    bc    b          500  130    0 Ad Qh
+Borgbug   797537885 12  2 Bk  f     -     -          370   10    0 
+Borgbug   797537953 11  1 Bf  -     -     -          360    5    0 
+Borgbug   797538049 10 10 f   -     -     -          355    0    0 
+Borgbug   797538118 10 10 cc  f     -     -          355   20    0 
+Borgbug   797538316  8  7 cc  cc    k     f          335   60    0 
+Borgbug   797538409  8  6 cc  k     k     kr         275   60  135 Qs 3d
+Borgbug   797538500  9  6 r   b     b     b          350   70  185 5c Ac
+Borgbug   797538569  9  5 c   cf    -     -          465   20    0 
+Borgbug   797538641  8  3 c   c     k     f          445   20    0 
+Borgbug   797538727  8  2 Bk  kc    kc    kc         425   60    0 Qs Ac
+Borgbug   797538814  8  1 Bcc kc    kc    kc         365   90  240 8d 7d
+Borgbug   797538934 10 10 cc  c     c     c          515   70  145 3h 4h
+Borgbug   797539006  9  9 c   c     f     -          590   30    0 
+Borgbug   797539099  8  8 f   -     -     -          560    0    0 
+Borgbug   797539150  8  7 c   k     k     kc         560   30    0 Ts 3s
+Borgbug   797539235  7  5 r   b     b     k          530   50    0 6h 6s
+Borgbug   797539296  8  5 c   kc    b     b          480   60  140 
+Borgbug   797539375  8  4 r   b     -     -          560   30   75 
+Borgbug   797539402  8  3 cc  cc    br    b          605  120  315 7s 9d
+Borgbug   797539508  8  2 Bk  kc    kf    -          800   20    0 
+Borgbug   797539563  8  1 Bc  b     -     -          780   20   40 
+Borgbug   797539590  9  8 c   c     c     c          800   60  165 8h 7d
+Borgbug   797539647  9  7 c   br    b     b          905   80   95 8d As
+Borgbug   797539718  9  6 f   -     -     -          920    0    0 
+Borgbug   797539770  9  5 c   c     c     f          920   40    0 
+Borgbug   797539832  9  4 c   b     k     f          880   20    0 
+Borgbug   797539891 10  3 c   k     kf    -          860   10    0 
+Borgbug   797540092  8  1 Bk  kc    kc    kf         850   40    0 
+Borgbug   797540196  9  1 Bc  b     bc    kc         810   80    0 Jd 9d
+Borgbug   797540271  9  9 f   -     -     -          730    0    0 
+Borgbug   797540322  7  7 r   r     b     c          730   90    0 Tc Ts
+Borgbug   797540402  8  7 c   c     f     -          640   20    0 
+Borgbug   797540483  8  5 c   f     -     -          620   10    0 
+Borgbug   797540548  8  4 c   kc    kc    kc         610   60    0 Qc 8h
+Borgbug   797540647  9  3 f   -     -     -          550    0    0 
+Borgbug   797540716  8  2 Bk  br    brc   bc         550  160    0 Qc 3d
+Borgbug   797540844  8  1 Bc  kc    kf    -          390   30    0 
+Borgbug   797540967  9  9 r   r     rr    k          360  150    0 5h 5d
+Borgbug   797541074  8  7 f   -     -     -          210    0    0 
+Borgbug   797541155  9  6 c   k     k     k          210   10    0 2c Jh
+Borgbug   797541232  8  4 c   bc    kcc   k          200   70    0 Qc 2c
+Borgbug   797541414  8  3 cc  kf    -     -          130   20    0 
+Borgbug   797541495  8  2 Bc  kc    kc    kf         110   50    0 
+Borgbug   797541615  9  1 Bf  -     -     -           60    5    0 
+Borgbug   797541720  8  8 c   b     c     cA          55   55    0 3h 2s
+Borgbug   797549292  9  4 cf  -     -     -         1000   10    0 
+Borgbug   797549379  9  3 cc  cc    kf    -          990   40    0 
+Borgbug   797549482  9  3 c   kr    -     -          950   30   90 
+Borgbug   797549561  9  2 Bk  kc    f     -         1010   20    0 
+Borgbug   797549701 10  1 Bf  -     -     -          990    5    0 
+Borgbug   797549766 10 10 c   r     b     k          985   50    0 2h Jd
+Borgbug   797549834 10  9 c   k     c     c          935   50   70 Kc 5h
+Borgbug   797549985  6  5 c   b     b     r          955   80  200 Kh Kd
+Borgbug   797550045  7  5 f   -     -     -         1075    0    0 
+Borgbug   797550111  6  3 c   b     b     b         1075   60  135 
+Borgbug   797550172  6  2 Bk  br    b     b         1150   80  165 Tc 9s
+Borgbug   797550240  6  1 Bc  f     -     -         1235   20    0 
+Borgbug   797550266  7  7 c   r     b     br        1215  120    0 Jh Td
+Borgbug   797550338  7  6 c   k     k     f         1095   10    0 
+Borgbug   797550423  7  5 r   b     -     -         1085   30   75 
+Borgbug   797550450  7  4 r   c     c     r         1130   90  205 Tc 7c
+Borgbug   797550487  7  3 c   c     f     -         1245   20    0 
+Borgbug   797550544  7  2 Bk  k     k     k         1225   10   25 Ts 7s
+Borgbug   797550600  6  1 Bc  b     br    b         1240  100  200 Ks 8s
+Borgbug   797550657  6  6 c   b     c     c         1340   70   77 Ah Kd
+Borgbug   797550700  6  5 f   -     -     -         1347    0    0 
+Borgbug   797550739  7  5 c   b     bc    kc        1347   80    0 6c 7c
+Borgbug   797550805  7  4 c   c     f     -         1267   30    0 
+Borgbug   797550866  7  3 cc  kc    f     -         1237   30    0 
+Borgbug   797550941  7  2 Bk  k     b     kc        1207   50  105 Jc 8c
+Borgbug   797551009  7  1 Bc  kc    kc    f         1262   40    0 
+Borgbug   797551071  7  7 c   b     -     -         1222   20   50 
+Borgbug   797551147  8  7 f   -     -     -         1252    0    0 
+Borgbug   797551213  8  6 c   c     c     k         1252   40    0 Qh 7c
+Borgbug   797551268  8  5 c   r     k     f         1212   30    0 
+Borgbug   797551353 10  4 c   k     f     -         1182   10    0 
+Borgbug   797551420 10  3 cc  kf    -     -         1172   20    0 
+Borgbug   797551472 10  2 Bc  b     b     b         1152   70  265 7d 9d
+Borgbug   797551556  9  1 Bc  k     kf    -         1347   10    0 
+Borgbug   797551642 10 10 c   b     -     -         1337   20   50 
+Borgbug   797551713 10  9 r   c     c     c         1367   70  215 Qh Ad
+Borgbug   797551779 10  9 r   b     k     c         1512   50    0 4s 4h
+Borgbug   797551860 10  7 c   c     c     c         1462   60    0 Jc Ah
+Borgbug   797551959  9  6 c   cc    kc    k         1402   60  225 Js 6h
+Borgbug   797552045 11  6 cc  kc    kc    kc        1567   70    0 7s Tc
+Borgbug   797552127 10  4 r   b     b     -         1497   50  115 
+Borgbug   797552217  9  3 c   b     cc    f         1562   60    0 
+Borgbug   797552311  9  2 Bk  b     kc    kf        1502   40    0 
+Borgbug   797552386  8  1 Bc  kf    -     -         1462   10    0 
+Borgbug   797552484  9  9 c   bc    c     c         1452   70    0 Th Ac
+Borgbug   797552605  9  8 c   k     c     f         1382   30    0 
+Borgbug   797552725 10  8 cc  f     -     -         1352   40    0 
+Borgbug   797552786 10  7 cc  c     c     k         1312   50  150 Ah 5d
+Borgbug   797552862  9  6 cc  c     c     c         1412  100    0 6d Ts
+Borgbug   797552972  9  5 c   kc    b     k         1312   40    0 8h Ts
+Borgbug   797553064  8  4 c   b     -     -         1272   20   31 Kc 7c
+Borgbug   797553098  6  1 Bk  k     k     k         1283   10    0 9h 2s
+Borgbug   797553163  6  1 Bc  kc    kf    -         1273   30    0 
+Borgbug   797553213  5  5 c   c     c     c         1243   60  130 Kc 8d
+Borgbug   797553255  5  5 c   c     f     -         1313   20    0 
+Borgbug   797553304  6  5 cc  rc    b     b         1293   90  230 8d 6h
+Borgbug   797553374  7  5 cc  kf    -     -         1433   20    0 
+Borgbug   797553450  8  5 c   c     b     b         1413   70  180 Qh 4s
+Borgbug   797553528  8  4 cc  cc    b     k         1523   80  315 Kh As
+Borgbug   797553605  8  3 r   b     b     k         1758   50    0 Kd Jd
+Borgbug   797553668  7  2 Bk  k     kf    -         1708   10    0 
+Borgbug   797553723  7  1 Bc  bc    k     k         1698   40  110 8d Jd
+Borgbug   797553797  7  7 c   b     -     -         1768   20   35 
+Borgbug   797553831  7  6 cc  f     -     -         1783   40    0 
+Borgbug   797553920  8  5 c   c     c     f         1743   50    0 
+Borgbug   797553996  8  4 f   -     -     -         1693    0    0 
+Borgbug   797554120  7  3 cc  c     f     -         1693   30    0 
+Borgbug   797554174  9  2 Bc  bc    k     k         1663   40  125 8s 5d
+Borgbug   797554280 10  1 Bc  bc    bc    kcc       1748  150    0 Tc Jd
+Borgbug   797554379  9  9 c   c     c     c         1598   70  205 3c Ac
+Borgbug   797554488 11  9 cc  c     b     b         1733   90  395 4s 9h
+Borgbug   797554684  8  5 cc  c     f     -         2038   30    0 
+Borgbug   797554772  9  4 cc  kc    bc    k         2008   90  285 Kd 4c
+Borgbug   797554892  7  3 c   kc    f     -         2203   20    0 
+Borgbug   797554993 10  3 c   b     br    bc        2183  120  265 3c 2c
+Borgbug   797555090  9  1 Bk  kc    kc    kc        2328   60  170 4c Ks
+Borgbug   797555175 10  1 Bc  krc   br    br        2438  200  550 4h 7h
+Borgbug   797555238 11 11 c   k     r     -         2788   50  140 
+Borgbug   797555305 11 10 c   c     f     -         2878   20    0 
+Borgbug   797555359 11  9 cc  r     k     k         2858   60  285 Kc 5c
+Borgbug   797555488 12  9 cc  c     c     c         3083   90    0 7c Kc
+Borgbug   797555580 11  8 c   cc    cf    -         2993   70    0 
+Borgbug   797555677 10  5 c   b     k     k         2923   30    0 3c 8h
+Borgbug   797555788 10  5 cc  kc    kc    kc        2893   70    0 4d Kc
+Borgbug   797555868  9  4 cc  k     k     k         2823   30    0 Qs Ts
+Borgbug   797555923  9  2 B   -     -     -         2793   10   15 
+Borgbug   797555943 10  1 Bc  kc    kc    kf        2798   50    0 
+Borgbug   797556087 10 10 c   c     f     -         2748   20    0 
+Borgbug   797556171 10  9 c   c     f     -         2728   20    0 
+Borgbug   797556234 11  9 cf  -     -     -         2708   10    0 
+Borgbug   797556289 11  7 cc  f     -     -         2698   20    0 
+Borgbug   797556344 12  7 cc  rc    c     c         2678   90    0 4h 8h
+Borgbug   797556457 12  6 c   c     c     k         2588   40    0 4h Td
+Borgbug   797556557 12  5 ccc cc    f     -         2548   60    0 
+Borgbug   797556702 12  4 Q   -     -     -         2488    0    0 
+Borgbug   797559051  7  2 Bc  kc    b     b         2488   70  140 
+Borgbug   797559121  6  1 Bc  b     b     b         2558   60  130 
+Borgbug   797559168  6  6 c   c     c     c         2628   70    0 4c Kh
+Borgbug   797559224  5  4 c   b     -     -         2558   20   40 
+Borgbug   797559308  6  5 cc  cc    c     f         2578  110    0 
+Borgbug   797559400  7  5 c   r     kc    k         2468   80    0 2h 3d
+Borgbug   797559456  7  4 c   rr    c     c         2388   90  195 8h 9c
+Borgbug   797559513  7  3 c   kc    kf    -         2493   20    0 
+Borgbug   797559583  7  2 Brc c     c     f         2473   70    0 
+Borgbug   797559637  6  1 Bcc kc    kc    kr        2403   90  230 2d Ad
+Borgbug   797559744  5  5 c   k     f     -         2543   30    0 
+Borgbug   797559818  5  4 c   b     -     -         2513   20   35 
+Borgbug   797559838  5  3 cc  c     f     -         2528   30    0 
+Borgbug   797559889  5  2 Bk  kf    -     -         2498   10    0 
+Borgbug   797559935  4  1 Bc  b     b     brc       2488  130    0 Qs Ah
+Borgbug   797559988  6  6 c   k     f     -         2358   10    0 
+Borgbug   797560049  6  5 c   f     -     -         2348   10    0 
+Borgbug   797560113  6  4 c   r     -     -         2338   30   70 
+Borgbug   797560150  4  1 Bc  f     -     -         2378   20    0 
+Borgbug   797560181  5  1 Bc  -     -     -         2358   10   20 
+Borgbug   797560209  5  5 c   k     f     -         2368   10    0 
+Borgbug   797560261  5  2 Bc  k     c     f         2358   40    0 
+Borgbug   797560316  5  1 Bc  -     -     -         2318   10   20 
+Borgbug   797560342  5  5 c   -     -     -         2328   10   30 
+Borgbug   797560403  4  4 r   c     c     c         2348   70    0 3c 3h
+Borgbug   797560455  4  2 Bk  b     b     -         2278   40   65 
+Borgbug   797560501  5  1 Bc  -     -     -         2303   10   20 
+Borgbug   797560520  5  5 c   c     c     c         2313   70    0 Ah 8d
+Borgbug   797560579  7  5 cc  b     kc    kc        2243   70    0 2c Ad
+Borgbug   797560671  5  2 Bc  kf    -     -         2173   20    0 
+Borgbug   797560715  6  1 Bc  k     -     -         2153   20   50 
+Borgbug   797560748  5  5 cc  c     c     c         2183   70    0 7s 5s
+Borgbug   797560798  4  4 c   k     r     k         2113   50    0 2c Ac
+Borgbug   797560844  6  5 cc  f     -     -         2063   20    0 
+Borgbug   797560894  6  3 c   k     f     -         2043   10    0 
+Borgbug   797560939  6  2 B   -     -     -         2033   10   15 
+Borgbug   797560963  6  1 Bc  b     -     -         2038   20   30 
+Borgbug   797560991  5  5 c   -     -     -         2048   10   25 
+Borgbug   797561017  6  5 c   k     b     -         2063   30   65 
+Borgbug   797561056  7  5 c   f     -     -         2098   10    0 
+Borgbug   797561128  6  4 c   c     k     f         2088   20    0 
+Borgbug   797561174  6  3 c   kc    kf    -         2068   20    0 
+Borgbug   797561228  6  2 Bc  kc    kf    -         2048   30    0 
+Borgbug   797561329  6  1 Bc  k     kf    -         2018   20    0 
+Borgbug   797561403  7  6 c   -     -     -         1998   10   20 
+Borgbug   797561434  7  5 c   c     f     -         2008   20    0 
+Borgbug   797561470  7  4 c   c     k     f         1988   20    0 
+Borgbug   797561531  8  3 c   k     c     c         1968   50    0 4d 5c
+Borgbug   797561602  8  2 Brr b     b     -         1918   80  145 
+Borgbug   797561658  6  1 Bc  kc    k     kf        1983   30    0 
+Borgbug   797561731 10 10 c   c     c     f         1953   50    0 
+Borgbug   797561818  8  7 c   k     k     f         1903   10    0 
+Borgbug   797561894  9  8 cc  k     k     f         1893   20    0 
+Borgbug   797561991  9  7 cc  f     -     -         1873   20    0 
+Borgbug   797562130 10  6 c   cc    f     -         1853   50    0 
+Borgbug   797562186  9  4 fQ  -     -     -         1803    0    0 
+Borgbug   797563451 10  3 cc  f     -     -         1803   20    0 
+Borgbug   797563561  9  2 Bk  k     k     f         1783   10    0 
+Borgbug   797563615 10  1 Bc  b     b     kc        1773   60  160 7s 9s
+Borgbug   797563693 10 10 c   c     f     Q         1873   20    0 
+Borgbug   797615831  5  3 c   b     b     bc        1853   80    0 Ah Kd
+Borgbug   797615892  6  2 Bc  kf    -     -         1773   20    0 
+Borgbug   797615933  6  1 Bc  b     b     kc        1753   60  250 8h 8s
+Borgbug   797616004  6  6 cc  r     f     -         1943   40    0 
+Borgbug   797616057  7  6 c   c     c     c         1903   60    0 4c 3d
+Borgbug   797616124  6  4 c   r     b     rrrrr     1843  260    0 Ah 4c
+Borgbug   797616225  6  3 f   -     -     -         1583    0    0 
+Borgbug   797616298  6  2 Bcr kc    bc    kc        1583  130    0 Jd Js
+Borgbug   797616418  6  1 Bc  kc    kf    -         1453   20    0 
+Borgbug   797616467  7  7 cc  f     -     -         1433   20    0 
+Borgbug   797616515  7  6 c   c     c     k         1413   60    0 5h 4h
+Borgbug   797616574  7  5 c   b     -     -         1353   20   45 
+Borgbug   797616621  7  4 rr  c     f     -         1378   50    0 
+Borgbug   797616681  8  3 c   k     k     f         1328   10    0 
+Borgbug   797616814  6  2 Bcc f     -     -         1318   40    0 
+Borgbug   797616885  6  1 Bc  b     -     -         1278   20   30 
+Borgbug   797616921  6  6 c   b     b     -         1288   40   75 
+Borgbug   797616959  6  5 c   c     c     b         1323   60  120 
+Borgbug   797617032  7  4 cc  bc    kf    -         1383   40    0 
+Borgbug   797617094  7  3 crc r     b     b         1343  100  295 Th Kh
+Borgbug   797617160  7  2 Bk  bc    k     kc        1538   50    0 6c 9s
+Borgbug   797617224  8  1 Bc  kf    -     -         1488   10    0 
+Borgbug   797617304  8  8 cc  cf    -     -         1478   40    0 
+Borgbug   797617428  8  7 f   -     -     -         1438    0    0 
+Borgbug   797617503  8  6 c   c     f     -         1438   20    0 
+Borgbug   797617574  8  5 c   b     b     b         1418   60  150 
+Borgbug   797617636  7  3 cc  b     b     brrrrrc   1508  290  330 Kd 7d
+Borgbug   797617729  7  2 Bc  k     k     kf        1548   20    0 
+Borgbug   797617790  8  1 Bc  b     bc    k         1528   90    0 6s 9h
+Borgbug   797617861  7  7 c   k     b     f         1438   30    0 
+Borgbug   797617945  8  7 c   k     kf    -         1408   10    0 
+Borgbug   797617992  8  6 c   b     rr    b         1398  130  385 6h 5h
+Borgbug   797618139  7  5 cc  c     c     f         1653   50    0 
+Borgbug   797618199  8  4 cc  r     b     b         1603   80  185 
+Borgbug   797618254  8  3 c   f     -     -         1708   10    0 
+Borgbug   797618303  9  2 Bk  kf    -     -         1698   10    0 
+Borgbug   797618382 10  1 Bc  b     bc    kc        1688   80    0 Td 5s
+Borgbug   797618471  9  9 c   b     b     -         1608   50  175 
+Borgbug   797618532  8  7 r   b     b     b         1733   70  200 
+Borgbug   797618614  9  7 c   k     k     f         1863   10    0 
+Borgbug   797618670 10  6 c   cc    kf    -         1853   30    0 
+Borgbug   797618764 11  6 c   kc    kc    k         1823   40    0 Ts 7d
+Borgbug   797618876 12  6 c   b     b     k         1783   40  110 5d Ks
+Borgbug   797618934 11  4 c   rc    cc    kf        1853   90    0 
+Borgbug   797619009 12  3 cc  c     c     f         1763   50    0 
+Borgbug   797619077 12  2 Bk  c     c     f         1713   40    0 
+Borgbug   797619191 12  1 Bc  br    b     b         1673   80  170 
+Borgbug   797619295 12 12 c   f     -     -         1763   10    0 
+Borgbug   797619416 12 11 c   c     k     f         1753   20    0 
+Borgbug   797619481 12 10 c   f     -     -         1733   10    0 
+Borgbug   797619599 11  8 c   b     b     b         1723   60  175 
+Borgbug   797619702 11  7 c   k     b     kf        1838   30    0 
+Borgbug   797619840 12  6 c   br    b     b         1808   80    0 9h Jd
+Borgbug   797619894 12  5 c   kc    kf    -         1728   20    0 
+Borgbug   797619965 12  4 c   kc    kc    f         1708   40    0 
+Borgbug   797620092 12  3 c   b     b     b         1668   60  150 3h Ad
+Borgbug   797620152 12  2 Bk  b     k     kc        1758   40    0 As 4d
+Borgbug   797620285  9  1 Bc  k     bf    -         1718   30    0 
+Borgbug   797620388 11  9 c   c     k     f         1688   40    0 
+Borgbug   797620452 12  8 c   f     -     -         1648   10    0 
+Borgbug   797620564 12  7 c   b     b     b         1638   60    0 4c As
+Borgbug   797620676 12  6 c   k     c     f         1578   30    0 
+Borgbug   797620756 11  4 c   c     c     f         1548   40    0 
+Borgbug   797620830 11  4 c   cf    -     -         1508   20    0 
+Borgbug   797620938 12  3 c   b     b     b         1488   60  160 7s 3s
+Borgbug   797621020 12  2 Bk  br    kf    -         1588   50    0 
+Borgbug   797621138 12  1 Bc  bc    b     k         1538   70    0 9d Qd
+Borgbug   797621285 12 12 c   k     k     f         1468   10    0 
+Borgbug   797621379 12 11 c   cc    k     f         1458   30    0 
+Borgbug   797621497 12 10 c   rc    f     -         1428   50    0 
+Borgbug   797621621 12  9 cc  f     -     -         1378   20    0 
+Borgbug   797621744 11  7 c   k     f     -         1358   10    0 
+Borgbug   797621807 12  7 c   k     f     -         1348   20    0 
+Borgbug   797621891 12  6 cc  br    -     -         1328   50  190 
+Borgbug   797622050 10  4 cc  kc    k     f         1468   40    0 
+Borgbug   797622153 11  4 cc  bc    kf    -         1428   40    0 
+Borgbug   797622294 11  3 c   bc    bc    kf        1388   70    0 
+Borgbug   797622489 11  2 Bk  kf    -     -         1318   10    0 
+Borgbug   797622537 11  1 Bc  kf    -     -         1308   10    0 
+Borgbug   797622626 10 10 c   f     -     -         1298   10    0 
+Borgbug   797622743 10  9 c   c     k     k         1288   20    0 2d Qh
+Borgbug   797622899 10  7 ccQ -     -     -         1268   20    0 
+Borgbug   797624321  9  7 c   f     -     -         1248   10    0 
+Borgbug   797624403  9  6 c   c     f     -         1238   20    0 
+Borgbug   797624524  9  5 c   k     kf    -         1218   10    0 
+Borgbug   797624607 12  4 ccc f     -     -         1208   40    0 
+Borgbug   797624822 11  3 cc  c     f     -         1168   30    0 
+Borgbug   797624954 11  2 Bk  r     rc    f         1138   90    0 
+Borgbug   797625030 11  1 Bcc kcf   -     -         1048   40    0 
+Borgbug   797625182 11 11 c   c     rc    rc        1008  160  455 Ac 7c
+Borgbug   797625349 12 11 cc  c     kc    f         1303   50    0 
+Borgbug   797625475 12 10 c   r     r     k         1253   80  425 Qs 8d
+Borgbug   797625671 10  8 c   r     c     f         1598   70    0 
+Borgbug   797625813 12  8 c   c     f     -         1528   30    0 
+Borgbug   797625919 12  8 cc  f     -     -         1498   30    0 
+Borgbug   797626075 10  5 cc  b     b     b         1468   80  250 
+Borgbug   797626168 12  4 cc  kf    -     -         1638   30    0 
+Borgbug   797626295 12  3 cc  kf    -     -         1608   20    0 
+Borgbug   797626375 12  2 Bk  r     b     b         1588   70    0 6h Qc
+Borgbug   797626442 12  1 Bc  kc    kc    kc        1518   90  380 Ts 7h
+Borgbug   797626556 12 12 cc  c     r     k         1808   90  375 4d 8s
+Borgbug   797626692 12 11 c   kc    k     k         2093   20    0 4h 9h
+Borgbug   797626817 11  9 rc  c     c     c         2073   90  340 9h Th
+Borgbug   797626945 11  8 c   c     f     -         2323   30    0 
+Borgbug   797627044 12  8 f   -     -     -         2293    0    0 
+Borgbug   797627103 12  7 c   r     b     k         2293   60  225 Ah 6h
+Borgbug   797627189 12  6 cc  f     -     -         2458   30    0 
+Borgbug   797627254 12  5 c   br    b     b         2428   90  325 7c 4d
+Borgbug   797627376 12  4 cf  -     -     -         2663   10    0 
+Borgbug   797627545 12  3 c   bc    bc    kc        2653  100    0 Kh Kd
+Borgbug   797627734 12  2 Bcc bc    kc    kc        2553  130    0 7s 9s
+Borgbug   797627952 10  1 Bc  b     b     k         2423   40  170 6d 9c
+Borgbug   797628038 10 10 cc  c     c     rc        2553  110    0 8d 4s
+Borgbug   797628111 10  9 c   b     -     -         2443   20   65 
+Borgbug   797628161 10  8 c   rc    cc    cc        2488  220  386 8c Ks
+Borgbug   797628339  8  5 c   c     f     -         2654   30    0 
+Borgbug   797628413  8  4 c   c     c     f         2624   50    0 
+Borgbug   797628448  8  3 ccc brc   k     k         2574   80    0 2h Kc
+Borgbug   797628548  9  2 Bk  kr    b     b         2494   70  135 
+Borgbug   797628614  8  1 Bc  b     k     b         2559   60    0 Qc 3c
+Borgbug   797628694  8  8 c   k     f     -         2499   10    0 
+Borgbug   797628785  7  6 cc  k     k     b         2489   40  120 2s 6d
+Borgbug   797628851  8  6 c   br    c     c         2569   80    0 6d Kd
+Borgbug   797628920  9  6 cc  cc    br    br        2489  160  253 Th 3s
+Borgbug   797629020 10  6 cc  kc    kc    kf        2582   60    0 
+Borgbug   797629106 10  5 c   f     -     -         2522   10    0 
+Borgbug   797629204 10  4 c   b     b     -         2512   40   85 
+Borgbug   797629259  9  2 Bk  kc    k     k         2557   20    0 5s 4h
+Borgbug   797629347  9  1 Bc  kc    b     b         2537   70  200 5c Jd
+Borgbug   797629465  8  8 c   c     f     -         2667   20    0 
+Borgbug   797629522  9  8 cc  rc    b     c         2647  100    0 Jd 8s
+Borgbug   797629635 10  7 cc  cf    -     -         2547   30    0 
+Borgbug   797629760  9  6 c   kc    kc    f         2517   40    0 
+Borgbug   797629867  8  4 c   bc    bc    kf        2477   70    0 
+Borgbug   797629964  8  3 cc  kc    kc    kc        2407   70    0 5h 7d
+Borgbug   797630034  8  2 Bc  bc    b     b         2337   90    0 Qc 5c
+Borgbug   797630152  8  1 Bc  k     k     kc        2247   30    0 3h Qc
+Borgbug   797630221  8  8 c   b     k     rrrc      2217  160    0 Js Th
+Borgbug   797630391  8  7 c   f     -     -         2057   10    0 
+Borgbug   797630520  7  5 cc  kc    k     k         2047   30   85 Tc 2h
+Borgbug   797630607  8  5 c   b     -     -         2102   20   40 
+Borgbug   797630655  8  4 c   cc    kf    -         2122   30    0 
+Borgbug   797630772  9  3 c   k     kc    kf        2092   30    0 
+Borgbug   797630866  7  1 Bk  bc    kf    -         2062   30    0 
+Borgbug   797630960  6  1 Bc  kc    k     kc        2032   40    0 6c Kd
+Borgbug   797631030  6  6 cc  b     k     f         1992   30    0 
+Borgbug   797631068  6  5 c   b     b     k         1962   40    0 Tc 4h
+Borgbug   797631145  6  4 fQ  -     -     -         1922    0    0 
+Borgbug   797631300  9  4 cc  kf    -     -         1922   20    0 
+Borgbug   797631385 10  3 c   c     f     -         1902   20    0 
+Borgbug   797631452 10  2 Bk  f     -     -         1882   10    0 
+Borgbug   797631552 10  1 Bcc b     b     k         1872   50  120 8d Th
+Borgbug   797631741 10  9 c   k     b     b         1942   60  130 Qd 4d
+Borgbug   797631819 11  9 c   b     f     -         2012   20    0 
+Borgbug   797631909 11  8 c   f     -     -         1992   10    0 
+Borgbug   797632040 10  6 c   f     -     -         1982   10    0 
+Borgbug   797632149 11  6 c   k     c     k         1972   30  120 8s Ah
+Borgbug   797632229 11  5 c   rc    c     f         2062   70    0 
+Borgbug   797632352 11  4 cc  f     -     -         1992   20    0 
+Borgbug   797632442 12  4 cc  b     k     f         1972   30    0 
+Borgbug   797632565 12  3 cc  kc    kfQ   -         1942   40    0 
+Borgbug   797633024 12  6 c   bc    b     b         1902   70  185 Ks Qd
+Borgbug   797633135 12  5 c   kf    -     -         2017   10    0 
+Borgbug   797633245 12  4 r   bc    kc    kc        2007   80    0 Qd Kd
+Borgbug   797633388 12  3 ccc cf    -     -         1927   50    0 
+Borgbug   797633597 10  2 Bk  b     b     br        1877  100  270 8h Qd
+Borgbug   797633724 12  1 Bc  brc   kc    k         2047   80    0 3d Qs
+Borgbug   797633906 12 12 r   r     b     b         1967   90  305 Ac Kh
+Borgbug   797634039 12 11 r   rr    b     k         2182   80    0 8d 8s
+Borgbug   797634157 10  8 cc  f     -     -         2102   40    0 
+Borgbug   797634278 12  7 c   c     b     c         2062   60    0 Jc 8s
+Borgbug   797634342 12  6 cc  r     b     k         2002   70  395 Jc Qs
+Borgbug   797634451 12  5 cc  r     r     k         2327   80  340 5s 9s
+Borgbug   797634560 12  4 cc  k     k     kf        2587   20    0 
+Borgbug   797634675 12  3 cc  cc    kf    -         2567   40    0 
+Borgbug   797634759 12  2 Bk  kc    kf    -         2527   20    0 
+Borgbug   797634855 10  1 Bc  kf    -     -         2507   10    0 
+Borgbug   797634914 10 10 c   c     f     -         2497   40    0 
+Borgbug   797635018 11  9 c   k     b     -         2457   30   65 
+Borgbug   797635094 11  8 c   rc    cc    f         2492   90    0 
+Borgbug   797635267 11  8 c   c     f     -         2402   30    0 
+Borgbug   797635365 12  6 cc  ccc   f     -         2372   60    0 
+Borgbug   797635557 12  5 cc  bc    bc    kf        2312   80    0 
+Borgbug   797635696 12  4 c   f     -     -         2232   20    0 
+Borgbug   797635752 12  3 c   kf    -     -         2212   10    0 
+Borgbug   797635940 11  2 Bk  k     kf    -         2202   10    0 
+Borgbug   797636038 11  1 Bc  bc    kc    k         2192   50    0 Qd 8d
+Borgbug   797636106 11 11 c   r     c     rc        2142  160    0 3c 2c
+Borgbug   797636273 11 10 cc  c     f     -         1982   30    0 
+Borgbug   797636360 11  9 c   cc    kc    kf        1952   50    0 
+Borgbug   797636451 11  8 c   rr    cf    -         1902   70    0 
+Borgbug   797636539  9  5 r   b     b     b         1832   80  305 Ad Ac
+Borgbug   797636635  9  4 cc  br    b     b         2057   90  260 Ad Ts
+Borgbug   797636703  9  3 c   kc    kc    kc        2227   60    0 Qh 2s
+Borgbug   797636802 10  2 Bk  kc    kf    -         2167   20    0 
+Borgbug   797636872  8  1 Bc  kc    b     k         2147   40  160 3s Ad
+Borgbug   797636949  9  9 c   c     f     -         2267   40    0 
+Borgbug   797637019 10  9 f   -     -     -         2227    0    0 
+Borgbug   797637098 11  9 r   rc    c     c         2227  100    0 3h 3s
+Borgbug   797637196 11  9 c   cc    c     c         2127   90    0 9s 5s
+Borgbug   797637303 10  7 cc  c     c     f         2037   70    0 
+Borgbug   797637394 10  6 f   -     -     -         1967    0    0 
+Borgbug   797637475  9  4 cc  cc    c     f         1967   78    0 
+Borgbug   797637652  9  2 c   c     c     c         1889   60    0 8c Ad
+Borgbug   797637799  7  2 Bk  b     b     br        1829  100  205 
+Borgbug   797637876  7  1 Bc  k     kc    kc        1934   50  160 6h Kh
+Borgbug   797638009  9  9 c   k     f     -         2044   10    0 
+Borgbug   797638086  9  8 c   c     c     k         2034   50    0 4d 5d
+Borgbug   797638143 10  8 c   rr    r     kc        1984  120    0 Qs 8c
+Borgbug   797638241 10  7 c   br    b     k         1864   60    0 3s Kc
+Borgbug   797638329 11  7 c   cc    f     -         1804   50    0 
+Borgbug   797638435 12  8 c   cc    kc    kf        1754   50    0 
+Borgbug   797638557 11  6 cc  k     f     -         1704   20    0 
+Borgbug   797638627 10  4 c   bc    bc    br        1684  130  270 9d 2h
+Borgbug   797638707  9  4 c   k     cc    kf        1824   50    0 
+Borgbug   797638810  8  2 Bk  k     bc    kc        1774   70    0 Jd 6d
+Borgbug   797638882 10  1 Bc  b     -     -         1704   20   60 
+Borgbug   797639023  9  9 c   f     -     -         1744   10    0 
+Borgbug   797639126  9  8 crc c     c     f         1734   70    0 
+Borgbug   797639215  8  6 c   b     b     b         1664   60  145 
+Borgbug   797639268  8  5 c   rr    c     k         1749   70    0 As Qs
+Borgbug   797639338  8  4 cc  c     k     f         1679   30    0 
+Borgbug   797639439  8  3 cc  c     f     -         1649   30    0 
+Borgbug   797639488  8  2 Bc  kc    k     kc        1619   50    0 As 5h
+Borgbug   797639591  8  1 Bc  kc    kc    kf        1569   40    0 
+Borgbug   797639681  6  6 c   c     c     c         1529   60    0 6h Kh
+Borgbug   797639736  5  4 cc  k     br    kc        1469  100  215 6s 4d
+Borgbug   797639831  5  3 c   k     f     -         1584   10    0 
+Borgbug   797639878  5  2 Bc  c     cc    f         1574   70    0 
+Borgbug   797639998  7  1 Bcc brc   b     b         1504  100  300 Jh 8d
+Borgbug   797640094  6  3 Q   -     -     -         1704    0    0 
+Borgbug   797665918  6  3 c   k     k     b         1704   30    0 As 2h
+Borgbug   797665995  6  2 Bc  kc    kc    kf        1674   50    0 
+Borgbug   797666043  7  1 Bc  k     b     k         1624   40  130 6s Jd
+Borgbug   797666159  8  8 c   f     -     -         1714   10    0 
+Borgbug   797666272  9  8 c   r     bc    r         1704  120    0 2s Kc
+Borgbug   797666367  8  7 r   b     -     -         1584   30   95 
+Borgbug   797666426  8  6 rr  k     k     k         1649   40  102 As 2s
+Borgbug   797666511  9  5 c   k     r     b         1711   70  180 Qh Qd
+Borgbug   797666580  9  4 c   c     c     c         1821   60    0 Jh 7c
+Borgbug   797666641  9  3 cc  k     kf    -         1761   20    0 
+Borgbug   797666725 10  2 Bcc k     b     bc        1741  100    0 Ad 9c
+Borgbug   797666815 10  1 Bcc kc    kf    -         1641   50    0 
+Borgbug   797666902 10 10 r   b     -     -         1591   30   75 
+Borgbug   797667070 10  9 c   c     c     f         1636   50    0 
+Borgbug   797667122 10  8 cc  b     -     -         1586   30   95 
+Borgbug   797667180 11  8 r   r     r     r         1651  140    0 2h 2d
+Borgbug   797667307 11  7 f   -     -     -         1511    0    0 
+Borgbug   797667400 11  6 c   k     b     k         1511   30   80 8c 2d
+Borgbug   797667499  9  4 cc  cc    c     f         1561   70    0 
+Borgbug   797667597  9  3 c   k     b     b         1491   50    0 2h Jh
+Borgbug   797667679  8  2 Bk  kc    kc    k         1441   40    0 7h 2s
+Borgbug   797667746  9  1 Bc  bc    kc    f         1401   50    0 
+Borgbug   797667826  9  9 cc  f     -     -         1351   20    0 
+Borgbug   797667896  9  8 r   b     b     b         1331   70  185 Kc Ks
+Borgbug   797667954  9  7 c   kc    b     kc        1446   60  145 Jd 2d
+Borgbug   797668013  9  6 ccc rc    c     c         1531  110  360 6s 2d
+Borgbug   797668143 10  6 cc  cc    f     -         1781   80    0 
+Borgbug   797668261  9  5 cc  rr    b     k         1701   80    0 Td 5h
+Borgbug   797668372 10  5 c   b     b     bc        1621   80   98 Js Ks
+Borgbug   797668461 10  4 c   k     k     kf        1639   10    0 
+Borgbug   797668629 10  3 cc  kc    b     kf        1629   50    0 
+Borgbug   797668747 12  2 Bcc c     f     -         1579   50    0 
+Borgbug   797668845 12  1 Bc  kf    -     -         1529   40    0 
+Borgbug   797668972 11 11 cc  c     c     f         1489   70    0 
+Borgbug   797669086 12 11 c   b     b     -         1419   40  100 
+Borgbug   797669166 12 10 cc  k     kc    kf        1479   60    0 
+Borgbug   797669275 11  9 c   c     cc    f         1419  130    0 
+Borgbug   797669462 11  8 cc  k     c     f         1289   50    0 
+Borgbug   797669628 11  6 cc  kc    kc    kf        1239   50    0 
+Borgbug   797669722 12  6 cc  b     -     -         1189   30  105 
+Borgbug   797669800 12  5 rr  rc    brc   brc       1264  240  850 9s 9h
+Borgbug   797669990 12  4 fQ  -     -     -         1874    0    0 
+Borgbug   797701528 10 10 c   k     k     f         1874   10    0 
+Borgbug   797701593 10  9 cc  bc    kr    k         1864   80    0 Js 9d
+Borgbug   797701695 11  8 c   c     c     f         1784   50    0 
+Borgbug   797701755 10  7 c   c     k     k         1734   30    0 2d 8c
+Borgbug   797701851 10  6 c   cc    cc    f         1704  100    0 
+Borgbug   797702005 10  5 cc  kf    -     -         1604   30    0 
+Borgbug   797702132  9  4 ccc f     -     -         1574   40    0 
+Borgbug   797702204 10  3 cc  kf    -     -         1534   20    0 
+Borgbug   797702289 10  2 Bk  b     k     cc        1514   60    0 5s 7c
+Borgbug   797702395 10  1 Bc  k     -     -         1454   10   20 
+Borgbug   797702449  9  9 c   rc    c     f         1464   70    0 
+Borgbug   797702567  8  7 c   k     k     b         1394   30   60 
+Borgbug   797702627  8  6 c   r     b     b         1424   70  145 
+Borgbug   797702683  8  5 c   kf    -     -         1499   10    0 
+Borgbug   797702761  8  4 r   b     b     -         1489   50  110 
+Borgbug   797702827  7  3 cc  k     f     -         1549   20    0 
+Borgbug   797702883  7  2 Bk  b     b     b         1529   60  140 Ts Jh
+Borgbug   797702954  8  1 Bc  kf    -     -         1609   10    0 
+Borgbug   797703040  8  8 c   f     -     -         1599   10    0 
+Borgbug   797703100  8  7 c   k     f     -         1589   20    0 
+Borgbug   797703157  8  6 cc  b     bf    -         1569   50    0 
+Borgbug   797703260  9  6 c   b     bc    br        1519  120    0 3c 2c
+Borgbug   797703348  9  5 c   f     -     -         1399   10    0 
+Borgbug   797703414  9  4 crc bf    -     -         1389   50    0 
+Borgbug   797703517  9  3 cc  b     b     b         1339   70  165 
+Borgbug   797703597  9  2 Bk  k     kc    f         1434   30    0 
+Borgbug   797703704  9  1 Br  b     br    b         1404  110  360 9d 9c
+Borgbug   797703793  9  9 rc  rr    b     b         1654  120  390 Qs Qh
+Borgbug   797703897 10  9 rr  rr    b     b         1924  120    0 5h 5c
+Borgbug   797703986 11  9 c   kc    k     kf        1804   20    0 
+Borgbug   797704147 11  8 c   kf    -     -         1784   10    0 
+Borgbug   797704265 10  7 rr  c     f     -         1774   50    0 
+Borgbug   797704375  9  5 c   f     -     -         1724   20    0 
+Borgbug   797704480 10  4 cc  bc    kf    -         1704   50    0 
+Borgbug   797704591 11  4 c   b     b     k         1654   40  120 
+Borgbug   797704689 12  3 c   r     kc    kc        1734   70    0 6d Ks
+Borgbug   797704790 12  2 B   -     -     -         1664   10   15 
+Borgbug   797704817 11  1 Bc  kf    -     -         1669   20    0 
+Borgbug   797704938 12 12 c   c     c     k         1649   40    0 5d 9h
+Borgbug   797705024 12 11 cc  b     b     r         1609   90  135 Jd 6d
+Borgbug   797705128 12 10 cc  b     b     c         1654   70    0 5h 6h
+Borgbug   797705237 12  9 c   k     k     f         1584   10    0 
+Borgbug   797705386 12  8 c   k     f     -         1574   10    0 
+Borgbug   797705489 12  7 cc  r     bf    -         1564   60    0 
+Borgbug   797705682 11  6 c   kQ    -     -         1504   10    0 
+Borgbug   797708347 12  8 c   b     c     k         1494   50    0 7d 5c
+Borgbug   797708431 11  6 c   kf    -     -         1444   10    0 
+Borgbug   797708549 12  6 cc  f     -     -         1434   20    0 
+Borgbug   797708644 12  5 cc  b     bc    kr        1414  110    0 9h 5s
+Borgbug   797708793 11  3 cc  kc    kf    -         1304   30    0 
+Borgbug   797708851 11  2 Bc  c     kf    -         1274   40    0 
+Borgbug   797709011 12  1 Bc  k     k     k         1234   10    0 5d Qc
+Borgbug   797709171 12 12 f   -     -     -         1224    0    0 
+Borgbug   797709322 12 11 f   -     -     -         1224    0    0 
+Borgbug   797709519 11  9 c   fQ    -     -         1224   20    0 
+Borgbug   797964837  7  2 Bk  kc    k     k         1204   20    0 2h Qh
+Borgbug   797964896  7  1 Bc  k     k     k         1184   20   50 9h 8c
+Borgbug   797964927  7  7 cc  c     f     -         1214   30    0 
+Borgbug   797964995  7  6 r   b     bc    c         1184   90    0 Qh Qc
+Borgbug   797965052  8  5 c   f     -     -         1094   20    0 
+Borgbug   797965125  9  4 c   kc    r     r         1074  100  245 Tc 8c
+Borgbug   797965217  8  2 Bc  c     c     f         1219   70    0 
+Borgbug   797965284  8  1 Bc  kc    k     kf        1149   30    0 
+Borgbug   797965366  9  9 c   f     -     -         1119   20    0 
+Borgbug   797965491  9  8 c   f     -     -         1099   10    0 
+Borgbug   797965545  8  7 c   k     f     -         1089   10    0 
+Borgbug   797965595  7  5 c   c     f     -         1079   20    0 
+Borgbug   797965661  8  5 cc  kr    b     -         1059   60  180 
+Borgbug   797965755 10  5 cc  kcc   ccc   f         1179  150    0 
+Borgbug   797965935 10  4 rc  krr   b     k         1029   90    0 As 8s
+Borgbug   797966023 11  3 c   kcc   f     -          939   50    0 
+Borgbug   797966212 10  2 Bk  kc    kf    -          889   20    0 
+Borgbug   797966434  9  1 Bc  kc    kf    -          869   20    0 
+Borgbug   797966499  9  9 cc  f     -     -          849   20    0 
+Borgbug   797966564 10  9 c   Q     -     -          829   10    0 

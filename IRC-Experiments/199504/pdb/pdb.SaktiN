@@ -1,0 +1,154 @@
+SaktiN    798944035  5  3 f   -     -     -         1000    0    0 
+SaktiN    798944092  5  2 B   -     -     -         1000   10   15 
+SaktiN    798944102  5  1 Bc  k     bf    -         1005   30    0 
+SaktiN    798944151  5  5 f   -     -     -          975    0    0 
+SaktiN    798944205  5  4 f   -     -     -          975    0    0 
+SaktiN    798944286  6  3 f   -     -     -          975    0    0 
+SaktiN    798944305  6  2 Bk  c     c     r          975   80  200 7d 6d
+SaktiN    798944360  6  1 Bc  k     kc    kc        1095   60    0 Th Ts
+SaktiN    798944400  6  6 c   c     rc    k         1035   80  195 Qs 8s
+SaktiN    798944473  6  5 f   -     -     -         1150    0    0 
+SaktiN    798944541  6  4 f   -     -     -         1150    0    0 
+SaktiN    798944618  6  3 c   b     b     -         1150   40   90 
+SaktiN    798944682  6  2 Bk  b     -     -         1200   20   30 
+SaktiN    798944703  6  1 Br  bc    k     b         1210   60  130 As Qs
+SaktiN    798944745  6  6 f   -     -     -         1280    0    0 
+SaktiN    798944784  6  5 f   -     -     -         1280    0    0 
+SaktiN    798944854  6  4 r   -     -     -         1280   20   35 
+SaktiN    798944865  6  3 c   k     b     k         1295   30  105 Ah Th
+SaktiN    798944944  6  2 Bf  -     -     -         1370   10    0 
+SaktiN    798944986  7  1 Bf  -     -     -         1360    5    0 
+SaktiN    798945037  6  6 f   -     -     -         1355    0    0 
+SaktiN    798945082  7  6 r   bc    f     -         1355   40    0 
+SaktiN    798945132  7  5 c   c     k     f         1315   20    0 
+SaktiN    798945179  7  4 f   -     -     -         1295    0    0 
+SaktiN    798945235  7  3 f   -     -     -         1295    0    0 
+SaktiN    798945266  7  2 Bk  k     kf    -         1295   10    0 
+SaktiN    798945345  7  1 Bf  -     -     -         1285    5    0 
+SaktiN    798945397  7  7 f   -     -     -         1280    0    0 
+SaktiN    798945424  7  6 f   -     -     -         1280    0    0 
+SaktiN    798945499  7  5 f   -     -     -         1280    0    0 
+SaktiN    798945534  7  4 c   f     -     -         1280   10    0 
+SaktiN    798945601  6  3 f   -     -     -         1270    0    0 
+SaktiN    798945626  7  2 Bk  f     -     -         1270   10    0 
+SaktiN    798945689  7  1 Br  -     -     -         1260   20   30 
+SaktiN    798945711  7  7 f   -     -     -         1270    0    0 
+SaktiN    798945738  8  7 c   kf    -     -         1270   10    0 
+SaktiN    798945772  9  7 r   b     b     k         1260   50  175 Qh Qc
+SaktiN    798945889  9  6 Q   -     -     -         1385    0    0 
+SaktiN    799008152  2  2 Bk  b     k     b         1385   40   60 
+SaktiN    799008179  2  1 Brr k     kc    k         1405   60  120 Ks Ah
+SaktiN    799008212  2  2 Bk  f     -     -         1465   10    0 
+SaktiN    799008222  2  1 Bc  kf    -     -         1455   10    0 
+SaktiN    799008233  2  2 Bc  f     -     -         1445   20    0 
+SaktiN    799008245  2  1 Bf  -     -     -         1425    5    0 
+SaktiN    799008247  2  2 Br  b     -     -         1420   30   50 
+SaktiN    799008265  2  1 Brc kc    kc    k         1440   60    0 Qh Ks
+SaktiN    799008288  2  2 B   -     -     -         1380   10   15 
+SaktiN    799008297  2  1 Bc  k     k     b         1385   30   40 
+SaktiN    799008312  2  2 Bc  k     r     f         1395   60    0 
+SaktiN    799008337  2  1 Bf  -     -     -         1335    5    0 
+SaktiN    799008339  2  2 Bk  k     r     -         1330   50   80 
+SaktiN    799008368  2  1 Bc  kr    b     b         1360   70  140 8s Js
+SaktiN    799008390  2  2 Bk  b     -     -         1430   20   30 
+SaktiN    799008409  2  1 Bf  -     -     -         1440    5    0 
+SaktiN    799008412  2  2 Br  b     -     -         1435   30   50 
+SaktiN    799008430  3  1 Br  bc    kr    b         1455  100  200 Kd Kc
+SaktiN    799008468  3  3 f   -     -     -         1555    0    0 
+SaktiN    799008481  3  2 Bc  kc    k     bc        1555   70   73 Qc As
+SaktiN    799008512  3  1 Bc  kc    kc    bc        1558   80    0 5h Ad
+SaktiN    799008571  3  3 f   -     -     -         1478    0    0 
+SaktiN    799008619  3  2 Bk  b     k     f         1478   20    0 
+SaktiN    799008671  4  1 Bc  k     b     -         1458   30   50 
+SaktiN    799008700  4  4 f   -     -     -         1478    0    0 
+SaktiN    799008719  4  3 f   -     -     -         1478    0    0 
+SaktiN    799008760  4  2 Bf  -     -     -         1478   10    0 
+SaktiN    799008803  4  1 Bc  kf    -     -         1468   10    0 
+SaktiN    799008842  4  4 r   bc    c     c         1458   80    0 Tc Td
+SaktiN    799008877  4  3 f   -     -     -         1378    0    0 
+SaktiN    799008898  4  2 Bk  b     k     f         1378   20    0 
+SaktiN    799008953  4  1 Br  b     b     kc        1358   70    0 Ts As
+SaktiN    799008991  4  4 r   b     k     c         1288   50  105 5h 5c
+SaktiN    799009029  4  3 c   k     r     b         1343   70  130 
+SaktiN    799009108  3  1 Bf  -     -     -         1403   10    0 
+SaktiN    799009140  3  1 Br  b     -     -         1393   30   50 
+SaktiN    799009173  2  2 Bc  b     k     f         1413   30    0 
+SaktiN    799009199  2  1 Bf  -     -     -         1383    5    0 
+SaktiN    799009202  2  2 Bf  -     -     -         1378   10    0 
+SaktiN    799009208  2  1 Bcc kf    -     -         1368   20    0 
+SaktiN    799009222  2  2 B   -     -     -         1348   10   15 
+SaktiN    799009226  2  1 Bf  -     -     -         1353    5    0 
+SaktiN    799009228  2  2 Br  br    f     -         1348   50    0 
+SaktiN    799009255  3  1 Br  k     b     kc        1298   60    0 Kd 3d
+SaktiN    799009405  3  3 r   -     -     -         1238   20   35 
+SaktiN    799009416  2  1 B   -     -     -         1253   10   10 
+SaktiN    799009428  2  1 Bc  k     b     -         1253   30   40 
+SaktiN    799009448  2  2 Bf  -     -     -         1263   10    0 
+SaktiN    799009455  2  1 Bf  -     -     -         1253    5    0 
+SaktiN    799009458  2  2 Bf  -     -     -         1248   10    0 
+SaktiN    799009465  2  1 Bf  -     -     -         1238    5    0 
+SaktiN    799009468  2  2 Br  -     -     -         1233   20   30 
+SaktiN    799009483  2  1 Bf  -     -     -         1243    5    0 
+SaktiN    799009484  2  2 Br  b     -     -         1238   30   50 
+SaktiN    799009512  2  1 Bf  -     -     -         1258    5    0 
+SaktiN    799009514  2  2 Bc  k     k     k         1253   20   40 6h Ac
+SaktiN    799009536  3  1 Bf  -     -     -         1273    5    0 
+SaktiN    799009542  3  3 f   -     -     -         1268    0    0 
+SaktiN    799009567  3  2 Bk  c     c     c         1268   60   60 Ah 5h
+SaktiN    799009615  3  1 Bf  -     -     -         1268    5    0 
+SaktiN    799009619  3  3 f   -     -     -         1263    0    0 
+SaktiN    799009640  3  2 Bk  k     kf    -         1263   10    0 
+SaktiN    799009695  3  1 Bf  -     -     -         1253    5    0 
+SaktiN    799009725  3  3 r   -     -     -         1248   20   35 
+SaktiN    799009739  3  2 Bk  k     b     -         1263   30   40 
+SaktiN    799009772  3  1 Bcc kc    b     -         1273   50  100 
+SaktiN    799009836  3  3 r   b     b     k         1323   50  110 7s 5s
+SaktiN    799009888  4  2 Br  b     -     -         1383   30   55 
+SaktiN    799009943  6  1 Bc  b     bc    kc        1408   80    0 3s 6s
+SaktiN    799009994  6  6 f   -     -     -         1328    0    0 
+SaktiN    799010043  7  6 r   b     b     b         1328   70  135 
+SaktiN    799010142  7  5 r   c     k     k         1393   30    0 7c Tc
+SaktiN    799010227  8  5 f   -     -     -         1363    0    0 
+SaktiN    799010284  8  4 rc  k     f     -         1363   30    0 
+SaktiN    799010396  9  4 fQ  -     -     -         1333    0    0 
+SaktiN    799021765  9  9 f   -     -     -         1333    0    0 
+SaktiN    799021830 10  8 f   -     -     -         1333    0    0 
+SaktiN    799021916 10  7 f   -     -     -         1333    0    0 
+SaktiN    799021986 10  5 c   bc    kc    kc        1333   70    0 Ks Th
+SaktiN    799022046 10  4 c   kf    -     -         1263   10    0 
+SaktiN    799022140  9  3 f   -     -     -         1253    0    0 
+SaktiN    799022216 11  2 Bf  -     -     -         1253   10    0 
+SaktiN    799022279 11  1 Br  b     -     -         1243   50  250 
+SaktiN    799022343 11 11 c   c     c     r         1443   90  205 Ks Jc
+SaktiN    799022412 11 10 f   -     -     -         1558    0    0 
+SaktiN    799022486 11  9 r   c     f     -         1558   30    0 
+SaktiN    799022562 11  8 f   -     -     -         1528    0    0 
+SaktiN    799022696 11  7 f   -     -     -         1528    0    0 
+SaktiN    799022767 12  6 f   -     -     -         1528    0    0 
+SaktiN    799022916 12  5 f   -     -     -         1528    0    0 
+SaktiN    799022979 12  4 f   -     -     -         1528    0    0 
+SaktiN    799023030 12  3 r   b     k     k         1528   30    0 Ks Qd
+SaktiN    799023085 12  2 Bc  bc    bc    kc        1498  100  123 Kh Td
+SaktiN    799023153 11  1 Br  k     b     kc        1521   60    0 Tc Td
+SaktiN    799023272 11 11 f   -     -     -         1461    0    0 
+SaktiN    799023360 11 10 r   b     b     k         1461   50    0 Kd Tc
+SaktiN    799023425 11  9 f   -     -     -         1411    0    0 
+SaktiN    799023548 11  8 rr  c     c     k         1411   80    0 2s 4c
+SaktiN    799023589 10  6 f   -     -     -         1331    0    0 
+SaktiN    799023641 10  5 f   -     -     -         1331    0    0 
+SaktiN    799023720  9  3 r   rc    f     -         1331   50    0 
+SaktiN    799023821  9  2 Bk  k     kr    kc        1281   70    0 5s 8d
+SaktiN    799023890  9  1 Bf  Q     -     -         1211    5    0 
+SaktiN    799100444  5  5 r   f     -     -         1206   20    0 
+SaktiN    799100527  6  4 r   b     bf    -         1186   50    0 
+SaktiN    799100568  6  3 r   b     b     k         1136   50    0 5s Qs
+SaktiN    799100600  6  2 Bk  rc    kf    -         1086   40    0 
+SaktiN    799100694  7  1 Bf  -     -     -         1046    5    0 
+SaktiN    799100736  7  7 r   b     r     cf        1041   90    0 
+SaktiN    799100839  8  7 r   b     b     -          951   50  110 
+SaktiN    799100910  7  5 r   b     br    k         1011   90  290 Td Tc
+SaktiN    799101047  8  6 r   br    b     b         1211   90  215 Kd Kc
+SaktiN    799101139  7  4 r   b     b     -         1336   50  105 
+SaktiN    799101201  8  4 r   b     b     k         1391   50    0 4c 6s
+SaktiN    799101268  7  2 Brc br    br    bc        1341  170    0 8h 8s
+SaktiN    799101404  8  1 Br  b     b     Q         1171   50    0 

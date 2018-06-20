@@ -1,0 +1,535 @@
+brando    797215742 10  4 c   kc    kr    k         1000   60    0 Qs 4d
+brando    797215834 11  3 cc  br    b     b          940   90    0 Tc Ks
+brando    797215898 12  2 Bk  kc    kc    br         850  100  230 6s Ah
+brando    797215962 12  1 Bf  -     -     -          980    5    0 
+brando    797216060 11 11 c   k     r     b          975   70  190 
+brando    797216151 12 11 c   c     c     c         1095   70    0 8s 5s
+brando    797216234 11  9 r   b     b     b         1025   70  170 
+brando    797216326 12 10 f   -     -     -         1125    0    0 
+brando    797216383 11  8 f   -     -     -         1125    0    0 
+brando    797216439 11  7 f   -     -     -         1125    0    0 
+brando    797216476 11  6 c   b     -     -         1125   20   35 
+brando    797216521 10  4 cc  f     -     -         1140   20    0 
+brando    797216672  9  3 KQ  -     -     -         1120    0    0 
+brando    797220493 11 10 c   c     c     k         1120   50    0 Ac 7c
+brando    797220576 10  8 c   f     -     -         1070   10    0 
+brando    797220745  9  6 cc  krc   b     k         1060   80  275 5h 4h
+brando    797220841  9  5 f   -     -     -         1255    0    0 
+brando    797220937 10  5 f   -     -     -         1255    0    0 
+brando    797221004 10  3 c   b     b     b         1255   60    0 7d 8h
+brando    797221083 10  2 Bk  kf    -     -         1195   10    0 
+brando    797221147  9  1 Bf  -     -     -         1185    5    0 
+brando    797221229 10 10 c   b     rc    r         1180  130    0 8h 2h
+brando    797221412  8  7 c   k     rc    f         1050   80    0 
+brando    797221631  8  7 c   kc    brrc  rrrrrrrrrrrrrrrrrrrrrA    970  970    0 Qs 8s
+brando    797222157  8  6 cc  kc    bc    kr        1000  110    0 4s As
+brando    797222269 10  6 cc  k     k     b          890   40  105 Qd 5c
+brando    797222337 11  5 cc  k     kf    -          955   40    0 
+brando    797222481 12  4 c   cf    -     -          915   30    0 
+brando    797222565 12  3 cc  b     b     b          885   70    0 5c Jc
+brando    797222666 12  2 Bcc kc    kf    -          815   50    0 
+brando    797222832 12  1 Bc  brc   kr    b          765  110  290 Qc Ks
+brando    797222965 12 12 cc  c     cc    k          945  100    0 3d Qh
+brando    797223124 12 11 cc  kc    kf    -          845   30    0 
+brando    797223241 12 10 c   r     r     f          815   70    0 
+brando    797223393 10  9 c   c     b     b          745   60  145 
+brando    797223464  9  7 c   c     rr    b          830  130    0 Qc Jh
+brando    797223546  9  7 f   -     -     -          700    0    0 
+brando    797223703 10  7 cc  b     k     r          700   70  250 8h 2h
+brando    797223851  9  4 cc  kc    kcc   krc        880  160  585 9d Ks
+brando    797224020  9  3 cc  kc    kc    b         1305   70  245 
+brando    797224110 10  2 Bf  -     -     -         1480   10    0 
+brando    797224208 12  1 Bc  kf    -     -         1470   20    0 
+brando    797224283 12 12 c   b     r     b         1450   80  190 
+brando    797224374 11 10 c   b     b     b         1560   60  150 
+brando    797224477 11  9 f   -     -     -         1650    0    0 
+brando    797224575 11  8 cc  k     k     f         1650   30    0 
+brando    797224650 11  7 f   -     -     -         1620    0    0 
+brando    797224724 11  6 c   brc   c     k         1620   70    0 8c Tc
+brando    797224804 10  4 f   -     -     -         1550    0    0 
+brando    797224892 10  3 cc  kc    kc    kf        1550   50    0 
+brando    797224982 10  2 Bk  b     b     b         1500   60    0 5c 9d
+brando    797225109 11  1 Bcc br    b     b         1440  100    0 7s Js
+brando    797225235 11 11 c   c     r     rr        1340  140  420 6d 6s
+brando    797225344 12 11 KQ  -     -     -         1620    0    0 
+brando    797264698  4  4 c   c     f     -         1620   20    0 
+brando    797264743  4  3 cc  k     r     b         1600   80    0 Qc 9d
+brando    797264832  4  2 Bf  -     -     -         1520   10    0 
+brando    797264852  4  1 Bc  b     b     br        1510  110    0 Js Qc
+brando    797264965  4  4 c   r     brc   r         1400  150    0 Ac Ks
+brando    797265074  4  3 f   -     -     -         1250    0    0 
+brando    797265134  4  2 Bk  kc    br    k         1250   80    0 Kh Qd
+brando    797265209  4  1 Bcc k     k     kc        1170   40    0 Ac Kc
+brando    797265295  4  4 c   c     r     k         1130   70  170 6d Ad
+brando    797265334  4  3 c   c     c     c         1230   60    0 7s Kd
+brando    797265379  4  2 Bf  -     -     -         1170   10    0 
+brando    797265400  4  1 Bf  -     -     -         1160    5    0 
+brando    797265412  4  4 c   rc    r     b         1155  110  280 Kc Ks
+brando    797265485  4  3 ccc c     rc    cc        1325  210    0 Js Qd
+brando    797265606  4  2 Bc  f     -     -         1115   20    0 
+brando    797265682  4  1 Bcf -     -     -         1095   10    0 
+brando    797265705  4  4 c   rc    c     c         1085   80    0 9s Ah
+brando    797265786  4  3 f   -     -     -         1005    0    0 
+brando    797265810  4  2 Bk  kf    -     -         1005   10    0 
+brando    797265896  4  1 Bc  kc    kc    kf         995   50    0 
+brando    797265961  4  4 f   -     -     -          945    0    0 
+brando    797266021  4  3 c   b     -     -          945   20   35 
+brando    797266057  4  2 Bc  kc    k     b          960   50  105 Jh 3c
+brando    797266105  4  1 Bf  -     -     -         1015    5    0 
+brando    797266158  4  4 cc  r     b     -         1010   60  160 
+brando    797266225  5  3 r   b     rc    br        1110  150  375 
+brando    797266314  4  2 Bc  kf    -     -         1335   20    0 
+brando    797266340  3  1 Bf  -     -     -         1315    5    0 
+brando    797266393  3  3 KQ  -     -     -         1310    0    0 
+brando    797304696  8  7 cc  c     f     -         1310   30    0 
+brando    797304783  9  8 cc  c     c     f         1280  100    0 
+brando    797304914 10  7 f   -     -     -         1180    0    0 
+brando    797305036 10  5 cc  c     c     c         1180   70    0 Kd 5s
+brando    797305095 10  4 rr  brc   krr   kc        1110  180    0 4d Ac
+brando    797305269  9  2 Bc  kc    krc   brc        930  200  710 6c Kd
+brando    797305401 10  1 Bc  kf    -     -         1440   20    0 
+brando    797305491  9  9 f   -     -     -         1420    0    0 
+brando    797305549 10  9 c   k     r     rc        1420  110    0 8c 6h
+brando    797305650  6  5 c   r     b     -         1310   50  115 
+brando    797305694  8  6 rc  rc    rc    rc        1375  240    0 9h 9c
+brando    797305780  8  5 cc  c     c     r         1135   90  240 
+brando    797305842  5  3 c   k     k     k         1285   10   15 Kc 4s
+brando    797305924  8  3 cc  kf    -     -         1290   20    0 
+brando    797306046  8  2 Bf  -     -     -         1270   10    0 
+brando    797306152  8  1 Bc  kc    brc   kc        1260  140    0 8d 7h
+brando    797306263  7  7 f   -     -     -         1120    0    0 
+brando    797306313  7  6 c   rrrrrrrc rrrrrrrrrrrrr -         1120  690 1413 6d Kd
+brando    797306488  5  3 c   k     b     -         1843   30   70 
+brando    797306557  5  2 Bk  b     b     -         1883   40   65 
+brando    797306586  5  1 Bf  -     -     -         1908    5    0 
+brando    797306597  5  5 c   r     b     b         1903   80  195 4d 4h
+brando    797306652  5  4 cc  k     kf    -         2018   20    0 
+brando    797306694  5  3 c   b     -     -         1998   20   35 
+brando    797306714  5  2 Bc  kr    bc    kc        2013  100    0 Js Ts
+brando    797306765  6  1 Bc  kr    k     kc        1913   60    0 9c 3c
+brando    797306840  6  6 f   -     -     -         1853    0    0 
+brando    797306886  6  5 cc  c     k     k         1853   30   70 5c 5d
+brando    797306917  6  4 f   -     -     -         1893    0    0 
+brando    797306958  6  3 f   -     -     -         1893    0    0 
+brando    797307071  6  2 Bc  kc    kf    -         1893   30    0 
+brando    797307148  5  1 Bc  -     -     -         1863   10   20 
+brando    797307159  5  5 c   c     c     c         1873   70    0 Ad Ts
+brando    797307202  5  4 c   f     -     -         1803   20    0 
+brando    797307239  5  3 c   b     -     -         1783   20   35 
+brando    797307266  5  2 Bc  kc    kc    krrc      1798  150  335 4d 5d
+brando    797307329  5  1 Bc  kc    krr   br        1983  160  480 Jh Qs
+brando    797307396  7  7 f   -     -     -         2303    0    0 
+brando    797307508  7  6 c   f     -     -         2303   10    0 
+brando    797307549  7  5 cc  c     c     c         2293   80    0 4s Ah
+brando    797307627  7  4 cc  bc    kc    kc        2213   80    0 Td 9c
+brando    797307706  7  4 c   b     -     -         2133   20   45 
+brando    797307750  7  2 Bf  -     -     -         2158   10    0 
+brando    797307806  8  1 BKQ -     -     -         2148    5    0 
+brando    797308626  7  4 c   b     b     -         2143   40   70 
+brando    797308689  6  2 Bk  k     k     b         2173   30   45 
+brando    797308737  7  1 Bc  b     bc    kc        2188  110    0 4h Kd
+brando    797308827  7  7 c   cc    f     -         2078   40    0 
+brando    797308901  7  6 f   -     -     -         2038    0    0 
+brando    797308971  7  5 c   kc    k     kc        2038   50    0 7h Ks
+brando    797309062  7  4 f   -     -     -         1988    0    0 
+brando    797309117  5  2 c   k     b     -         1988   30   70 
+brando    797309161  5  1 Bk  k     kc    b         2028   50    0 3c As
+brando    797309206  5  1 Bc  kf    -     -         1978   20    0 
+brando    797309302  5  5 c   f     -     -         1958   10    0 
+brando    797309364  5  4 KQ  -     -     -         1948    0    0 
+brando    797311380  2  1 BKQ -     -     -         1948    5    0 
+brando    797311860  2  1 BKQ -     -     -         1943    5    0 
+brando    797360629  3  2 Bf  -     -     -         1938   10    0 
+brando    797360646  3  1 Bf  -     -     -         1928    5    0 
+brando    797360652  3  3 f   -     -     -         1923    0    0 
+brando    797360672  3  2 B   -     -     -         1923   10   15 
+brando    797360676  3  1 Bc  bc    b     b         1928   80    0 Ad 9d
+brando    797360710  3  3 c   k     b     -         1848   30   45 
+brando    797360743  3  2 Bc  br    rr    c         1863  150    0 9c 3c
+brando    797360797  3  1 Bc  k     b     bc        1713   70  150 Ac 5d
+brando    797360867  4  3 f   -     -     -         1793    0    0 
+brando    797360927  4  2 Bf  -     -     -         1793   10    0 
+brando    797360998  4  1 Bc  k     kf    -         1783   10    0 
+brando    797361056  4  4 c   b     r     b         1773   80  180 9c Qc
+brando    797361125  4  4 c   k     c     k         1873   30    0 Qc 7s
+brando    797361166  3  2 Bk  k     k     c         1843   30    0 7h 8c
+brando    797361202  4  1 Bc  kcc   kc    kc        1813  100    0 Ad 4d
+brando    797361275  4  4 c   k     f     -         1713   10    0 
+brando    797361333  4  3 c   b     b     br        1703  100    0 Js Ks
+brando    797361381  5  2 Bc  k     k     k         1603   20    0 2d Jh
+brando    797361459  5  1 Bc  k     b     b         1583   50   90 
+brando    797361505  5  5 c   k     b     c         1623   50    0 8h 3h
+brando    797361575  5  4 cc  b     b     b         1573   70    0 2s 2d
+brando    797361646  5  3 f   -     -     -         1503    0    0 
+brando    797361717  5  2 Bk  k     k     k         1503   10    0 3d 5c
+brando    797361771  5  1 Bc  k     b     b         1493   50   80 
+brando    797361831  5  5 f   -     -     -         1523    0    0 
+brando    797361876  5  4 f   -     -     -         1523    0    0 
+brando    797361919  6  3 c   c     b     b         1523   60  155 Ks 9h
+brando    797361969  6  2 Bk  k     kf    -         1618   10    0 
+brando    797362049  6  1 Bc  kc    kf    -         1608   30    0 
+brando    797362129  6  6 c   k     b     r         1578   80  210 
+brando    797362198  6  5 f   -     -     -         1708    0    0 
+brando    797362251  6  4 f   -     -     -         1708    0    0 
+brando    797362327  6  3 c   k     b     k         1708   30    0 4h Kc
+brando    797362380  6  2 Bk  k     bc    k         1678   50    0 Tc 8s
+brando    797362434  6  1 Bc  k     k     k         1628   10    0 4s 8h
+brando    797362505  6  6 c   r     b     b         1618   70  220 As Qh
+brando    797362616  6  5 c   k     c     f         1768   30    0 
+brando    797362678  6  4 cc  k     k     r         1738   60  220 5c Ks
+brando    797362752  7  3 cc  c     r     b         1898   90  290 2s 2c
+brando    797362810  7  2 Bk  kc    kc    kc        2098   60    0 3c 8h
+brando    797362874  7  1 Bc  k     b     bc        2038   70    0 Jc 4h
+brando    797362939  7  7 c   c     c     rc        1968  130    0 2s Ah
+brando    797363011  7  6 cc  k     b     b         1838   60  130 
+brando    797363116  7  5 cc  k     kc    kf        1908   40    0 
+brando    797363225  8  5 c   k     f     -         1868   10    0 
+brando    797363306  9  5 f   -     -     -         1858    0    0 
+brando    797363381  9  4 c   k     b     c         1858   50    0 9c Qc
+brando    797363454 10  4 c   kf    -     -         1808   10    0 
+brando    797363520  9  2 Bk  k     kc    kf        1798   30    0 
+brando    797363641  8  1 Bc  kc    kf    -         1768   20    0 
+brando    797363707  8  8 f   -     -     -         1748    0    0 
+brando    797363783  8  7 c   c     k     k         1748   20    0 9d 7d
+brando    797363833  8  6 f   -     -     -         1728    0    0 
+brando    797363895  8  5 c   c     c     f         1728   40    0 
+brando    797363970  8  4 f   -     -     -         1688    0    0 
+brando    797364013  8  3 c   b     b     b         1688   60  130 
+brando    797364066  7  2 Bk  kc    k     k         1758   20   33 5s Kd
+brando    797364128  7  1 Bc  kf    -     -         1771   20    0 
+brando    797364180  8  8 f   -     -     -         1751    0    0 
+brando    797364221  7  6 c   c     c     k         1751   40    0 Qc 3d
+brando    797364282  7  5 f   -     -     -         1711    0    0 
+brando    797364328  7  4 c   k     b     b         1711   50  105 
+brando    797364380  7  3 c   b     c     c         1766   60    0 Kc 4d
+brando    797364426  7  2 Bk  k     k     b         1706   30   50 
+brando    797364475  7  1 Bc  kc    kc    kf        1726   50    0 
+brando    797364559  7  7 cc  f     -     -         1676   30    0 
+brando    797364627  6  6 c   f     -     -         1646   20    0 
+brando    797364651  6  5 c   r     b     b         1626   70  135 
+brando    797364690  6  4 cf  -     -     -         1691   10    0 
+brando    797364722  6  3 c   k     k     b         1681   30   38 Kh 9h
+brando    797364766  6  2 Bk  k     k     kc        1689   30    0 4s 2d
+brando    797364850  6  1 Bc  kf    -     -         1659   20    0 
+brando    797364872  5  5 f   -     -     -         1639    0    0 
+brando    797364899  5  5 c   k     c     k         1639   30    0 6c Tc
+brando    797364940  5  4 cc  f     -     -         1609   20    0 
+brando    797364980  5  3 c   r     k     f         1589   30    0 
+brando    797365031  6  2 Bk  kc    k     kc        1559   40    0 Ts 5d
+brando    797365083  6  1 Bc  k     kc    kf        1519   30    0 
+brando    797365138  6  6 c   f     -     -         1489   10    0 
+brando    797365170  6  5 c   c     f     -         1479   30    0 
+brando    797365219  6  5 cc  c     c     c         1449   80  200 2h As
+brando    797365286  5  3 f   -     -     -         1569    0    0 
+brando    797365365  5  2 Bk  c     c     k         1569   40    0 Ac Js
+brando    797365416  5  1 Bc  k     k     b         1529   30   50 
+brando    797365459  5  5 c   f     -     -         1549   10    0 
+brando    797365494  5  4 f   -     -     -         1539    0    0 
+brando    797365538  5  3 f   -     -     -         1539    0    0 
+brando    797365568  5  2 Bc  kc    kc    kf        1539   50    0 
+brando    797365614  5  1 Bc  k     k     k         1489   10    0 Ad 7d
+brando    797365658  5  5 f   -     -     -         1479    0    0 
+brando    797365674  5  4 c   f     -     -         1479   10    0 
+brando    797365736  5  3 f   -     -     -         1469    0    0 
+brando    797365779  6  2 Bk  k     b     b         1469   50    0 9d 9s
+brando    797365821  5  1 Bc  kf    -     -         1419   10    0 
+brando    797365866  5  5 f   -     -     -         1409    0    0 
+brando    797365893  5  4 f   -     -     -         1409    0    0 
+brando    797365932  5  3 c   k     k     k         1409   10    0 Ad 4s
+brando    797365993  6  2 Bf  -     -     -         1399   10    0 
+brando    797366054  5  1 Bc  kf    -     -         1389   20    0 
+brando    797366122  5  5 c   b     -     -         1369   20   35 
+brando    797366142  5  4 c   r     b     c         1384   70    0 7h 8s
+brando    797366189  5  3 f   -     -     -         1314    0    0 
+brando    797366204  5  2 Bk  k     k     c         1314   30    0 5d 2s
+brando    797366259  5  1 Bc  b     b     b         1284   60  110 
+brando    797366304  4  4 f   -     -     -         1334    0    0 
+brando    797366362  4  4 c   k     b     -         1334   30   55 
+brando    797366407  4  3 f   -     -     -         1359    0    0 
+brando    797366452  4  2 Bk  k     KQ    -         1359   10    0 
+brando    797368000  6  4 f   -     -     -         1349    0    0 
+brando    797368044  6  3 c   k     k     f         1349   10    0 
+brando    797368084  6  2 Bk  b     -     -         1339   20   45 
+brando    797368114  6  1 Bc  b     b     b         1364   60  120 9d As
+brando    797368155  6  6 f   -     -     -         1424    0    0 
+brando    797368192  6  5 f   -     -     -         1424    0    0 
+brando    797368239  6  4 c   c     f     -         1424   20    0 
+brando    797368271  6  3 f   -     -     -         1404    0    0 
+brando    797368290  6  2 Bc  kc    kc    kc        1404   70    0 Kc Qh
+brando    797368331  6  1 Bc  k     b     -         1334   30   50 
+brando    797368373  6  6 c   c     r     -         1354   60  115 
+brando    797368414  6  5 f   -     -     -         1409    0    0 
+brando    797368465  6  4 f   -     -     -         1409    0    0 
+brando    797368517  6  3 f   -     -     -         1409    0    0 
+brando    797368549  6  2 Bk  c     c     b         1409   60  130 8s 4s
+brando    797368581  6  1 Bc  kf    -     -         1479   10    0 
+brando    797368633  6  6 f   -     -     -         1469    0    0 
+brando    797368658  6  5 f   -     -     -         1469    0    0 
+brando    797368721  6  4 cc  f     -     -         1469   30    0 
+brando    797368788  6  3 c   k     b     b         1439   50    0 Js Qs
+brando    797368850  6  2 Bc  cr    b     b         1389   90  220 
+brando    797368901  6  1 Bcc kc    kc    kc        1519   70    0 5h Jh
+brando    797368984  7  7 cc  b     b     b         1449   70  170 
+brando    797369048  7  6 c   c     c     f         1549   70    0 
+brando    797369137  7  6 c   b     k     b         1479   40   85 
+brando    797369206  7  5 c   r     bcc   b         1524  130    0 9d Ks
+brando    797369315  7  4 c   rc    b     b         1394   80   90 4h 3h
+brando    797369396  8  3 f   -     -     -         1404    0    0 
+brando    797369511  9  2 Bk  kc    kf    -         1404   20    0 
+brando    797369582  9  1 Bc  bc    br    brr       1384  190    0 9c 8c
+brando    797369718  9  9 f   -     -     -         1194    0    0 
+brando    797369768  9  8 cc  c     c     r         1194   90    0 Qd 2h
+brando    797369867  9  7 f   -     -     -         1104    0    0 
+brando    797369927  8  6 c   cc    kf    -         1104   30    0 
+brando    797370022  9  5 cc  k     kf    -         1074   20    0 
+brando    797370114  8  3 f   -     -     -         1054    0    0 
+brando    797370141  8  2 Bk  k     r     b         1054   70    0 Qs Ts
+brando    797370219  8  1 Bc  b     b     -          984   40   70 
+brando    797370266  8  8 c   r     k     b         1014   50  120 
+brando    797370352  8  7 f   -     -     -         1084    0    0 
+brando    797370416  7  6 c   k     r     r         1084  110    0 3c Tc
+brando    797370466  6  4 f   -     -     -          974    0    0 
+brando    797370553  7  3 cc  k     f     -          974   20    0 
+brando    797370720  7  2 Bk  k     b     brc        954  110    0 4c Qd
+brando    797370851  6  1 Bc  kcc   kc    k          844   60  220 8h 6h
+brando    797370971  7  7 f   -     -     -         1004    0    0 
+brando    797371061  7  7 KQ  -     -     -         1004    0    0 
+brando    797384872  2  1 Bc  kc    kf    -         1004   20    0 
+brando    797384921  2  2 Bc  b     -     -          984   30   60 
+brando    797384954  2  1 Bc  -     -     -         1014   10   20 
+brando    797384980  2  2 Bk  b     -     -         1024   20   30 
+brando    797385003  3  1 Bc  kc    kc    kf        1034   40    0 
+brando    797385043  3  3 cc  k     b     b          994   60  130 5h 3h
+brando    797385083  3  2 Bk  b     b     -         1064   40   65 
+brando    797385109  4  1 Bc  k     b     b         1089   50  110 7h Ac
+brando    797385138  4  4 f   -     -     -         1149    0    0 
+brando    797385176  4  3 c   k     c     c         1149   50   60 Js Kh
+brando    797385214  4  2 Bk  k     -     -         1159   10   25 
+brando    797385241  4  1 Bf  -     -     -         1174    5    0 
+brando    797385268  4  4 cc  c     b     b         1169   70    0 Qs 3c
+brando    797385330  4  3 f   -     -     -         1099    0    0 
+brando    797385364  4  2 Bk  k     r     b         1099   70  190 6c 7d
+brando    797385395  4  1 Bc  kf    -     -         1219   20    0 
+brando    797385436  5  5 c   c     b     k         1199   50    0 3h Th
+brando    797385479  5  4 f   -     -     -         1149    0    0 
+brando    797385502  5  3 c   k     rc    r         1149  110  230 Qs Jc
+brando    797385538  5  2 Bk  kc    k     k         1269   20   55 Kc 8s
+brando    797385575  5  1 Bc  k     k     br        1304   70  170 9c Qh
+brando    797385634  5  5 c   cc    rr    -         1404  110  260 
+brando    797385704  6  5 c   k     f     -         1554   10    0 
+brando    797385736  6  4 cc  c     k     kc        1544   50  145 Th 6h
+brando    797385784  7  4 c   k     b     br        1639   90  220 Kc Kh
+brando    797385838  7  3 f   -     -     -         1769    0    0 
+brando    797385894  7  3 f   -     -     -         1769    0    0 
+brando    797385933  7  2 Bk  k     k     k         1769   10    0 2s Jd
+brando    797385998  8  1 Bc  k     k     k         1759   10    0 As 9d
+brando    797386064  8  8 c   c     c     b         1749   60  145 Tc 9c
+brando    797386115  8  7 c   c     c     f         1834   40    0 
+brando    797386183  8  6 f   -     -     -         1794    0    0 
+brando    797386226  8  5 f   -     -     -         1794    0    0 
+brando    797386278  8  4 c   kf    -     -         1794   10    0 
+brando    797386326  8  3 c   k     c     c         1784   50  115 Td 9d
+brando    797386373  8  2 Bk  kc    kf    -         1849   20    0 
+brando    797386441  8  1 Bc  k     k     kf        1829   10    0 
+brando    797386515  9  9 c   c     r     b         1819  100    0 Ks Th
+brando    797386586 11 10 c   f     -     -         1719   10    0 
+brando    797386670 11  9 c   f     -     -         1709   20    0 
+brando    797386762 11  8 f   -     -     -         1689    0    0 
+brando    797386850 11  7 f   -     -     -         1689    0    0 
+brando    797386951 11  6 cc  kf    -     -         1689   20    0 
+brando    797387031 11  5 f   -     -     -         1669    0    0 
+brando    797387120 11  5 cc  kc    kf    -         1669   30    0 
+brando    797387253 10  4 f   -     -     -         1639    0    0 
+brando    797387330 10  3 f   -     -     -         1639    0    0 
+brando    797387425 10  2 Bc  kc    br    kr        1639  130  290 Jd Td
+brando    797387618  8  1 Bc  kc    kc    kf        1799   40    0 
+brando    797387695  8  8 r   b     b     b         1759   70    0 Ts As
+brando    797387812  8  7 c   c     b     r         1689   80    0 Ts Ah
+brando    797387866  8  6 cc  f     -     -         1609   20    0 
+brando    797387935  8  5 f   -     -     -         1589    0    0 
+brando    797388005 10  4 c   kc    bc    kc        1589   80  195 3h Ad
+brando    797388089 10  3 c   f     -     -         1704   10    0 
+brando    797388173  9  2 Bk  rc    k     c         1694   60    0 9s Jh
+brando    797388216  9  1 Bc  kc    brrrc kc        1634  200  225 7h Qs
+brando    797388305 10  9 f   -     -     -         1659    0    0 
+brando    797388359 10  8 c   c     f     -         1659   20    0 
+brando    797388432 10  7 f   -     -     -         1639    0    0 
+brando    797388482  9  5 f   -     -     -         1639    0    0 
+brando    797388591 10  5 c   b     b     b         1639   60    0 6c As
+brando    797388654  9  4 f   -     -     -         1579    0    0 
+brando    797388729  8  3 c   kc    kf    -         1579   20    0 
+brando    797388835  7  1 Bc  kf    -     -         1559   20    0 
+brando    797388862  7  1 Bc  kr    b     -         1539   60  160 
+brando    797388914  7  7 cc  r     -     -         1639   40  110 
+brando    797388958  7  6 f   -     -     -         1709    0    0 
+brando    797389000  7  5 f   -     -     -         1709    0    0 
+brando    797389007  7  4 c   b     -     -         1709   20   40 
+brando    797389047  6  3 f   -     -     -         1729    0    0 
+brando    797389082  6  2 Bf  -     -     -         1729   10    0 
+brando    797389116  6  1 Bc  kf    -     -         1719   10    0 
+brando    797389141  6  6 f   -     -     -         1709    0    0 
+brando    797389176  6  5 c   k     c     k         1709   30   65 3h Qd
+brando    797389202  6  4 f   -     -     -         1744    0    0 
+brando    797389235  5  2 B   -     -     -         1744   10   15 
+brando    797389242  5  1 Bc  k     k     b         1749   30   40 
+brando    797389274  6  5 c   r     r     b         1759   90  230 Qh 4d
+brando    797389325  6  4 f   -     -     -         1899    0    0 
+brando    797389378  6  3 f   -     -     -         1899    0    0 
+brando    797389410  5  2 Bk  r     b     r         1899   90    0 6h 9h
+brando    797389465  6  1 Bc  k     kcc   kc        1809   80    0 As Th
+brando    797389521  6  6 c   c     b     b         1729   60  125 
+brando    797389553  6  5 c   k     k     k         1794   10    0 4d Td
+brando    797389592  6  4 f   -     -     -         1784    0    0 
+brando    797389623  7  3 f   -     -     -         1784    0    0 
+brando    797389691  6  2 Bc  kr    kr    k         1784   80    0 Jc 8h
+brando    797389765  6  1 Bc  k     kf    -         1704   10    0 
+brando    797389830  6  6 cc  f     -     -         1694   20    0 
+brando    797389890  7  6 cc  rc    kc    k         1674   70    0 4s 5s
+brando    797389954  7  5 f   -     -     -         1604    0    0 
+brando    797390002  7  4 c   b     b     -         1604   40   90 
+brando    797390060  6  3 f   -     -     -         1654    0    0 
+brando    797390087  6  2 Bk  kc    kc    kc        1654   60    0 Th 7c
+brando    797390146  6  1 Bc  k     b     k         1594   30    0 4h 5d
+brando    797390209  5  5 c   f     -     -         1564   20    0 
+brando    797390241  5  4 c   f     -     -         1544   10    0 
+brando    797390272  5  3 f   -     -     -         1534    0    0 
+brando    797390291  5  2 B   -     -     -         1534   10   15 
+brando    797390301  5  1 Bc  k     b     b         1539   50  100 Ts 5s
+brando    797390342  5  5 c   k     k     f         1589   10    0 
+brando    797390382  5  4 c   k     cc    f         1579   70    0 
+brando    797390435  4  2 Br  b     b     b         1509   70  170 
+brando    797390496  5  1 Bc  k     k     kf        1609   10    0 
+brando    797390534  5  5 c   r     b     -         1599   50  120 
+brando    797390580  5  4 f   -     -     -         1669    0    0 
+brando    797390591  5  3 c   k     b     b         1669   50    0 7d Ks
+brando    797390662  5  2 Bf  -     -     -         1619   10    0 
+brando    797390712  6  1 Bc  k     b     -         1609   30   60 
+brando    797390755  6  6 c   c     r     k         1639   60    0 Js Th
+brando    797390795  6  5 c   c     rc    k         1579   80    0 5h 4h
+brando    797390840  6  4 c   k     k     kc        1499   30    0 Qc Tc
+brando    797390924  6  3 f   -     -     -         1469    0    0 
+brando    797390981  6  2 Bf  -     -     -         1469   10    0 
+brando    797391019  5  1 Bc  kf    -     -         1459   10    0 
+brando    797391063  5  5 c   b     brc   c         1449  120    0 5h Ah
+brando    797391160  4  3 c   k     b     -         1329   30   55 
+brando    797391210  5  2 Bc  f     -     -         1354   20    0 
+brando    797391233  5  1 Bc  f     -     -         1334   20    0 
+brando    797391256  5  5 c   c     r     b         1314   80  180 2d Ah
+brando    797391306  6  5 cc  b     bc    f         1414   70    0 
+brando    797391387  6  4 c   f     -     -         1344   20    0 
+brando    797391415  6  3 cc  c     c     c         1324   70    0 Kh Qh
+brando    797391467  7  3 c   k     kc    k         1254   30    0 Qc 5s
+brando    797391510  8  3 c   kr    r     c         1224  100    0 4s 4d
+brando    797391576  8  2 Bk  k     k     k         1124   10   25 8s 6c
+brando    797391607  8  1 Bc  k     b     b         1139   50   70 5h Kc
+brando    797391677  8  8 f   -     -     -         1159    0    0 
+brando    797391722  8  7 f   -     -     -         1159    0    0 
+brando    797391781 10  8 c   b     b     -         1159   40   80 
+brando    797391845 10  7 c   cc    kc    f         1199   60    0 
+brando    797391966 10  6 c   k     k     k         1139   10    0 2d Kc
+brando    797392020 10  5 f   -     -     -         1129    0    0 
+brando    797392058 10  4 cc  kf    -     -         1129   20    0 
+brando    797392163 10  3 c   kc    kf    -         1109   30    0 
+brando    797392235 10  2 Bc  kc    k     kc        1079   50    0 7h Ah
+brando    797392290 10  1 Bc  k     kf    -         1029   10    0 
+brando    797392342 10 10 cc  f     -     -         1019   30    0 
+brando    797392431 11 11 f   -     -     -          989    0    0 
+brando    797392508  7  6 KQ  -     -     -          989    0    0 
+brando    797404178  6  4 f   -     -     -         1054    0    0 
+brando    797404240  6  4 c   c     f     -         1054   20    0 
+brando    797404313  6  2 Bf  -     -     -         1034   10    0 
+brando    797404387  6  1 Bf  -     -     -         1024    5    0 
+brando    797404429  5  5 c   k     b     b         1019   50    0 Ah 5s
+brando    797404493  5  4 f   -     -     -          969    0    0 
+brando    797404571  5  3 c   k     k     b          969   30   70 7c Js
+brando    797404627  5  2 Bc  c     rr    b         1009  130  260 2c Jc
+brando    797404708  5  1 Bc  kf    -     -         1139   10    0 
+brando    797404739  5  5 c   k     b     -         1129   30   55 
+brando    797404775  5  4 f   -     -     -         1154    0    0 
+brando    797404790  5  3 c   b     b     -         1154   40   65 
+brando    797404855  6  2 Bf  -     -     -         1179   10    0 
+brando    797404883  6  1 Bcf -     -     -         1169   10    0 
+brando    797404943  7  7 f   -     -     -         1159    0    0 
+brando    797405049  6  5 f   -     -     -         1159    0    0 
+brando    797405087  8  5 cc  r     b     c         1159   90  265 6d 7d
+brando    797405194  7  3 cc  f     -     -         1334   20    0 
+brando    797405277  7  2 Bk  b     k     k         1314   20    0 Ac Qs
+brando    797405341  8  1 Bc  kc    kc    kf        1294   40    0 
+brando    797405394  8  8 f   -     -     -         1254    0    0 
+brando    797405444  7  6 f   -     -     -         1254    0    0 
+brando    797405471  7  5 c   r     b     -         1254   50  100 
+brando    797405509  6  3 f   -     -     -         1304    0    0 
+brando    797405566  7  3 cc  k     kc    kf        1304   40    0 
+brando    797405657  8  3 c   b     r     rrr       1264  180  400 6c Qh
+brando    797405784  8  2 Bc  rr    r     brc       1484  190    0 Qd Qc
+brando    797405856  8  1 Bc  bcc   kc    k         1294  110    0 Kc Js
+brando    797405989  7  7 f   -     -     -         1184    0    0 
+brando    797406056  8  7 c   b     k     rc        1184   80    0 Ts 9h
+brando    797406148  8  7 c   k     c     b         1104   50  135 9d 9c
+brando    797406229  9  6 c   b     b     b         1189   70  195 7c 7d
+brando    797406297  9  5 f   -     -     -         1314    0    0 
+brando    797406387  9  4 c   cc    f     -         1314   40    0 
+brando    797406433  9  3 f   -     -     -         1274    0    0 
+brando    797406521  9  2 Brc br    b     b         1274  110    0 Jh Jd
+brando    797406680  8  1 Bc  kf    -     -         1164   10    0 
+brando    797406753  9  9 f   -     -     -         1154    0    0 
+brando    797406831  9  8 c   c     c     f         1154   40    0 
+brando    797406896  9  7 f   -     -     -         1114    0    0 
+brando    797406946  9  6 cc  c     c     f         1114   50    0 
+brando    797407022  8  4 c   b     b     -         1064   40   95 
+brando    797407071  9  3 cc  f     -     -         1119   20    0 
+brando    797407165 10  2 Bk  kf    -     -         1099   10    0 
+brando    797407235 10  1 Bcf -     -     -         1089   10    0 
+brando    797407323 10 10 f   -     -     -         1079    0    0 
+brando    797407419 10  9 f   -     -     -         1079    0    0 
+brando    797407524 10  8 c   r     b     b         1079   70    0 Td Qd
+brando    797407651 11  7 c   rc    c     c         1009   80    0 Ts 9c
+brando    797407771 11  6 c   f     -     -          929   10    0 
+brando    797407817 11  4 f   -     -     -          919    0    0 
+brando    797407915 11  3 ccc bcc   rr    b          919  180  705 3s 7s
+brando    797408065 10  2 Bk  kc    kf    -         1444   20    0 
+brando    797408172 12  1 Bf  -     -     -         1424    5    0 
+brando    797408285 11 11 c   k     c     f         1419   30    0 
+brando    797408336  9  9 c   f     -     -         1389   20    0 
+brando    797408404 10 10 f   -     -     -         1369    0    0 
+brando    797408461  6  6 f   -     -     -         1369    0    0 
+brando    797408497  6  6 c   c     f     -         1369   20    0 
+brando    797408561  7  5 f   -     -     -         1349    0    0 
+brando    797408623  7  5 cc  k     k     c         1349   40    0 9c 8d
+brando    797408669  7  4 cf  -     -     -         1309   10    0 
+brando    797408714  8  3 f   -     -     -         1299    0    0 
+brando    797408772  8  2 Bk  kc    kc    kf        1299   40    0 
+brando    797408842  7  1 Bf  -     -     -         1259    5    0 
+brando    797408876  7  7 c   b     -     -         1254   20   45 
+brando    797408907  7  6 r   c     c     c         1279   90    0 2s 2d
+brando    797408998  8  5 f   -     -     -         1189    0    0 
+brando    797409076  8  4 f   -     -     -         1189    0    0 
+brando    797409130  8  3 c   r     b     b         1189   70  160 Qs 5c
+brando    797409187  8  2 Bf  -     -     -         1279   10    0 
+brando    797409255  9  1 Bc  b     b     b         1269   60    0 Ac 2s
+brando    797409311  9  9 c   f     -     -         1209   10    0 
+brando    797409390  9  8 f   -     -     -         1199    0    0 
+brando    797409427  9  7 f   -     -     -         1199    0    0 
+brando    797409451  9  6 f   -     -     -         1199    0    0 
+brando    797409520  9  5 c   k     cf    -         1199   40    0 
+brando    797409562  9  4 c   kccc  kc    kf        1159   70    0 
+brando    797409673  9  3 f   -     -     -         1089    0    0 
+brando    797409740  9  2 Bc  rr    rcc   f         1089  140    0 
+brando    797409842  9  1 Bc  k     k     k          949   10    0 5s 2c
+brando    797409896  9  9 c   f     -     -          939   20    0 
+brando    797409956  8  7 f   -     -     -          919    0    0 
+brando    797409993  8  6 c   b     bc    c          919   80    0 7h As
+brando    797410032  8  5 cr  bc    k     br         839  140    0 7h 7d
+brando    797410152  8  5 c   b     -     -          699   20   50 
+brando    797410196  7  3 f   -     -     -          729    0    0 
+brando    797410250  7  2 Bk  kf    -     -          729   10    0 
+brando    797410287  7  1 Bc  kf    -     -          719   10    0 
+brando    797410354  7  7 c   c     c     c          709   60  135 5h Jc
+brando    797410392  7  6 cc  b     b     f          784   50    0 
+brando    797410441  7  5 c   k     c     f          734   30    0 
+brando    797410496  7  4 f   -     -     -          704    0    0 
+brando    797410529  7  3 f   -     -     -          704    0    0 
+brando    797410560  7  2 Bf  -     -     -          704   10    0 
+brando    797410593  7  1 Bc  k     kf    -          694   10    0 
+brando    797410650  7  7 r   c     rc    rr         684  190    0 Jc Js
+brando    797410802  7  7 f   -     Q     -          494    0    0 

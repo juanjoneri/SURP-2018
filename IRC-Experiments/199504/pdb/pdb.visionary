@@ -1,0 +1,181 @@
+visionary 797988066  2  1 Br  Q     -     -         1000   30    0 
+visionary 797989432  4  2 Bf  -     -     -          970   10    0 
+visionary 797989449  4  1 Bf  -     -     -          960    5    0 
+visionary 797989538  4  4 c   c     c     c          955   60    0 2d Kd
+visionary 797989595  4  3 f   -     -     -          895    0    0 
+visionary 797989720  5  2 Bf  -     -     -          895   10    0 
+visionary 797989891  4  1 Br  -     -     -          885   20   30 
+visionary 797989897  4  4 c   f     -     -          895   10    0 
+visionary 797989932  4  3 f   -     -     -          885    0    0 
+visionary 797989965  4  2 Bk  kc    kc    k          885   40   85 As 2h
+visionary 797990014  4  1 Bc  -     -     -          930   10   20 
+visionary 797990035  5  5 c   k     c     c          940   50   70 Ac 7h
+visionary 797990136  4  3 r   k     b     -          960   40   80 
+visionary 797990182  4  3 f   -     -     -         1000    0    0 
+visionary 797990218  4  2 Bf  -     Q     -         1000   10    0 
+visionary 797990708  3  2 B   -     -     -          990   10   15 
+visionary 797990715  3  1 Bf  -     -     -          995    5    0 
+visionary 797990722  3  3 r   -     -     -          990   20   35 
+visionary 797990733  3  2 Bf  -     -     -         1005   10    0 
+visionary 797990739  3  1 Bf  -     -     -          995    5    0 
+visionary 797990744  3  3 f   -     -     -          990    0    0 
+visionary 797990750  3  2 Bf  -     -     -          990   10    0 
+visionary 797990780  3  1 Br  -     -     -          980   20   30 
+visionary 797990790  3  3 f   -     -     -          990    0    0 
+visionary 797990792  3  2 Bk  k     k     k          990   10   25 Kc 5d
+visionary 797990824  3  1 Bf  -     -     -         1005    5    0 
+visionary 797990832  3  3 c   b     b     k         1000   40   90 Js 8h
+visionary 797990883  3  2 Bf  -     -     -         1050   10    0 
+visionary 797990891  3  1 Bf  -     -     -         1040    5    0 
+visionary 797990898  3  3 cc  f     -     -         1035   20    0 
+visionary 797990919  3  2 Bc  b     -     -         1015   30   50 
+visionary 797990942  3  1 Bf  -     -     -         1035    5    0 
+visionary 797990985  3  3 r   b     -     -         1030   30   60 
+visionary 797991029  3  2 B   -     -     -         1060   10   15 
+visionary 797991037  4  1 Bf  -     -     -         1065    5    0 
+visionary 797991048  4  4 f   -     -     -         1060    0    0 
+visionary 797991060  4  3 f   -     -     -         1060    0    0 
+visionary 797991072  4  2 Bk  b     b     -         1060   40   60 
+visionary 797991103  4  1 Bc  b     -     -         1080   20   30 
+visionary 797991127  4  4 f   -     -     -         1090    0    0 
+visionary 797991135  4  3 f   -     -     -         1090    0    0 
+visionary 797991152  4  2 Bc  k     k     k         1090   20   45 2s 2d
+visionary 797991196  5  1 Bc  b     bc    kc        1115   90  190 Ks Jc
+visionary 797991230  5  5 f   -     -     -         1215    0    0 
+visionary 797991277  4  3 c   f     -     -         1215   10    0 
+visionary 797991302  4  3 f   -     -     -         1205    0    0 
+visionary 797991352  3  2 Bc  f     -     -         1205   20    0 
+visionary 797991377  3  1 Bf  -     -     -         1185    5    0 
+visionary 797991405  4  3 f   -     -     -         1180    0    0 
+visionary 797991466  5  2 Bk  b     b     k         1180   40    0 Ad 6d
+visionary 797991512  5  1 Bf  -     -     -         1140    5    0 
+visionary 797991552  5  5 f   -     -     -         1135    0    0 
+visionary 797991583  5  4 f   -     -     -         1135    0    0 
+visionary 797991625  5  3 c   kf    -     -         1135   10    0 
+visionary 797991690  7  2 Bf  -     -     -         1125   10    0 
+visionary 797991777  7  1 Bf  -     -     -         1115    5    0 
+visionary 797991841  7  7 c   c     c     b         1110   70  190 As 8d
+visionary 797991890  6  5 r   k     b     b         1230   60  140 
+visionary 797991947  6  4 c   kc    k     bc        1310   60    0 8h Ac
+visionary 797992018  6  3 c   kf    -     -         1250   10    0 
+visionary 797992082  7  2 Bk  b     b     -         1240   40   75 
+visionary 797992120  7  1 Bf  -     -     -         1275    5    0 
+visionary 797992163  7  7 c   k     b     -         1270   30   55 
+visionary 797992212  7  6 f   -     -     -         1295    0    0 
+visionary 797992305  6  4 r   kc    kf    -         1295   30    0 
+visionary 797992375  6  3 f   -     -     -         1265    0    0 
+visionary 797992419  6  2 Br  b     -     -         1265   30   55 
+visionary 797992461  7  1 Bc  kcc   kc    krc       1290  140    0 Jd Qd
+visionary 797992577  8  8 f   Q     -     -         1150    0    0 
+visionary 798057311  4  3 f   -     -     -         1150    0    0 
+visionary 798057315  4  3 f   -     -     -         1150    0    0 
+visionary 798057325  4  2 Brc kc    kf    -         1150   50    0 
+visionary 798057361  4  1 Bf  -     -     -         1100    5    0 
+visionary 798057384  4  4 f   -     -     -         1095    0    0 
+visionary 798057412  4  3 f   -     -     -         1095    0    0 
+visionary 798057431  4  2 Bk  k     -     -         1095   10   25 
+visionary 798057452  4  1 Bf  -     -     -         1110    5    0 
+visionary 798057482  4  4 c   -     -     -         1105   10   25 
+visionary 798057490  4  3 c   b     -     -         1120   20   40 
+visionary 798057516  4  2 Bk  b     b     k         1140   40   85 
+visionary 798057537  4  1 Bc  b     bc    kc        1185   80    0 4h Qd
+visionary 798057577  4  4 c   -     -     -         1105   10   25 
+visionary 798057585  4  3 cc  c     c     f         1120   50    0 
+visionary 798057619  3  2 Bk  k     k     b         1070   30   35 5h 2s
+visionary 798057651  4  1 Bcf -     -     -         1075   10    0 
+visionary 798057704  4  4 c   b     -     -         1065   20   35 
+visionary 798057728  4  3 f   -     -     -         1080    0    0 
+visionary 798057736  4  2 Bk  k     kf    -         1080   10    0 
+visionary 798057763  4  1 Bc  kc    bf    -         1070   40    0 
+visionary 798057805  4  4 r   -     -     -         1030   20   35 
+visionary 798057820  4  3 f   -     -     -         1045    0    0 
+visionary 798057865  4  2 B   -     -     -         1045   10   15 
+visionary 798057872  4  1 Bf  -     -     -         1050    5    0 
+visionary 798057899  4  4 f   -     -     -         1045    0    0 
+visionary 798057927  4  3 c   r     k     c         1045   50    0 Qc 5c
+visionary 798057975  4  2 Bk  c     c     c          995   60    0 9h Ks
+visionary 798058009  4  1 Bf  -     -     -          935    5    0 
+visionary 798058032  4  4 f   -     -     -          930    0    0 
+visionary 798058039  5  3 f   -     -     -          930    0    0 
+visionary 798058067  5  2 Bk  kr    b     b          930   70  130 
+visionary 798058112  5  1 Bc  kf    -     -          990   10    0 
+visionary 798058154  6  6 f   -     -     -          980    0    0 
+visionary 798058221  6  5 c   b     k     b          980   40   10 Kd 8d
+visionary 798058268  6  4 f   -     Q     -          950    0    0 
+visionary 798069761  9  3 ccc kcc   kc    bc         950  140    0 9c 8c
+visionary 798070024 10  2 Br  k     b     b          810   60  120 
+visionary 798070124  9  1 Bf  -     -     -          870    5    0 
+visionary 798070303  7  7 f   -     -     -          865    0    0 
+visionary 798070380  7  6 f   -     -     -          865    0    0 
+visionary 798070462  7  5 f   -     -     -          865    0    0 
+visionary 798070502  7  4 c   bc    kc    bc         865   90    0 2d Ad
+visionary 798070557  7  3 f   -     -     -          775    0    0 
+visionary 798070647  7  2 Bf  -     -     -          775   10    0 
+visionary 798070665  7  1 Bc  k     k     kf         765   20    0 
+visionary 798070741  7  7 cc  f     -     -          745   30    0 
+visionary 798070777  8  7 f   -     -     -          715    0    0 
+visionary 798070859  9  7 f   -     -     -          715    0    0 
+visionary 798070924  8  6 f   -     -     -          715    0    0 
+visionary 798071002  9  5 f   -     -     -          715    0    0 
+visionary 798071041  9  4 f   -     -     -          715    0    0 
+visionary 798071129 11  3 f   -     -     -          715    0    0 
+visionary 798071209 11  2 Bcc kf    -     -          715   40    0 
+visionary 798071323 11  1 Bf  -     -     -          675    5    0 
+visionary 798071405 10 10 c   c     r     -          670   70  165 
+visionary 798071493 10  9 f   -     -     -          765    0    0 
+visionary 798071546 10  8 f   -     -     -          765    0    0 
+visionary 798071624 10  7 cc  c     c     c          765   70    0 3s 3h
+visionary 798071686 10  6 c   b     -     -          695   20   45 
+visionary 798071725 10  5 rc  k     c     c          720   70    0 Js Jd
+visionary 798071793 10  4 f   -     -     -          650    0    0 
+visionary 798071936 11  3 f   -     -     -          650    0    0 
+visionary 798072005 11  2 Bk  b     b     bc         650   80    0 3h 7h
+visionary 798072176 10  1 BQ  -     -     -          570    5    0 
+visionary 798074039 11  4 f   -     -     -          565    0    0 
+visionary 798074127 11  3 f   -     -     -          565    0    0 
+visionary 798074223 11  2 Bf  -     -     -          565   10    0 
+visionary 798074307 11  1 Bf  -     -     -          555    5    0 
+visionary 798074357 11 11 c   c     k     f          550   30    0 
+visionary 798074487 10 10 c   c     c     k          520   60  255 Qh Jh
+visionary 798074569 11 10 f   -     -     -          715    0    0 
+visionary 798074673 11  9 f   -     -     -          715    0    0 
+visionary 798074793  9  7 f   -     -     -          715    0    0 
+visionary 798074843  9  6 c   k     k     k          715   10    0 5d Ad
+visionary 798074924  8  4 f   -     -     -          705    0    0 
+visionary 798075046  8  3 cr  r     b     brrrc      705  240    0 Ah As
+visionary 798075218  7  2 Bk  k     k     kf         465   10    0 
+visionary 798075300  6  1 Bf  -     -     -          455    5    0 
+visionary 798075371  6  6 f   -     -     -          450    0    0 
+visionary 798075392  6  5 c   k     k     k          450   10    0 Ad 7s
+visionary 798075480  7  4 f   -     -     -          440    0    0 
+visionary 798075514  7  3 c   k     f     -          440   10    0 
+visionary 798075593  7  2 Bc  k     k     k          430   20   80 5d 5c
+visionary 798075707  7  1 Bc  b     b     -          490   40   80 
+visionary 798075748  6  6 r   -     -     -          530   20   50 
+visionary 798075774  6  4 c   k     c     f          560   30    0 
+visionary 798075814  6  3 f   -     -     -          530    0    0 
+visionary 798075858  7  2 Brr kc    kc    k          530   80    0 Qh As
+visionary 798075958  7  1 Bf  -     -     -          450    5    0 
+visionary 798076021  8  8 r   c     c     c          445   70    0 8s 8d
+visionary 798076102  8  7 f   -     -     -          375    0    0 
+visionary 798076155 10  8 f   -     -     -          375    0    0 
+visionary 798076250  9  6 f   -     -     -          375    0    0 
+visionary 798076300  9  5 c   kf    -     -          375   10    0 
+visionary 798076379  9  4 c   kr    b     b          365   70  190 Jh Ah
+visionary 798076465  9  3 f   -     -     -          485    0    0 
+visionary 798076532  9  2 Br  cc    kc    bc         485  120  520 As Kc
+visionary 798076629  9  1 Bf  -     -     -          885    5    0 
+visionary 798076690  9  9 f   -     -     -          880    0    0 
+visionary 798076750  8  7 c   cf    -     -          880   20    0 
+visionary 798076846  8  6 c   kf    -     -          860   10    0 
+visionary 798076944  8  5 f   -     -     -          850    0    0 
+visionary 798077011  7  4 c   k     b     b          850   50  155 9d 9c
+visionary 798077102  7  3 cf  -     -     -          955   10    0 
+visionary 798077179  7  2 Bk  k     k     k          945   10    0 3h 4d
+visionary 798077217  8  1 Br  k     bc    kc         935   80    0 Ad Tc
+visionary 798077278  9  9 f   -     -     -          855    0    0 
+visionary 798077329  9  8 c   c     f     -          855   20    0 
+visionary 798077407  8  6 c   f     -     -          835   10    0 
+visionary 798077463  7  4 r   k     b     k          825   40    0 Kc Jc
+visionary 798077505  7  3 f   -     -     -          785    0    0 
+visionary 798077520  7  2 Bf  -     -     Q          785   10    0 

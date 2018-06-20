@@ -1,0 +1,96 @@
+cptdag    797812628  8  2 Bf  -     -     -         1000   10    0 
+cptdag    797812682  8  1 Bc  kc    kc    kf         990   50    0 
+cptdag    797812786  8  8 f   -     -     -          940    0    0 
+cptdag    797812882  7  6 f   -     -     -          940    0    0 
+cptdag    797812930  7  5 c   bc    c     f          940   50    0 
+cptdag    797813011  7  4 c   f     -     -          890   10    0 
+cptdag    797813041  6  2 Bk  k     k     kf         880   10    0 
+cptdag    797813122  7  1 Bc  kf    -     -          870   10    0 
+cptdag    797813292  6  6 f   Q     -     -          860    0    0 
+cptdag    797891211 10  7 f   -     -     -          860    0    0 
+cptdag    797891313 11  6 c   kf    -     -          860   10    0 
+cptdag    797891435 12  5 f   -     -     -          850    0    0 
+cptdag    797891494 12  4 f   -     -     -          850    0    0 
+cptdag    797891542 12  3 f   -     -     -          850    0    0 
+cptdag    797891625 12  2 Bk  kf    -     -          850   10    0 
+cptdag    797891719 11  1 Bf  -     -     -          840    5    0 
+cptdag    797891833 10 10 f   -     -     -          835    0    0 
+cptdag    797891909  9  8 f   -     -     -          835    0    0 
+cptdag    797892010 10  8 f   -     -     -          835    0    0 
+cptdag    797892078  9  6 f   -     -     -          835    0    0 
+cptdag    797892122 10  6 cc  k     k     rf         835   70    0 
+cptdag    797892217 12  5 f   -     -     -          765    0    0 
+cptdag    797892350 11  4 f   -     -     -          765    0    0 
+cptdag    797892429 11  3 cc  k     bc    kc         765  100    0 6h Ah
+cptdag    797892567 11  2 Bf  -     -     -          665   10    0 
+cptdag    797892630 11  1 Br  b     kf    -          655   30    0 
+cptdag    797892744 11 11 f   -     -     -          625    0    0 
+cptdag    797892817 11 10 r   c     c     f          625   50    0 
+cptdag    797892938 11  9 cc  bc    k     k          575   40    0 5c 6s
+cptdag    797893040 11  7 f   -     -     -          535    0    0 
+cptdag    797893110 12  7 f   -     -     -          535    0    0 
+cptdag    797893175 12  6 f   -     -     -          535    0    0 
+cptdag    797893323 12  5 f   -     -     -          535    0    0 
+cptdag    797893457 12  4 cc  brc   brc   b          535  160  368 Ad 5c
+cptdag    797893649 12  3 cc  c     f     -          743   30    0 
+cptdag    797893802 12  2 Bcc kr    kcc   kf         713  160    0 
+cptdag    797893970 12  1 BQ  -     -     -          553    5    0 
+cptdag    798425022 10  7 r   b     b     b          548   70  190 Kh Qd
+cptdag    798425113 12  6 f   -     -     -          668    0    0 
+cptdag    798425172 12  5 f   -     -     -          668    0    0 
+cptdag    798425261 12  4 c   c     bc    kc         668   80    0 7h 7s
+cptdag    798425380 11  2 Bf  -     -     -          588   10    0 
+cptdag    798425447  9  1 Bc  kf    -     -          578   20    0 
+cptdag    798425546  9  9 c   k     f     -          558   10    0 
+cptdag    798425639  9  8 f   -     -     -          548    0    0 
+cptdag    798425711  9  7 cc  f     -     -          548   20    0 
+cptdag    798425803  9  7 cc  f     -     -          528   20    0 
+cptdag    798425907  8  5 fQ  -     -     -          508    0    0 
+cptdag    798508870  8  7 c   k     k     c          508   30   90 Qh 9c
+cptdag    798509068  8  6 f   -     -     -          568    0    0 
+cptdag    798509119  8  5 f   -     -     -          568    0    0 
+cptdag    798509205  8  4 f   -     -     -          568    0    0 
+cptdag    798509345  8  3 f   -     -     -          568    0    0 
+cptdag    798509454  9  2 Bf  -     -     -          568   10    0 
+cptdag    798509526 10  1 Bc  kc    kc    kf         558   40    0 
+cptdag    798509626 10 10 c   c     cc    b          518   90    0 8h As
+cptdag    798509754 10  9 cc  f     -     -          428   20    0 
+cptdag    798509918 11  9 r   k     k     f          408   20    0 
+cptdag    798510035 11  8 f   -     -     -          388    0    0 
+cptdag    798510350 10  7 f   -     -     -          388    0    0 
+cptdag    798510549 10  7 fQ  -     -     -          388    0    0 
+cptdag    798754138  8  7 f   -     -     -          388    0    0 
+cptdag    798754160  7  7 f   -     -     -          388    0    0 
+cptdag    798754209  6  5 c   r     k     -          388   30   65 
+cptdag    798754275  6  4 f   -     -     -          423    0    0 
+cptdag    798754314  6  3 f   -     -     -          423    0    0 
+cptdag    798754353  7  2 Bk  k     rc    k          423   70    0 4s 7c
+cptdag    798754508  7  1 Bf  -     -     -          353    5    0 
+cptdag    798754581  7  7 c   f     -     -          348   10    0 
+cptdag    798754647  7  6 c   f     -     -          338   20    0 
+cptdag    798754701  9  5 cc  kf    -     -          318   20    0 
+cptdag    798754776 10  5 c   c     f     -          298   20    0 
+cptdag    798754856 11  5 f   -     -     -          278    0    0 
+cptdag    798755031 10  4 f   -     -     -          278    0    0 
+cptdag    798755110 10  3 f   -     -     -          278    0    0 
+cptdag    798755197 11  2 Bk  f     -     -          278   10    0 
+cptdag    798755277 12  1 Bc  kc    b     b          268   60  200 2h Ad
+cptdag    798755370 12 12 f   -     -     -          408    0    0 
+cptdag    798755469 12 11 f   -     -     -          408    0    0 
+cptdag    798755552 11  9 f   -     -     -          408    0    0 
+cptdag    798755664 10  8 c   k     r     b          408   80  190 As 8s
+cptdag    798755738 10  6 f   -     -     -          518    0    0 
+cptdag    798755861 11  6 c   k     k     k          518   10   30 8h 6h
+cptdag    798755952 11  5 cc  kc    k     c          538   70    0 As 5s
+cptdag    798756233 11  4 f   -     -     -          468    0    0 
+cptdag    798756336 10  3 cc  kf    -     -          468   20    0 
+cptdag    798756437 11  2 Bcc kf    -     -          448   40    0 
+cptdag    798756526 10  1 Bf  -     Q     -          408    5    0 
+cptdag    798940749  6  5 f   -     -     -          403    0    0 
+cptdag    798940820  7  4 f   -     -     -          403    0    0 
+cptdag    798940894  7  3 f   -     -     -          403    0    0 
+cptdag    798941029  8  2 Bcc kc    k     kc         403   70  215 Ad 4c
+cptdag    798941104  8  1 Bf  -     -     -          548    5    0 
+cptdag    798941188 10 10 f   -     -     -          543    0    0 
+cptdag    798941262 10  9 f   -     -     -          543    0    0 
+cptdag    798941311 10  8 f   Q     -     -          543    0    0 

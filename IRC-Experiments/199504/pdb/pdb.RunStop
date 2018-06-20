@@ -1,0 +1,190 @@
+RunStop   797664841  5  3 f   -     -     -         1000    0    0 
+RunStop   797664856  5  2 Bc  kc    kf    -         1000   30    0 
+RunStop   797664890  5  1 Bf  -     -     -          970    5    0 
+RunStop   797664937  4  4 f   -     -     -          965    0    0 
+RunStop   797665005  4  3 f   -     -     -          965    0    0 
+RunStop   797665048  4  2 Bc  kf    -     -          965   20    0 
+RunStop   797665092  4  1 Bcc kc    kc    kf         945   50    0 
+RunStop   797665168  4  4 f   -     -     -          895    0    0 
+RunStop   797665226  4  3 c   f     -     -          895   10    0 
+RunStop   797665247  4  2 Bk  k     k     k          885   10    0 5s 8h
+RunStop   797665307  4  1 Br  b     b     b          875   70  150 9h 9c
+RunStop   797665378  4  4 rc  c     c     b          955   80  100 3d 3c
+RunStop   797665468  4  3 f   -     -     -          975    0    0 
+RunStop   797665535  4  2 Bc  kc    kc    kf         975   50    0 
+RunStop   797665579  4  1 Bf  -     -     -          925    5    0 
+RunStop   797665595  4  4 f   -     -     -          920    0    0 
+RunStop   797665627  4  3 cf  -     -     -          920   10    0 
+RunStop   797665673  4  2 Bc  kc    b     b          910   70  170 Ah Jd
+RunStop   797665764  4  1 Bf  -     -     -         1010    5    0 
+RunStop   797665787  4  4 c   k     k     k         1005   10    0 3s 2h
+RunStop   797665809  4  3 f   -     -     -          995    0    0 
+RunStop   797665868  4  2 Bc  kc    kf    -          995   30    0 
+RunStop   797665918  6  1 Bc  k     k     kc         965   30  110 Ad 8s
+RunStop   797665995  6  6 f   -     -     -         1045    0    0 
+RunStop   797666043  7  6 f   -     -     -         1045    0    0 
+RunStop   797666159  8  6 c   kf    -     -         1045   10    0 
+RunStop   797666272  9  6 cf  -     -     -         1035   10    0 
+RunStop   797666367  8  5 cc  kf    -     -         1025   20    0 
+RunStop   797666426  8  4 ccc k     k     k         1005   40    0 9h 5h
+RunStop   797666511  9  3 c   k     kf    -          965   10    0 
+RunStop   797666580  9  2 Bk  kc    kf    -          955   20    0 
+RunStop   797666641  9  1 Bf  -     -     -          935    5    0 
+RunStop   797666725 10 10 f   -     -     -          930    0    0 
+RunStop   797666815 10  9 f   -     -     -          930    0    0 
+RunStop   797666902 10  8 f   -     -     -          930    0    0 
+RunStop   797667070 10  7 f   -     -     -          930    0    0 
+RunStop   797667122 10  6 cf  -     -     -          930   10    0 
+RunStop   797667180 11  6 cc  cc    rc    bc         920  140  480 7c Qc
+RunStop   797667307 11  5 f   -     -     -         1260    0    0 
+RunStop   797667400 11  4 f   -     -     -         1260    0    0 
+RunStop   797667499  9  2 Bf  -     -     -         1260   10    0 
+RunStop   797667597  9  1 Bc  k     kc    kf        1250   30    0 
+RunStop   797667679  8  8 c   c     f     -         1220   20    0 
+RunStop   797667746  9  8 c   f     -     -         1200   10    0 
+RunStop   797667826  9  7 cc  f     -     -         1190   20    0 
+RunStop   797667896  9  6 cc  kf    -     -         1170   20    0 
+RunStop   797667954  9  5 c   kf    -     -         1150   10    0 
+RunStop   797668013  9  4 cf  Q     -     -         1140   10    0 
+RunStop   797668372 10  8 c   c     c     r         1130   80   97 Kh Jh
+RunStop   797668461 10  7 c   k     k     kr        1147   50  150 9d Qs
+RunStop   797668629 10  5 c   c     c     b         1247   70  255 
+RunStop   797668747 12  5 cf  -     -     -         1432   10    0 
+RunStop   797668845 12  4 cf  -     -     -         1422   10    0 
+RunStop   797668972 11  3 f   -     -     -         1412    0    0 
+RunStop   797669086 12  2 Bk  kc    kf    -         1412   20    0 
+RunStop   797669166 12  1 Brc k     kf    -         1392   40    0 
+RunStop   797669275 11 11 f   -     -     -         1352    0    0 
+RunStop   797669462 11 10 f   -     -     -         1352    0    0 
+RunStop   797669628 11  9 cc  kc    kf    -         1352   30    0 
+RunStop   797669722 12  9 f   -     -     -         1322    0    0 
+RunStop   797669800 12  8 f   -     -     -         1322    0    0 
+RunStop   797669990 12  7 cc  c     c     c         1322   90    0 3c Kh
+RunStop   797670084 10  4 f   -     -     -         1232    0    0 
+RunStop   797670129 10  3 cc  ccc   kc    k         1232  100    0 2s Ks
+RunStop   797670245 11  3 rc  br    bc    kc        1132  140    0 Ac Ah
+RunStop   797670347 11  2 BQ  -     -     -          992   10    0 
+RunStop   797670667 10  6 c   k     r     b          982   70  180 Qh 3c
+RunStop   797670731  9  4 rc  kc    kf    -         1092   40    0 
+RunStop   797670766  8  3 c   r     bc    c         1052   90    0 Ad 4h
+RunStop   797670864  8  2 Bf  -     -     -          962   10    0 
+RunStop   797670936  8  1 Bc  kcc   kc    k          952   70    0 Ah 6s
+RunStop   797671019  8  8 c   f     -     -          882   20    0 
+RunStop   797671101  7  6 c   c     f     -          862   20    0 
+RunStop   797671136  7  5 c   kf    -     -          842   10    0 
+RunStop   797671191  7  4 cc  f     -     -          832   40    0 
+RunStop   797671234  7  3 c   cc    kf    -          792   40    0 
+RunStop   797671324  7  2 B   -     -     -          752   10   15 
+RunStop   797671346  7  1 Bf  -     -     -          757    5    0 
+RunStop   797671407  7  7 f   -     -     -          752    0    0 
+RunStop   797671446  7  6 cc  f     -     -          752   20    0 
+RunStop   797671493  7  5 c   rc    rc    f          732  140    0 
+RunStop   797671577  7  4 r   k     f     -          592   20    0 
+RunStop   797671629  6  3 c   k     kc    kc         572   50    0 8h Js
+RunStop   797671683  5  2 Br  kc    kc    kc         522  110    0 4s 4h
+RunStop   797671754  5  1 Bc  kf    -     -          412   10    0 
+RunStop   797671798  4  4 c   b     b     b          402   60  115 
+RunStop   797671843  4  3 r   kc    kc    kf         457   50    0 
+RunStop   797671893  5  3 cc  kc    kc    kf         407   50    0 
+RunStop   797671931  5  2 Bc  kf    -     -          357   20    0 
+RunStop   797671947  5  1 Bc  kc    kf    -          337   40    0 
+RunStop   797671986  5  5 c   k     k     k          297   10    0 9d 7s
+RunStop   797672023  5  4 f   -     -     -          287    0    0 
+RunStop   797672151  4  2 fQ  -     -     -          287    0    0 
+RunStop   797673278  5  3 c   kc    kc    k          287   40   95 2h Qh
+RunStop   797673335  5  2 Bk  kf    -     -          342   10    0 
+RunStop   797673393  5  1 Bc  kc    kf    -          332   20    0 
+RunStop   797673515  4  4 f   -     -     -          312    0    0 
+RunStop   797673548  4  3 cc  c     f     -          312   30    0 
+RunStop   797673580  4  2 Bk  k     k     f          282   10    0 
+RunStop   797673615  4  1 Bc  kf    -     -          272   10    0 
+RunStop   797673645  4  4 c   r     r     r          262  120  255 Tc 3c
+RunStop   797673688  4  3 Q   -     -     -          397    0    0 
+RunStop   797673814  5  4 cc  k     c     c          397   60    0 Ah Qc
+RunStop   797673860  5  3 cc  c     f     -          337   30    0 
+RunStop   797673947  5  2 Bk  br    b     b          307   80    0 2d 7d
+RunStop   797673992  5  1 Bc  kcc   kf    -          227   30    0 
+RunStop   797674052  5  5 cc  c     f     -          197   40    0 
+RunStop   797674090  5  5 f   -     -     -          157    0    0 
+RunStop   797674103  4  3 c   c     c     f          157   50    0 
+RunStop   797674143  4  2 Bc  kf    -     -          107   20    0 
+RunStop   797674157  4  1 Bc  KQ    -     -           87   20    0 
+RunStop   797674300  4  3 c   c     f     -           67   20    0 
+RunStop   797674344  4  2 Bk  b     bcA   -           47   47   99 3h Qc
+RunStop   797674393  4  1 Bc  kc    kc    kc          99   60    0 4h Kh
+RunStop   797674432  4  4 c   f     -     -           39   10    0 
+RunStop   797674469  4  3 cc  cA    -     -           29   29   68 Ac Td
+RunStop   797674488  4  2 Bk  kf    -     -           68   10    0 
+RunStop   797674528  4  1 Bf  -     -     -           58    5    0 
+RunStop   797674550  4  4 f   -     -     -           53    0    0 
+RunStop   797674577  4  3 f   -     -     -           53    0    0 
+RunStop   797674614  4  2 Bc  kf    -     -           53   20    0 
+RunStop   797674658  4  1 Bc  k     kf    -           33   10    0 
+RunStop   797674705  4  4 f   -     -     -           23    0    0 
+RunStop   797674715  4  3 c   rA    -     -           23   23    0 Jd 3d
+RunStop   797674901  3  3 Q   -     -     -         1000    0    0 
+RunStop   797930395  9  3 c   f     -     -         1000   10    0 
+RunStop   797930439  9  2 Bf  -     -     -          990   10    0 
+RunStop   797930502  8  1 Bc  kf    -     -          980   10    0 
+RunStop   797930539  9  9 c   f     -     -          970   20    0 
+RunStop   797930597 10  9 c   f     Q     -          950   10    0 
+RunStop   797938077  3  3 c   c     f     -          940   20    0 
+RunStop   797938106  3  2 Bc  f     -     -          920   20    0 
+RunStop   797938128  3  1 BQ  -     -     -          900    5    0 
+RunStop   797938599  3  2 Bk  k     k     k          895   10   20 6s 4d
+RunStop   797938644  3  1 Bf  -     -     -          905    5    0 
+RunStop   797938657  3  3 c   k     c     r          900   70  130 
+RunStop   797938702  3  2 Bk  k     kf    -          960   10    0 
+RunStop   797938855  2  1 Bcc kc    kc    kfKQKQ     950   50    0 
+RunStop   798068621  8  3 f   -     -     -          900    0    0 
+RunStop   798068668  8  2 Bf  -     -     -          900   10    0 
+RunStop   798068699  8  1 Bc  kc    brc   krrr       890  230  600 5s 4s
+RunStop   798068793  9  9 f   -     -     -         1260    0    0 
+RunStop   798068872 10  9 cc  cc    cc    f         1260  140    0 
+RunStop   798069035 10  8 f   -     -     -         1120    0    0 
+RunStop   798069167 10  7 f   -     -     -         1120    0    0 
+RunStop   798069300 10  6 c   f     -     -         1120   20    0 
+RunStop   798069384  9  5 f   -     -     -         1100    0    0 
+RunStop   798069467  9  4 cf  -     -     -         1100   10    0 
+RunStop   798069620  9  3 c   Q     -     -         1090   10    0 
+RunStop   798070024 10 10 f   -     -     -         1080    0    0 
+RunStop   798070124  9  7 Q   -     -     -         1080    0    0 
+RunStop   798281025  4  2 Bk  kf    -     -         1080   10    0 
+RunStop   798281064  4  1 Bc  b     b     bc        1070   80    0 8c Qd
+RunStop   798281148  4  4 c   -     -     -          990   10   25 
+RunStop   798281180  4  3 f   -     -     -         1005    0    0 
+RunStop   798281291  4  2 Bc  kc    k     b         1005   50  105 7c 4s
+RunStop   798281353  4  1 Bc  brc   brrrr kc        1060  260    0 Td Th
+RunStop   798281526  4  4 c   k     k     k          800   10   25 Kh 9c
+RunStop   798281599  4  3 c   kf    -     -          815   10    0 
+RunStop   798281675  4  2 Bc  kf    -     -          805   20    0 
+RunStop   798281727  4  1 Bc  k     kf    -          785   10    0 
+RunStop   798281785  4  4 c   c     c     r          775   80  165 9h Qs
+RunStop   798281842  4  3 cc  f     -     -          860   20    0 
+RunStop   798281941  4  2 Bk  k     k     k          840   10   25 3c 7d
+RunStop   798282018  4  1 Bc  b     kc    k          855   40    0 Qs 4d
+RunStop   798282110  4  4 f   -     -     -          815    0    0 
+RunStop   798282145  4  3 cc  k     k     b          815   40  140 Kd Tc
+RunStop   798282215  4  2 Bk  k     kf    -          915   10    0 
+RunStop   798282304  4  1 Bf  -     -     -          905    5    0 
+RunStop   798282418  4  4 rc  c     c     c          900   90    0 7h 7s
+RunStop   798282524  4  3 cc  f     -     -          810   20    0 
+RunStop   798282561  4  2 Bk  f     -     -          790   10    0 
+RunStop   798282617  4  1 Bc  kf    -     -          780   10    0 
+RunStop   798282675  4  4 c   b     Q     -          770   20    0 
+RunStop   798282818  3  2 Bk  kc    kf    -          750   20    0 
+RunStop   798282881  3  1 Bc  k     k     k          730   10    0 4h Jd
+RunStop   798282929  3  3 c   c     c     f          720   40    0 
+RunStop   798282975  3  2 BKQ -     -     -          680   10    0 
+RunStop   798454429  4  3 cf  -     -     -          670   10    0 
+RunStop   798454551  4  2 Bk  k     c     f          660   30    0 
+RunStop   798454609  4  1 Bc  k     k     k          630   10    0 9d 2d
+RunStop   798454704  4  4 c   f     -     -          620   20    0 
+RunStop   798454886  4  3 c   Q     -     -          600   10    0 
+RunStop   798455041  3  2 Bk  kc    f     -          590   20    0 
+RunStop   798455126  3  1 Bc  k     k     b          570   30   40 
+RunStop   798455169  3  3 c   -     -     -          580   10   25 
+RunStop   798455174  2  1 B   -     -     -          595   10   10 
+RunStop   798455183  2  1 Bc  kc    k     kc         595   40    0 5c Qd
+RunStop   798455225  2  2 B   -     -     -          555   10   15 
+RunStop   798455233  2  1 BQ  -     -     -          560    5    0 

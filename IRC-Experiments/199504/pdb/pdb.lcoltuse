@@ -1,0 +1,598 @@
+lcoltuse  797227677  8  2 Bk  k     kf    -         1000   10    0 
+lcoltuse  797227730  6  1 Bc  kc    kc    k          990   40    0 Th 4h
+lcoltuse  797227822  6  6 cc  k     f     -          950   20    0 
+lcoltuse  797227929  6  5 c   cc    cc    c          930  110    0 3h Ad
+lcoltuse  797228001  6  4 cc  f     -     -          820   30    0 
+lcoltuse  797228026  6  3 f   -     -     -          790    0    0 
+lcoltuse  797228088  6  2 Bk  k     cc    f          790   50    0 
+lcoltuse  797228149  6  1 Br  bc    kc    kc         740   80    0 6s As
+lcoltuse  797228197  5  5 c   c     f     -          660   20    0 
+lcoltuse  797228283  5  4 c   r     b     k          640   50    0 8c Qs
+lcoltuse  797228333  5  3 cc  c     c     c          590   70    0 4s 8s
+lcoltuse  797228399  5  2 Bk  b     b     -          520   40   70 
+lcoltuse  797228458  5  1 Bc  k     b     -          550   40  110 
+lcoltuse  797228513  5  3 Q   -     -     -          620    0    0 
+lcoltuse  797236490  9  3 f   -     -     -          620    0    0 
+lcoltuse  797236537  9  2 Bc  bc    kc    kc         620   80    0 Ac Td
+lcoltuse  797236581  8  1 Bc  bc    k     k          540   30    0 8d 3h
+lcoltuse  797236670  8  8 f   -     -     -          510    0    0 
+lcoltuse  797236713  8  7 f   -     -     -          510    0    0 
+lcoltuse  797236767  8  6 cc  cc    f     -          510   50    0 
+lcoltuse  797236830  6  5 rc  bc    c     r          460  120  365 Qc Jc
+lcoltuse  797236921  5  4 f   -     -     -          705    0    0 
+lcoltuse  797236943  5  3 f   -     -     -          705    0    0 
+lcoltuse  797236972  5  2 Bk  k     b     -          705   30   40 
+lcoltuse  797236995  5  1 Bc  kf    -     -          715   10    0 
+lcoltuse  797237042  5  5 f   -     -     -          705    0    0 
+lcoltuse  797237077  5  4 c   c     c     c          705   60    0 9h Th
+lcoltuse  797237099  5  3 f   -     -     -          645    0    0 
+lcoltuse  797237129  5  2 Bf  -     -     -          645   10    0 
+lcoltuse  797237146  5  1 Bc  b     bc    kc         635   80    0 6s 5c
+lcoltuse  797237179  5  5 r   -     -     -          555   20   35 
+lcoltuse  797237193  5  4 f   -     -     -          570    0    0 
+lcoltuse  797237219  5  3 rcc bc    k     f          570   60    0 
+lcoltuse  797237258  5  2 Br  -     -     -          510   20   35 
+lcoltuse  797237284  5  1 Bc  kf    -     -          525   10    0 
+lcoltuse  797237348  5  5 rc  c     b     rf         515  100    0 
+lcoltuse  797237418  5  4 rc  rc    cc    f          415  160    0 
+lcoltuse  797237499  6  3 f   -     -     -          255    0    0 
+lcoltuse  797237542  6  2 Bk  kf    -     -          255   10    0 
+lcoltuse  797237584  6  1 Bc  bc    kc    kf         245   60    0 
+lcoltuse  797237634  6  6 f   -     -     -          185    0    0 
+lcoltuse  797237644  6  5 r   k     c     f          185   40    0 
+lcoltuse  797237669  6  4 f   -     -     -          145    0    0 
+lcoltuse  797237695  5  2 Br  bc    kc    k          145   60    0 8s Ac
+lcoltuse  797237725  5  1 Bc  kf    -     -           85   10    0 
+lcoltuse  797237749  5  5 c   k     b     k           75   30    0 5s Ks
+lcoltuse  797237788  5  4 f   -     -     -           45    0    0 
+lcoltuse  797237831  5  3 r   b     bA    -           45   45  105 Ah 8d
+lcoltuse  797237851  5  2 Bk  kc    kf    -          105   20    0 
+lcoltuse  797237878  5  1 Br  br    b     bA          85   85    0 Ts Qs
+lcoltuse  797927030 10  4 r   b     k     k         1000   30  115 6c 6h
+lcoltuse  797927076 10  3 rc  b     -     -         1085   40  170 
+lcoltuse  797927117 10  2 Bc  kf    -     -         1215   20    0 
+lcoltuse  797927170 10  1 Bf  -     -     -         1195    5    0 
+lcoltuse  797927222 10 10 f   -     -     -         1190    0    0 
+lcoltuse  797927270 10  9 f   -     -     -         1190    0    0 
+lcoltuse  797927347  9  8 f   -     -     -         1190    0    0 
+lcoltuse  797927384  6  5 f   -     -     -         1190    0    0 
+lcoltuse  797927395  6  4 r   rr    c     c         1190  100    0 Ad 2d
+lcoltuse  797927432  8  3 f   -     -     -         1090    0    0 
+lcoltuse  797927455  6  2 Bc  b     b     b         1090   70    0 7c 2c
+lcoltuse  797927502  8  1 Br  b     b     -         1020   50   90 
+lcoltuse  797927525  8  8 r   k     b     -         1060   40   66 Ac 7d
+lcoltuse  797927549  7  6 c   c     k     f         1086   20    0 
+lcoltuse  797927580  7  5 r   b     -     -         1066   30   70 
+lcoltuse  797927606  8  5 f   -     -     -         1106    0    0 
+lcoltuse  797927649  7  3 cc  f     -     -         1106   20    0 
+lcoltuse  797927692  6  2 Bc  cc    f     -         1086   60    0 
+lcoltuse  797927734  7  1 Bf  -     -     -         1026    5    0 
+lcoltuse  797927745  7  7 c   f     -     -         1021   10    0 
+lcoltuse  797927784  7  6 r   r     k     k         1011   40    0 9h Qh
+lcoltuse  797927821  7  5 f   -     -     -          971    0    0 
+lcoltuse  797927870  6  4 c   f     -     -          971   10    0 
+lcoltuse  797927895  7  3 f   -     -     -          961    0    0 
+lcoltuse  797927942  7  2 Bk  k     k     k          961   10   10 2c Jh
+lcoltuse  797927966  7  1 Bc  kf    -     -          961   10    0 
+lcoltuse  797927994  7  7 cc  rc    b     b          951   90  330 Td 3d
+lcoltuse  797928061  7  6 c   k     k     k         1191   10   35 Ac 7h
+lcoltuse  797928099  7  5 rc  rc    c     c         1216  100  170 Ac Ks
+lcoltuse  797928178  8  5 f   -     -     -         1286    0    0 
+lcoltuse  797928302  8  4 f   -     -     -         1286    0    0 
+lcoltuse  797928372  8  3 r   b     b     -         1286   50  110 
+lcoltuse  797928399  8  2 Bc  kf    -     -         1346   30    0 
+lcoltuse  797928429  7  1 Bf  -     -     -         1316    5    0 
+lcoltuse  797928452  7  7 f   -     -     -         1311    0    0 
+lcoltuse  797928470  7  6 r   b     b     b         1311   70  240 Qd Kd
+lcoltuse  797928547  8  5 c   b     -     -         1481   20   40 
+lcoltuse  797928567  8  4 cc  cc    c     f         1501   70    0 
+lcoltuse  797928607  8  3 f   -     -     -         1431    0    0 
+lcoltuse  797928618  8  2 Bk  k     kf    -         1431   10    0 
+lcoltuse  797928659  8  1 Bf  -     -     -         1421    5    0 
+lcoltuse  797928693  8  8 r   c     c     c         1416  100    0 Jd Kd
+lcoltuse  797928759  8  7 r   c     c     f         1316   80    0 
+lcoltuse  797928794  8  6 c   f     -     -         1236   20    0 
+lcoltuse  797928845  8  5 f   -     -     -         1216    0    0 
+lcoltuse  797928876  8  4 r   bc    rr    b         1216  140  410 Ac Ks
+lcoltuse  797928924  7  2 Bk  k     k     kf        1486   10    0 
+lcoltuse  797928959  7  1 Bf  -     -     -         1476    5    0 
+lcoltuse  797928975  7  7 c   k     cc    f         1471   90    0 
+lcoltuse  797929114  7  6 c   f     -     -         1381   10    0 
+lcoltuse  797929184  6  5 c   c     c     c         1371   80  260 Ac 9s
+lcoltuse  797929239  7  5 r   rc    f     -         1551   50    0 
+lcoltuse  797929277  7  4 cc  kf    -     -         1501   20    0 
+lcoltuse  797929321  7  3 f   -     -     -         1481    0    0 
+lcoltuse  797929358  7  2 Brr b     b     b         1481  100    0 7s As
+lcoltuse  797929387  7  1 Bf  -     -     -         1381    5    0 
+lcoltuse  797929438  7  7 c   c     c     f         1376   50    0 
+lcoltuse  797929486  8  7 r   rc    c     r         1326  110  245 6d Ad
+lcoltuse  797929526  7  5 f   -     -     -         1461    0    0 
+lcoltuse  797929593  7  4 f   -     -     -         1461    0    0 
+lcoltuse  797929650  8  4 cc  br    k     b         1461   70  250 Qh 9d
+lcoltuse  797929741  7  3 c   bc    b     b         1641   70  160 Th 8c
+lcoltuse  797929802  7  2 Brc br    b     b         1731  110  300 Ks Qh
+lcoltuse  797929883  9  1 Bc  b     b     k         1921   40  110 
+lcoltuse  797929919  8  8 f   -     -     -         1991    0    0 
+lcoltuse  797929959  8  7 f   -     -     -         1991    0    0 
+lcoltuse  797929993  8  6 c   c     r     bc        1991  100    0 6h 9h
+lcoltuse  797930044  8  5 c   b     kc    kc        1891   60  103 Ad 8s
+lcoltuse  797930116  8  4 f   -     -     -         1934    0    0 
+lcoltuse  797930192  8  3 cc  rrr   rrc   c         1934  200  425 Qs 8s
+lcoltuse  797930247  7  2 Bc  k     k     kf        2159   20    0 
+lcoltuse  797930286  7  1 Bf  -     -     -         2139    5    0 
+lcoltuse  797930317  7  7 f   -     -     -         2134    0    0 
+lcoltuse  797930395  9  8 f   -     -     -         2134    0    0 
+lcoltuse  797930439  9  7 cc  c     f     -         2134   50    0 
+lcoltuse  797930502  8  5 f   -     -     -         2084    0    0 
+lcoltuse  797930539  9  5 f   -     -     -         2084    0    0 
+lcoltuse  797930597 10  4 c   kf    -     -         2084   10    0 
+lcoltuse  797930646  9  3 f   -     -     -         2074    0    0 
+lcoltuse  797930758  9  2 Bc  br    bc    kf        2074  110    0 
+lcoltuse  797930871  9  1 BQ  -     -     -         1964    5    0 
+lcoltuse  798097147 11 10 f   -     -     -         1959    0    0 
+lcoltuse  798097246 12  9 c   f     -     -         1959   10    0 
+lcoltuse  798097303 12  8 cc  r     b     k         1949   80    0 Ks Ts
+lcoltuse  798097392 12  7 c   r     c     f         1869   50    0 
+lcoltuse  798097461 12  6 f   -     -     -         1819    0    0 
+lcoltuse  798097593 10  3 cc  kf    -     -         1819   20    0 
+lcoltuse  798097658 12  2 Bc  kc    kc    kf        1799   60    0 
+lcoltuse  798097736 12  1 Bc  bf    -     -         1739   30    0 
+lcoltuse  798097788 12 12 f   -     -     -         1709    0    0 
+lcoltuse  798097846 12 11 c   c     b     f         1709   40    0 
+lcoltuse  798097931 12 10 r   c     bc    b         1669  100    0 Js Ad
+lcoltuse  798098036 11  9 f   -     -     -         1569    0    0 
+lcoltuse  798098095 11  8 c   cc    f     -         1569   40    0 
+lcoltuse  798098151 12  7 f   -     -     -         1529    0    0 
+lcoltuse  798098210 12  6 c   br    c     f         1529   70    0 
+lcoltuse  798098284 11  5 f   -     -     -         1459    0    0 
+lcoltuse  798098388 10  4 f   -     -     -         1459    0    0 
+lcoltuse  798098479 11  3 cc  k     kf    -         1459   20    0 
+lcoltuse  798098592 10  2 Bk  k     kf    -         1439   10    0 
+lcoltuse  798098711 11  1 Bf  -     -     -         1429    5    0 
+lcoltuse  798098760 11 11 c   f     -     -         1424   20    0 
+lcoltuse  798098827 11 10 c   c     c     c         1404   70    0 5s 5d
+lcoltuse  798098891 12  9 c   cc    f     -         1334   40    0 
+lcoltuse  798099048 12  8 r   rc    rr    f         1294  140    0 
+lcoltuse  798099184 12  7 f   -     -     -         1154    0    0 
+lcoltuse  798099263 12  6 r   r     cr    b         1154  120  515 Ac 9c
+lcoltuse  798099356 11  4 f   -     -     -         1549    0    0 
+lcoltuse  798099471 12  3 f   -     -     -         1549    0    0 
+lcoltuse  798099537 12  2 Bcc kQ    -     -         1549   40    0 
+lcoltuse  798185651  7  5 c   c     bc    c         1509   80    0 Js Kc
+lcoltuse  798185704  7  4 r   -     -     -         1429   20   35 
+lcoltuse  798185734  7  3 c   r     b     b         1444   70  230 5c Ah
+lcoltuse  798185803  7  2 Bk  cc    f     -         1604   30    0 
+lcoltuse  798185900  7  1 Bc  k     k     kf        1574   10    0 
+lcoltuse  798185957  7  7 c   c     rr    b         1564  120  260 9h Ah
+lcoltuse  798186023  7  6 c   f     -     -         1704   10    0 
+lcoltuse  798186086  7  6 f   -     -     -         1694    0    0 
+lcoltuse  798186119  6  4 f   -     -     Q         1694    0    0 
+lcoltuse  798684351  8  4 f   -     -     -         1694    0    0 
+lcoltuse  798684436  8  3 f   -     -     -         1694    0    0 
+lcoltuse  798684537  8  2 Br  b     kc    kc        1694   80  260 Qs Qc
+lcoltuse  798684626  9  1 Bc  kf    -     -         1874   20    0 
+lcoltuse  798684713  9  9 r   c     c     k         1854   70  355 Th Ts
+lcoltuse  798684807  9  8 c   b     b     -         2139   40   80 
+lcoltuse  798684882  9  7 cc  cc    f     -         2179   50    0 
+lcoltuse  798685032 11  6 r   bc    k     kf        2129   40    0 
+lcoltuse  798685155 10  3 c   f     -     -         2089   10    0 
+lcoltuse  798685231 10  2 Bc  b     kc    kc        2079   70    0 Ac 8s
+lcoltuse  798685309  9  1 Bc  kc    kc    k         2009   70  360 6d Kd
+lcoltuse  798685417  9  9 r   bc    b     c         2299   80    0 Kh Kd
+lcoltuse  798685549  9  8 f   -     -     -         2219    0    0 
+lcoltuse  798685625  8  7 f   -     -     -         2219    0    0 
+lcoltuse  798685729  8  6 f   -     -     -         2219    0    0 
+lcoltuse  798685777  8  5 f   -     -     -         2219    0    0 
+lcoltuse  798685855  9  5 cc  r     k     b         2219   70  175 
+lcoltuse  798685924  9  4 f   -     -     -         2324    0    0 
+lcoltuse  798686008  9  3 cc  r     b     k         2324   60  225 Ks Tc
+lcoltuse  798686090  9  2 Bc  kc    kf    -         2489   30    0 
+lcoltuse  798686214  9  1 Bc  br    b     b         2459   90    0 Qd Kd
+lcoltuse  798686292  9  9 f   -     -     -         2369    0    0 
+lcoltuse  798686363  9  8 f   -     -     -         2369    0    0 
+lcoltuse  798686448  9  7 f   -     -     -         2369    0    0 
+lcoltuse  798686499  9  6 f   -     -     -         2369    0    0 
+lcoltuse  798686614  9  5 f   -     -     -         2369    0    0 
+lcoltuse  798686699  9  4 f   -     -     -         2369    0    0 
+lcoltuse  798686785  9  3 r   b     k     f         2369   30    0 
+lcoltuse  798686842  9  2 Br  bc    k     b         2339   60  240 Ac Kc
+lcoltuse  798686973  9  1 Br  b     b     -         2519   50  110 
+lcoltuse  798687107  8  8 f   -     -     -         2579    0    0 
+lcoltuse  798687208  8  7 c   f     -     -         2579   20    0 
+lcoltuse  798687266  7  5 f   -     -     -         2559    0    0 
+lcoltuse  798687327  7  4 cc  c     c     f         2559   50    0 
+lcoltuse  798687413  7  3 f   -     -     -         2509    0    0 
+lcoltuse  798687483  7  2 Br  br    b     b         2509  100    0 Ad Kd
+lcoltuse  798687561  8  1 Bc  k     kf    -         2409   10    0 
+lcoltuse  798687688  8  8 c   k     cc    f         2399   50    0 
+lcoltuse  798687801  9  8 f   -     -     -         2349    0    0 
+lcoltuse  798687923  8  6 f   -     -     -         2349    0    0 
+lcoltuse  798688021  9  6 c   c     c     f         2349   40    0 
+lcoltuse  798688110  9  5 cc  b     b     bf        2309   70    0 
+lcoltuse  798688235 11  5 f   -     -     -         2239    0    0 
+lcoltuse  798688368 11  4 f   -     -     -         2239    0    0 
+lcoltuse  798688488 11  3 c   f     -     -         2239   10    0 
+lcoltuse  798688625 11  2 Bk  kf    -     -         2229   10    0 
+lcoltuse  798688689 12  1 Bf  Q     -     -         2219    5    0 
+lcoltuse  798699657  4  3 cc  kc    kc    f         2899   50    0 
+lcoltuse  798699721  4  2 Br  b     -     -         2849   30   70 
+lcoltuse  798699774  4  1 Bc  b     kc    kc        2889   60    0 Qd Td
+lcoltuse  798699820  5  5 f   -     -     -         2829    0    0 
+lcoltuse  798699852  5  4 cc  rrc   r     b         2829  140  355 Tc 9h
+lcoltuse  798699918  5  3 rc  c     k     k         3044   32    0 Jd Qc
+lcoltuse  798699995  5  2 Bc  bc    k     b         3012   70  175 
+lcoltuse  798700043  5  1 Bc  b     b     b         3117   60  140 3h 3s
+lcoltuse  798700093  5  5 f   -     -     -         3197    0    0 
+lcoltuse  798700149  5  4 f   -     -     -         3197    0    0 
+lcoltuse  798700183  6  4 cc  bc    b     f         3197   60    0 
+lcoltuse  798700233  5  2 c   k     k     k         3137   10   20 8d Qc
+lcoltuse  798700264  5  2 Bk  f     -     -         3147   10    0 
+lcoltuse  798700306  5  1 Bc  kf    -     -         3137   10    0 
+lcoltuse  798700375  5  5 r   b     -     -         3127   30   75 
+lcoltuse  798700437  5  4 cc  c     c     k         3172   50    0 Jh 9c
+lcoltuse  798700523  5  3 f   -     -     -         3122    0    0 
+lcoltuse  798700574  6  2 Bc  kf    -     -         3122   20    0 
+lcoltuse  798700637  6  1 Bc  b     b     b         3102   60    0 7s Qd
+lcoltuse  798700690  5  5 r   b     k     k         3042   30  100 7s 7h
+lcoltuse  798700760  5  3 Q   -     -     -         3112    0    0 
+lcoltuse  798700949  6  4 ccc cf    -     -         3112   50    0 
+lcoltuse  798701027  5  2 Bk  b     bc    k         3062   60    0 2s Td
+lcoltuse  798701098  5  1 Br  b     bf    -         3002   60    0 
+lcoltuse  798701166  5  5 f   -     -     -         2942    0    0 
+lcoltuse  798701211  5  4 ccc kc    k     b         2942   70    0 9s Ks
+lcoltuse  798701283  5  3 c   c     f     -         2872   20    0 
+lcoltuse  798701347  6  3 c   c     f     -         2852   20    0 
+lcoltuse  798701377  6  2 Bc  kf    -     -         2832   20    0 
+lcoltuse  798701436  6  1 Bc  k     k     kf        2812   10    0 
+lcoltuse  798701534  6  6 r   c     c     c         2802   70  155 8c 8d
+lcoltuse  798701581  5  5 c   b     b     f         2887   40    0 
+lcoltuse  798701720  4  3 rc  c     c     c         2847   80  195 Kc Js
+lcoltuse  798701768  4  2 Bk  f     -     -         2962   10    0 
+lcoltuse  798701791  4  1 Bf  -     -     -         2952    5    0 
+lcoltuse  798701854  4  4 cc  c     b     k         2947   60    0 3c Ks
+lcoltuse  798701914  5  3 ccc rc    c     f         2887   90    0 
+lcoltuse  798701975  5  2 Bk  k     k     k         2797   10    0 3c 2d
+lcoltuse  798702016  5  1 Bc  b     b     k         2787   40    0 7c 2s
+lcoltuse  798702077  5  5 c   k     b     k         2747   30   65 4d Ad
+lcoltuse  798702138  5  4 c   b     k     k         2782   20   45 8c Qh
+lcoltuse  798702181  5  3 f   -     -     -         2807    0    0 
+lcoltuse  798702219  5  2 Br  b     bc    c         2807  100    0 As Ad
+lcoltuse  798702282  5  1 Br  b     k     b         2707   50  110 
+lcoltuse  798702340  5  5 r   b     bc    c         2767   90  190 Jh Ad
+lcoltuse  798702375  5  4 f   -     -     -         2867    0    0 
+lcoltuse  798702406  5  4 c   b     k     f         2867   20    0 
+lcoltuse  798702486  4  2 Bf  -     -     -         2847   10    0 
+lcoltuse  798702509  4  1 Bf  -     -     -         2837    5    0 
+lcoltuse  798702531  4  4 f   -     -     -         2832    0    0 
+lcoltuse  798702598  4  3 f   -     -     -         2832    0    0 
+lcoltuse  798702656  4  2 Bk  b     -     -         2832   20   35 
+lcoltuse  798702679  5  1 Bcc kf    -     -         2847   40    0 
+lcoltuse  798702747  5  5 f   -     -     -         2807    0    0 
+lcoltuse  798702787  5  4 f   -     -     -         2807    0    0 
+lcoltuse  798702873  5  3 f   -     -     -         2807    0    0 
+lcoltuse  798702924  5  2 Br  b     b     -         2807   50  120 
+lcoltuse  798702980  5  1 Bc  b     -     -         2877   20   60 
+lcoltuse  798703012  5  5 cc  k     k     k         2917   20    0 9c Qs
+lcoltuse  798703067  6  5 c   b     b     b         2897   60    0 6d 7h
+lcoltuse  798703122  6  4 cc  f     -     -         2837   20    0 
+lcoltuse  798703188  6  3 f   -     -     -         2817    0    0 
+lcoltuse  798703260  6  2 Bc  kf    -     -         2817   20    0 
+lcoltuse  798703317  7  1 Bc  bc    kc    kf        2797   60    0 
+lcoltuse  798703414  7  7 r   r     bf    -         2737   60    0 
+lcoltuse  798703482  7  6 c   rc    cc    kc        2677  120    0 As 3d
+lcoltuse  798703576  8  5 c   r     b     b         2557   70  108 Ks Td
+lcoltuse  798703668  8  4 c   b     b     k         2595   40  110 Qs Tc
+lcoltuse  798703741  8  3 fQ  -     -     -         2665    0    0 
+lcoltuse  798704389  9  2 Bc  kc    kc    kc        2665   70    0 3h 8h
+lcoltuse  798704445  9  1 BQ  -     -     -         2595    5    0 
+lcoltuse  798770834 11  8 f   -     -     -         2465    0    0 
+lcoltuse  798770910 10  6 f   -     -     -         2465    0    0 
+lcoltuse  798770964 10  5 cc  f     -     -         2465   20    0 
+lcoltuse  798771032 10  4 c   c     r     -         2445   60  120 
+lcoltuse  798771116 10  3 ccc cf    -     -         2505   50    0 
+lcoltuse  798771291  8  1 Bk  b     bc    k         2455   60  180 As 7h
+lcoltuse  798771361  8  1 Brc br    -     -         2575   60  170 
+lcoltuse  798771524  7  7 c   b     k     f         2685   30    0 
+lcoltuse  798771595  8  8 f   -     -     -         2655    0    0 
+lcoltuse  798771676  8  8 f   -     -     -         2655    0    0 
+lcoltuse  798771750  7  6 r   b     b     b         2655   70  135 
+lcoltuse  798771790  7  5 f   -     -     -         2720    0    0 
+lcoltuse  798771877  7  4 f   -     -     -         2720    0    0 
+lcoltuse  798771933  8  3 f   -     -     -         2720    0    0 
+lcoltuse  798772025  7  2 Bf  -     -     -         2720   10    0 
+lcoltuse  798772183 10  1 Bc  kf    -     -         2710   20    0 
+lcoltuse  798772284 10 10 f   -     -     -         2690    0    0 
+lcoltuse  798772401 11  9 f   -     -     -         2690    0    0 
+lcoltuse  798772497 11  8 c   c     c     k         2690   40  165 5d Kc
+lcoltuse  798772584 10  7 cc  c     f     -         2815   30    0 
+lcoltuse  798772676 10  6 f   -     -     -         2785    0    0 
+lcoltuse  798772902 11  5 f   -     -     -         2785    0    0 
+lcoltuse  798773058 11  4 r   b     k     c         2785   50    0 Kc Qd
+lcoltuse  798773132 11  3 cc  cf    -     -         2735   30    0 
+lcoltuse  798773244 10  2 Bf  -     -     -         2705   10    0 
+lcoltuse  798773336  9  1 Bc  kc    kc    kf        2695   60    0 
+lcoltuse  798773444  9  9 f   -     -     -         2635    0    0 
+lcoltuse  798773571  9  8 f   Q     -     -         2635    0    0 
+lcoltuse  798786519  4  4 f   -     -     -         2635    0    0 
+lcoltuse  798786543  3  2 f   -     -     -         2635    0    0 
+lcoltuse  798786580  3  2 Br  b     k     b         2635   50   85 
+lcoltuse  798786609  3  1 Bc  k     k     k         2670   10   20 8s 4h
+lcoltuse  798786637  3  3 f   -     -     -         2680    0    0 
+lcoltuse  798786644  4  2 Bk  k     k     k         2680   10    0 Kh 8d
+lcoltuse  798786690  4  1 Br  brc   brc   brrr      2670  280  570 Qs Ks
+lcoltuse  798786783  3  3 c   b     c     c         2960   70    0 9c Jh
+lcoltuse  798786855  2  2 c   b     b     f         2890   40    0 
+lcoltuse  798786920  2  2 Bk  b     -     -         2850   20   30 
+lcoltuse  798786954  2  1 Br  b     b     br        2860  110  220 3d Kd
+lcoltuse  798786999  2  2 Bk  k     k     k         2970   10    0 9d Qc
+lcoltuse  798787050  2  1 Bf  -     -     -         2960    5    0 
+lcoltuse  798787056  2  2 Br  b     -     -         2955   30   50 
+lcoltuse  798787094  2  1 Bc  k     kf    -         2975   10    0 
+lcoltuse  798787128  2  2 Bk  b     b     -         2965   40   60 
+lcoltuse  798787170  2  1 Bc  k     k     k         2985   10   20 Ts Ah
+lcoltuse  798787202  2  2 B   -     -     -         2995   10   15 
+lcoltuse  798787217  2  1 Bc  bc    kc    kc        3000   70    0 5c 4d
+lcoltuse  798787261  2  2 Bk  k     f     -         2930   10    0 
+lcoltuse  798787312  2  1 Br  b     b     -         2920   50   80 
+lcoltuse  798787339  2  2 Bk  f     -     -         2950   10    0 
+lcoltuse  798787359  2  1 Bf  -     -     -         2940    5    0 
+lcoltuse  798787362  2  2 Bk  k     b     b         2935   50  100 3d Tc
+lcoltuse  798787414  2  1 Br  b     -     -         2985   30   50 
+lcoltuse  798787438  2  2 Bk  k     b     -         3005   30   40 
+lcoltuse  798787478  2  1 Br  -     -     -         3015   20   30 
+lcoltuse  798787499  2  2 B   -     -     -         3025   10   15 
+lcoltuse  798787509  2  1 Bc  k     b     -         3030   30   40 
+lcoltuse  798787572  2  2 B   -     -     -         3040   10   15 
+lcoltuse  798787582  2  1 Bc  b     bc    kf        3045   60    0 
+lcoltuse  798787623  2  2 Bk  k     f     -         2985   10    0 
+lcoltuse  798787653  2  1 Bc  k     k     b         2975   30   60 Kd 9c
+lcoltuse  798787689  2  2 Bk  c     c     c         3005   60    0 5s Jh
+lcoltuse  798787733  2  1 Bc  kf    -     -         2945   10    0 
+lcoltuse  798787754  2  2 Bk  k     b     b         2935   50  100 3s Ad
+lcoltuse  798787803  2  1 Br  b     bc    kf        2985   70    0 
+lcoltuse  798787877  2  2 Bk  b     k     f         2915   20    0 
+lcoltuse  798787921  2  1 Bf  -     -     -         2895    5    0 
+lcoltuse  798787924  2  2 Bk  b     b     k         2890   40   80 7h 6d
+lcoltuse  798787972  2  1 Br  b     -     -         2930   30   50 
+lcoltuse  798787999  2  2 Br  r     b     c         2950   80  160 Kc Jh
+lcoltuse  798788064  2  1 Bc  bc    kc    bc        3030   90  180 6h Kc
+lcoltuse  798788115  2  2 B   -     -     -         3120   10   15 
+lcoltuse  798788133  2  1 Bc  k     k     k         3125   10    0 6d 5c
+lcoltuse  798788188  2  2 Bk  b     -     -         3115   20   30 
+lcoltuse  798788236  2  1 Bf  -     -     -         3125    5    0 
+lcoltuse  798788243  2  2 Bk  k     b     -         3120   30   40 
+lcoltuse  798788320  2  1 Br  kc    kc    k         3130   50  100 6c 6h
+lcoltuse  798788365  2  2 Bk  b     -     -         3180   20   30 
+lcoltuse  798788427  2  1 Bc  k     k     kf        3190   10    0 
+lcoltuse  798788493  2  2 Br  b     b     c         3180   70  140 9c 9h
+lcoltuse  798788547  4  1 Bc  b     b     -         3250   40   80 
+lcoltuse  798788590  4  4 c   f     -     -         3290   10    0 
+lcoltuse  798788640  4  3 f   -     -     -         3280    0    0 
+lcoltuse  798788711  4  2 Bk  b     k     k         3280   20   40 4c 3d
+lcoltuse  798788766  3  1 Bc  k     kf    -         3300   10    0 
+lcoltuse  798788813  3  3 c   f     -     -         3290   10    0 
+lcoltuse  798788837  2  2 Bk  f     -     -         3280   10    0 
+lcoltuse  798788854  2  1 Bf  -     -     -         3270    5    0 
+lcoltuse  798788858  2  2 Bc  c     c     c         3265   70    0 As 6c
+lcoltuse  798788900  2  1 Bf  -     -     -         3195    5    0 
+lcoltuse  798788904  2  2 Bk  b     b     -         3190   40   60 
+lcoltuse  798788959  2  1 Br  kc    kc    kf        3210   50    0 
+lcoltuse  798789007  2  2 Bk  k     k     k         3160   10    0 9c 2h
+lcoltuse  798789046  3  1 Bc  k     kf    -         3150   10    0 
+lcoltuse  798789100  3  3 f   -     -     -         3140    0    0 
+lcoltuse  798789136  3  2 Bk  k     b     c         3140   50  100 4h 2c
+lcoltuse  798789192  3  1 Bc  k     k     kc        3190   30   70 3d Js
+lcoltuse  798789243  3  3 r   -     -     -         3230   20   35 
+lcoltuse  798789275  3  2 Bk  f     -     -         3245   10    0 
+lcoltuse  798789299  3  1 Bc  b     bc    kc        3235   80  160 9d 8h
+lcoltuse  798789336  3  3 f   -     -     -         3315    0    0 
+lcoltuse  798789364  3  2 Bk  k     f     -         3315   10    0 
+lcoltuse  798789393  3  1 Bc  kf    -     -         3305   10    0 
+lcoltuse  798789433  3  3 c   c     k     f         3295   20    0 
+lcoltuse  798789488  3  2 Bc  b     b     -         3275   50  100 
+lcoltuse  798789529  3  1 Bc  k     kc    kc        3325   50   55 8h 5c
+lcoltuse  798789594  3  3 f   -     -     -         3330    0    0 
+lcoltuse  798789673  3  2 Bk  k     f     -         3330   10    0 
+lcoltuse  798789706  3  1 BQ  -     -     -         3320    5    0 
+lcoltuse  798923513 11  4 rc  rc    rr    bc        3545  210  780 Ts Th
+lcoltuse  798923648 10  3 ccc kf    -     -         4115   40    0 
+lcoltuse  798923934 11  2 BKQ -     -     -         4075   10    0 
+lcoltuse  798926674 10 10 c   f     -     -         4065   10    0 
+lcoltuse  798926741  9  3 Q   -     -     -         4055    0    0 
+lcoltuse  799202708  4  4 f   -     -     -         5570    0    0 
+lcoltuse  799202729  4  3 f   -     -     -         5570    0    0 
+lcoltuse  799202749  4  2 Bk  b     b     -         5570   40   70 
+lcoltuse  799202769  4  1 Bc  bc    kc    k         5600   50  120 9c Kh
+lcoltuse  799202803  4  4 f   -     -     -         5670    0    0 
+lcoltuse  799202841  5  3 c   k     kf    -         5670   10    0 
+lcoltuse  799202898  5  2 Bk  c     k     c         5660   40   40 Qs 9s
+lcoltuse  799202932  5  1 Bc  b     -     -         5660   20   40 
+lcoltuse  799202955  5  5 c   c     c     b         5680   60  140 Jd Th
+lcoltuse  799202999  5  4 f   -     -     -         5760    0    0 
+lcoltuse  799203030  5  3 c   f     -     -         5760   10    0 
+lcoltuse  799203087  7  2 Bk  f     -     -         5750   10    0 
+lcoltuse  799203125  7  1 Bc  bc    bc    kc        5740   90    0 9c 8s
+lcoltuse  799203172  7  7 c   rc    b     k         5650   80    0 7c 9c
+lcoltuse  799203226  7  6 f   -     -     -         5570    0    0 
+lcoltuse  799203315  8  6 c   c     c     f         5570   40    0 
+lcoltuse  799203399  9  5 Q   -     -     -         5530    0    0 
+lcoltuse  799220549  9  4 cc  bc    k     b         5540   60  145 
+lcoltuse  799220602 10  3 f   -     -     -         5625    0    0 
+lcoltuse  799220680  8  2 Bf  -     -     -         5625   10    0 
+lcoltuse  799220777  7  1 Bf  -     -     -         5615    5    0 
+lcoltuse  799220870  7  7 r   b     b     b         5610   70    0 3s 3h
+lcoltuse  799220956  7  6 r   b     c     k         5540   50    0 Kh Ah
+lcoltuse  799221010  6  4 c   c     c     b         5490   60  140 8h Qd
+lcoltuse  799221073  6  3 c   f     -     -         5570   10    0 
+lcoltuse  799221103  6  2 Bk  k     k     f         5560   10    0 
+lcoltuse  799221176  6  1 Br  b     b     b         5550   70  160 Qh Jd
+lcoltuse  799221238  6  6 c   c     f     -         5640   20    0 
+lcoltuse  799221300  6  5 r   f     -     -         5620   20    0 
+lcoltuse  799221331  6  4 f   -     -     -         5600    0    0 
+lcoltuse  799221380  6  3 f   -     -     -         5600    0    0 
+lcoltuse  799221425  6  2 Bc  kf    -     -         5600   20    0 
+lcoltuse  799221476  5  1 Bc  b     b     kf        5580   40    0 
+lcoltuse  799221530  5  5 c   c     c     k         5540   40    0 Ad 8h
+lcoltuse  799221581  5  4 r   -     -     -         5500   20   35 
+lcoltuse  799221601  5  3 r   r     b     k         5515   60    0 Ad Qs
+lcoltuse  799221659  5  2 Bc  kr    b     b         5455   80    0 Ks Td
+lcoltuse  799221694  5  1 Bc  kc    kc    kf        5375   50    0 
+lcoltuse  799221751  5  5 f   -     -     -         5325    0    0 
+lcoltuse  799221756  5  4 r   c     k     k         5325   30    0 Qh Th
+lcoltuse  799221816  5  3 r   b     -     -         5295   30   75 
+lcoltuse  799221844  5  2 Bk  k     kf    -         5340   10    0 
+lcoltuse  799221882  5  1 Bc  br    b     b         5330   80  170 9h 8h
+lcoltuse  799221916  5  5 cc  f     -     -         5420   20    0 
+lcoltuse  799221965  5  4 f   -     -     -         5400    0    0 
+lcoltuse  799221987  5  3 c   f     -     -         5400   10    0 
+lcoltuse  799222019  5  2 Bf  -     -     -         5390   10    0 
+lcoltuse  799222038  5  1 Bcc kf    -     -         5380   30    0 
+lcoltuse  799222088  5  5 c   k     k     k         5350   10    0 8c 7c
+lcoltuse  799222127  5  4 c   k     b     -         5340   30   60 
+lcoltuse  799222185  5  3 r   kc    b     b         5370   70  170 Ac Tc
+lcoltuse  799222232  5  2 Bk  k     kf    -         5470   10    0 
+lcoltuse  799222272  5  1 Bf  -     -     -         5460    5    0 
+lcoltuse  799222320  5  5 cc  c     c     r         5455   90  210 Ts Kc
+lcoltuse  799222384  5  4 f   -     -     -         5575    0    0 
+lcoltuse  799222405  5  3 c   b     b     b         5575   60  135 Kc 6s
+lcoltuse  799222437  5  2 Bc  kc    kc    kf        5650   50    0 
+lcoltuse  799222464  5  1 Br  b     -     -         5600   30   90 
+lcoltuse  799222488  5  5 r   c     c     c         5660   70    0 Jh Jc
+lcoltuse  799222520  5  4 rc  c     c     c         5590   80    0 5h 5s
+lcoltuse  799222557  5  3 f   -     -     -         5510    0    0 
+lcoltuse  799222625  5  2 Bk  c     f     -         5510   20    0 
+lcoltuse  799222662  5  1 Bf  -     -     -         5490    5    0 
+lcoltuse  799222686  5  5 f   -     -     -         5485    0    0 
+lcoltuse  799222707  5  4 c   bc    c     k         5485   50  110 As 5h
+lcoltuse  799222754  5  3 f   -     -     -         5545    0    0 
+lcoltuse  799222793  5  2 Bk  k     k     k         5545   10   25 
+lcoltuse  799222829  5  1 Bc  kf    -     -         5560   10    0 
+lcoltuse  799222854  5  5 c   k     f     -         5550   10    0 
+lcoltuse  799222886  6  4 c   c     b     k         5540   40   90 8s 9c
+lcoltuse  799222950  6  3 c   f     -     -         5590   10    0 
+lcoltuse  799222994  6  2 Br  b     k     b         5580   50  100 
+lcoltuse  799223033  6  1 Bc  b     k     b         5630   40   70 
+lcoltuse  799223076  6  6 f   -     -     -         5660    0    0 
+lcoltuse  799223114  6  5 f   -     -     -         5660    0    0 
+lcoltuse  799223147  6  4 c   b     b     -         5660   40   75 
+lcoltuse  799223177  6  3 cc  c     rc    c         5695  110    0 8s As
+lcoltuse  799223235  5  2 Bf  -     -     -         5585   10    0 
+lcoltuse  799223288  5  1 Bc  kf    -     -         5575   10    0 
+lcoltuse  799223318  5  5 c   f     -     -         5565   20    0 
+lcoltuse  799223356  5  4 f   -     -     -         5545    0    0 
+lcoltuse  799223407  6  3 c   k     kf    -         5545   10    0 
+lcoltuse  799223429  6  2 Bf  -     -     -         5535   10    0 
+lcoltuse  799223440  5  1 Bc  b     -     -         5525   20   30 
+lcoltuse  799223451  5  5 f   -     -     -         5535    0    0 
+lcoltuse  799223491  3  2 B   -     -     -         5535   10   15 
+lcoltuse  799223498  3  1 Bc  k     b     -         5540   30   40 
+lcoltuse  799223515  3  3 c   f     -     -         5550   10    0 
+lcoltuse  799223529  3  2 Bk  k     k     k         5540   10    0 3c 7c
+lcoltuse  799223545  3  1 Bc  kf    -     -         5530   10    0 
+lcoltuse  799223558  3  3 f   -     -     -         5520    0    0 
+lcoltuse  799223562  3  2 Bf  -     -     -         5520   10    0 
+lcoltuse  799223569  3  1 Bc  kc    k     k         5510   20    0 9s Jh
+lcoltuse  799223594  3  3 r   c     c     b         5490   70  160 Qs Jh
+lcoltuse  799223632  3  2 Bc  c     f     -         5580   30    0 
+lcoltuse  799223650  3  1 Br  -     -     -         5550   20   30 
+lcoltuse  799223658  3  3 c   b     -     -         5560   20   40 
+lcoltuse  799223673  3  2 Br  bc    b     -         5580   60  105 
+lcoltuse  799223706  3  1 Brr b     k     b         5625   70  140 Ah Jh
+lcoltuse  799223742  3  3 f   -     -     -         5695    0    0 
+lcoltuse  799223762  3  2 Br  br    -     -         5695   60  115 
+lcoltuse  799223777  3  1 Bc  k     b     -         5750   30   40 
+lcoltuse  799223793  3  3 c   c     c     f         5760   40    0 
+lcoltuse  799223817  3  2 Br  k     b     -         5720   40   60 
+lcoltuse  799223836  3  1 Bc  b     -     -         5740   20   30 
+lcoltuse  799223848  3  3 c   k     k     f         5750   10    0 
+lcoltuse  799223875  3  2 Bf  -     -     -         5740   10    0 
+lcoltuse  799223882  3  1 Bc  k     kf    -         5730   10    0 
+lcoltuse  799223897  3  3 f   -     -     -         5720    0    0 
+lcoltuse  799223904  3  2 B   -     -     -         5720   10   15 
+lcoltuse  799223909  3  1 Bcc kf    -     -         5725   20    0 
+lcoltuse  799223924  3  3 f   -     -     -         5705    0    0 
+lcoltuse  799223929  3  2 Bk  k     k     kf        5705   10    0 
+lcoltuse  799223951  3  1 Bf  -     -     -         5695    5    0 
+lcoltuse  799223957  3  3 r   c     c     c         5690   70   72 9c 9s
+lcoltuse  799223997  3  2 B   -     -     -         5692   10   15 
+lcoltuse  799224008  3  1 Bc  k     b     -         5697   30   40 
+lcoltuse  799224025  3  3 f   -     -     -         5707    0    0 
+lcoltuse  799224038  3  2 Bc  f     -     -         5707   20    0 
+lcoltuse  799224051  3  1 Bc  k     kc    kc        5687   50    0 8s Tc
+lcoltuse  799224073  3  3 f   -     -     -         5637    0    0 
+lcoltuse  799224098  3  2 B   -     -     -         5637   10   15 
+lcoltuse  799224105  3  1 Bc  b     kc    bf        5642   60    0 
+lcoltuse  799224139  3  3 f   -     -     -         5582    0    0 
+lcoltuse  799224144  3  2 Bf  -     -     -         5582   10    0 
+lcoltuse  799224150  3  1 Bf  -     -     -         5572    5    0 
+lcoltuse  799224156  3  3 f   -     -     -         5567    0    0 
+lcoltuse  799224161  3  2 Bk  b     -     -         5567   20   35 
+lcoltuse  799224171  3  1 Bc  bc    kc    k         5582   50  100 6h Ts
+lcoltuse  799224196  3  3 r   -     -     -         5632   20   35 
+lcoltuse  799224205  3  2 Bc  b     kc    f         5647   50    0 
+lcoltuse  799224247  3  1 Bf  -     -     -         5597    5    0 
+lcoltuse  799224255  3  3 c   b     k     f         5592   20    0 
+lcoltuse  799224282  3  2 Bk  kf    -     -         5572   10    0 
+lcoltuse  799224293  3  1 Br  -     -     -         5562   20   30 
+lcoltuse  799224299  3  3 r   -     -     -         5572   20   35 
+lcoltuse  799224305  3  2 Bc  f     -     -         5587   20    0 
+lcoltuse  799224343  3  1 Br  -     -     -         5567   20   30 
+lcoltuse  799224352  3  3 c   b     bc    c         5577   80    0 Ks 5c
+lcoltuse  799224390  3  2 Bc  f     -     -         5497   20    0 
+lcoltuse  799224406  3  1 Bf  -     -     -         5477    5    0 
+lcoltuse  799224410  3  3 f   -     -     -         5472    0    0 
+lcoltuse  799224414  3  2 B   -     -     -         5472   10   15 
+lcoltuse  799224420  3  1 Br  -     -     -         5477   20   30 
+lcoltuse  799224427  3  3 c   k     f     -         5487   10    0 
+lcoltuse  799224460  3  2 Bc  b     k     b         5477   50  100 8d Kh
+lcoltuse  799224491  3  1 Bc  bc    kc    b         5527   70    0 4d 3d
+lcoltuse  799224519  3  3 f   -     -     -         5457    0    0 
+lcoltuse  799224538  3  2 Bc  r     b     k         5457   60  120 5s 4s
+lcoltuse  799224561  3  1 Bf  -     -     -         5517    5    0 
+lcoltuse  799224567  3  3 c   f     -     -         5512   10    0 
+lcoltuse  799224601  3  2 Bk  f     -     -         5502   10    0 
+lcoltuse  799224613  3  1 Bf  -     -     -         5492    5    0 
+lcoltuse  799224617  3  3 f   -     -     -         5487    0    0 
+lcoltuse  799224620  3  2 Bc  b     -     -         5487   30   55 
+lcoltuse  799224637  3  1 Bc  kc    k     b         5512   40   60 
+lcoltuse  799224668  3  3 cc  k     f     -         5532   20    0 
+lcoltuse  799224697  3  2 Bc  c     c     c         5512   70   70 2h Ac
+lcoltuse  799224719  3  1 Bf  -     -     -         5512    5    0 
+lcoltuse  799224729  3  3 c   k     f     -         5507   10    0 
+lcoltuse  799224744  3  2 Bf  -     -     -         5497   10    0 
+lcoltuse  799224749  3  1 Bcc b     kr    k         5487   70  140 6d Ks
+lcoltuse  799224777  4  4 f   -     -     -         5557    0    0 
+lcoltuse  799224802  5  4 f   -     -     -         5557    0    0 
+lcoltuse  799224854  5  3 c   b     -     -         5557   20   35 
+lcoltuse  799224878  5  2 Bk  r     k     k         5572   30   70 5h Qh
+lcoltuse  799224901  5  1 Bc  kf    -     -         5612   10    0 
+lcoltuse  799224916  5  5 f   -     -     -         5602    0    0 
+lcoltuse  799224925  5  4 r   -     -     -         5602   20   50 
+lcoltuse  799224942  5  3 c   b     c     f         5632   40    0 
+lcoltuse  799224974  5  2 Bc  kc    kr    b         5592   90  275 3d Ad
+lcoltuse  799225026  5  1 Bf  -     -     -         5777    5    0 
+lcoltuse  799225039  5  5 f   -     -     -         5772    0    0 
+lcoltuse  799225067  5  4 c   kc    kf    -         5772   20    0 
+lcoltuse  799225100  5  3 cc  c     c     cc        5752   90    0 As 4c
+lcoltuse  799225140  5  2 Bc  c     c     f         5662   50    0 
+lcoltuse  799225165  5  1 Bf  -     -     -         5612    5    0 
+lcoltuse  799225188  5  5 c   k     f     -         5607   10    0 
+lcoltuse  799225225  5  4 cc  k     f     -         5597   20    0 
+lcoltuse  799225260  5  3 f   -     -     -         5577    0    0 
+lcoltuse  799225289  5  2 Bf  -     -     -         5577   10    0 
+lcoltuse  799225312  5  1 Bc  kc    k     k         5567   30    0 6h Ah
+lcoltuse  799225339  5  5 f   -     -     -         5537    0    0 
+lcoltuse  799225353  5  4 c   c     rr    k         5537  110  142 Kc Th
+lcoltuse  799225407  5  3 f   -     -     -         5569    0    0 
+lcoltuse  799225427  5  2 Bf  -     -     -         5569   10    0 
+lcoltuse  799225477  5  1 Bc  f     -     -         5559   10    0 
+lcoltuse  799225508  5  5 f   -     -     -         5549    0    0 
+lcoltuse  799225548  5  4 f   -     -     -         5549    0    0 
+lcoltuse  799225559  5  3 c   f     -     -         5549   10    0 
+lcoltuse  799225577  4  2 Bc  f     -     -         5539   20    0 
+lcoltuse  799225591  4  1 Bc  b     b     k         5519   40   80 Qs 9c
+lcoltuse  799225613  4  4 f   -     -     -         5559    0    0 
+lcoltuse  799225632  4  3 f   -     -     -         5559    0    0 
+lcoltuse  799225657  3  2 B   -     -     -         5559   10   15 
+lcoltuse  799225667  2  1 Bcc kf    -     -         5564   20    0 
+lcoltuse  799225684  2  2 BQ  -     -     -         5544   10   15 

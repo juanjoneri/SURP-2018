@@ -1,0 +1,464 @@
+Beatle    797914519  9  4 f   -     -     -         1000    0    0 
+Beatle    797914563 10  4 cc  kc    kf    -         1000   30    0 
+Beatle    797914649 10  3 f   -     -     -          970    0    0 
+Beatle    797914699 11  2 Bk  kc    kf    -          970   20    0 
+Beatle    797914752 12  1 Bcc kcf   -     -          950   60    0 
+Beatle    797914912 12 12 c   c     c     r          890  110  440 Ad 9d
+Beatle    797915043 10  9 f   -     -     -         1220    0    0 
+Beatle    797915094 10  8 f   -     -     -         1220    0    0 
+Beatle    797915154 11  8 cc  b     b     kf        1220   50    0 
+Beatle    797915265 11  7 cc  cf    -     -         1170   60    0 
+Beatle    797915416 11  6 cc  rc    c     c         1110  110  220 6c Jh
+Beatle    797915557 10  5 f   -     -     -         1220    0    0 
+Beatle    797915608 10  4 Q   -     -     -         1220    0    0 
+Beatle    797915748 11  2 Bf  -     -     -         1220   10    0 
+Beatle    797915816 11  1 Bc  kc    kc    kf        1210   40    0 
+Beatle    797915919 11 11 c   f     -     -         1170   20    0 
+Beatle    797915989 11 10 r   c     b     c         1150   85    0 9s 9h
+Beatle    797916055 11  9 fQ  -     -     -         1065    0    0 
+Beatle    798148332  8  7 c   b     b     k         1065   40    0 5s Kd
+Beatle    798148410  9  6 c   b     k     k         1025   20    0 Ts 9s
+Beatle    798148490 10  5 f   -     -     -         1005    0    0 
+Beatle    798148599 10  4 fQ  -     -     -         1005    0    0 
+Beatle    798158192 11  4 f   -     Q     -         1005    0    0 
+Beatle    798247982 10  9 f   -     Q     -         1005    0    0 
+Beatle    798429936  3  2 Bk  kf    -     -         1005   10    0 
+Beatle    798429982  3  1 Bc  kr    -     -          995   30   60 
+Beatle    798430004  3  3 c   c     c     k         1025   40   90 Kh 8h
+Beatle    798430025  3  2 Bf  -     -     -         1075   10    0 
+Beatle    798430039  3  1 Bcc bc    kf    -         1065   40    0 
+Beatle    798430078  3  3 cc  c     r     bc        1025  110    0 Ts 9h
+Beatle    798430125  4  3 c   b     k     c          915   40    0 Ac 9d
+Beatle    798430158  4  2 Bf  -     -     -          875   10    0 
+Beatle    798430184  4  1 Br  bc    kc    k          865   60  120 8c Jc
+Beatle    798430216  4  4 f   -     -     -          925    0    0 
+Beatle    798430232  4  3 f   -     -     -          925    0    0 
+Beatle    798430251  4  2 Bk  b     -     -          925   20   35 
+Beatle    798430265  5  1 Bc  k     k     k          940   10    0 5h Qs
+Beatle    798430294  5  5 f   -     -     -          930    0    0 
+Beatle    798430310  6  5 cc  c     r     k          930   70    0 3c 3d
+Beatle    798430374  6  4 c   c     c     r          860   80  190 4c 4h
+Beatle    798430415  6  3 c   c     k     f          970   20    0 
+Beatle    798430455  6  2 Bc  bc    kf    -          950   40    0 
+Beatle    798430495  7  1 Bc  kc    kf    -          910   20    0 
+Beatle    798430579  7  7 c   c     k     c          890   50  115 Ad Jh
+Beatle    798430617  7  6 f   -     -     -          955    0    0 
+Beatle    798430659  7  5 f   -     -     -          955    0    0 
+Beatle    798430712  5  4 f   -     -     -          955    0    0 
+Beatle    798430734  4  3 c   r     r     k          955   70  220 Kc 6d
+Beatle    798430788  4  2 BQ  -     -     -         1105   10    0 
+Beatle    798594498 11  8 c   k     k     k         1095   10   25 6h 5h
+Beatle    798594534 10  6 c   c     k     k         1110   20   65 Jh Qc
+Beatle    798594615 10  5 f   -     -     -         1155    0    0 
+Beatle    798594714 10  4 cc  k     b     b         1155   60  175 Tc 9h
+Beatle    798594768 11  3 f   -     -     -         1270    0    0 
+Beatle    798594855 11  2 Bf  -     -     -         1270   10    0 
+Beatle    798594926 10  1 Bcc kc    b     b         1260   90  380 6s Js
+Beatle    798595049 12 12 c   r     c     c         1550   80   97 8c Jc
+Beatle    798595151 10  9 cc  f     -     -         1567   20    0 
+Beatle    798595264  9  7 cc  bc    k     b         1547   60   73 3d Ac
+Beatle    798595362  8  5 cc  k     kc    kf        1560   40    0 
+Beatle    798595497 10  5 f   -     -     -         1520    0    0 
+Beatle    798595546  9  4 cc  kc    kc    b         1520   70  225 9s Tc
+Beatle    798595648  8  4 f   -     -     -         1675    0    0 
+Beatle    798595750  6  2 Bf  -     -     -         1675   10    0 
+Beatle    798595796  6  1 Bc  kc    k     k         1665   30    0 Qs 7s
+Beatle    798595871  6  6 c   f     -     -         1635   10    0 
+Beatle    798595912  6  5 f   -     -     -         1625    0    0 
+Beatle    798595927  5  3 f   -     -     -         1625    0    0 
+Beatle    798595966  6  2 Bk  kf    -     -         1625   10    0 
+Beatle    798595989  6  1 Bc  kc    k     k         1615   20    0 Kd Jc
+Beatle    798596025  5  5 c   b     -     -         1595   20   35 
+Beatle    798596047  5  4 f   -     -     -         1610    0    0 
+Beatle    798596102  5  3 f   -     -     -         1610    0    0 
+Beatle    798596139  5  2 Bf  -     -     -         1610   10    0 
+Beatle    798596209  6  1 Bf  -     -     -         1600    5    0 
+Beatle    798596226  6  6 c   c     c     f         1595   40    0 
+Beatle    798596297  6  5 f   -     -     -         1555    0    0 
+Beatle    798596346  5  3 cc  bc    kc    kf        1555   60    0 
+Beatle    798596402  5  3 f   -     -     -         1495    0    0 
+Beatle    798596419  5  2 Bf  -     -     -         1495   10    0 
+Beatle    798596438  5  1 Bf  -     -     -         1485    5    0 
+Beatle    798596492  5  5 c   k     k     b         1480   40   85 
+Beatle    798596534  5  4 r   c     c     c         1525   70   95 As Qh
+Beatle    798596569  5  3 r   b     -     -         1550   30   90 
+Beatle    798596626  5  2 Bk  bc    kc    b         1610   70    0 Kd Js
+Beatle    798596675  5  1 Bf  -     -     -         1540    5    0 
+Beatle    798596715  5  5 f   -     -     -         1535    0    0 
+Beatle    798596729  5  4 r   c     c     k         1535   50  120 7c 7d
+Beatle    798596782  6  4 c   c     c     f         1605   40    0 
+Beatle    798596826  7  3 f   -     -     -         1565    0    0 
+Beatle    798596925  7  2 Bk  k     kf    -         1565   10    0 
+Beatle    798596983  6  1 Bc  -     -     -         1555   10   20 
+Beatle    798596995  6  6 f   -     -     -         1565    0    0 
+Beatle    798597044  6  5 f   -     -     -         1565    0    0 
+Beatle    798597072  6  4 c   k     b     k         1565   30   80 3h 2h
+Beatle    798597169  6  3 cc  c     c     f         1615   50    0 
+Beatle    798597232  7  2 Bf  -     -     -         1565   10    0 
+Beatle    798597261  7  1 Bc  kc    kf    -         1555   30    0 
+Beatle    798597347  8  8 f   -     -     -         1525    0    0 
+Beatle    798597386  9  8 c   c     c     f         1525   40    0 
+Beatle    798597472  9  7 f   -     -     -         1485    0    0 
+Beatle    798597565 10  7 c   bc    k     f         1485   30    0 
+Beatle    798597665 12  7 c   c     kc    cc        1455   80    0 Kd 7h
+Beatle    798597792 11  6 cc  b     b     b         1375   90    0 Ac 8d
+Beatle    798597913 10  5 Q   -     -     -         1285    0    0 
+Beatle    798680834  6  5 c   k     k     c         1285   30   65 Jd Kd
+Beatle    798680897  6  4 c   cc    kc    kf        1320   50    0 
+Beatle    798680996  6  3 f   -     -     -         1270    0    0 
+Beatle    798681058  6  2 Bk  kc    kc    k         1270   40  100 Qd 5c
+Beatle    798681143  6  1 Bc  b     kf    -         1330   20    0 
+Beatle    798681245  6  6 f   -     -     -         1310    0    0 
+Beatle    798681338  6  5 cc  b     k     b         1310   50    0 Jh 8d
+Beatle    798681469  6  4 c   kc    kc    k         1260   40    0 5s Kh
+Beatle    798681561  6  3 f   -     -     -         1220    0    0 
+Beatle    798681644  6  2 Bf  -     -     -         1220   10    0 
+Beatle    798681736  6  1 Bf  -     -     -         1210    5    0 
+Beatle    798681790  5  5 f   -     -     -         1205    0    0 
+Beatle    798681834  5  4 f   -     -     -         1205    0    0 
+Beatle    798681921  5  3 c   k     b     b         1205   50  110 
+Beatle    798681969  5  2 Bc  c     c     k         1265   50    0 Ts 5c
+Beatle    798682023  5  1 Brc bc    kc    kf        1215   80    0 
+Beatle    798682098  5  5 c   k     b     b         1135   50   85 
+Beatle    798682168  5  4 c   k     r     b         1170   70  160 2d 3d
+Beatle    798682230  5  3 f   -     -     -         1260    0    0 
+Beatle    798682275  5  2 Bc  b     b     b         1260   70  110 Qh 6s
+Beatle    798682348  5  1 Bf  -     -     -         1300    5    0 
+Beatle    798682410  5  5 f   -     -     -         1295    0    0 
+Beatle    798682423  5  4 c   c     c     c         1295   60    0 9d 2d
+Beatle    798682471  5  3 f   -     -     -         1235    0    0 
+Beatle    798682529  5  2 Bk  kr    bc    k         1235   70  170 As 9c
+Beatle    798682611  4  1 Bf  -     -     -         1335    5    0 
+Beatle    798682660  4  4 f   -     -     -         1330    0    0 
+Beatle    798682702  4  3 f   -     -     -         1330    0    0 
+Beatle    798682735  3  1 Bk  k     b     -         1330   30   50 
+Beatle    798682770  2  1 Br  b     -     -         1350   30   50 
+Beatle    798682793  2  2 Bk  b     -     -         1370   20   30 
+Beatle    798682812  2  1 Br  -     -     -         1380   20   30 
+Beatle    798682821  2  2 Br  b     b     b         1390   70  140 Ks Jh
+Beatle    798682860  3  1 Bc  b     k     k         1460   20    0 5s Ts
+Beatle    798682917  3  3 f   -     -     -         1440    0    0 
+Beatle    798682950  3  2 Bk  k     b     -         1440   30   50 
+Beatle    798682981  3  1 Bcc kf    -     -         1460   20    0 
+Beatle    798683003  3  3 f   -     -     -         1440    0    0 
+Beatle    798683019  4  3 f   -     -     -         1440    0    0 
+Beatle    798683050  4  2 Bk  cc    kf    -         1440   30    0 
+Beatle    798683094  5  1 Bf  -     -     -         1410    5    0 
+Beatle    798683148  6  6 cc  k     k     b         1405   40   90 
+Beatle    798683220  6  5 f   -     -     -         1455    0    0 
+Beatle    798683257  6  4 f   -     -     -         1455    0    0 
+Beatle    798683333  7  3 f   -     -     -         1455    0    0 
+Beatle    798683400  6  2 Bcc kc    kc    kc        1455   90    0 Qh 9h
+Beatle    798683476  5  1 Bf  -     -     -         1365    5    0 
+Beatle    798683598  6  6 f   -     -     -         1360    0    0 
+Beatle    798683721  6  5 c   k     f     -         1360   10    0 
+Beatle    798683772  6  4 c   kc    kf    -         1350   20    0 
+Beatle    798683811  6  3 f   -     -     -         1330    0    0 
+Beatle    798683861  6  2 Bf  -     -     -         1330   10    0 
+Beatle    798683901  7  1 Bc  k     kf    -         1320   10    0 
+Beatle    798683952  6  6 c   c     c     c         1310   70    0 6c 6h
+Beatle    798684000  6  5 f   -     -     -         1240    0    0 
+Beatle    798684058  6  4 cc  b     b     -         1240   60  180 
+Beatle    798684141  7  3 r   b     -     -         1360   30   95 
+Beatle    798684190  7  2 Bk  kc    kc    kf        1425   40    0 
+Beatle    798684258  7  1 Bf  -     -     -         1385    5    0 
+Beatle    798684351  8  8 f   -     -     -         1380    0    0 
+Beatle    798684436  8  7 c   c     c     f         1380   60    0 
+Beatle    798684537  8  6 f   -     -     -         1320    0    0 
+Beatle    798684626  9  6 r   b     b     b         1320   70  180 
+Beatle    798684713  9  5 cc  cf    -     -         1430   30    0 
+Beatle    798684807  9  4 f   -     -     -         1400    0    0 
+Beatle    798684882  9  3 cc  rc    cc    br        1400  150  440 
+Beatle    798685032 11  2 Bc  kf    -     -         1690   20    0 
+Beatle    798685155 10  1 Bc  bc    kf    -         1670   30    0 
+Beatle    798685231 10 10 c   c     c     f         1640   50    0 
+Beatle    798685309  9  8 r   c     c     k         1590   70    0 Qd Qh
+Beatle    798685417  9  7 f   -     -     -         1520    0    0 
+Beatle    798685549  9  7 c   k     k     b         1520   30   85 Js 5h
+Beatle    798685625  8  6 rc  c     c     f         1575   60    0 
+Beatle    798685729  8  5 f   -     -     -         1515    0    0 
+Beatle    798685777  8  4 cc  b     c     k         1515   50    0 7s Qc
+Beatle    798685855  9  3 f   -     -     -         1465    0    0 
+Beatle    798685924  9  2 Bk  b     b     bc        1465   80    0 Qs Ad
+Beatle    798686008  9  1 Bf  -     -     -         1385    5    0 
+Beatle    798686090  9  9 c   c     f     -         1380   30    0 
+Beatle    798686214  9  8 c   f     -     -         1350   20    0 
+Beatle    798686292  9  7 c   c     f     -         1330   20    0 
+Beatle    798686363  9  6 c   k     k     k         1310   10    0 3c 3d
+Beatle    798686448  9  5 fQ  -     -     -         1300    0    0 
+Beatle    798772183 10  6 f   -     -     -         1300    0    0 
+Beatle    798772284 10  5 cc  bc    c     f         1300   80    0 
+Beatle    798772401 11  4 c   c     c     f         1220   50    0 
+Beatle    798772497 11  3 f   -     -     -         1170    0    0 
+Beatle    798772584 10  2 Bc  c     c     k         1170   50  180 Qd Td
+Beatle    798772676 10  1 BQ  -     -     -         1300    5    0 
+Beatle    798776024  9  2 Bc  kf    -     -         1295   20    0 
+Beatle    798776143  9  1 Bc  br    bc    kc        1275  110  350 7d As
+Beatle    798776258  8  8 c   f     -     -         1515   10    0 
+Beatle    798776374  7  7 c   b     k     b         1505   40    0 Tc 8c
+Beatle    798776473  7  5 f   -     -     -         1465    0    0 
+Beatle    798776548  6  3 rc  c     f     -         1465   40    0 
+Beatle    798776608  6  2 Bc  f     -     -         1425   20    0 
+Beatle    798776662  6  1 Bf  -     -     -         1405    5    0 
+Beatle    798776715  7  7 cc  b     b     b         1400   70  180 
+Beatle    798776802  6  6 c   r     b     b         1510   70  160 
+Beatle    798776863  6  5 f   -     -     -         1600    0    0 
+Beatle    798776929  6  4 c   b     b     -         1600   40   95 
+Beatle    798777003  6  3 c   kc    b     -         1655   40  100 
+Beatle    798777074  5  2 Bc  bc    kf    -         1715   50    0 
+Beatle    798777161  5  1 Bc  kf    -     -         1665   10    0 
+Beatle    798777197  5  5 f   -     -     -         1655    0    0 
+Beatle    798777242  5  4 c   k     f     -         1655   10    0 
+Beatle    798777302  5  3 rc  bc    kc    k         1645   70  155 9s Kh
+Beatle    798777354  6  3 rc  kc    bc    kf        1730   80    0 
+Beatle    798777422  5  2 Bk  c     f     -         1650   20    0 
+Beatle    798777454  5  1 Bc  bc    k     b         1630   50   90 
+Beatle    798777510  5  5 cc  c     c     c         1670   70    0 8d Kh
+Beatle    798777555  4  3 f   -     -     -         1600    0    0 
+Beatle    798777577  4  2 B   -     -     -         1600   10   15 
+Beatle    798777595  4  1 Bf  -     -     -         1605    5    0 
+Beatle    798777610  4  4 cc  c     f     -         1600   30    0 
+Beatle    798777642  4  3 fQ  -     -     -         1570    0    0 
+Beatle    798782206  7  4 c   c     c     f         1570   40    0 
+Beatle    798782282  8  3 r   k     k     f         1530   20    0 
+Beatle    798782342  7  2 Bk  k     b     -         1510   30   60 
+Beatle    798782405  7  1 Bc  k     kf    -         1540   10    0 
+Beatle    798782493  6  6 f   Q     -     -         1530    0    0 
+Beatle    798822233  7  3 f   -     -     -         1530    0    0 
+Beatle    798822298  6  2 Bk  kf    -     -         1530   10    0 
+Beatle    798822320  6  1 Bc  kc    kcc   kf        1520   70    0 
+Beatle    798822398  5  5 r   k     k     k         1450   20    0 9c 7c
+Beatle    798822433  5  4 c   k     k     k         1430   10   25 Kh 3h
+Beatle    798822491  5  4 c   k     f     -         1445   10    0 
+Beatle    798822543  5  3 c   c     Q     -         1435   20    0 
+Beatle    798845567  6  4 cc  kc    kc    bc        1415   90    0 Jh 3h
+Beatle    798845643  5  2 Bk  kf    -     -         1325   10    0 
+Beatle    798845688  5  1 Bc  kc    b     b         1315   70  170 9d Qh
+Beatle    798845753  4  4 c   k     b     b         1415   50  120 Tc Ad
+Beatle    798845809  5  3 c   kc    kf    -         1485   20    0 
+Beatle    798845853  4  2 Bf  -     -     -         1465   10    0 
+Beatle    798845873  4  1 Brc bc    bc    kc        1455  120  250 Qc 8c
+Beatle    798845915  4  4 f   -     -     -         1585    0    0 
+Beatle    798845929  4  3 c   f     -     -         1585   10    0 
+Beatle    798845943  4  2 Bk  kf    -     -         1575   10    0 
+Beatle    798845960  4  1 Brc b     k     k         1565   50    0 6c Kc
+Beatle    798845999  5  4 r   b     k     c         1515   50    0 Ah 6h
+Beatle    798846044  6  3 c   kc    kc    r         1465   80  250 9c Qd
+Beatle    798846119  6  2 Bk  bc    kf    -         1635   30    0 
+Beatle    798846159  6  1 Bc  kc    kf    -         1605   20    0 
+Beatle    798846234  5  5 c   b     k     b         1585   40   90 
+Beatle    798846297  5  4 f   -     -     -         1635    0    0 
+Beatle    798846338  5  3 c   k     k     k         1635   10   30 Kc 8d
+Beatle    798846369  5  2 Bc  bc    bc    bc        1655  120  285 6c 9c
+Beatle    798846430  5  1 Bc  k     kf    -         1820   20    0 
+Beatle    798846484  5  5 c   r     c     c         1800   90    0 Jc Jh
+Beatle    798846547  5  3 f   -     -     -         1710    0    0 
+Beatle    798846594  5  2 Br  kf    -     -         1710   20    0 
+Beatle    798846684  5  1 Bc  kf    -     -         1690   10    0 
+Beatle    798846746  6  6 f   -     -     -         1680    0    0 
+Beatle    798846810  6  5 f   -     -     -         1680    0    0 
+Beatle    798846852  5  3 cc  kc    kf    -         1680   30    0 
+Beatle    798846913  6  3 f   -     -     -         1650    0    0 
+Beatle    798846996  5  2 Bc  b     -     -         1650   30   55 
+Beatle    798847061  4  1 Bf  -     -     -         1675    5    0 
+Beatle    798847121  4  4 f   -     -     -         1670    0    0 
+Beatle    798847161  4  3 c   bc    bc    b         1670   90    0 Td 8h
+Beatle    798847225  5  3 f   -     -     -         1580    0    0 
+Beatle    798847273  6  2 Bk  cc    kc    kf        1580   50    0 
+Beatle    798847335  7  1 Br  b     kf    -         1530   30    0 
+Beatle    798847397  7  7 cc  f     -     -         1500   20    0 
+Beatle    798847469  8  7 c   r     b     b         1480   70  190 Jd Ah
+Beatle    798847552 10  8 f   -     -     -         1600    0    0 
+Beatle    798847626  9  6 c   c     k     f         1600   30    0 
+Beatle    798847718  8  4 f   -     -     -         1570    0    0 
+Beatle    798847806  8  4 f   -     -     -         1570    0    0 
+Beatle    798847834  8  3 c   cc    c     k         1570   60    0 Kd 9s
+Beatle    798847941  9  2 Bk  kc    b     bf        1510   60    0 
+Beatle    798848075  9  1 Bf  Q     -     -         1450    5    0 
+Beatle    798851800 12  4 f   -     -     -         1445    0    0 
+Beatle    798851956 12  3 fQ  -     -     -         1445    0    0 
+Beatle    798860869  7  4 c   bc    b     b         1445   70  185 
+Beatle    798860915  7  3 f   -     -     -         1560    0    0 
+Beatle    798860953  7  2 Bc  kc    kf    -         1560   30    0 
+Beatle    798861019  7  1 Bf  -     -     -         1530    5    0 
+Beatle    798861080  7  7 c   fQ    -     -         1525   20    0 
+Beatle    798939053  4  2 B   -     -     -         1485   10   15 
+Beatle    798939069  4  1 Bc  kc    k     kf        1490   20    0 
+Beatle    798939180  7  7 c   c     c     f         1470   50    0 
+Beatle    798939255  6  5 cc  kc    b     b         1420   70  135 
+Beatle    798939334  7  4 c   b     b     kc        1485   60  185 4c Qd
+Beatle    798939410  7  3 f   -     -     -         1610    0    0 
+Beatle    798939466  7  2 Bk  k     b     k         1610   30    0 5c Qh
+Beatle    798939539  9  1 Bf  -     -     -         1580    5    0 
+Beatle    798939630 10 10 c   c     c     f         1575   50    0 
+Beatle    798939712 10  9 c   fQ    -     -         1525   10    0 
+Beatle    798941400 10  3 f   -     -     -         1515    0    0 
+Beatle    798941461 10  2 Bf  Q     -     -         1515   10    0 
+Beatle    798942053  7  4 cc  f     -     -         1505   20    0 
+Beatle    798942145  6  2 Bf  -     -     -         1485   10    0 
+Beatle    798942249  8  1 Bc  kf    -     -         1475   10    0 
+Beatle    798942302  8  8 c   r     b     b         1465   70  225 As Qs
+Beatle    798942414  9  8 f   -     -     -         1620    0    0 
+Beatle    798942510  9  8 f   -     -     -         1620    0    0 
+Beatle    798942560  8  6 rc  ccc   kf    -         1620   70    0 
+Beatle    798942646  8  5 c   k     f     -         1550   20    0 
+Beatle    798942696  9  4 f   -     -     -         1530    0    0 
+Beatle    798942833  8  3 ccc b     k     b         1530   70    0 Qh 7h
+Beatle    798943035  8  2 Bk  c     c     c         1460   60  130 Ts 8h
+Beatle    798943133  7  1 Bc  b     b     b         1530   60    0 Qc Ad
+Beatle    798943220  6  6 f   -     -     -         1470    0    0 
+Beatle    798943278  7  6 c   k     f     -         1470   10    0 
+Beatle    798943371  6  4 c   c     c     c         1460   60    0 Jc 7d
+Beatle    798943422  6  3 r   c     c     c         1400   70    0 4d 4h
+Beatle    798943472  5  2 Bc  kc    kf    -         1330   30    0 
+Beatle    798943511  5  1 Bf  -     -     -         1300    5    0 
+Beatle    798943539  5  5 r   -     -     -         1295   20   35 
+Beatle    798943558  5  4 f   -     -     -         1310    0    0 
+Beatle    798943595  6  4 cc  c     k     kf        1310   30    0 
+Beatle    798943680  7  3 QQ  -     -     -         1280    0    0 
+Beatle    798945933  9  4 f   -     -     -         1280    0    0 
+Beatle    798945968  8  3 c   kf    -     -         1280   10    0 
+Beatle    798946018  8  2 Bc  ccc   kc    c         1270  100  380 Jc 4c
+Beatle    798946077  8  1 Bc  kf    -     -         1550   30    0 
+Beatle    798946180  8  8 c   c     c     f         1520   40    0 
+Beatle    798946231  8  7 c   c     c     b         1480   70  235 3d 9d
+Beatle    798946300  8  6 c   c     f     -         1645   40    0 
+Beatle    798946360  8  5 f   -     -     -         1605    0    0 
+Beatle    798946456  8  4 f   -     -     -         1605    0    0 
+Beatle    798946494  8  3 c   kf    -     -         1605   10    0 
+Beatle    798946543  8  2 Bf  -     -     -         1595   10    0 
+Beatle    798946578  8  1 Bc  bc    k     k         1585   30    0 3c Ah
+Beatle    798946621  7  7 c   k     f     -         1555   10    0 
+Beatle    798946682  7  6 c   f     -     -         1545   20    0 
+Beatle    798946755  8  5 f   -     -     -         1525    0    0 
+Beatle    798946805  8  4 c   c     c     f         1525   40    0 
+Beatle    798946863  8  3 f   -     -     -         1485    0    0 
+Beatle    798946932  8  2 Bk  k     k     k         1485   10    0 8d 2h
+Beatle    798947004  8  1 Bf  -     -     -         1475    5    0 
+Beatle    798947068  8  8 f   -     -     -         1470    0    0 
+Beatle    798947129  8  7 f   -     -     -         1470    0    0 
+Beatle    798947175  8  6 f   -     -     -         1470    0    0 
+Beatle    798947242  8  5 f   -     -     -         1470    0    0 
+Beatle    798947319  8  4 cr  b     b     b         1470   80  205 Kc Kd
+Beatle    798947376  8  3 c   f     -     -         1595   10    0 
+Beatle    798947430  8  2 Bk  kc    kc    kf        1585   40    0 
+Beatle    798947499  8  1 Bc  kc    kc    kr        1545   80  170 Ac 9h
+Beatle    798947539  8  8 c   k     c     k         1635   30    0 2h 3d
+Beatle    798947602  8  7 f   -     -     -         1605    0    0 
+Beatle    798947686  8  6 c   f     -     -         1605   20    0 
+Beatle    798947785  8  5 f   -     -     -         1585    0    0 
+Beatle    798947902  9  5 f   -     -     -         1585    0    0 
+Beatle    798947978  9  4 f   -     -     -         1585    0    0 
+Beatle    798948025 10  4 cc  f     -     -         1585   20    0 
+Beatle    798948097 10  3 r   cc    k     f         1565   40    0 
+Beatle    798948163 10  2 Bk  b     b     -         1525   40   85 
+Beatle    798948229 10  1 Bcc k     kc    k         1570   40    0 Ts 7h
+Beatle    798948335 11 11 f   -     -     -         1530    0    0 
+Beatle    798948392 10  9 f   -     -     -         1530    0    0 
+Beatle    798948494 11  9 c   f     -     -         1530   10    0 
+Beatle    798948583 10  7 c   k     fQ    -         1520   10    0 
+Beatle    799032703  2  2 Bk  f     -     -         1510   10    0 
+Beatle    799032720  2  1 Bf  -     -     -         1500    5    0 
+Beatle    799032722  2  2 Bk  k     b     -         1495   30   40 
+Beatle    799032745  2  1 Br  b     -     -         1505   30   50 
+Beatle    799032759  2  2 Bc  c     r     k         1525   70  140 5d 3h
+Beatle    799032790  2  1 Bc  b     b     -         1595   40   60 
+Beatle    799032814  3  2 Bf  -     -     -         1615   10    0 
+Beatle    799032824  3  1 Br  -     -     -         1605   20   30 
+Beatle    799032834  3  3 cc  k     c     b         1615   60    0 Jc 8s
+Beatle    799032874  3  2 Bk  c     b     k         1555   40   80 7h 4c
+Beatle    799032908  3  1 Bc  bc    kc    bc        1595  100    0 8d Kd
+Beatle    799032950  4  4 f   -     -     -         1495    0    0 
+Beatle    799032978  4  3 c   kc    kf    -         1495   20    0 
+Beatle    799033006  4  2 B   -     -     -         1475   10   15 
+Beatle    799033016  4  1 Bf  -     -     -         1480    5    0 
+Beatle    799033041  4  4 f   -     -     -         1475    0    0 
+Beatle    799033221  4  3 Q   -     -     -         1475    0    0 
+Beatle    799044666  3  3 cc  k     f     -         1475   20    0 
+Beatle    799044696  3  2 Bf  -     -     -         1455   10    0 
+Beatle    799044720  3  1 Bf  -     -     -         1445    5    0 
+Beatle    799044743  3  3 c   c     c     r         1440   80    0 7h Jh
+Beatle    799044802  5  3 f   -     -     -         1360    0    0 
+Beatle    799044812  5  2 Bk  k     kc    kf        1360   30    0 
+Beatle    799044878  5  1 Bc  bc    k     b         1330   50  170 7d Qh
+Beatle    799044943  5  5 c   c     f     -         1450   30    0 
+Beatle    799044988  5  4 f   -     -     -         1420    0    0 
+Beatle    799045032  5  3 c   k     c     f         1420   30    0 
+Beatle    799045091  4  2 Bk  kf    -     -         1390   10    0 
+Beatle    799045118  4  1 Bf  -     -     -         1380    5    0 
+Beatle    799045139  4  4 f   -     -     -         1375    0    0 
+Beatle    799045199  5  3 c   k     b     -         1375   30   45 
+Beatle    799045224  5  2 Bf  -     -     -         1390   10    0 
+Beatle    799045236  5  1 Bc  k     bc    kf        1380   60    0 
+Beatle    799045288  5  5 c   k     k     f         1320   10    0 
+Beatle    799045365  5  4 f   -     -     -         1310    0    0 
+Beatle    799045376  5  3 f   -     -     -         1310    0    0 
+Beatle    799045406  5  2 Bc  kf    -     -         1310   20    0 
+Beatle    799045460  5  1 Bc  kc    k     kf        1290   30    0 
+Beatle    799045510  5  5 f   -     -     -         1260    0    0 
+Beatle    799045565  5  4 r   f     -     -         1260   20    0 
+Beatle    799045591  5  3 cf  -     -     -         1240   10    0 
+Beatle    799045612  5  2 Bk  kf    -     -         1230   10    0 
+Beatle    799045636  5  1 Bc  kc    k     kf        1220   20    0 
+Beatle    799045679  5  5 c   c     k     f         1200   30    0 
+Beatle    799045735  5  4 r   -     -     -         1170   20   35 
+Beatle    799045749  5  3 r   k     b     -         1185   40   65 
+Beatle    799045781  5  2 Bk  f     -     -         1210   10    0 
+Beatle    799045814  5  1 Bc  b     -     -         1200   20   50 
+Beatle    799045839  5  5 c   c     k     f         1230   20    0 
+Beatle    799045895  5  4 cc  c     f     -         1210   30    0 
+Beatle    799045955  5  3 f   -     -     -         1180    0    0 
+Beatle    799045964  5  2 Bf  -     -     -         1180   10    0 
+Beatle    799045990  5  1 Br  kc    kc    k         1170   60  160 Kh Ac
+Beatle    799046038  5  5 r   -     -     -         1270   20   35 
+Beatle    799046055  6  5 c   c     c     k         1285   50  135 7h 9d
+Beatle    799046092  6  4 c   k     f     -         1370   10    0 
+Beatle    799046177  7  4 c   b     kf    -         1360   20    0 
+Beatle    799046263  5  2 r   b     -     -         1340   30   50 
+Beatle    799046284  5  2 Bk  f     -     -         1360   10    0 
+Beatle    799046316  5  1 Bc  b     k     k         1350   20   25 Qc 4h
+Beatle    799046349  5  5 f   -     -     -         1355    0    0 
+Beatle    799046367  5  4 f   -     -     -         1355    0    0 
+Beatle    799046416  5  3 r   b     b     b         1355   70  145 
+Beatle    799046462  5  2 Bk  c     b     b         1430   60    0 2h 8s
+Beatle    799046507  5  1 Bc  b     kc    kf        1370   50    0 
+Beatle    799046554  5  5 c   b     bc    c         1320   80    0 9d Kc
+Beatle    799046607  5  4 c   cc    f     -         1240   50    0 
+Beatle    799046664  5  3 f   -     -     -         1190    0    0 
+Beatle    799046694  5  2 Bk  kf    -     -         1190   10    0 
+Beatle    799046728  5  1 Bc  k     b     b         1180   50  100 6d Kc
+Beatle    799046776  5  5 f   -     -     -         1230    0    0 
+Beatle    799046835  6  5 c   f     -     -         1230   10    0 
+Beatle    799046897  6  4 cc  bc    b     kc        1220   80    0 9h 6h
+Beatle    799046984  6  3 c   r     c     k         1140   50    0 Ad Jc
+Beatle    799047039  7  2 Bk  f     -     -         1090   10    0 
+Beatle    799047081  7  1 BQ  -     -     -         1080    5    0 
+Beatle    799114633  4  4 c   b     k     b         1075   40   75 
+Beatle    799114669  4  3 f   -     -     -         1110    0    0 
+Beatle    799114692  4  2 Bc  kc    kf    -         1110   30    0 
+Beatle    799114748  4  1 Bf  -     -     -         1080    5    0 
+Beatle    799114755  4  4 cc  fQ    -     -         1075   40    0 
+Beatle    799289531  9  8 f   -     -     -         1035    0    0 
+Beatle    799289617  9  5 c   c     c     f         1035   40    0 
+Beatle    799289651  9  4 f   -     -     -          995    0    0 
+Beatle    799289702 10  3 f   -     -     -          995    0    0 
+Beatle    799289782 10  2 Bcc kcc   bc    kcc        995  170    0 Js 7c
+Beatle    799289930 10  1 BQ  -     -     -          825    5    0 
+Beatle    799291542 10  8 f   -     -     -          820    0    0 
+Beatle    799291600 10  7 f   -     -     -          820    0    0 
+Beatle    799291670 10  6 c   k     b     -          820   30   55 
+Beatle    799291741 10  4 cc  k     c     b          845   60    0 8h Ah
+Beatle    799291852 10  3 f   -     -     -          785    0    0 
+Beatle    799291964  9  2 Br  b     b     b          785   70  175 6h 8h
+Beatle    799292027  9  1 Bc  kf    -     -          890   20    0 
+Beatle    799292114 11 11 c   c     c     k          870   50    0 8d Ah
+Beatle    799292177 10  9 c   k     k     b          820   40  150 7h Jh
+Beatle    799292282 11  8 c   k     k     f          930   10    0 
+Beatle    799292344  9  7 r   b     k     b          920   50  145 
+Beatle    799292432  8  5 f   -     -     -         1015    0    0 
+Beatle    799292476  9  5 f   -     -     -         1015    0    0 
+Beatle    799292616 10  4 c   k     brc   b         1015  110    0 Qd Ts
+Beatle    799292773 10  4 cc  k     bc    kf         905   60    0 
+Beatle    799292932  8  2 Bk  b     b     -          845   40   85 
+Beatle    799293025  7  1 Bc  kf    -     -          890   20    0 
+Beatle    799293099  7  7 c   c     fQ    -          870   20    0 

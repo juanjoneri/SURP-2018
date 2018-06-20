@@ -1,0 +1,284 @@
+magick    797466310  8  3 r   k     b     -         1000   40   75 
+magick    797466352  8  2 Bf  -     -     -         1035   10    0 
+magick    797466373  8  1 Bf  -     -     -         1025    5    0 
+magick    797466405  8  8 rr  k     -     -         1020   40   90 
+magick    797466441  8  7 f   -     -     -         1070    0    0 
+magick    797466486  8  6 r   -     -     -         1070   20   35 
+magick    797466521  8  5 f   -     -     -         1085    0    0 
+magick    797466576  8  4 f   -     -     -         1085    0    0 
+magick    797466633  7  2 Bf  -     -     -         1085   10    0 
+magick    797466709  8  1 Bc  kf    -     -         1075   20    0 
+magick    797466787  7  7 f   -     -     -         1055    0    0 
+magick    797466820  7  6 c   k     k     k         1055   10   25 6c Tc
+magick    797466848  7  5 f   -     -     -         1070    0    0 
+magick    797466951  8  5 c   bcc   f     -         1070   60    0 
+magick    797467043  8  4 f   -     -     -         1010    0    0 
+magick    797467177  8  3 r   k     -     -         1010   20   55 
+magick    797467200  8  2 Bf  -     -     -         1045   10    0 
+magick    797467244  8  1 Bf  -     -     -         1035    5    0 
+magick    797467312  8  8 f   -     -     -         1030    0    0 
+magick    797467347  8  7 rc  r     k     f         1030   60    0 
+magick    797467449  8  6 cc  rc    f     -          970   70    0 
+magick    797467526  7  4 f   -     -     -          900    0    0 
+magick    797467560  7  3 f   -     -     -          900    0    0 
+magick    797467592  7  2 B   -     -     -          900   10   15 
+magick    797467609  7  1 Bc  b     k     b          905   40   70 
+magick    797467644  7  7 f   -     -     -          935    0    0 
+magick    797467679  7  6 f   -     -     -          935    0    0 
+magick    797467710  7  5 f   -     -     -          935    0    0 
+magick    797467724  7  4 rc  rc    f     -          935   60    0 
+magick    797467773  8  4 cc  kc    kr    b          875   90  220 8d 7h
+magick    797467850  7  2 Bf  -     -     -         1005   10    0 
+magick    797467897  7  1 Bf  -     -     -          995    5    0 
+magick    797467960  7  7 rr  k     b     b          990   80    0 9d 9s
+magick    797468030  7  6 c   f     -     -          910   20    0 
+magick    797468082  8  6 cr  krc   kc    kc         890  100    0 Qh Jh
+magick    797468188  9  6 f   -     -     -          790    0    0 
+magick    797468284  9  5 f   -     -     -          790    0    0 
+magick    797468321  9  4 cc  f     -     -          790   30    0 
+magick    797468407  9  4 c   kf    -     -          760   10    0 
+magick    797468504  7  1 Bc  k     kf    -          750   30    0 
+magick    797468581  7  1 Bf  -     -     -          720    5    0 
+magick    797468593  7  7 cc  r     b     b          715   90  240 Kd Jh
+magick    797468651  8  7 c   f     -     -          865   20    0 
+magick    797468700  9  6 f   -     -     -          845    0    0 
+magick    797468767  9  5 c   f     -     -          845   10    0 
+magick    797468821 10  7 f   -     -     -          835    0    0 
+magick    797468897  7  4 c   kf    -     -          835   10    0 
+magick    797468948  8  3 f   -     -     -          825    0    0 
+magick    797468979  8  2 Bk  k     k     kf         825   10    0 
+magick    797469035  9  1 Bc  kc    bf    -          815   40    0 
+magick    797469096  9  9 f   -     -     -          775    0    0 
+magick    797469130  9  8 KQ  -     -     -          775    0    0 
+magick    797894825 11 11 f   -     -     -          775    0    0 
+magick    797894985 11 10 f   -     -     -          775    0    0 
+magick    797895135 11 10 c   kf    -     -          775   10    0 
+magick    797895181 10  9 KQ  -     -     -          765    0    0 
+magick    797895494 11  9 f   -     -     -          765    0    0 
+magick    797895596 11  7 f   -     -     -          765    0    0 
+magick    797895700 12  7 f   -     -     -          765    0    0 
+magick    797895813 12  6 f   -     -     -          765    0    0 
+magick    797895847 12  5 r   kc    k     b          765   60  250 Kc Ac
+magick    797896000 12  4 rr  kf    -     -          955   40    0 
+magick    797896093 12  3 f   -     -     -          915    0    0 
+magick    797896135 12  2 Bcc k     kc    kf         915   60    0 
+magick    797896260 12  1 Bc  kf    -     -          855   10    0 
+magick    797896485 11 11 r   f     -     -          845   20    0 
+magick    797896581  9  8 f   -     -     -          825    0    0 
+magick    797896656  8  6 f   -     -     -          825    0    0 
+magick    797896723  8  5 f   -     -     -          825    0    0 
+magick    797896809 10  6 f   -     -     -          825    0    0 
+magick    797896874 10  5 f   -     -     -          825    0    0 
+magick    797897007  8  3 f   -     -     -          825    0    0 
+magick    797897081  9  3 f   -     -     -          825    0    0 
+magick    797897148  9  2 Bk  kf    -     -          825   10    0 
+magick    797897259  9  1 Bcc kc    kf    -          815   30    0 
+magick    797897335  8  8 f   -     -     -          785    0    0 
+magick    797897386  8  7 c   b     r     f          785   80    0 
+magick    797897487  9  7 f   -     -     -          705    0    0 
+magick    797897536  8  5 r   b     -     -          705   30   65 
+magick    797897587  7  3 c   k     f     -          740   10    0 
+magick    797897622  7  2 Bk  bc    kc    k          730   50    0 6c Ah
+magick    797897711  7  1 Bc  kc    kr    b          680   90  170 
+magick    797897767  7  7 f   -     -     -          760    0    0 
+magick    797897844  7  6 c   r     k     f          760   50    0 
+magick    797897940  7  5 c   f     -     -          710   10    0 
+magick    797898019  7  4 cc  kf    -     -          700   20    0 
+magick    797898086  8  4 c   r     b     k          680   50    0 8h 9s
+magick    797898230  8  3 cc  k     cc    f          630   60    0 
+magick    797898334  7  2 Bk  c     k     kf         570   20    0 
+magick    797898464  7  1 BKQ -     -     -          550    5    0 
+magick    797904588  7  2 Bk  c     f     -          545   20    0 
+magick    797904619  7  1 Bf  -     -     -          525    5    0 
+magick    797904648  7  7 rc  k     b     k          520   50  145 8d Td
+magick    797904711  7  6 f   -     -     -          615    0    0 
+magick    797904759  7  5 f   -     -     -          615    0    0 
+magick    797904801  7  4 cc  krc   kc    kf         615   70    0 
+magick    797904869  7  3 f   -     -     -          545    0    0 
+magick    797904900  7  2 Bk  kf    -     -          545   10    0 
+magick    797904972  6  1 Bc  k     kf    -          535   20    0 
+magick    797905044  6  6 c   ccc   c     f          515   80    0 
+magick    797905133  6  5 f   -     -     -          435    0    0 
+magick    797905184  6  4 f   -     -     -          435    0    0 
+magick    797905224  6  3 f   -     -     -          435    0    0 
+magick    797905243  6  2 Bk  b     -     -          435   20   35 
+magick    797905276  6  1 Bc  k     k     f          450   10    0 
+magick    797905322  6  6 f   -     -     -          440    0    0 
+magick    797905393  6  5 c   c     f     -          440   40    0 
+magick    797905446  6  5 cc  c     kc    f          400   60    0 
+magick    797905537  6  4 f   -     -     -          340    0    0 
+magick    797905571  6  3 cc  r     b     k          340   60    0 6s 5s
+magick    797905608  6  2 Bc  k     kf    -          280   20    0 
+magick    797905762  5  1 Bc  kf    -     -          260   10    0 
+magick    797905816  6  5 f   -     -     -          250    0    0 
+magick    797905834  6  4 f   -     -     -          250    0    0 
+magick    797905901  6  2 Bf  -     -     -          250   10    0 
+magick    797905953  6  1 Br  b     b     b          240   80  170 Ks Ad
+magick    797905984  6  6 f   -     -     -          330    0    0 
+magick    797906040  5  4 f   -     -     -          330    0    0 
+magick    797906048  5  3 f   -     -     -          330    0    0 
+magick    797906064  5  2 Bc  r     k     k          330   40  100 2c 4c
+magick    797906100  5  1 Bc  k     kf    -          390   10    0 
+magick    797906138  5  5 f   -     -     -          380    0    0 
+magick    797906147  5  4 f   -     -     -          380    0    0 
+magick    797906172  5  3 f   -     -     -          380    0    0 
+magick    797906181  5  2 Bc  f     -     -          380   20    0 
+magick    797906209  5  1 Bf  -     -     -          360    5    0 
+magick    797906223  6  6 rc  b     k     k          355   40   85 3h 3c
+magick    797906280  6  5 f   -     -     -          400    0    0 
+magick    797906289  6  4 f   -     -     -          400    0    0 
+magick    797906337  5  2 Bk  k     r     k          400   50  100 7h Qs
+magick    797906380  5  1 Bf  -     -     -          450    5    0 
+magick    797906452  7  7 c   b     b     k          445   40    0 3s Ad
+magick    797906581  6  5 cc  c     k     f          405   40    0 
+magick    797906646  6  4 f   -     -     -          365    0    0 
+magick    797906715  6  3 cc  f     -     -          365   30    0 
+magick    797906781  5  2 Bk  rc    f     -          335   40    0 
+magick    797906818  5  1 Bf  -     -     -          295    5    0 
+magick    797906827  5  5 c   k     f     -          290   10    0 
+magick    797906849  5  4 f   -     -     -          280    0    0 
+magick    797906857  5  3 f   -     -     -          280    0    0 
+magick    797906910  5  2 Bk  kc    k     kf         280   20    0 
+magick    797906972  5  1 Br  k     k     b          260   40  120 Kh Qd
+magick    797907023  4  4 r   b     b     f          340   50    0 
+magick    797907078  5  3 cc  bc    kc    kc         290   80   93 Tc 9s
+magick    797907137  5  2 Bc  kf    -     -          303   20    0 
+magick    797907180  6  1 Bc  kc    bc    kc         283   80    0 Td Kh
+magick    797907253  9  9 cc  r     k     k          203   60    0 Kh Qs
+magick    797907339 11 10 f   -     -     -          143    0    0 
+magick    797907375 11  9 f   -     -     -          143    0    0 
+magick    797907456 10  7 f   -     -     -          143    0    0 
+magick    797907541  9  6 cc  kc    k     k          143   30  150 6s 6h
+magick    797907629  9  5 f   -     -     -          263    0    0 
+magick    797907661  9  4 f   -     -     -          263    0    0 
+magick    797907718 10  3 cc  kc    kf    -          263   40    0 
+magick    797907810 11  3 c   kc    kc    kc         223   60    0 Qd Th
+magick    797907930 12  2 Bf  -     -     -          163   10    0 
+magick    797908050 12  1 Bc  kf    -     -          153   20    0 
+magick    797908219 12 12 cc  cc    f     -          133   80    0 
+magick    797908299 11 10 r   rA    -     -           53   53    0 9d 8h
+magick    797909189 12 10 f   -     -     -         1000    0    0 
+magick    797909282 12  9 cc  ccc   kc    k         1000  100  230 Tc Ad
+magick    797909399 10  6 rr  b     kc    kc        1130   90    0 9h 9c
+magick    797909492 12  7 f   -     -     -         1040    0    0 
+magick    797909552 12  6 f   -     -     -         1040    0    0 
+magick    797909631 12  5 f   -     -     -         1040    0    0 
+magick    797909686 12  4 f   -     -     -         1040    0    0 
+magick    797909825 10  3 f   -     -     -         1040    0    0 
+magick    797909848 11  2 Br  b     kc    kf        1040   50    0 
+magick    797909967 11  1 Br  k     b     b          990   70  150 Ks Ac
+magick    797910005 11 11 r   c     f     -         1070   50    0 
+magick    797910105 12 11 cc  f     -     -         1020   40    0 
+magick    797910195 11  9 cc  rc    f     -          980   70    0 
+magick    797910316 11  8 f   -     -     -          910    0    0 
+magick    797910369 11  7 f   -     -     -          910    0    0 
+magick    797910421 11  6 f   -     -     -          910    0    0 
+magick    797910486 11  5 rr  bc    kf    -          910   60    0 
+magick    797910616 10  3 f   -     -     -          850    0    0 
+magick    797910716 10  2 Bc  kr    br    b          850  130  495 8h 5h
+magick    797910826 10  1 Bf  -     -     -         1215    5    0 
+magick    797910887  8  8 f   -     -     -         1210    0    0 
+magick    797910944  8  7 f   -     -     -         1210    0    0 
+magick    797911023  8  6 c   rc    c     f         1210   70    0 
+magick    797911089  7  4 f   -     -     -         1140    0    0 
+magick    797911163  7  3 r   k     c     rc        1140  100    0 Ac Js
+magick    797911220  8  2 Bk  kf    -     -         1040   10    0 
+magick    797911292  8  1 Bf  -     -     -         1030    5    0 
+magick    797911343  8  8 f   -     -     -         1025    0    0 
+magick    797911387  7  7 rr  f     -     -         1025   40    0 
+magick    797911431  6  5 c   k     f     -          985   10    0 
+magick    797911479  6  4 f   -     -     -          975    0    0 
+magick    797911491  6  3 f   -     -     -          975    0    0 
+magick    797911503  7  2 Bc  kf    -     -          975   20    0 
+magick    797911539  7  1 Bf  -     -     -          955    5    0 
+magick    797911564  7  7 f   -     -     -          950    0    0 
+magick    797911596  7  6 rr  bc    c     c          950  100    0 Qd Qs
+magick    797911722  7  5 c   cc    k     f          850   40    0 
+magick    797911776  8  4 f   -     -     -          810    0    0 
+magick    797911812  8  3 f   -     -     -          810    0    0 
+magick    797911842  9  2 Bk  kc    k     f          810   20    0 
+magick    797911910  9  1 Br  b     kf    -          790   30    0 
+magick    797911988 11 11 c   rc    c     f          760   70    0 
+magick    797912060 11 10 c   rc    f     -          690   50    0 
+magick    797912142 11 10 KQ  -     -     -          640    0    0 
+magick    798426906  7  6 rc  rc    b     k          640   90  430 As Kc
+magick    798427065  7  4 f   -     -     -          980    0    0 
+magick    798427139  7  3 f   -     -     -          980    0    0 
+magick    798427197  7  2 Bk  f     -     -          980   10    0 
+magick    798427221  7  1 Bc  br    k     kc         970   60    0 9c Kh
+magick    798427292  7  7 f   -     -     -          910    0    0 
+magick    798427343  7  6 f   -     -     -          910    0    0 
+magick    798427397  7  5 f   -     -     -          910    0    0 
+magick    798427492  6  3 f   -     -     -          910    0    0 
+magick    798427528  6  2 Bf  -     -     -          910   10    0 
+magick    798427562  5  1 Br  -     -     -          900   20   30 
+magick    798427578  4  4 r   b     -     -          910   30   55 
+magick    798427609  4  3 f   -     -     -          935    0    0 
+magick    798427613  4  2 Bk  k     r     k          935   50  100 As Th
+magick    798427649  4  1 Bc  k     b     -          985   40   70 
+magick    798427682  4  4 f   -     -     -         1015    0    0 
+magick    798427704  4  3 cc  f     -     -         1015   20    0 
+magick    798427761  4  2 Bk  kf    -     -          995   10    0 
+magick    798427786  4  1 Bf  Q     -     -          985    5    0 
+magick    798496971  7  3 f   -     -     -          980    0    0 
+magick    798497013  7  2 Bc  f     -     -          980   20    0 
+magick    798497050  7  1 Bf  -     -     -          960    5    0 
+magick    798497113  8  7 f   -     -     -          955    0    0 
+magick    798497208  8  6 c   f     -     -          955   10    0 
+magick    798497323  7  4 r   br    b     b          945   90  215 Ks Qc
+magick    798497405  8  3 f   -     -     -         1070    0    0 
+magick    798497450  7  2 Bk  kc    kc    kf        1070   40    0 
+magick    798497554  6  1 Bf  -     -     -         1030    5    0 
+magick    798497590  8  8 f   -     -     -         1025    0    0 
+magick    798497694  8  7 cc  cc    cc    f         1025  110    0 
+magick    798497852  9  7 f   -     -     -          915    0    0 
+magick    798497975  9  6 f   -     -     -          915    0    0 
+magick    798498024  9  5 f   -     -     -          915    0    0 
+magick    798498074  8  3 f   -     -     -          915    0    0 
+magick    798498127  9  3 f   -     -     -          915    0    0 
+magick    798498296 10  2 Bc  kc    c     k          915   70    0 Th 8d
+magick    798498408  8  1 Bc  kf    -     -          845   10    0 
+magick    798498616  6  6 f   -     -     -          835    0    0 
+magick    798498718  8  7 c   f     -     -          835   20    0 
+magick    798498831  9  6 f   -     -     -          815    0    0 
+magick    798498920  9  4 f   -     -     -          815    0    0 
+magick    798499081 12  4 f   -     -     -          815    0    0 
+magick    798499194 10  3 f   -     -     -          815    0    0 
+magick    798499273  9  2 Bf  -     -     -          815   10    0 
+magick    798499344  9  1 Br  bc    kf    -          805   40    0 
+magick    798499444  9  9 r   b     r     k          765   70    0 8d 8s
+magick    798499539  9  8 f   -     -     -          695    0    0 
+magick    798499601 10  7 fQ  -     -     -          695    0    0 
+magick    798586714  8  5 f   -     -     -          695    0    0 
+magick    798586736  8  4 c   c     f     -          695   20    0 
+magick    798586792  8  3 cc  cr    b     b          675   92  338 8s 7s
+magick    798586879  7  1 Bk  kr    kc    f          921   50    0 
+magick    798586938  7  1 Bf  -     -     -          871    5    0 
+magick    798586969  7  7 f   -     -     -          866    0    0 
+magick    798587024  6  5 f   -     -     -          866    0    0 
+magick    798587069  6  4 c   kf    -     -          866   10    0 
+magick    798587101  6  3 f   -     -     -          856    0    0 
+magick    798587163  7  3 c   r     k     f          856   30    0 
+magick    798587244  7  2 Bk  k     k     b          826   30    0 5c 7h
+magick    798587319  8  1 Bf  -     -     -          796    5    0 
+magick    798587366  8  8 c   k     f     -          791   10    0 
+magick    798587479  8  7 f   -     -     -          781    0    0 
+magick    798587599  8  6 f   -     -     -          781    0    0 
+magick    798587722  8  5 f   -     -     -          781    0    0 
+magick    798587821  9  4 f   -     -     -          781    0    0 
+magick    798587976  9  3 r   b     b     b          781   70  190 
+magick    798588074  9  2 Bk  kf    -     -          901   10    0 
+magick    798588155  9  1 Bf  -     -     -          891    5    0 
+magick    798588326  9  9 r   k     f     -          886   20    0 
+magick    798588491  6  5 f   -     -     -          866    0    0 
+magick    798588512  5  3 f   -     -     -          866    0    0 
+magick    798588546  5  2 Bf  -     -     -          866   10    0 
+magick    798588613  5  1 Br  b     -     -          856   30   50 
+magick    798588639  5  5 f   -     -     -          876    0    0 
+magick    798588686  7  6 c   c     k     k          876   40  125 Qh 8h
+magick    798588737  7  5 r   b     b     b          961   70    0 9h Qh
+magick    798588798  6  4 f   -     -     -          891    0    0 
+magick    798588878  6  3 f   -     -     -          891    0    0 
+magick    798588975  6  2 Bk  kf    -     -          891   10    0 
+magick    798589031  6  1 Bf  -     -     -          881    5    0 
+magick    798589147  4  4 f   -     -     Q          876    0    0 

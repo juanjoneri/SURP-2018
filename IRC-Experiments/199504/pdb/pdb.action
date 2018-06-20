@@ -1,0 +1,36 @@
+action    798414609  8  8 c   k     b     -          765   30   50 
+action    798414664  9  6 cc  bc    b     -          785   60  130 
+action    798414734  9  6 f   -     -     -          855    0    0 
+action    798414830  8  5 f   -     -     -          855    0    0 
+action    798414884  8  4 f   -     -     -          855    0    0 
+action    798414971  8  3 f   -     -     -          855    0    0 
+action    798415066  9  2 Bf  -     -     -          855   10    0 
+action    798415156 10  1 Bc  bc    b     k          845   50  130 Jc Ks
+action    798415253 10 10 f   -     -     -          925    0    0 
+action    798415338 10  9 c   f     -     -          925   20    0 
+action    798415540 11  8 ccc cc    k     f          905   60    0 
+action    798415794 11  6 f   -     -     -          845    0    0 
+action    798416006 11  6 f   -     -     -          845    0    0 
+action    798416108 11  5 f   -     -     -          845    0    0 
+action    798416197 12  4 cc  kc    kc    kc         845   70  285 9s 9c
+action    798416359 10  3 f   -     -     -         1060    0    0 
+action    798416402  9  2 Bf  -     -     -         1060   10    0 
+action    798416536  8  1 Bcc kf    -     -         1050   20    0 
+action    798416648  8  8 f   -     -     -         1030    0    0 
+action    798416719  8  7 cc  cc    cc    k         1030   80  255 Kd Qs
+action    798416825  8  6 f   -     -     -         1205    0    0 
+action    798416850  8  5 cc  bc    bc    k         1205   80  340 Kd Qc
+action    798416984  8  5 f   -     -     -         1465    0    0 
+action    798417140  8  3 cc  kc    kf    -         1465   30    0 
+action    798417267  8  3 f   -     -     -         1435    0    0 
+action    798417333  7  2 Bc  bc    b     b         1435   80  165 4d 4c
+action    798417408  7  1 Bf  -     -     -         1520    5    0 
+action    798417472  6  6 r   c     r     b         1515  100  240 Qs Ks
+action    798417547  6  6 f   -     -     -         1655    0    0 
+action    798417561  5  4 f   -     -     -         1655    0    0 
+action    798417634  6  3 f   -     -     -         1655    0    0 
+action    798417651  6  2 Bc  kc    k     k         1655   30    0 As Td
+action    798417709  7  1 Bf  -     -     -         1625    5    0 
+action    798417756  8  8 c   f     -     -         1620   10    0 
+action    798417851  8  7 f   -     -     -         1610    0    0 
+action    798417967  7  5 fQ  -     -     -         1610    0    0 

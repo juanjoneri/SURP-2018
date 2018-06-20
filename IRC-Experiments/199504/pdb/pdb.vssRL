@@ -1,0 +1,104 @@
+vssRL     797890584 12  9 r   c     f     -         1000   30    0 
+vssRL     797890680 12  8 f   -     -     -          970    0    0 
+vssRL     797890774 11  7 f   -     -     -          970    0    0 
+vssRL     797890852 12  6 r   b     b     -          970   50  120 
+vssRL     797890916 11  4 rc  kcc   k     b         1040   80    0 Qc As
+vssRL     797891019  9  2 r   bc    k     b          960   60  170 6c 3c
+vssRL     797891082  9  2 Bk  f     -     -         1070   10    0 
+vssRL     797891135  9  1 Bf  -     -     -         1060    5    0 
+vssRL     797891169  9  9 f   -     -     -         1055    0    0 
+vssRL     797891211 10  9 f   -     -     -         1055    0    0 
+vssRL     797891313 11  9 f   -     -     -         1055    0    0 
+vssRL     797891435 12  8 f   -     -     -         1055    0    0 
+vssRL     797891494 12  7 cc  kf    -     -         1055   30    0 
+vssRL     797891542 12  6 r   bc    k     kr        1025   80    0 Jh As
+vssRL     797891625 12  5 f   -     -     -          945    0    0 
+vssRL     797891719 11  4 rc  kcc   kf    -          945   50    0 
+vssRL     797891833 10  3 rr  kr    b     b          895  100  350 Qc Kh
+vssRL     797891909  9  2 Bk  f     -     -         1145   10    0 
+vssRL     797892010 10  1 Bc  k     kf    -         1135   10    0 
+vssRL     797892078  9  9 f   -     -     -         1125    0    0 
+vssRL     797892122 10  9 rc  k     k     f         1125   30    0 
+vssRL     797892217 12  8 f   -     -     -         1095    0    0 
+vssRL     797892350 11  6 r   b     b     f         1095   50    0 
+vssRL     797892429 11  5 rc  k     cc    f         1045   80    0 
+vssRL     797892567 11  4 r   b     b     kc         965   70    0 9c Qs
+vssRL     797892630 11  3 f   -     -     -          895    0    0 
+vssRL     797892744 11  2 Br  br    b     brr        895  170  420 5d 2d
+vssRL     797892817 11  1 Bf  -     -     -         1145    5    0 
+vssRL     797892938 11 11 r   r     k     k         1140   40    0 Td Jc
+vssRL     797893040 11 10 f   -     -     -         1100    0    0 
+vssRL     797893110 12 10 f   -     -     -         1100    0    0 
+vssRL     797893175 12  9 rr  rr    c     rc        1100  160    0 5h Kh
+vssRL     797893323 12  8 rc  kf    -     -          940   40    0 
+vssRL     797893457 12  7 r   rr    rr    c          900  160  367 8c 5s
+vssRL     797893649 12  6 r   c     f     -         1107   30    0 
+vssRL     797893802 12  5 rr  bf    -     -         1077   50    0 
+vssRL     797893970 12  4 r   b     -     -         1027   30   85 
+vssRL     797894075  8  2 rr  bc    kf    -         1082   60    0 
+vssRL     797894188  8  2 Br  b     bf    -         1022   60    0 
+vssRL     797894283  8  1 Br  b     -     -          962   30   60 
+vssRL     797894319  8  8 r   b     b     -          992   50  125 
+vssRL     797894390 10  8 rc  k     k     k         1067   40    0 9h Tc
+vssRL     797894459 10  6 rc  rc    c     f         1027   90    0 
+vssRL     797894569 10  5 f   -     -     -          937    0    0 
+vssRL     797894695  9  2 rr  brc   brc   bc         937  200  590 8c 7d
+vssRL     797894825 11  3 rr  br    kf    -         1327   80    0 
+vssRL     797894985 11  2 BQ  -     -     -         1247   10    0 
+vssRL     797898782  8  3 r   b     bc    kc        1237   90  240 Qd 2s
+vssRL     797898852  7  2 Bk  b     b     b         1387   60  115 
+vssRL     797898906  8  1 Bc  kf    -     -         1442   20    0 
+vssRL     797899140 10 10 c   f     -     -         1422   20    0 
+vssRL     797899343  9  8 c   c     f     -         1402   30    0 
+vssRL     797899571  6  6 f   -     -     -         1372    0    0 
+vssRL     797899637  5  5 f   -     -     -         1372    0    0 
+vssRL     797899658  6  5 f   -     -     -         1372    0    0 
+vssRL     797899738  6  4 f   -     -     -         1372    0    0 
+vssRL     797899820  8  3 f   -     -     -         1372    0    0 
+vssRL     797899929  6  2 Bk  b     k     k         1372   20    0 5h 8c
+vssRL     797900100  6  1 Bf  -     -     -         1352    5    0 
+vssRL     797900160  5  5 rc  c     k     b         1347   70  185 Th Ac
+vssRL     797900220  6  5 f   -     -     -         1462    0    0 
+vssRL     797900255  5  3 r   rr    kcc   cf        1462  160    0 
+vssRL     797900429  5  2 Br  b     b     b         1302   70  145 5s Jc
+vssRL     797900491  6  1 Bc  br    brc   bc        1377  180    0 7s 6h
+vssRL     797900580  6  5 f   -     -     -         1197    0    0 
+vssRL     797900616  6  4 rc  ccc   rr    r         1197  200    0 8d Qc
+vssRL     797900692  6  3 rr  bc    b     k          997   80    0 4h 8h
+vssRL     797900786  8  2 Brc bc    kf    -          917   60    0 
+vssRL     797900911  6  1 Br  b     b     bc         857   90    0 Ks Td
+vssRL     797900976  6  6 rc  f     -     -          767   40    0 
+vssRL     797901062  7  6 r   rrr   b     b          727  120  285 Ad Qc
+vssRL     797901139  6  4 r   rrrrc c     c          892  160    0 9h 7c
+vssRL     797901199  7  3 rc  rc    rc    b          732  180  550 Kh Qs
+vssRL     797901258  6  2 Brc kf    -     -         1102   40    0 
+vssRL     797901305  6  1 Brc br    br    bf        1062  180    0 
+vssRL     797901356  6  6 f   -     -     -          882    0    0 
+vssRL     797901427  6  5 rr  brc   f     -          882   80    0 
+vssRL     797901479  6  4 rr  b     b     b          802   90  290 8h 9s
+vssRL     797901534  7  4 r   c     rf    -         1002   70    0 
+vssRL     797901578  7  3 r   b     b     kc         932   70  175 7c 6c
+vssRL     797901675  7  2 Br  bc    f     -         1037   50    0 
+vssRL     797901785  9  1 Br  br    b     b          987  120  440 
+vssRL     797901864  7  7 r   c     f     -         1307   30    0 
+vssRL     797901967  7  6 r   b     b     brc       1277  140    0 Tc 8h
+vssRL     797902097  7  5 r   b     b     -         1137   50  125 
+vssRL     797902143  7  4 f   -     -     -         1212    0    0 
+vssRL     797902211  7  3 r   b     b     br        1212  110    0 Jd 2s
+vssRL     797902275  8  2 Bc  bc    kf    -         1102   40    0 
+vssRL     797902360  8  1 Brc kf    -     -         1062   30    0 
+vssRL     797902440  7  7 rr  b     b     b         1032   90  250 
+vssRL     797902576  7  6 r   b     b     b         1192   80  235 7h 5c
+vssRL     797902643  8  5 rr  rr    rc    rc        1347  220    0 Ac Ah
+vssRL     797902793  8  4 r   r     r     rr        1127  160    0 Kh As
+vssRL     797902863  8  3 r   brc   bc    kc         967  120    0 9h 7c
+vssRL     797902923  8  2 Bc  b     bc    kf         847   70    0 
+vssRL     797903016  8  1 Bc  kf    -     -          777   20    0 
+vssRL     797903105  9  9 r   rrr   rrr   f          757  200    0 
+vssRL     797903192  9  8 f   -     -     -          557    0    0 
+vssRL     797903317  9  7 r   bf    -     -          557   30    0 
+vssRL     797903368  9  6 rc  brc   kf    -          527   80    0 
+vssRL     797903460 10  6 rr  brc   rr    r          447  200    0 9h 8h
+vssRL     797903613 11  7 r   rr    rr    rrA        247  247  889 8d Qh
+vssRL     797903765 11  6 rc  c     c     c          889  100    0 2c Ad
+vssRL     797903868 11  5 KQ  -     -     -          789    0    0 

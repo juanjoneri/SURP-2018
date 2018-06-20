@@ -1,0 +1,1142 @@
+WildCard  797714195 10  2 Bf  -     -     -         1000   10    0 
+WildCard  797714300 10  1 Bf  -     -     -          990    5    0 
+WildCard  797714360 10 10 c   f     -     -          985   10    0 
+WildCard  797714451 10  9 f   -     -     -          975    0    0 
+WildCard  797714545 12 10 c   c     f     -          975   30    0 
+WildCard  797714709  9  7 f   Q     -     -          945    0    0 
+WildCard  797834207 11 11 f   -     -     -          945    0    0 
+WildCard  797834313 11 10 cc  cc    c     f          945   70    0 
+WildCard  797834427 10  8 cc  f     -     -          875   40    0 
+WildCard  797834518 10  7 r   b     bc    b          835  100  320 Js Kc
+WildCard  797834602 10  6 f   -     -     -         1055    0    0 
+WildCard  797834689  9  5 cc  br    bc    kf        1055   90    0 
+WildCard  797834813  9  3 r   rc    f     -          965   60    0 
+WildCard  797834941  9  2 Bk  kc    br    b          905  100    0 Kd Jc
+WildCard  797835008  9  1 Bf  -     -     -          805    5    0 
+WildCard  797835108  8  8 f   -     -     -          800    0    0 
+WildCard  797835192  7  7 c   k     f     -          800   10    0 
+WildCard  797835263  7  6 f   -     -     -          790    0    0 
+WildCard  797835337  8  6 f   -     -     -          790    0    0 
+WildCard  797835361  8  5 cc  kf    -     -          790   20    0 
+WildCard  797835407  7  3 r   c     f     -          770   30    0 
+WildCard  797835501  8  2 Bk  k     k     k          740   10   20 9c 6d
+WildCard  797835552  8  1 Bc  b     b     k          750   40    0 Jh 4c
+WildCard  797835602  8  8 r   rc    r     b          710  120    0 Kh As
+WildCard  797835692  9  8 f   -     -     -          590    0    0 
+WildCard  797835751  9  7 c   c     k     rc         590   80    0 7d Qh
+WildCard  797835809  9  6 r   k     b     b          510   70  225 4d 4s
+WildCard  797835890 10  5 f   -     -     -          665    0    0 
+WildCard  797835970 10  4 cc  kc    k     kf         665   50    0 
+WildCard  797836109 11  3 cc  k     b     b          615   60  165 Kh 8h
+WildCard  797836247 11  2 Bf  -     -     -          720   10    0 
+WildCard  797836324 12  1 Br  b     b     k          710   60    0 Kc Ah
+WildCard  797836380 12 12 f   -     -     -          650    0    0 
+WildCard  797836462 12 11 c   c     f     -          650   30    0 
+WildCard  797836507 12 10 f   -     -     -          620    0    0 
+WildCard  797836611 11  8 r   k     f     -          620   30    0 
+WildCard  797836674 11  7 rr  c     f     -          590   50    0 
+WildCard  797836736 11  6 f   -     -     -          540    0    0 
+WildCard  797836948 10  5 c   k     k     k          540   10    0 8c Kd
+WildCard  797836993 11  4 c   f     -     -          530   10    0 
+WildCard  797837078 11  3 ccc b     b     b          520   90  450 As 5d
+WildCard  797837180 10  2 Bc  kf    -     -          880   20    0 
+WildCard  797837269 10  1 Bc  kr    b     k          860   50  130 Qc Td
+WildCard  797837404 10 10 f   -     -     -          940    0    0 
+WildCard  797837541 10  9 f   -     -     -          940    0    0 
+WildCard  797837589 10  8 c   b     -     -          940   20   35 
+WildCard  797837656 11  8 c   c     c     c          955   60    0 Ks Jc
+WildCard  797837721 10  6 c   k     c     b          895   50  200 8h Kd
+WildCard  797837790 10  5 c   bc    kc    kf        1045   50    0 
+WildCard  797837850 11  5 f   -     -     -          995    0    0 
+WildCard  797837958 10  3 f   -     -     -          995    0    0 
+WildCard  797838031 10  2 Bk  kf    -     -          995   10    0 
+WildCard  797838109 10  1 Bc  k     kf    -          985   10    0 
+WildCard  797838179 10 10 rc  rr    b     br         975  150  485 4s As
+WildCard  797838306 12  9 f   -     -     -         1310    0    0 
+WildCard  797838467 12  8 f   -     -     -         1310    0    0 
+WildCard  797838544 12  7 f   -     -     -         1310    0    0 
+WildCard  797838608 12  6 cc  k     kf    -         1310   20    0 
+WildCard  797838700 12  5 f   -     -     -         1290    0    0 
+WildCard  797838771 12  4 c   b     kf    -         1290   20    0 
+WildCard  797838847 12  3 f   -     -     -         1270    0    0 
+WildCard  797838950 12  2 Bc  br    k     bc        1270   90    0 Jh 2h
+WildCard  797839051 12  1 Brc brc   kc    kc        1180  120  220 As 8s
+WildCard  797839181 12 12 f   -     -     -         1280    0    0 
+WildCard  797839348 12 11 c   f     -     -         1280   10    0 
+WildCard  797839437 10  8 f   -     -     -         1270    0    0 
+WildCard  797839542 11  8 c   rr    c     f         1270   70    0 
+WildCard  797839626 11  7 f   -     -     -         1200    0    0 
+WildCard  797839679 11  6 rc  kc    k     f         1200   40    0 
+WildCard  797839746 11  6 c   brc   c     f         1160   80    0 
+WildCard  797839882 11  5 cc  kf    Q     -         1080   30    0 
+WildCard  798053678  2  1 Bcc kf    -     -         1050   20    0 
+WildCard  798053701  2  2 B   -     -     -         1030   10   15 
+WildCard  798053704  2  1 Bc  k     b     -         1035   30   40 
+WildCard  798053724  2  2 Bc  f     -     -         1045   20    0 
+WildCard  798053739  2  1 Bc  kc    kf    -         1025   20    0 
+WildCard  798053771  2  2 Bc  rf    -     -         1005   40    0 
+WildCard  798053787  2  1 Br  -     -     -          965   20   30 
+WildCard  798053792  2  2 B   -     -     -          975   10   15 
+WildCard  798053794  2  1 Br  -     -     -          980   20   30 
+WildCard  798053798  2  2 B   -     -     -          990   10   15 
+WildCard  798053800  2  1 Bc  k     k     b          995   30   40 
+WildCard  798053814  2  2 B   -     -     -         1005   10   15 
+WildCard  798053816  2  1 Br  -     -     -         1010   20   30 
+WildCard  798053818  2  2 B   -     -     -         1020   10   15 
+WildCard  798053820  2  1 Bc  k     b     -         1025   30   40 
+WildCard  798053833  2  2 B   -     -     -         1035   10   15 
+WildCard  798053837  2  1 Bc  k     k     k         1040   10   20 Tc 4s
+WildCard  798053850  2  2 Br  b     -     -         1050   40   70 
+WildCard  798053862  2  1 Bc  kf    -     -         1080   10    0 
+WildCard  798053873  2  2 Bc  c     f     -         1070   30    0 
+WildCard  798053881  2  1 Bc  bc    kf    -         1040   30    0 
+WildCard  798053894  2  2 Br  r     f     -         1010   50    0 
+WildCard  798053908  2  1 Bc  kf    -     -          960   10    0 
+WildCard  798053918  2  2 B   -     -     -          950   10   15 
+WildCard  798053921  2  1 Bcf -     -     -          955   10    0 
+WildCard  798053927  2  2 B   -     -     -          945   10   15 
+WildCard  798053931  2  1 Bc  k     k     k          950   10   20 Jh 4s
+WildCard  798053943  2  2 B   -     -     -          960   10   15 
+WildCard  798053946  2  1 Br  -     -     -          965   20   30 
+WildCard  798053950  2  2 Bf  -     -     -          975   10    0 
+WildCard  798053954  2  1 Bc  k     k     b          965   30   30 4c Kh
+WildCard  798053969  2  2 B   -     -     -          965   10   15 
+WildCard  798053972  2  1 Bc  kc    k     b          970   40   60 
+WildCard  798053991  2  2 B   -     -     -          990   10   15 
+WildCard  798053993  2  1 Bc  k     kr    b          995   70  140 4c Qc
+WildCard  798054008  2  2 Bc  f     -     -         1065   20    0 
+WildCard  798054017  2  1 Brc b     -     -         1045   40   70 
+WildCard  798054029  2  2 B   -     -     -         1075   10   15 
+WildCard  798054032  2  1 Bc  k     kc    k         1080   30   60 6s Qs
+WildCard  798054049  2  2 B   -     -     -         1110   10   15 
+WildCard  798054053  2  1 Bc  kf    -     -         1115   10    0 
+WildCard  798054061  2  2 Bc  k     c     k         1105   40   80 Ac 6d
+WildCard  798054076  2  1 Bc  b     -     -         1145   20   30 
+WildCard  798054085  2  2 B   -     -     -         1155   10   15 
+WildCard  798054087  2  1 Bcf -     -     -         1160   10    0 
+WildCard  798054093  2  2 B   -     -     -         1150   10   15 
+WildCard  798054096  2  1 Bc  k     k     k         1155   10   20 6s Ac
+WildCard  798054107  2  2 B   -     -     -         1165   10   15 
+WildCard  798054111  2  1 Bcc k     b     b         1170   60  100 
+WildCard  798054131  2  2 B   -     -     -         1210   10   15 
+WildCard  798054134  2  1 Bcc kc    kc    k         1215   50   50 As 3c
+WildCard  798054150  2  2 Br  b     k     k         1215   40   80 As Th
+WildCard  798054165  2  1 Bc  kc    kc    k         1255   40    0 6c 3s
+WildCard  798054187  3  3 rc  c     b     b         1215   80  145 
+WildCard  798054220  3  2 Bk  k     k     b         1280   30   40 
+WildCard  798054240  3  1 Bc  kc    k     b         1290   50   90 
+WildCard  798054263  3  3 c   bc    c     b         1330   70  145 Ad 6h
+WildCard  798054294  3  2 Bcc kc    kf    -         1405   50    0 
+WildCard  798054328  3  1 Bc  k     b     -         1355   30   40 
+WildCard  798054344  3  3 cc  c     f     -         1365   30    0 
+WildCard  798054361  3  2 Bk  kf    -     -         1335   10    0 
+WildCard  798054377  3  1 Bc  k     k     b         1325   30   40 
+WildCard  798054395  3  3 r   -     -     -         1335   20   35 
+WildCard  798054399  3  2 B   -     -     -         1350   10   15 
+WildCard  798054403  3  1 Bc  kc    kf    -         1355   20    0 
+WildCard  798054423  3  3 c   f     -     -         1335   10    0 
+WildCard  798054434  3  2 Bk  k     bf    -         1325   30    0 
+WildCard  798054451  3  1 Bc  kc    kr    b         1295   80  170 5c Jc
+WildCard  798054474  3  3 c   k     k     k         1385   10    0 9h Jc
+WildCard  798054491  3  2 Bc  f     -     -         1375   20    0 
+WildCard  798054505  3  1 Bc  kf    -     -         1355   20    0 
+WildCard  798054515  3  3 c   rr    b     k         1335   70    0 8s Kh
+WildCard  798054540  3  2 Bc  b     bf    -         1265   50    0 
+WildCard  798054564  3  1 Bc  kc    k     k         1215   30    0 2h 6h
+WildCard  798054592  3  3 f   -     -     -         1185    0    0 
+WildCard  798054598  3  2 Br  bc    bc    c         1185  100    0 Ah Kh
+WildCard  798054627  3  1 Bcf -     -     -         1085   10    0 
+WildCard  798054639  3  3 c   b     -     -         1075   20   35 
+WildCard  798054649  3  2 Br  b     -     -         1090   30   50 
+WildCard  798054659  3  1 Bf  -     -     -         1110    5    0 
+WildCard  798054676  3  3 f   -     -     -         1105    0    0 
+WildCard  798054688  3  2 Bc  kf    -     -         1105   20    0 
+WildCard  798054699  3  1 Bf  -     -     -         1085    5    0 
+WildCard  798054715  3  3 c   b     -     -         1080   20   40 
+WildCard  798054744  3  2 Br  b     -     -         1100   30   50 
+WildCard  798054760  3  1 Bf  -     -     -         1120    5    0 
+WildCard  798054766  3  3 f   -     -     -         1115    0    0 
+WildCard  798054775  3  2 Bk  k     c     b         1115   50   80 
+WildCard  798054797  3  1 Bc  k     b     b         1145   60  140 Js 9c
+WildCard  798054815  3  3 cc  c     r     b         1225   90  210 2h 8h
+WildCard  798054847  3  2 Bc  f     -     -         1345   20    0 
+WildCard  798054862  3  1 Bc  kf    -     -         1325   20    0 
+WildCard  798054871  3  3 cc  f     -     -         1305   20    0 
+WildCard  798054885  2  1 B   -     -     -         1285   10   10 
+WildCard  798054888  2  1 Bc  kc    kc    kf        1285   40    0 
+WildCard  798054916  2  2 B   -     -     -         1245   10   15 
+WildCard  798054919  2  1 Bc  b     -     -         1250   20   30 
+WildCard  798054927  2  2 B   -     -     -         1260   10   15 
+WildCard  798054929  2  1 Bc  k     k     b         1265   30   40 
+WildCard  798054943  2  2 Bc  c     c     r         1275   90  180 9s 7d
+WildCard  798054963  2  1 Bc  kr    -     -         1365   30   50 
+WildCard  798054992  2  2 B   -     -     -         1385   10   15 
+WildCard  798054994  2  1 Br  kr    k     k         1390   40   80 3h 9c
+WildCard  798055014  2  2 B   -     -     -         1430   10   15 
+WildCard  798055018  2  1 Bc  bc    kf    -         1435   30    0 
+WildCard  798055037  2  2 Bc  f     -     -         1405   20    0 
+WildCard  798055045  2  1 Bc  k     b     kf        1385   30    0 
+WildCard  798055064  2  2 B   -     -     -         1355   10   15 
+WildCard  798055066  2  1 Bcf -     -     -         1360   10    0 
+WildCard  798055071  2  2 B   -     -     -         1350   10   15 
+WildCard  798055074  2  1 Bc  kc    kf    -         1355   20    0 
+WildCard  798055088  2  2 B   -     -     -         1335   10   15 
+WildCard  798055091  2  1 Bc  kf    -     -         1340   10    0 
+WildCard  798055098  2  2 B   -     -     -         1330   10   15 
+WildCard  798055102  2  1 Bc  kf    -     -         1335   10    0 
+WildCard  798055112  2  2 B   -     -     -         1325   10   15 
+WildCard  798055114  2  1 Br  b     -     -         1330   30   50 
+WildCard  798055119  2  2 Bf  -     -     -         1350   10    0 
+WildCard  798055124  2  1 Br  b     -     -         1340   30   50 
+WildCard  798055131  2  2 Bf  -     -     -         1360   10    0 
+WildCard  798055136  2  1 Br  k     b     -         1350   40   60 
+WildCard  798055144  2  2 Br  r     bf    -         1370   70    0 
+WildCard  798055165  2  1 Bcc kc    kf    -         1300   30    0 
+WildCard  798055179  2  2 Br  b     -     -         1270   40   70 
+WildCard  798055188  2  1 Br  -     -     -         1300   20   30 
+WildCard  798055192  2  2 B   -     -     -         1310   10   15 
+WildCard  798055194  2  1 Bc  bc    kc    kc        1315   70    0 Jd 2s
+WildCard  798055218  2  2 B   -     -     -         1245   10   15 
+WildCard  798055222  2  1 Br  -     -     -         1250   20   30 
+WildCard  798055228  2  2 Br  r     k     k         1260   50    0 Th 9d
+WildCard  798055245  2  1 Bc  b     -     -         1210   20   30 
+WildCard  798055256  2  2 Bc  rr    r     k         1220  100    0 9c Ad
+WildCard  798055286  2  1 Bc  kc    kc    b         1120   60  120 8c 5d
+WildCard  798055307  2  2 B   -     -     -         1180   10   15 
+WildCard  798055310  2  1 Bc  b     b     b         1185   60    0 Qs Tc
+WildCard  798055328  2  2 Bf  -     -     -         1125   10    0 
+WildCard  798055336  2  1 Bc  kc    kc    k         1115   40    0 Jc 9d
+WildCard  798055351  2  2 Bc  k     f     -         1075   20    0 
+WildCard  798055362  2  1 Bc  k     kf    -         1055   10    0 
+WildCard  798055378  2  2 Bc  r     -     -         1045   40   70 
+WildCard  798055388  2  1 Bc  kc    kf    -         1075   20    0 
+WildCard  798055402  2  2 Br  br    k     k         1055   60    0 2c 2h
+WildCard  798055425  2  1 Bc  k     k     k          995   10   20 2h 9s
+WildCard  798055439  2  2 B   -     -     -         1005   10   15 
+WildCard  798055442  2  1 Bf  -     -     -         1010    5    0 
+WildCard  798055447  2  2 Br  b     -     -         1005   30   50 
+WildCard  798055460  2  1 Bc  b     -     -         1025   20   30 
+WildCard  798055467  2  2 B   -     -     -         1035   10   15 
+WildCard  798055470  2  1 Bf  -     -     -         1040    5    0 
+WildCard  798055474  2  2 Bc  f     -     -         1035   20    0 
+WildCard  798055482  2  1 Bcf -     -     -         1015   10    0 
+WildCard  798055491  2  2 Br  c     b     k         1005   50  100 7c Kd
+WildCard  798055506  2  1 Bc  k     b     -         1055   30   40 
+WildCard  798055518  2  2 Br  b     -     -         1065   40   70 
+WildCard  798055527  2  1 Bc  k     k     b         1095   30    0 3d 2h
+WildCard  798055537  2  2 B   -     -     -         1065   10   15 
+WildCard  798055540  2  1 Bc  br    b     b         1070   80  160 5h Kh
+WildCard  798055562  2  2 B   -     -     -         1150   10   15 
+WildCard  798055567  2  1 Bf  -     -     -         1155    5    0 
+WildCard  798055573  2  2 B   -     -     -         1150   10   15 
+WildCard  798055575  2  1 Bc  kc    kf    -         1155   20    0 
+WildCard  798055622  2  2 Bc  k     f     -         1135   20    0 
+WildCard  798055632  2  1 Bf  -     -     -         1115    5    0 
+WildCard  798055636  2  2 B   -     -     -         1110   10   15 
+WildCard  798055639  2  1 Br  -     -     -         1115   20   30 
+WildCard  798055644  3  3 f   -     -     -         1125    0    0 
+WildCard  798055656  3  2 Bf  -     -     -         1125   10    0 
+WildCard  798055667  3  1 Bc  k     k     kc        1115   40   45 5d Qd
+WildCard  798055688  3  3 f   -     -     -         1120    0    0 
+WildCard  798055693  3  2 Bc  kc    kf    -         1120   30    0 
+WildCard  798055708  3  1 Br  b     -     -         1090   40   80 
+WildCard  798055724  3  3 f   -     -     -         1130    0    0 
+WildCard  798055729  3  2 Bc  c     k     f         1130   30    0 
+WildCard  798055744  3  1 Bc  bc    kf    -         1100   40    0 
+WildCard  798055765  3  3 c   k     b     k         1060   30   65 Ac 6h
+WildCard  798055794  3  2 Bc  f     -     -         1095   20    0 
+WildCard  798055805  3  1 Bc  k     k     k         1075   20    0 9d 7d
+WildCard  798055822  3  3 cc  c     f     -         1055   30    0 
+WildCard  798055854  3  2 Bc  c     c     f         1025   50    0 
+WildCard  798055869  3  1 Bf  -     -     -          975    5    0 
+WildCard  798055873  3  3 f   -     -     -          970    0    0 
+WildCard  798055881  4  3 cc  f     -     -          970   20    0 
+WildCard  798055914  4  2 Bk  k     f     -          950   10    0 
+WildCard  798055957  5  1 Bc  br    b     k          940   60    0 As Qd
+WildCard  798055984  5  5 f   -     -     -          880    0    0 
+WildCard  798056033  5  4 c   kf    -     -          880   10    0 
+WildCard  798056073  5  3 c   b     k     f          870   20    0 
+WildCard  798056114  5  2 Bf  -     -     -          850   10    0 
+WildCard  798056138  5  1 Bc  b     -     -          840   20   30 
+WildCard  798056150  5  5 c   k     f     -          850   10    0 
+WildCard  798056191  5  4 r   b     b     k          840   50  115 Ad 7d
+WildCard  798056246  3  2 c   k     k     k          905   10   15 8h Kc
+WildCard  798056271  3  2 B   -     -     -          910   10   15 
+WildCard  798056275  3  1 Bc  k     k     k          915   10   20 7s 9c
+WildCard  798056290  3  3 r   -     -     -          925   20   35 
+WildCard  798056296  3  2 Bc  kc    kc    kf         940   50    0 
+WildCard  798056315  3  1 Bc  k     k     k          890   10    0 7h Ts
+WildCard  798056326  3  3 f   -     -     -          880    0    0 
+WildCard  798056347  3  2 B   -     -     -          880   10   15 
+WildCard  798056350  3  1 Bc  k     k     b          885   30   40 
+WildCard  798056365  4  4 f   -     -     -          895    0    0 
+WildCard  798056369  4  3 f   -     -     -          895    0    0 
+WildCard  798056376  4  2 Bf  -     -     -          895   10    0 
+WildCard  798056400  4  1 Br  -     -     -          885   20   30 
+WildCard  798056407  4  4 cc  c     c     f          895   50    0 
+WildCard  798056434  4  3 f   -     -     -          845    0    0 
+WildCard  798056474  4  2 Bc  kc    kc    k          845   50    0 Ac Kd
+WildCard  798056502  4  1 Bc  kr    b     -          795   50  100 
+WildCard  798056524  4  4 f   -     -     -          845    0    0 
+WildCard  798056549  4  3 r   -     -     -          845   20   35 
+WildCard  798056557  4  2 Br  b     -     -          860   40   75 
+WildCard  798056572  3  1 Br  k     k     kQ         895   20    0 
+WildCard  798095763  8  3 c   b     r     b          875   80   85 3c Qc
+WildCard  798095807  8  2 Bf  -     -     -          880   10    0 
+WildCard  798095860  8  1 Bc  k     kf    -          870   10    0 
+WildCard  798095898  8  8 c   k     k     f          860   10    0 
+WildCard  798095960  8  7 c   k     c     b          850   50  130 
+WildCard  798096024  8  6 c   c     c     r          930   90  240 Ah 2h
+WildCard  798096072  8  5 rc  cc    f     -         1080   80    0 
+WildCard  798096138  8  4 f   -     -     -         1000    0    0 
+WildCard  798096174  8  3 c   kf    -     -         1000   10    0 
+WildCard  798096237  8  2 Bc  f     -     -          990   30    0 
+WildCard  798096274  7  1 Bf  -     -     -          960    5    0 
+WildCard  798096337  8  7 cc  k     f     -          955   20    0 
+WildCard  798096419  8  6 f   -     -     -          935    0    0 
+WildCard  798096495  8  5 cc  rr    b     k          935   80  245 8h 4h
+WildCard  798096578  8  4 rc  br    b     b         1100  100  315 Ac Th
+WildCard  798096708  9  3 c   c     f     -         1315   20    0 
+WildCard  798096773  8  2 Bf  -     -     -         1295   10    0 
+WildCard  798096781  8  1 Bc  kf    -     -         1285   10    0 
+WildCard  798096842  8  8 r   r     b     c         1275   80  175 Js Jh
+WildCard  798096897 10  9 f   -     -     -         1370    0    0 
+WildCard  798096936  9  7 c   f     -     -         1370   20    0 
+WildCard  798096983  8  5 c   bf    -     -         1350   20    0 
+WildCard  798097023  9  5 c   brc   bf    -         1330   70    0 
+WildCard  798097147 11  5 f   -     -     -         1260    0    0 
+WildCard  798097246 12  4 c   c     f     -         1260   20    0 
+WildCard  798097303 12  3 f   -     -     -         1240    0    0 
+WildCard  798097392 12  2 Bk  kc    kc    kc        1240   70    0 6h 6c
+WildCard  798097461 12  1 Bc  b     kf    -         1170   30    0 
+WildCard  798097593 10 10 f   -     -     -         1140    0    0 
+WildCard  798097658 12  9 c   c     c     f         1140   60    0 
+WildCard  798097736 12  8 c   r     b     bc        1080  110    0 9h Qd
+WildCard  798097788 12  7 rc  rrc   c     c          970  130    0 8d 8s
+WildCard  798097846 12  6 f   -     -     -          840    0    0 
+WildCard  798097931 12  5 cc  r     kc    kf         840   80    0 
+WildCard  798098036 11  4 cc  k     kf    -          760   20    0 
+WildCard  798098095 11  3 c   rc    c     f          740   60    0 
+WildCard  798098151 12  2 Bf  -     -     -          680   10    0 
+WildCard  798098210 12  1 Bf  -     -     -          670    5    0 
+WildCard  798098284 11 11 c   k     f     -          665   20    0 
+WildCard  798098388 10  9 cc  kf    -     -          645   40    0 
+WildCard  798098479 11  9 r   k     f     -          605   20    0 
+WildCard  798098592 10  7 f   -     -     -          585    0    0 
+WildCard  798098711 11  7 f   -     -     -          585    0    0 
+WildCard  798098760 11  6 f   -     -     -          585    0    0 
+WildCard  798098827 11  5 cc  kf    -     -          585   20    0 
+WildCard  798098891 12  4 r   cc    c     b          565   80  465 As 9s
+WildCard  798099048 12  3 cc  kcc   kcc   kf         950  140    0 
+WildCard  798099184 12  2 Bf  -     -     -          810   10    0 
+WildCard  798099263 12  1 Bf  -     -     -          800    5    0 
+WildCard  798099356 11 11 r   c     r     b          795  110  410 
+WildCard  798099471 12 10 f   -     -     -         1095    0    0 
+WildCard  798099537 12  9 rc  cc    kc    k         1095   80    0 Td 8s
+WildCard  798099631  8  5 c   c     k     f         1015   30    0 
+WildCard  798099675  7  4 r   rr    br    kcf        985  190    0 
+WildCard  798099806  7  4 c   b     b     b          795   60  130 
+WildCard  798099915  8  3 cc  kf    -     -          865   20    0 
+WildCard  798099992  8  2 Bk  k     kc    bc         845   70    0 Tc 4c
+WildCard  798100039  6  1 Bc  kf    -     -          775   20    0 
+WildCard  798100115  7  7 r   r     c     f          755   70    0 
+WildCard  798100182  6  5 f   -     -     -          685    0    0 
+WildCard  798100247  6  4 cc  c     c     k          685   60    0 Qs 4s
+WildCard  798100307  6  3 cc  k     k     bc         625   60    0 Qs 7s
+WildCard  798100334  6  2 Bf  -     -     -          565   10    0 
+WildCard  798100375  6  1 Bc  br    bc    k          555   90  240 7d Tc
+WildCard  798100416  6  6 c   r     b     b          705   90  235 
+WildCard  798100466  6  5 c   kf    -     -          850   10    0 
+WildCard  798100493  6  4 f   -     -     -          840    0    0 
+WildCard  798100523  6  3 cc  kr    kc    kf         840   90    0 
+WildCard  798100582  6  2 Bf  -     -     -          750   10    0 
+WildCard  798100628  6  1 Bc  kc    kc    kf         740   60    0 
+WildCard  798100682  6  6 f   -     -     -          680    0    0 
+WildCard  798100718  6  5 r   rc    b     b          680  100  285 Ks Tc
+WildCard  798100771  6  4 f   -     -     -          865    0    0 
+WildCard  798100796  6  3 c   f     -     -          865   10    0 
+WildCard  798100815  6  2 Bc  b     b     k          855   50    0 6c Ad
+WildCard  798100855  6  1 Br  bc    krr   b          805  140  145 Ts Tc
+WildCard  798100898  5  5 f   -     -     -          810    0    0 
+WildCard  798100929  5  4 r   r     r     b          810  100  185 
+WildCard  798100962  5  3 r   -     -     -          895   20   35 
+WildCard  798100976  5  2 Bk  f     -     -          910   10    0 
+WildCard  798101036  6  1 Br  kc    kf    -          900   30    0 
+WildCard  798101101  6  6 f   -     -     -          870    0    0 
+WildCard  798101159  6  5 r   r     b     k          870   60  195 9s 9c
+WildCard  798101248  6  4 rc  c     c     c         1005   80  370 9d 9c
+WildCard  798101314  6  3 rc  kc    k     k         1295   40    0 Ks Ad
+WildCard  798101369  6  2 Bc  kcc   kcc   br        1255  230  725 Ts Qs
+WildCard  798101454  6  1 Bf  -     -     -         1750    5    0 
+WildCard  798101507  6  6 f   -     -     -         1745    0    0 
+WildCard  798101554  6  5 r   cc    f     -         1745   50    0 
+WildCard  798101634  6  4 cc  k     k     k         1695   20    0 Qd Jc
+WildCard  798101681  6  3 rc  kf    -     -         1675   30    0 
+WildCard  798101723  6  2 Bf  -     -     -         1645   10    0 
+WildCard  798101771  6  1 Bc  kf    -     -         1635   20    0 
+WildCard  798101831  6  6 c   c     c     c         1615   60  155 Td Qd
+WildCard  798101896  7  6 f   -     -     -         1710    0    0 
+WildCard  798101962  7  5 c   bc    c     c         1710   80    0 6s 6h
+WildCard  798102024  7  4 f   -     -     -         1630    0    0 
+WildCard  798102080  7  3 f   -     -     -         1630    0    0 
+WildCard  798102152  7  2 Bc  kc    kf    -         1630   30    0 
+WildCard  798102195  7  1 Bc  k     kf    -         1600   10    0 
+WildCard  798102230  7  7 c   k     c     f         1590   30    0 
+WildCard  798102284  7  6 c   f     -     -         1560   20    0 
+WildCard  798102312  7  5 cc  f     -     -         1540   20    0 
+WildCard  798102377  7  4 f   -     -     -         1520    0    0 
+WildCard  798102396  7  3 f   -     -     -         1520    0    0 
+WildCard  798102428  7  2 Bc  kf    -     -         1520   20    0 
+WildCard  798102472  7  1 Bc  bf    -     -         1500   20    0 
+WildCard  798102519  7  7 cc  f     -     -         1480   40    0 
+WildCard  798102585  7  6 f   -     -     -         1440    0    0 
+WildCard  798102650  7  5 cc  kf    -     -         1440   20    0 
+WildCard  798102695  7  4 c   b     kf    -         1420   20    0 
+WildCard  798102751  5  2 Bc  kf    -     -         1400   20    0 
+WildCard  798102786  5  1 Bf  -     -     -         1380    5    0 
+WildCard  798102818  5  5 c   c     r     b         1375   90  195 4s 4d
+WildCard  798102852  5  4 f   -     -     -         1480    0    0 
+WildCard  798102881  5  3 f   -     -     -         1480    0    0 
+WildCard  798102912  5  2 Bk  kf    -     -         1480   10    0 
+WildCard  798102934  5  1 Bf  -     -     -         1470    5    0 
+WildCard  798102947  5  5 f   -     -     -         1465    0    0 
+WildCard  798103271  5  4 c   k     c     c         1465   50    0 Jh 9s
+WildCard  798103907  5  3 f   -     -     -         1555    0    0 
+WildCard  798103936  4  2 B   -     -     -         1555   10   15 
+WildCard  798103952  5  1 Bf  -     -     -         1560    5    0 
+WildCard  798104006  5  5 f   -     -     -         1555    0    0 
+WildCard  798104090  5  4 f   -     -     -         1555    0    0 
+WildCard  798104098  5  3 f   -     -     -         1555    0    0 
+WildCard  798104110  4  1 Bk  b     -     -         1555   20   40 
+WildCard  798104125  4  1 Bcf -     -     -         1575   10    0 
+WildCard  798104133  4  4 rc  k     c     f         1565   50    0 
+WildCard  798104162  4  3 f   -     -     -         1515    0    0 
+WildCard  798104188  4  2 Bc  f     -     -         1515   20    0 
+WildCard  798104200  4  1 Bc  br    kf    -         1495   40    0 
+WildCard  798104218  4  4 f   -     -     -         1455    0    0 
+WildCard  798104239  4  3 f   -     -     -         1455    0    0 
+WildCard  798104244  4  2 B   -     -     -         1455   10   15 
+WildCard  798104371  4  1 Bc  kf    -     -         1460   20    0 
+WildCard  798104372  4  4 f   -     -     -         1440    0    0 
+WildCard  798104373  4  3 f   -     -     -         1440    0    0 
+WildCard  798104374  3  2 Brrc k     kf    -         1440   50    0 
+WildCard  798104375  3  1 Bf  -     -     -         1390    5    0 
+WildCard  798104376  3  3 r   b     -     -         1385   30   70 
+WildCard  798104377  3  2 Bf  -     -     -         1425   10    0 
+WildCard  798104378  3  1 Bc  kc    br    k         1415   90  200 Tc Kc
+WildCard  798104385  3  3 c   k     b     -         1525   30   50 
+WildCard  798104405  3  2 Bk  b     -     -         1545   20   35 
+WildCard  798104413  3  1 Bc  kf    -     -         1560   10    0 
+WildCard  798104423  3  3 r   r     r     k         1550   80  165 6c Ac
+WildCard  798104444  3  2 Bk  kf    -     -         1635   10    0 
+WildCard  798104457  3  1 Bc  krf   -     -         1625   40    0 
+WildCard  798104472  3  3 f   -     -     -         1585    0    0 
+WildCard  798104481  3  2 B   -     -     -         1585   10   15 
+WildCard  798104484  3  1 Bc  kc    k     k         1590   20   40 Ad 4c
+WildCard  798104498  3  3 c   rr    cf    -         1610   70    0 
+WildCard  798104546  3  2 Bc  r     b     -         1540   60  100 
+WildCard  798104577  3  1 Bc  kc    k     b         1580   40   60 
+WildCard  798104594  3  3 cc  c     c     r         1600   90  190 7c 9s
+WildCard  798104619  3  2 Bf  -     -     -         1700   10    0 
+WildCard  798104627  3  1 Bc  kc    kf    -         1690   20    0 
+WildCard  798104645  3  3 c   c     c     f         1670   40    0 
+WildCard  798104672  3  2 Bk  bc    f     -         1630   30    0 
+WildCard  798104690  3  1 Bcc kc    kc    kc        1600   70    0 7h Th
+WildCard  798104711  3  3 cc  rr    b     k         1530   80  165 Ac Kd
+WildCard  798104740  3  2 Bk  kf    -     -         1615   10    0 
+WildCard  798104753  3  1 Bc  b     b     b         1605   70    0 2d 9d
+WildCard  798104777  3  3 c   k     f     -         1535   10    0 
+WildCard  798104796  3  2 Br  b     -     -         1525   40   75 
+WildCard  798104810  3  1 Br  bc    k     b         1560   70  150 Qs Kd
+WildCard  798104825  3  3 f   -     -     -         1640    0    0 
+WildCard  798104837  3  2 Bc  f     -     -         1640   20    0 
+WildCard  798104863  3  1 Br  kc    brr   b         1620  150  320 Jh Jd
+WildCard  798104898  3  3 f   -     -     -         1790    0    0 
+WildCard  798104927  3  2 B   -     -     -         1790   10   15 
+WildCard  798104936  3  1 Bc  kf    -     -         1795   10    0 
+WildCard  798104946  3  3 c   f     -     -         1785   10    0 
+WildCard  798104957  3  2 Bk  brc   kc    kc        1775   90    0 5c Ac
+WildCard  798104980  3  1 Bf  -     -     -         1685    5    0 
+WildCard  798104986  3  3 r   -     -     -         1680   20   35 
+WildCard  798104992  3  2 Br  kc    kf    -         1695   50    0 
+WildCard  798105014  3  1 Bc  k     b     -         1645   30   40 
+WildCard  798105025  3  3 c   rc    c     b         1655   80  165 5s 6h
+WildCard  798105048  3  2 Bf  -     -     -         1740   10    0 
+WildCard  798105063  3  1 Bf  -     -     -         1730    5    0 
+WildCard  798105082  3  3 c   rr    k     c         1725   70    0 6d 9d
+WildCard  798105105  3  2 Bf  -     -     -         1655   10    0 
+WildCard  798105117  3  1 Bc  kc    b     -         1645   40   60 
+WildCard  798105131  3  3 f   -     -     -         1665    0    0 
+WildCard  798105135  3  2 Bf  -     -     -         1665   10    0 
+WildCard  798105138  3  1 Bf  -     -     -         1655    5    0 
+WildCard  798105144  3  3 f   -     -     -         1650    0    0 
+WildCard  798105166  3  2 B   -     -     -         1650   10   15 
+WildCard  798105169  3  1 Bc  kc    k     b         1655   50   90 
+WildCard  798105183  3  3 f   -     -     -         1695    0    0 
+WildCard  798105204  3  2 Bf  -     -     -         1695   10    0 
+WildCard  798105207  3  1 Bf  -     -     -         1685    5    0 
+WildCard  798105210  3  3 f   -     -     -         1680    0    0 
+WildCard  798105216  3  2 Br  b     b     brr       1680  150    0 7c Ac
+WildCard  798105243  3  1 Bc  kc    kf    -         1530   30    0 
+WildCard  798105276  3  3 f   -     -     -         1500    0    0 
+WildCard  798105281  3  2 Br  k     k     b         1500   40   85 Kd As
+WildCard  798105295  3  1 Br  br    b     k         1545   80  170 Ad Qh
+WildCard  798105314  3  3 f   -     -     -         1635    0    0 
+WildCard  798105321  3  2 Bk  bf    -     -         1635   20    0 
+WildCard  798105333  3  1 Bc  kc    kf    -         1615   30    0 
+WildCard  798105355  3  3 c   r     b     b         1585   70  170 4d 7s
+WildCard  798105377  3  2 Bk  k     f     -         1685   10    0 
+WildCard  798105393  3  1 Bf  -     -     -         1675    5    0 
+WildCard  798105397  3  3 rc  rc    c     rc        1670  140    0 Ac Qc
+WildCard  798105426  3  2 Bc  c     f     -         1530   30    0 
+WildCard  798105448  3  1 Bc  kf    -     -         1500   10    0 
+WildCard  798105459  3  3 c   c     r     -         1490   60  110 
+WildCard  798105476  3  2 B   -     -     -         1540   10   15 
+WildCard  798105479  3  1 Bf  -     -     -         1545    5    0 
+WildCard  798105506  3  3 r   bf    -     -         1540   30    0 
+WildCard  798105519  3  2 B   -     -     -         1510   10   15 
+WildCard  798105522  3  1 Bf  -     -     -         1515    5    0 
+WildCard  798105525  3  3 c   b     -     -         1510   20   35 
+WildCard  798105535  3  2 Bk  k     f     -         1525   10    0 
+WildCard  798105547  3  1 Bc  b     -     -         1515   20   30 
+WildCard  798105555  3  3 f   -     -     -         1525    0    0 
+WildCard  798105560  3  2 Br  kf    -     -         1525   30    0 
+WildCard  798105572  3  1 Bf  -     -     -         1495    5    0 
+WildCard  798105575  3  3 f   -     -     -         1490    0    0 
+WildCard  798105589  3  2 Bk  k     b     -         1490   30   40 
+WildCard  798105598  3  1 Br  bc    kf    -         1500   40    0 
+WildCard  798105613  3  3 c   b     -     -         1460   20   35 
+WildCard  798105623  3  2 Bc  kc    kf    -         1475   30    0 
+WildCard  798105637  3  1 Bc  kf    -     -         1445   10    0 
+WildCard  798105649  3  3 f   -     -     -         1435    0    0 
+WildCard  798105658  3  2 Bf  -     -     -         1435   10    0 
+WildCard  798105661  3  1 Bf  -     -     -         1425    5    0 
+WildCard  798105670  3  3 r   bc    f     -         1420   40    0 
+WildCard  798105688  3  2 B   -     -     -         1380   10   15 
+WildCard  798105692  3  1 Bf  -     -     -         1385    5    0 
+WildCard  798105698  3  3 r   k     k     k         1380   20    0 4s Ad
+WildCard  798105716  3  2 Bf  -     -     -         1360   10    0 
+WildCard  798105726  3  1 Bc  k     k     k         1350   10   20 5d Kh
+WildCard  798105741  3  3 c   b     -     -         1360   20   35 
+WildCard  798105754  3  2 Bf  -     -     -         1375   10    0 
+WildCard  798105757  3  1 Bf  -     -     -         1365    5    0 
+WildCard  798105763  3  3 r   b     -     -         1360   30   60 
+WildCard  798105775  3  2 B   -     -     -         1390   10   15 
+WildCard  798105779  3  1 Bc  k     k     k         1395   10   20 6c Ks
+WildCard  798105797  3  3 c   c     f     -         1405   20    0 
+WildCard  798105816  3  2 Bc  kc    k     k         1385   30   65 9s 6s
+WildCard  798105831  3  1 Bf  -     -     -         1420    5    0 
+WildCard  798105836  3  3 rc  c     f     -         1415   40    0 
+WildCard  798105854  3  2 Bk  f     -     -         1375   10    0 
+WildCard  798105862  3  1 Bf  -     -     -         1365    5    0 
+WildCard  798105864  3  3 f   -     -     -         1360    0    0 
+WildCard  798105869  3  2 Bc  krc   kc    k         1360   70  145 Kc 9h
+WildCard  798105889  3  1 Bc  k     kf    -         1435   20    0 
+WildCard  798105909  3  3 c   f     -     -         1415   10    0 
+WildCard  798105927  3  2 B   -     -     -         1405   10   15 
+WildCard  798105929  3  1 Br  -     -     -         1410   20   30 
+WildCard  798105936  3  3 c   r     k     b         1420   50   90 
+WildCard  798105959  3  2 Bc  kc    kf    -         1460   30    0 
+WildCard  798105972  3  1 Bf  -     -     -         1430    5    0 
+WildCard  798105977  3  3 f   -     -     -         1425    0    0 
+WildCard  798105980  3  2 Bf  -     -     -         1425   10    0 
+WildCard  798105995  3  1 Bf  -     -     -         1415    5    0 
+WildCard  798105998  3  3 f   -     -     -         1410    0    0 
+WildCard  798106003  3  2 Bc  f     -     -         1410   20    0 
+WildCard  798106009  3  1 Bf  -     -     -         1390    5    0 
+WildCard  798106021  3  3 f   -     -     -         1385    0    0 
+WildCard  798106037  3  2 Bk  kr    b     kc        1385   70    0 5d Qs
+WildCard  798106057  3  1 Bc  kf    -     -         1315   10    0 
+WildCard  798106080  3  3 r   c     c     f         1305   50    0 
+WildCard  798106119  4  2 Bc  k     k     k         1255   20    0 Ts 3s
+WildCard  798106139  4  1 Bc  kc    bc    k         1235   70    0 Td 2d
+WildCard  798106161  4  4 cc  f     -     -         1165   20    0 
+WildCard  798106181  3  2 Bf  -     -     -         1145   10    0 
+WildCard  798166168  5  3 f   -     -     -          800    0    0 
+WildCard  798166217  5  2 Bf  -     -     -          800   10    0 
+WildCard  798166224  5  1 Bc  k     b     b          790   50   80 
+WildCard  798166264  6  5 c   f     -     -          820   10    0 
+WildCard  798166287  6  4 c   f     -     -          810   10    0 
+WildCard  798166321  6  3 c   kf    -     -          800   10    0 
+WildCard  798166351  6  2 Bk  k     f     -          790   10    0 
+WildCard  798166378  6  1 Br  b     k     k          780   30    0 Kd 9d
+WildCard  798166426  6  6 f   -     -     -          750    0    0 
+WildCard  798166435  6  5 f   -     -     -          750    0    0 
+WildCard  798166476  6  4 c   b     b     -          750   40   80 
+WildCard  798166535  6  3 r   k     b     b          790   60  130 
+WildCard  798166577  7  2 Bk  kc    f     -          860   20    0 
+WildCard  798166637  8  1 Bc  b     k     -          840   20   60 
+WildCard  798166675  8  8 f   -     -     -          880    0    0 
+WildCard  798166758  8  7 c   b     b     b          880   60  140 Qc 8d
+WildCard  798166835  8  6 f   -     -     -          960    0    0 
+WildCard  798166875  8  5 r   b     b     b          960   70  135 
+WildCard  798166911  8  4 cc  f     -     -         1025   20    0 
+WildCard  798166995  8  3 c   bc    kf    -         1005   30    0 
+WildCard  798167050  8  2 Bc  kc    kc    kf         975   50    0 
+WildCard  798167111  8  1 Br  kc    kf    -          925   30    0 
+WildCard  798167190  7  7 c   b     c     b          895   60   70 Td 9h
+WildCard  798167232  8  7 f   -     -     -          905    0    0 
+WildCard  798167291  8  6 c   f     -     -          905   10    0 
+WildCard  798167354  8  5 c   r     b     b          895   70    0 6s Ts
+WildCard  798167405  7  3 c   f     -     -          825   10    0 
+WildCard  798167461  7  2 Bc  k     f     -          815   20    0 
+WildCard  798167509  6  1 Bf  -     -     -          795    5    0 
+WildCard  798167570  6  6 c   c     c     k          790   50    0 6h 3h
+WildCard  798167620  6  5 f   -     -     -          740    0    0 
+WildCard  798167790  6  4 f   -     -     -          740    0    0 
+WildCard  798167822  6  3 f   -     -     -          740    0    0 
+WildCard  798167885  6  2 Bk  kc    kf    -          740   20    0 
+WildCard  798167953  6  1 Bf  -     -     -          720    5    0 
+WildCard  798168004  7  7 f   -     -     -          715    0    0 
+WildCard  798168063  7  6 r   k     f     -          715   20    0 
+WildCard  798168153  7  5 c   k     k     f          695   10    0 
+WildCard  798168222  7  4 f   -     -     -          685    0    0 
+WildCard  798168290  7  3 c   f     -     -          685   10    0 
+WildCard  798168367  6  2 Bf  -     -     -          675   10    0 
+WildCard  798168421  7  1 Bf  -     -     -          665    5    0 
+WildCard  798168466  7  7 c   k     k     k          660   10    0 5d 4h
+WildCard  798168568  7  6 r   c     c     f          650   50    0 
+WildCard  798168709  7  5 f   -     -     -          600    0    0 
+WildCard  798168798  8  5 f   -     -     -          600    0    0 
+WildCard  798168908  8  4 cc  kf    -     -          600   20    0 
+WildCard  798169107  8  3 fQ  -     -     -          580    0    0 
+WildCard  798173791 11  4 f   -     -     -          580    0    0 
+WildCard  798173832 12  3 r   c     rf    -          580   70    0 
+WildCard  798173920 12  2 Bc  kc    k     b          510   50  105 
+WildCard  798174013 12  1 Bc  kf    -     -          565   20    0 
+WildCard  798174114 10 10 c   b     -     -          545   20   45 
+WildCard  798174160 10  9 c   k     f     -          570   20    0 
+WildCard  798174247 10  8 c   cc    rc    c          550  130    0 Jd 9c
+WildCard  798174343 10  7 f   -     -     -          420    0    0 
+WildCard  798174406 10  6 f   -     -     -          420    0    0 
+WildCard  798174477 12  5 r   b     b     f          420   50    0 
+WildCard  798174583 11  3 c   kf    -     -          370   10    0 
+WildCard  798174656 11  2 Bk  b     k     k          360   20    0 Th Js
+WildCard  798174712 12  1 Br  bc    kf    -          340   60    0 
+WildCard  798174838 11 11 c   cQ    -     -          280   30    0 
+WildCard  798174943  8  2 Bk  kc    kf    -          250   20    0 
+WildCard  798175009  8  1 Br  b     k     k          230   30    0 4c 2c
+WildCard  798175054  8  8 c   k     k     c          200   30   90 9s 7s
+WildCard  798175098  8  7 f   -     -     -          260    0    0 
+WildCard  798175141  8  6 f   -     -     -          260    0    0 
+WildCard  798175194  8  5 f   -     -     -          260    0    0 
+WildCard  798175243  8  4 cc  kf    -     -          260   20    0 
+WildCard  798175312  8  3 c   kr    kr    brr        240  170  360 Qc Td
+WildCard  798175376  8  2 Bk  f     -     -          430   10    0 
+WildCard  798175427  8  1 Bc  b     b     k          420   40  120 6h Th
+WildCard  798175486  9  9 r   b     -     -          500   30  105 
+WildCard  798175522  9  8 c   f     -     -          575   20    0 
+WildCard  798175602 10  8 f   -     -     -          555    0    0 
+WildCard  798175663 11  8 c   f     -     -          555   10    0 
+WildCard  798175703 12  8 c   k     f     -          545   10    0 
+WildCard  798175756 12  7 f   -     -     -          535    0    0 
+WildCard  798175850 12  6 cc  f     -     -          535   20    0 
+WildCard  798175920 12  5 r   br    b     b          515   90  300 Qs Qd
+WildCard  798175997 12  4 r   kf    -     -          725   20    0 
+WildCard  798176125 12  3 f   -     -     -          705    0    0 
+WildCard  798176210 12  2 Bk  bc    k     b          705   50  210 Td 7h
+WildCard  798176355 12  1 Bc  kc    kc    kcf        865   90    0 
+WildCard  798176443 10 10 c   f     -     -          775   10    0 
+WildCard  798176533 12 11 r   rc    f     -          765   50    0 
+WildCard  798176685 11 10 f   Q     -     -          715    0    0 
+WildCard  798181351  7  2 Bk  krc   br    b          665  120  260 9c Js
+WildCard  798181412  7  1 Br  k     kf    -          805   20    0 
+WildCard  798181505  6  6 f   -     -     -          785    0    0 
+WildCard  798181524  6  6 r   -     -     -          785   20   55 
+WildCard  798181549  7  6 c   b     b     r          820   90  195 5d 6c
+WildCard  798181591  7  5 c   b     -     -          925   20   35 
+WildCard  798181624  7  4 cc  kc    kc    kc         940   70    0 Qc Ks
+WildCard  798181682  7  3 r   k     r     b          870   80  170 Kd Jc
+WildCard  798181721  7  2 Brc kc    kf    -          960   50    0 
+WildCard  798181762  7  1 Bc  kc    kc    kc         910   60    0 Qc 8d
+WildCard  798181846  9  7 f   -     -     -          850    0    0 
+WildCard  798181885  9  6 f   -     -     -          850    0    0 
+WildCard  798181947 11  5 f   -     -     -          850    0    0 
+WildCard  798182052 10  3 c   kf    -     -          850   10    0 
+WildCard  798182117 11  2 Bk  bc    kc    kc         840   70    0 Th Jc
+WildCard  798182193 12  1 Bc  k     k     kf         770   10    0 
+WildCard  798182284 12 12 r   c     f     -          760   30    0 
+WildCard  798182357 10 10 c   k     c     f          730   30    0 
+WildCard  798182427  8  7 c   k     k     k          700   10    0 2s Js
+WildCard  798182514  8  6 r   -     -     -          690   20   35 
+WildCard  798182570  7  4 c   k     b     -          705   30   50 
+WildCard  798182608  7  4 f   -     -     -          725    0    0 
+WildCard  798182645  7  3 c   kc    kr    b          725   80  185 8h Th
+WildCard  798182703  7  2 Bk  k     bc    kc         830   70    0 Tc Kc
+WildCard  798182770  7  1 Bc  k     b     -          760   30   50 
+WildCard  798182805  7  7 r   k     k     b          780   40  105 Jc Kc
+WildCard  798182860  8  6 r   c     k     k          845   40    0 Qc Kd
+WildCard  798182927  8  5 c   b     b     b          805   60  120 
+WildCard  798182993  9  4 f   -     -     -          865    0    0 
+WildCard  798183054  9  3 f   -     -     -          865    0    0 
+WildCard  798183161  9  2 Bc  kf    -     -          865   30    0 
+WildCard  798183224  9  1 Bf  -     -     -          835    5    0 
+WildCard  798183292  9  9 c   bf    -     -          830   20    0 
+WildCard  798183365  8  7 f   -     -     -          810    0    0 
+WildCard  798183393  8  6 f   -     -     -          810    0    0 
+WildCard  798183421  8  5 f   -     -     -          810    0    0 
+WildCard  798183485  8  4 c   kf    -     -          810   10    0 
+WildCard  798183556  8  3 c   cc    kc    kf         800   50    0 
+WildCard  798183633  8  2 Bf  -     -     -          750   10    0 
+WildCard  798183687  8  1 Bcc kf    -     -          740   20    0 
+WildCard  798183729  8  8 c   c     f     -          720   20    0 
+WildCard  798183775  8  7 c   f     -     -          700   10    0 
+WildCard  798183809  8  6 f   -     -     -          690    0    0 
+WildCard  798183871  8  5 c   k     f     -          690   10    0 
+WildCard  798183953  8  4 r   rc    f     -          680   50    0 
+WildCard  798184002  8  3 c   kf    -     -          630   10    0 
+WildCard  798184102  9  2 Bk  k     bf    -          620   30    0 
+WildCard  798184194  8  1 Bc  k     kf    -          590   10    0 
+WildCard  798184270  8  8 c   c     c     f          580   40    0 
+WildCard  798184340  7  6 f   -     -     -          540    0    0 
+WildCard  798184359  7  5 c   cc    kc    kf         540   60    0 
+WildCard  798184475  7  4 f   -     -     -          480    0    0 
+WildCard  798184531  7  3 crc kf    -     -          480   40    0 
+WildCard  798184630  7  2 Bk  bc    kf    -          440   30    0 
+WildCard  798184683  7  1 Bf  -     -     -          410    5    0 
+WildCard  798184761  7  7 r   r     f     -          405   40    0 
+WildCard  798184841  7  6 f   -     -     -          365    0    0 
+WildCard  798184924  6  5 c   k     kf    -          365   10    0 
+WildCard  798185011  6  4 r   b     -     -          355   30   90 
+WildCard  798185063  6  3 f   -     -     -          415    0    0 
+WildCard  798185122  6  2 Bk  kf    -     -          415   10    0 
+WildCard  798185176  6  1 Bc  k     b     bc         405   80    0 Jh Qc
+WildCard  798185243  6  6 c   cf    -     -          325   40    0 
+WildCard  798185305  7  5 f   Q     -     -          285    0    0 
+WildCard  798238043 12  5 f   -     -     -          285    0    0 
+WildCard  798238097 12  4 f   -     -     -          285    0    0 
+WildCard  798238217 12  3 c   kf    -     -          285   10    0 
+WildCard  798238280 12  2 Bk  k     b     b          275   50    0 7h Jd
+WildCard  798238354 12  1 Bf  -     -     -          225    5    0 
+WildCard  798238436 12 12 r   r     b     b          220   80  215 Qh Qd
+WildCard  798238524 12 11 c   f     -     -          355   10    0 
+WildCard  798238615 12 11 c   kf    -     -          345   10    0 
+WildCard  798238735 12 10 cc  k     f     -          335   20    0 
+WildCard  798238834 10  7 c   f     -     -          315   10    0 
+WildCard  798238920  9  5 f   -     -     -          305    0    0 
+WildCard  798238986 10  5 c   cc    k     kf         305   30    0 
+WildCard  798239132 11  3 r   br    b     b          275   90  250 Qc Kc
+WildCard  798239313 12  3 c   bc    kc    kc         435   70    0 7s 9d
+WildCard  798239410 11  2 Bk  k     bf    -          365   30    0 
+WildCard  798239503 12  1 Bc  k     kf    Q          335   10    0 
+WildCard  798243127 11  3 cc  kf    -     -          325   20    0 
+WildCard  798243202 10  1 Bf  -     -     -          305   10    0 
+WildCard  798243306  8  1 Br  b     b     b          295   70  260 
+WildCard  798243437 11 11 f   -     -     -          485    0    0 
+WildCard  798243508 11 10 f   -     -     -          485    0    0 
+WildCard  798243633 11  9 c   cf    -     -          485   30    0 
+WildCard  798243712 12  8 f   -     -     -          455    0    0 
+WildCard  798243820 12  7 c   kc    kf    -          455   20    0 
+WildCard  798243944 12  6 c   c     b     f          435   40    0 
+WildCard  798244023 11  5 c   c     Q     -          395   20    0 
+WildCard  798260458  4  3 r   -     -     -          375   20   35 
+WildCard  798260467  3  2 B   -     -     -          390   10   15 
+WildCard  798260469  3  1 B   -     -     -          395    5   15 
+WildCard  798260475  2  2 c   -     -     -          405   10   20 
+WildCard  798260483  2  2 B   -     -     -          415   10   15 
+WildCard  798260486  2  1 Bc  k     kf    -          420   10    0 
+WildCard  798260505  2  2 Br  k     b     b          410   70  140 9s 9d
+WildCard  798260525  2  1 Bc  k     k     k          480   10    0 Jh 6h
+WildCard  798260553  4  2 Bf  -     -     -          470   10    0 
+WildCard  798260564  3  1 Bc  b     -     -          460   20   30 
+WildCard  798260576  3  3 cc  f     -     -          470   20    0 
+WildCard  798260606  3  2 B   -     -     -          450   10   15 
+WildCard  798260614  3  1 Bc  kf    -     -          455   20    0 
+WildCard  798260626  3  3 f   -     -     -          435    0    0 
+WildCard  798260651  4  2 Bc  kc    kf    -          435   30    0 
+WildCard  798260686  5  1 Bf  -     -     -          405    5    0 
+WildCard  798260698  5  5 c   f     -     -          400   10    0 
+WildCard  798260744  4  3 rc  br    b     kf         390   80    0 
+WildCard  798260797  4  2 Bc  kf    -     -          310   20    0 
+WildCard  798260816  4  1 Br  -     -     -          290   20   30 
+WildCard  798260832  3  3 r   b     k     f          300   30    0 
+WildCard  798260854  3  2 Bc  k     k     k          270   20    0 3h 6h
+WildCard  798260885  2  1 Bc  kf    -     -          250   10    0 
+WildCard  798260901  2  2 Br  b     b     k          240   50    0 Jh Qs
+WildCard  798260926  2  1 Bf  -     -     -          190    5    0 
+WildCard  798260930  2  2 Bk  k     f     -          185   10    0 
+WildCard  798260946  2  1 Bc  k     k     b          175   30   40 
+WildCard  798260963  3  2 B   -     -     -          185   10   15 
+WildCard  798260966  3  1 Bf  -     -     -          190    5    0 
+WildCard  798260970  3  3 f   -     -     -          185    0    0 
+WildCard  798260990  3  2 Bk  k     b     b          185   50   85 
+WildCard  798261018  3  1 Br  -     -     -          220   20   30 
+WildCard  798261024  3  3 rc  k     f     -          230   30    0 
+WildCard  798261041  3  2 B   -     -     -          200   10   15 
+WildCard  798261045  3  1 Bf  -     -     -          205    5    0 
+WildCard  798261048  3  3 f   -     -     -          200    0    0 
+WildCard  798261051  3  2 B   -     -     -          200   10   15 
+WildCard  798261054  3  1 Bc  k     b     -          205   30   50 
+WildCard  798261069  3  3 r   c     f     -          225   30    0 
+WildCard  798261088  3  2 Bc  kc    k     b          195   50  105 Ts As
+WildCard  798261113  3  1 Bf  -     -     -          250    5    0 
+WildCard  798261123  3  3 r   -     -     -          245   20   35 
+WildCard  798261129  3  2 B   -     -     -          260   10   15 
+WildCard  798261132  3  1 Bc  bc    k     b          265   50  100 9d Qh
+WildCard  798261149  3  3 f   -     -     -          315    0    0 
+WildCard  798261159  4  3 r   k     r     rc         315  120    0 Qs Kh
+WildCard  798261210  4  2 Bk  b     -     -          195   20   30 
+WildCard  798261227  4  1 Bc  kf    -     -          205   10    0 
+WildCard  798261243  4  4 f   -     -     -          195    0    0 
+WildCard  798261265  4  3 f   -     -     -          195    0    0 
+WildCard  798261330  5  3 c   k     k     k          195   10   12 5c 3c
+WildCard  798261353  5  2 Bk  kc    kc    kc         197   60    0 9h Td
+WildCard  798261380  4  1 Bf  -     -     -          137    5    0 
+WildCard  798261386  4  4 r   bf    -     -          132   30    0 
+WildCard  798261400  4  3 c   k     f     -          102   10    0 
+WildCard  798261413  4  2 Bc  c     f     -           92   30    0 
+WildCard  798261434  4  1 Bf  -     -     -           62    5    0 
+WildCard  798261440  4  4 r   -     -     -           57   20   35 
+WildCard  798261448  4  3 c   c     brA   -           72   72    0 6d 8d
+WildCard  798261522  5  5 r   brc   r     b         1000  120  360 Qh Ah
+WildCard  798261607  4  3 c   kf    -     -         1240   10    0 
+WildCard  798261691  4  2 Bf  -     -     -         1230   10    0 
+WildCard  798261710  3  1 Bf  -     -     -         1220    5    0 
+WildCard  798261717  3  3 r   -     -     -         1215   20   35 
+WildCard  798261730  3  2 B   -     -     -         1230   10   15 
+WildCard  798261734  3  1 Bf  -     -     -         1235    5    0 
+WildCard  798261739  3  3 f   -     -     -         1230    0    0 
+WildCard  798261743  3  2 Bf  -     -     -         1230   10    0 
+WildCard  798261745  3  1 Br  -     -     -         1220   20   30 
+WildCard  798261750  3  3 f   -     -     -         1230    0    0 
+WildCard  798261769  3  2 B   -     -     -         1230   10   15 
+WildCard  798261771  3  1 Bc  b     -     -         1235   20   40 
+WildCard  798261783  3  3 r   b     -     -         1255   30   60 
+WildCard  798261798  3  2 Bk  k     k     k         1285   10    0 5h 4d
+WildCard  798261821  2  1 Br  bc    kr    -         1275   80  140 
+WildCard  798261865  2  2 Br  r     b     k         1335   70  140 Jh Ac
+WildCard  798261891  2  1 Bf  -     -     -         1405    5    0 
+WildCard  798261898  2  2 Bk  k     b     -         1400   30   40 
+WildCard  798261911  2  1 Bf  -     -     -         1410    5    0 
+WildCard  798261914  2  2 Bc  k     f     -         1405   20    0 
+WildCard  798261927  2  1 Bc  b     b     b         1385   60  120 7s Kc
+WildCard  798261953  2  2 Bf  -     -     -         1445   10    0 
+WildCard  798261959  2  1 Br  k     b     -         1435   40   60 
+WildCard  798261971  2  2 Br  b     b     -         1455   50   80 
+WildCard  798261989  2  1 Bcc kc    b     bc        1485   90    0 3s Ad
+WildCard  798262012  2  2 B   -     -     -         1395   10   15 
+WildCard  798262016  2  1 Bc  b     -     -         1400   20   30 
+WildCard  798262027  2  2 Br  b     c     f         1410   60    0 
+WildCard  798262045  2  1 Bc  bc    kf    -         1350   30    0 
+WildCard  798262068  2  2 B   -     -     -         1320   10   15 
+WildCard  798262071  2  1 Bc  kf    -     -         1325   10    0 
+WildCard  798262083  2  2 Br  c     c     b         1315   70   70 2s Kc
+WildCard  798262106  2  1 Brr b     -     -         1315   50   90 
+WildCard  798262124  2  2 B   -     -     -         1355   10   15 
+WildCard  798262128  2  1 Bc  k     k     k         1360   10    0 Kh 6s
+WildCard  798262143  2  2 Bc  f     -     -         1350   20    0 
+WildCard  798262152  2  1 Bf  -     -     -         1330    5    0 
+WildCard  798262155  2  2 B   -     -     -         1325   10   15 
+WildCard  798262157  2  1 Br  bc    kc    k         1330   60  120 As Jc
+WildCard  798262182  3  2 Br  b     br    b         1390  120    0 Kh Tc
+WildCard  798262208  3  1 Br  kc    kc    kc        1270   70  150 Ac 9d
+WildCard  798262248  3  3 c   b     bf    -         1350   40    0 
+WildCard  798262290  5  4 cc  k     b     k         1310   40    0 Tc 9d
+WildCard  798262327  5  3 f   -     -     -         1270    0    0 
+WildCard  798262338  5  2 Brc kc    k     b         1270   70  195 Ac Ad
+WildCard  798262382  5  1 Bf  -     -     -         1395    5    0 
+WildCard  798262436  5  5 f   -     -     -         1390    0    0 
+WildCard  798262451  5  4 f   -     -     -         1390    0    0 
+WildCard  798262501  5  3 c   r     b     b         1390   70  145 Ts Jh
+WildCard  798262543  5  2 Bk  kf    -     -         1465   10    0 
+WildCard  798262578  5  1 Bc  b     -     -         1455   20   30 
+WildCard  798262596  5  5 f   -     -     -         1465    0    0 
+WildCard  798262606  5  4 r   b     c     b         1465   70  150 Js Qs
+WildCard  798262643  5  3 f   -     -     -         1545    0    0 
+WildCard  798262656  5  2 Bk  kf    -     -         1545   10    0 
+WildCard  798262677  6  1 Bc  k     kc    b         1535   50  110 4c 4d
+WildCard  798262735  6  6 f   -     -     -         1595    0    0 
+WildCard  798262790  6  5 r   -     -     -         1595   20   35 
+WildCard  798262803  6  4 f   -     -     -         1610    0    0 
+WildCard  798262831  6  3 cc  kf    -     -         1610   20    0 
+WildCard  798262870  6  2 Bk  k     k     k         1590   10    0 7c 4s
+WildCard  798262901  5  1 Bc  b     -     -         1580   20   30 
+WildCard  798262924  5  5 f   -     -     -         1590    0    0 
+WildCard  798262981  5  4 f   -     -     -         1590    0    0 
+WildCard  798263025  5  3 cc  k     c     c         1590   60  125 Qc Ah
+WildCard  798263057  5  2 Bk  c     r     b         1655   80  170 2s 6h
+WildCard  798263103  6  1 Bc  b     kf    -         1745   20    0 
+WildCard  798263182  6  6 c   c     c     r         1725   90    0 8d Ts
+WildCard  798263247  6  5 f   -     -     -         1635    0    0 
+WildCard  798263267  6  4 cc  kc    k     f         1635   30    0 
+WildCard  798263319  7  4 f   -     -     -         1605    0    0 
+WildCard  798263338  7  3 f   -     -     -         1605    0    0 
+WildCard  798263377  7  2 Bf  -     -     -         1605   10    0 
+WildCard  798263403  7  1 Bc  krc   kf    -         1595   40    0 
+WildCard  798263435  8  8 f   -     -     -         1555    0    0 
+WildCard  798263471  8  7 r   kc    c     b         1555   70  235 Kh Ad
+WildCard  798263572  8  6 c   f     -     -         1720   10    0 
+WildCard  798263648  8  5 r   bc    kc    k         1710   60    0 Ah 8h
+WildCard  798263828  8  5 c   f     -     -         1650   10    0 
+WildCard  798263883  8  4 cc  c     f     -         1640   30    0 
+WildCard  798263967  8  3 crc k     k     f         1610   40    0 
+WildCard  798264098  8  2 Br  b     b     r         1570  100  330 Qh Qs
+WildCard  798264187  7  1 Bf  -     -     -         1800    5    0 
+WildCard  798264275  7  7 f   -     -     -         1795    0    0 
+WildCard  798264357  6  5 f   -     -     -         1795    0    0 
+WildCard  798264435  7  3 f   -     -     -         1795    0    0 
+WildCard  798264516  7  2 Bc  kf    -     -         1795   20    0 
+WildCard  798264557  7  1 Bc  kc    b     b         1775   70  220 Ts Ad
+WildCard  798264626  7  7 c   k     f     -         1925   10    0 
+WildCard  798264674  7  6 r   b     b     c         1915   70    0 Kc Kd
+WildCard  798264762  7  5 c   rc    r     k         1845   80  180 Jh 9c
+WildCard  798264829  7  4 f   -     -     -         1945    0    0 
+WildCard  798264924  7  3 f   -     -     -         1945    0    0 
+WildCard  798264998  6  2 Br  b     b     b         1945   70  140 
+WildCard  798265061  7  1 Bc  kf    -     -         2015   20    0 
+WildCard  798265112  7  7 f   -     -     -         1995    0    0 
+WildCard  798265159  7  6 c   rc    c     f         1995   60    0 
+WildCard  798265246  7  5 f   -     -     -         1935    0    0 
+WildCard  798265337  8  5 c   c     c     c         1935   70  280 Js Ad
+WildCard  798265423  8  4 c   kf    -     -         2145   10    0 
+WildCard  798265524  6  3 c   b     -     -         2135   20   40 
+WildCard  798265556  6  2 Bf  -     -     -         2155   10    0 
+WildCard  798265663  6  1 Bf  -     -     -         2145    5    0 
+WildCard  798265732  5  5 c   k     b     -         2140   30   50 
+WildCard  798265795  5  5 f   -     -     -         2160    0    0 
+WildCard  798265810  5  4 c   kf    Q     Q         2160   10    0 
+WildCard  798308675 11  8 f   -     -     -         2150    0    0 
+WildCard  798308795 10  6 f   -     -     -         2150    0    0 
+WildCard  798308829 11  6 c   b     -     -         2150   20   45 
+WildCard  798308882 11  5 c   k     b     kc        2175   50    0 Kh Th
+WildCard  798308954 11  4 r   b     k     k         2125   30  110 Kd Js
+WildCard  798309005 11  3 f   -     -     -         2205    0    0 
+WildCard  798309100 12  2 Bc  kc    kf    -         2205   30    0 
+WildCard  798309190 12  1 Bf  -     -     -         2175    5    0 
+WildCard  798309260 12 12 c   f     -     -         2170   20    0 
+WildCard  798309385 11 10 f   -     -     -         2150    0    0 
+WildCard  798309469 11 10 f   -     -     -         2150    0    0 
+WildCard  798309593 11  9 r   b     b     b         2150   70  225 Ac Ad
+WildCard  798309679 10  8 c   f     -     -         2305   10    0 
+WildCard  798309721 10  7 c   k     f     -         2295   10    0 
+WildCard  798309805  9  5 f   -     -     -         2285    0    0 
+WildCard  798309840  8  4 f   -     -     -         2285    0    0 
+WildCard  798309917  8  3 f   -     -     -         2285    0    0 
+WildCard  798309968  9  2 Bk  kc    kr    b         2285   90  320 3h 6c
+WildCard  798310076  9  1 Bc  kr    b     b         2515   80  250 Jh Qd
+WildCard  798310175  9  9 r   k     k     k         2685   20   27 Qs Kd
+WildCard  798310226  8  7 c   c     c     f         2692   40    0 
+WildCard  798310377  9  7 c   k     r     b         2652   70  270 3c 5c
+WildCard  798310484  9  6 f   -     -     -         2852    0    0 
+WildCard  798310552  9  5 c   k     b     -         2852   30   50 
+WildCard  798310681  8  2 Q   -     -     -         2872    0    0 
+WildCard  798316553 10  5 f   -     -     -         2872    0    0 
+WildCard  798316654  9  3 f   -     -     -         2872    0    0 
+WildCard  798316687 10  2 Bk  kf    -     -         2872   10    0 
+WildCard  798316755 10  1 Bc  kf    -     -         2862   10    0 
+WildCard  798316787  9  9 r   f     -     -         2852   20    0 
+WildCard  798316835  8  7 f   -     -     -         2832    0    0 
+WildCard  798316879  8  6 f   -     -     -         2832    0    0 
+WildCard  798316928  9  5 c   b     k     b         2832   40  110 
+WildCard  798317022 11  6 f   -     -     -         2902    0    0 
+WildCard  798317095 10  5 c   Q     -     -         2902   10    0 
+WildCard  798326180  6  5 r   -     -     -         2892   20   35 
+WildCard  798326196  6  4 f   -     -     -         2907    0    0 
+WildCard  798326262  6  3 fQ  -     -     -         2907    0    0 
+WildCard  798410038  9  5 c   bc    kf    -         2907   30    0 
+WildCard  798410133 10  4 f   -     -     -         2877    0    0 
+WildCard  798410168 11  3 cc  cc    kf    -         2877   50    0 
+WildCard  798410264 10  1 Bf  -     -     -         2827   10    0 
+WildCard  798410335 10  1 Bc  kf    -     -         2817   10    0 
+WildCard  798410408 10 10 f   -     -     -         2807    0    0 
+WildCard  798410484 10  9 r   k     f     -         2807   20    0 
+WildCard  798410548 10  8 r   r     b     b         2787   80  245 Qd Jd
+WildCard  798410712 10  7 f   -     -     -         2952    0    0 
+WildCard  798410763 11  6 c   c     r     b         2952   90  240 Qc 8d
+WildCard  798410882 11  5 f   -     -     -         3102    0    0 
+WildCard  798411108  7  3 r   b     b     b         3102   70  145 
+WildCard  798411169  6  2 Bk  k     rf    -         3177   50    0 
+WildCard  798411243  6  1 Bc  kr    -     -         3127   30   80 
+WildCard  798411410  6  6 c   f     -     -         3177   20    0 
+WildCard  798411436  5  4 f   -     -     -         3157    0    0 
+WildCard  798411523  4  3 c   r     b     f         3157   50    0 
+WildCard  798411576  4  2 Bc  kc    kf    -         3107   30    0 
+WildCard  798411610  4  1 Bc  k     k     b         3077   30   70 9s 5s
+WildCard  798411661  4  4 f   Q     -     -         3117    0    0 
+WildCard  798429982  3  3 c   bf    -     -         3117   20    0 
+WildCard  798430004  3  2 Bk  f     -     -         3097   10    0 
+WildCard  798430025  3  1 Br  b     -     -         3087   30   60 
+WildCard  798430039  3  3 cc  c     r     b         3117  100  240 Ts 8c
+WildCard  798430078  3  2 Br  b     bc    kr        3257  110  225 Kc 8c
+WildCard  798430125  4  1 Bf  -     -     -         3372    5    0 
+WildCard  798430158  4  4 rr  b     -     -         3367   50  100 
+WildCard  798430184  4  3 f   -     -     -         3417    0    0 
+WildCard  798430216  4  2 B   -     -     -         3417   10   15 
+WildCard  798430232  4  1 Bc  k     b     -         3422   30   40 
+WildCard  798430251  4  4 f   -     -     -         3432    0    0 
+WildCard  798430265  5  3 f   -     -     -         3432    0    0 
+WildCard  798430294  5  2 Bf  -     -     -         3432   10    0 
+WildCard  798430310  6  1 Bcf -     -     -         3422   10    0 
+WildCard  798430374  6  6 c   f     -     -         3412   10    0 
+WildCard  798430415  6  5 f   -     -     -         3402    0    0 
+WildCard  798430455  6  4 r   r     b     -         3402   60  165 
+WildCard  798430495  7  3 f   -     -     -         3507    0    0 
+WildCard  798430579  7  2 Bf  -     -     -         3507   10    0 
+WildCard  798430617  7  1 Bf  -     -     -         3497    5    0 
+WildCard  798430659  7  7 c   c     c     k         3492   40   90 As 7c
+WildCard  798430712  5  5 f   -     -     -         3542    0    0 
+WildCard  798430734  4  4 c   c     c     f         3542   70    0 
+WildCard  798430788  4  3 f   Q     -     -         3472    0    0 
+WildCard  798436444  6  3 f   -     -     -         3472    0    0 
+WildCard  798436520  6  2 Bf  -     -     -         3472   10    0 
+WildCard  798436601  6  1 Bc  b     -     -         3462   20   30 
+WildCard  798436634  7  7 f   Q     -     -         3472    0    0 
+WildCard  798437902  7  2 Br  b     -     -         2612   30   90 
+WildCard  798437960  7  1 Bc  k     kf    -         2672   20    0 
+WildCard  798438009  7  7 r   b     k     bc        2652   70  175 Qd Ac
+WildCard  798438090  7  6 r   b     -     -         2757   30   80 
+WildCard  798438194  7  5 fQ  -     -     -         2807    0    0 
+WildCard  798445431  8  7 c   bc    c     b         2807   70  165 Qh 9h
+WildCard  798445486  8  6 f   -     -     -         2902    0    0 
+WildCard  798445576  8  5 f   -     -     -         2902    0    0 
+WildCard  798445687  7  3 f   -     -     -         2902    0    0 
+WildCard  798445750  7  3 f   -     -     -         2902    0    0 
+WildCard  798445855  7  2 Bf  -     -     -         2902   10    0 
+WildCard  798445983  7  1 Br  b     kc    kf        2892   50    0 
+WildCard  798446112  8  8 rc  cc    r     b         2842  160  540 Kh Kc
+WildCard  798446261  8  7 f   -     -     -         3222    0    0 
+WildCard  798446381  8  6 f   -     -     -         3222    0    0 
+WildCard  798446470  8  5 r   b     b     c         3222   70    0 Qh Kc
+WildCard  798446575  8  4 f   -     -     -         3152    0    0 
+WildCard  798446638  8  3 c   k     f     -         3152   10    0 
+WildCard  798446734  8  2 Bc  r     f     -         3142   40    0 
+WildCard  798446796  8  1 Bc  kf    -     -         3102   10    0 
+WildCard  798446842  8  8 c   r     c     f         3092  100    0 
+WildCard  798446965  8  7 c   c     f     -         2992   20    0 
+WildCard  798447069  8  6 c   c     bc    kc        2972   90    0 As 8h
+WildCard  798447143  8  5 f   -     -     -         2882    0    0 
+WildCard  798447234  8  4 c   k     f     -         2882   10    0 
+WildCard  798447306  7  2 Bf  -     -     -         2872   10    0 
+WildCard  798447403  8  1 Bc  b     -     -         2862   20   50 
+WildCard  798447462  7  7 c   k     k     k         2892   10   50 4h 3c
+WildCard  798447549  7  6 c   kf    -     -         2932   10    0 
+WildCard  798447654  7  5 rr  br    c     c         2922  110  340 Qh Ah
+WildCard  798447915  5  2 Brc bc    kc    kc        3152  100  340 Ah Kd
+WildCard  798448051  6  1 Bf  -     -     -         3392    5    0 
+WildCard  798448130  6  6 f   -     -     -         3387    0    0 
+WildCard  798448177  6  5 c   f     -     -         3387   20    0 
+WildCard  798448269  6  4 f   -     -     -         3367    0    0 
+WildCard  798448311  6  3 f   -     -     -         3367    0    0 
+WildCard  798448364  5  2 Br  kr    kc    krc       3367  130    0 7h Ad
+WildCard  798448530  4  1 Br  b     kc    kr        3237   90  200 As Th
+WildCard  798448615  5  5 f   -     -     -         3347    0    0 
+WildCard  798448646  5  4 f   -     -     -         3347    0    0 
+WildCard  798448694  5  3 cr  b     bf    -         3347   60    0 
+WildCard  798448790  5  2 B   -     -     -         3287   10   15 
+WildCard  798448817  5  1 Bc  kf    -     -         3292   20    0 
+WildCard  798448903  5  5 r   k     b     b         3272   70  135 
+WildCard  798449006  5  4 cc  rr    b     bc        3337  120    0 Jd 8s
+WildCard  798449086  5  3 cc  b     f     -         3217   30    0 
+WildCard  798449176  5  2 Bc  c     c     r         3187   90  230 Ac 6c
+WildCard  798449248  5  1 Bc  b     k     k         3327   20   50 7s 6c
+WildCard  798449306  5  5 f   -     -     -         3357    0    0 
+WildCard  798449408  5  4 c   k     f     -         3357   10    0 
+WildCard  798449481  5  3 r   k     bf    -         3347   40    0 
+WildCard  798449659  5  2 Bk  k     k     f         3307   10    0 
+WildCard  798449700  5  1 Bc  bc    kf    -         3297   30    0 
+WildCard  798449763  5  5 c   c     k     b         3267   40   65 
+WildCard  798449817  5  4 f   -     -     -         3292    0    0 
+WildCard  798449873  5  3 f   -     -     -         3292    0    0 
+WildCard  798449912  5  2 Brc bcc   kc    kf        3292   95    0 
+WildCard  798450154  4  1 Bc  kr    kc    kc        3197   70    0 Ac 8d
+WildCard  798450248  4  4 c   c     c     f         3127   40    0 
+WildCard  798450292  4  3 c   f     -     -         3087   10    0 
+WildCard  798450340  4  2 Bk  k     bf    -         3077   30    0 
+WildCard  798450381  4  1 Bf  -     -     -         3047    5    0 
+WildCard  798450386  4  4 f   -     -     -         3042    0    0 
+WildCard  798450397  4  3 f   -     -     -         3042    0    0 
+WildCard  798450434  6  2 Bc  k     b     b         3042   60  145 Qs Jc
+WildCard  798450511  6  1 Bc  b     kf    -         3127   30    0 
+WildCard  798450587  6  6 c   b     b     k         3097   40    0 3c 4c
+WildCard  798450671  6  5 c   k     k     k         3057   10    0 Qc 5c
+WildCard  798450733  6  4 c   kc    k     k         3047   20   60 9c Js
+WildCard  798450801  6  3 r   c     f     -         3087   30    0 
+WildCard  798450839  6  2 Bk  k     kf    -         3057   10    0 
+WildCard  798450883  6  1 Bf  -     -     -         3047    5    0 
+WildCard  798450974  5  5 f   -     -     -         3042    0    0 
+WildCard  798451055  6  5 f   -     -     -         3042    0    0 
+WildCard  798451124  6  4 f   -     -     -         3042    0    0 
+WildCard  798451212  6  3 c   b     bf    -         3042   40    0 
+WildCard  798451301  6  2 Bk  k     Q     -         3002   10    0 
+WildCard  798526925  9  5 c   k     kf    -         2992   10    0 
+WildCard  798527027  9  4 f   -     -     -         2982    0    0 
+WildCard  798527057  9  3 c   c     rrrc  bc        2982  200  405 Ad Ah
+WildCard  798527398  9  2 Bc  kc    k     b         3187   60  135 
+WildCard  798869265  8  2 Bc  kf    -     -          507   20    0 
+WildCard  798869338  8  1 Bc  kr    b     b          487   80  200 Ts Ad
+WildCard  798869409  8  8 f   -     -     -          607    0    0 
+WildCard  798869481  7  6 f   -     -     -          607    0    0 
+WildCard  798869533  5  3 f   -     -     -          607    0    0 
+WildCard  798869555  4  2 Br  b     b     -          607   50  100 
+WildCard  798869588  3  1 Bc  b     b     b          657   60  180 Jc 5c
+WildCard  798869620  3  3 f   -     -     -          777    0    0 
+WildCard  798869654  3  2 Bk  k     kf    -          777   10    0 
+WildCard  798869683  3  1 Bc  kf    -     -          767   10    0 
+WildCard  798869705  3  3 c   f     -     -          757   10    0 
+WildCard  798869739  3  2 Bk  f     -     -          747   10    0 
+WildCard  798869785  3  1 Bc  b     -     -          737   20   40 
+WildCard  798869807  2  2 Q   -     -     -          757    0    0 
+WildCard  798872582  3  1 Bk  k     b     k          757   30   60 6c 9h
+WildCard  798872638  3  1 Bf  -     -     -          787    5    0 
+WildCard  798872682  3  3 f   -     -     -          782    0    0 
+WildCard  798872691  4  3 f   -     -     -          782    0    0 
+WildCard  798872736  4  2 Bk  c     k     b          782   40  100 Ad 7c
+WildCard  798872788  4  1 Bc  kf    -     -          842   20    0 
+WildCard  798872829  4  4 c   b     k     k          822   20    0 Qh 7d
+WildCard  798872885  4  3 f   -     -     -          802    0    0 
+WildCard  798872941  4  2 Bc  c     b     f          802   50    0 
+WildCard  798873005  4  1 Brr b     b     b          752   90  220 
+WildCard  798873096  4  4 rc  c     c     c          882   90    0 Qc Ah
+WildCard  798873240  4  3 f   -     -     -          792    0    0 
+WildCard  798873315  4  2 Bk  r     b     -          792   50  110 
+WildCard  798873358  4  1 Bf  -     -     -          852    5    0 
+WildCard  798873439  5  4 c   f     -     -          847   20    0 
+WildCard  798873489  5  3 f   -     -     -          827    0    0 
+WildCard  798873550  4  1 Bk  k     k     b          827   30   60 
+WildCard  798873613  4  1 Bc  b     b     k          857   40  100 3c Tc
+WildCard  798873675  4  4 c   b     b     c          917   60  180 7c 8d
+WildCard  798873759  4  3 c   kc    k     kf        1037   20    0 
+WildCard  798873939  4  2 Bk  f     -     -         1017   10    0 
+WildCard  798873983  4  1 Bc  kc    kf    -         1007   30    0 
+WildCard  798874062  4  4 f   -     -     -          977    0    0 
+WildCard  798874119  3  3 r   k     r     b          977   80  145 
+WildCard  798874153  2  2 BQ  -     -     -         1042   10   15 
+WildCard  798914839 11  4 c   k     b     b         1047   50    0 6s Qs
+WildCard  798914939 11  2 Bc  cf    -     -          997   30    0 
+WildCard  798915003 11  1 Bc  kc    k     k          967   30    0 Ac 3s
+WildCard  798915090 12 12 c   f     -     -          937   20    0 
+WildCard  798915200 11 10 f   -     -     -          917    0    0 
+WildCard  798915321 11  9 c   kc    k     kf         917   20    0 
+WildCard  798915405 11  8 f   -     -     -          897    0    0 
+WildCard  798915559 11  7 f   -     -     -          897    0    0 
+WildCard  798915700 12  6 f   -     -     -          897    0    0 
+WildCard  798915779 11  4 f   -     -     -          897    0    0 
+WildCard  798915929 11  3 c   k     b     -          897   30   55 
+WildCard  798916100 10  2 Bf  -     -     -          922   10    0 
+WildCard  798916207 10  1 Bc  k     b     k          912   30   70 As 8h
+WildCard  798916259 10 10 f   -     -     -          952    0    0 
+WildCard  798916346  9  8 f   -     -     -          952    0    0 
+WildCard  798916453 10  8 rc  c     rr    b          952  150    0 Ah Qs
+WildCard  798916612 10  7 c   c     rc    f          802  100    0 
+WildCard  798916756  8  4 cc  kf    -     -          702   20    0 
+WildCard  798916892  9  3 rr  k     b     k          682   60    0 4h 8h
+WildCard  798917036  9  2 BfQ -     -     -          622   10    0 
+WildCard  798922092  4  4 c   c     r     k          467   70    0 Kh 3h
+WildCard  798922124  5  4 f   -     -     -          397    0    0 
+WildCard  798922168  6  3 r   k     k     k          397   20   55 7c Ac
+WildCard  798922234  8  2 Br  kc    kc    b          432   70  150 
+WildCard  798922351  7  1 Bc  k     b     -          512   30   40 
+WildCard  798922388  7  7 f   -     -     -          522    0    0 
+WildCard  798922459  7  6 f   -     -     -          522    0    0 
+WildCard  798922590  8  6 cc  kf    -     -          522   20    0 
+WildCard  798922718  8  5 f   -     -     -          502    0    0 
+WildCard  798922751  9  5 r   b     k     f          502   30    0 
+WildCard  798922812 11  5 cc  krr   c     cf         472  100    0 
+WildCard  798922993 12  5 cc  kc    kf    -          372   30    0 
+WildCard  798923121 12  4 rr  k     b     b          342   80  305 Jh Qh
+WildCard  798923268 12  4 cc  k     kf    -          567   20    0 
+WildCard  798923420  9  2 Bf  -     -     -          547   10    0 
+WildCard  798923513 11  1 Bc  bc    bcc   kc         537  210    0 Tc 3c
+WildCard  798923648 10 10 rc  ccc   c     k          327  140    0 Qd Ad
+WildCard  798923934 11 10 rc  c     f     -          187   50    0 
+WildCard  798924109 11  9 Q   -     -     -          137    0    0 
