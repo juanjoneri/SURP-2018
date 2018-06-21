@@ -18,7 +18,7 @@ rm Results/hdb.csv-E
 # convert roster csv
 sed -E "s/([0-9A-Za-z]) /\1, /g" hroster > Results/hroster.csv
 # group users into one column
-sed -i -E 's/ \([0-9]\{1,2\}\), \(.*\)$/\1, [\2]/g' Results/hroster.csv
+sed -i -E 's/ \([0-9]\{1,2\}\), \(.*\)$/\1, \"\2\"/g' Results/hroster.csv
 # rm temporary file
 rm Results/hroster.csv-E
 
@@ -27,6 +27,8 @@ rm Results/hroster.csv-E
 cat pdb/pdb.* >> Results/pdb.csv
 # convert to csv
 sed -i -E 's/\([-0-9A-Za-z]\) /\1, /g' Results/pdb.csv
+# merge final pocket cards at showdown
+sed -i -E 's/\([A-Z0-9][hsdc], [A-Z0-9][hsdc]\)/\"\1\"/g' Results/pdb.csv
 # rm temporary file
 rm Results/pdb.csv-E
 
