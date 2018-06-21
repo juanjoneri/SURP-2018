@@ -13,7 +13,7 @@ Dataset Explained: [archive.today](http://archive.li/7ztYP)
 | ----------- | --------- |
 | Oval        | Standard  |
 | Diamond     | Utility   |
-| Rectangular | Desision  |
+| Rectangular | Decision  |
 
 ![netowrk structure](./network-structure.png)
 
