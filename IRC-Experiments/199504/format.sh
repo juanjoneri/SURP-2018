@@ -13,6 +13,7 @@ sed -E 's/([0-9]) /\1, /g' hdb > Results/hdb.csv
 sed -i -E 's/\//, /g' Results/hdb.csv
 # rm temporary file
 rm Results/hdb.csv-E
+echo Finished hands
 
 # ROSTER
 # convert roster csv
@@ -21,6 +22,7 @@ sed -E "s/([0-9A-Za-z]) /\1, /g" hroster > Results/hroster.csv
 sed -i -E 's/ \([0-9]\{1,2\}\), \(.*\)$/\1, \"\2\"/g' Results/hroster.csv
 # rm temporary file
 rm Results/hroster.csv-E
+echo Finished roster
 
 # ACTIONS
 # concat all pdb files
@@ -31,5 +33,10 @@ sed -i -E 's/\([^ ]\) /\1, /g' Results/pdb.csv
 sed -i -E 's/\([A-Z0-9][hsdc], [A-Z0-9][hsdc]\)/\"\1\"/g' Results/pdb.csv
 # rm temporary file
 rm Results/pdb.csv-E
+echo Finished actions
 
-echo Finished
+# STORE AS PANDAS DF
+python3 join_data.py
+echo Finished Dataframe
+
+echo Finished All
