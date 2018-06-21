@@ -26,7 +26,7 @@ rm Results/hroster.csv-E
 # concat all pdb files
 cat pdb/pdb.* >> Results/pdb.csv
 # convert to csv
-sed -i -E 's/\([-0-9A-Za-z]\) /\1, /g' Results/pdb.csv
+sed -i -E 's/\([^ ]\) /\1, /g' Results/pdb.csv
 # merge final pocket cards at showdown
 sed -i -E 's/\([A-Z0-9][hsdc], [A-Z0-9][hsdc]\)/\"\1\"/g' Results/pdb.csv
 # rm temporary file
