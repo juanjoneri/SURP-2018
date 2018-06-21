@@ -7,31 +7,15 @@ Each database contains:
 The corresponding lines in each file all have the same 'timestamp'
 """
 
-# HANDS
-# convert hands csv             $ sed -i -E "s/\([0-9]\) /\1, /g" test.txt
-# split the flop, turn, etc     $ sed -i -E "s/\//, /g" pdb
-
-# ROSTER
-# convert roster csv            $ sed -i -E "s/\([0-9A-Za-z]\) /\1, /g" test.txt
-
-# ACTIONS
-# concat all pdb files          $ cat pdb/pdb.* >> pdb.all.csv 
-
 import pandas as pd
 
 # flop, turn, etc show nb_players/starting_pot
-hands_headers = ('timestamp', 'game_set#', 'game#', 
-                 'nb_players', 'flop', 'turn', 'river', 'showdown', 'board')
+hands_headers = ('timestamp', 'game_set#', 'game#', 'nb_players', 
+                 'nb_flop', 'pot_flop', 'nb_turn', 'pot_turn', 
+                 'nb_river', 'pot_river', 'nb_showdown', 'pot_showdown', 'board')
 
-roster_headers = ('')
+roster_headers = ('timestamp', 'nb_players', 'players')
 
 
-hands = pd.read_csv('./hdb', names=hands_headers)
+hands = pd.read_csv('Results/hdb.csv', names=hands_headers)
 print(hands.head())
-
-'''
-
-- country with best steak
-- what makes a good sushi
-- best netflix series to watch during summer 2018
-- ipad pro vs ipad
